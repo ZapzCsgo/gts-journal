@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Carte des températures du 29 octobre au Japon">
+<defs><linearGradient id="ciel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cfe6ff"/><stop offset="1" stop-color="#f4f9ff"/></linearGradient></defs>
+<rect width="800" height="600" fill="url(#ciel)"/>
+<path d="M440 70 L520 50 L610 95 L640 140 L580 175 L500 165 L455 140 Z" fill="#e9f3e3" stroke="#6b8f5e" stroke-width="3"/>
+<path d="M455 200 L480 240 L470 330 L440 400 L420 450 L370 470 L320 490 L260 505 L200 510 L190 490 L250 470 L300 445 L350 420 L400 380 L425 320 L430 250 Z" fill="#e9f3e3" stroke="#6b8f5e" stroke-width="3"/>
+<path d="M215 525 L280 520 L300 545 L240 555 Z" fill="#e9f3e3" stroke="#6b8f5e" stroke-width="3"/>
+<path d="M100 500 L160 495 L175 545 L150 590 L105 575 L90 535 Z" fill="#e9f3e3" stroke="#6b8f5e" stroke-width="3"/>
+<g transform="translate(500 30)" stroke="#ffffff" stroke-width="3" stroke-linecap="round"><path d="M0 -10 V10 M-9 -5 L9 5 M-9 5 L9 -5"/></g>
+<g transform="translate(560 60)" stroke="#ffffff" stroke-width="3" stroke-linecap="round"><path d="M0 -10 V10 M-9 -5 L9 5 M-9 5 L9 -5"/></g>
+<g transform="translate(620 40)" stroke="#ffffff" stroke-width="3" stroke-linecap="round"><path d="M0 -10 V10 M-9 -5 L9 5 M-9 5 L9 -5"/></g>
+<g transform="translate(420 40)" stroke="#ffffff" stroke-width="3" stroke-linecap="round"><path d="M0 -10 V10 M-9 -5 L9 5 M-9 5 L9 -5"/></g>
+<g transform="translate(470 190)" stroke="#ffffff" stroke-width="3" stroke-linecap="round"><path d="M0 -10 V10 M-9 -5 L9 5 M-9 5 L9 -5"/></g>
+<g transform="translate(680 110)" stroke="#ffffff" stroke-width="3" stroke-linecap="round"><path d="M0 -10 V10 M-9 -5 L9 5 M-9 5 L9 -5"/></g>
+<line x1="560" y1="120" x2="659" y2="170" stroke="#3b6fd8" stroke-width="2"/>
+<line x1="470" y1="118" x2="359" y2="140" stroke="#4f8de8" stroke-width="2"/>
+<line x1="430" y1="330" x2="559" y2="320" stroke="#6aa6ef" stroke-width="2"/>
+<line x1="400" y1="440" x2="539" y2="470" stroke="#f0a24a" stroke-width="2"/>
+<line x1="320" y1="465" x2="359" y2="390" stroke="#8bbcf2" stroke-width="2"/>
+<line x1="270" y1="480" x2="199" y2="430" stroke="#f0a24a" stroke-width="2"/>
+<line x1="120" y1="520" x2="67" y2="490" stroke="#f08a3a" stroke-width="2"/>
+<circle cx="560" cy="120" r="7" fill="#3b6fd8" stroke="#1d2b4a" stroke-width="2"/>
+<g transform="translate(600 150)"><rect width="118" height="40" rx="10" fill="#ffffff" stroke="#3b6fd8" stroke-width="3"/><text x="59" y="17" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#1d2b4a">Taiki</text><text x="59" y="34" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#3b6fd8">-6,3 °C</text></g>
+<circle cx="470" cy="118" r="7" fill="#4f8de8" stroke="#1d2b4a" stroke-width="2"/>
+<g transform="translate(300 120)"><rect width="118" height="40" rx="10" fill="#ffffff" stroke="#4f8de8" stroke-width="3"/><text x="59" y="17" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#1d2b4a">Sapporo</text><text x="59" y="34" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#4f8de8">2,3 °C</text></g>
+<circle cx="430" cy="330" r="7" fill="#6aa6ef" stroke="#1d2b4a" stroke-width="2"/>
+<g transform="translate(500 300)"><rect width="118" height="40" rx="10" fill="#ffffff" stroke="#6aa6ef" stroke-width="3"/><text x="59" y="17" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#1d2b4a">Sendai</text><text x="59" y="34" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#6aa6ef">6,2 °C</text></g>
+<circle cx="400" cy="440" r="7" fill="#f0a24a" stroke="#1d2b4a" stroke-width="2"/>
+<g transform="translate(480 450)"><rect width="118" height="40" rx="10" fill="#ffffff" stroke="#f0a24a" stroke-width="3"/><text x="59" y="17" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#1d2b4a">Tokyo</text><text x="59" y="34" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#f0a24a">10,4 °C</text></g>
+<circle cx="320" cy="465" r="7" fill="#8bbcf2" stroke="#1d2b4a" stroke-width="2"/>
+<g transform="translate(300 370)"><rect width="118" height="40" rx="10" fill="#ffffff" stroke="#8bbcf2" stroke-width="3"/><text x="59" y="17" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#1d2b4a">Nagoya</text><text x="59" y="34" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#8bbcf2">8,6 °C</text></g>
+<circle cx="270" cy="480" r="7" fill="#f0a24a" stroke="#1d2b4a" stroke-width="2"/>
+<g transform="translate(140 410)"><rect width="118" height="40" rx="10" fill="#ffffff" stroke="#f0a24a" stroke-width="3"/><text x="59" y="17" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#1d2b4a">Osaka</text><text x="59" y="34" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#f0a24a">10,1 °C</text></g>
+<circle cx="120" cy="520" r="7" fill="#f08a3a" stroke="#1d2b4a" stroke-width="2"/>
+<g transform="translate(8 470)"><rect width="118" height="40" rx="10" fill="#ffffff" stroke="#f08a3a" stroke-width="3"/><text x="59" y="17" font-family="sans-serif" font-size="13" text-anchor="middle" fill="#1d2b4a">Fukuoka</text><text x="59" y="34" font-family="sans-serif" font-size="15" font-weight="bold" text-anchor="middle" fill="#f08a3a">11,9 °C</text></g>
+<g transform="translate(680 300)"><rect x="-14" y="0" width="28" height="200" rx="14" fill="#ffffff" stroke="#1d2b4a" stroke-width="3"/>
+<circle cx="0" cy="215" r="26" fill="#3b6fd8" stroke="#1d2b4a" stroke-width="3"/><rect x="-7" y="140" width="14" height="70" fill="#3b6fd8"/></g>
+<text x="40" y="60" font-family="sans-serif" font-size="30" font-weight="bold" fill="#1d2b4a">29 octobre, 7 h du matin</text>
+<text x="40" y="92" font-family="sans-serif" font-size="20" fill="#1d2b4a">Le matin le plus froid de l'automne</text>
+<text x="560" y="590" font-family="sans-serif" font-size="12" fill="#55657f">Carte schématique, positions approximatives</text>
+</svg>

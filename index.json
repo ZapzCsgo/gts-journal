@@ -1,3 +1,10 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "date": "2026-10-30",
+      "title": "Brrr ! Le Japon a vécu son matin le plus froid de l'automne",
+      "category": "meteo",
+      "cover": "cover.svg"
+    }
+  ]
 }

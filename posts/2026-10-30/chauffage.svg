@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Part des personnes qui ont allumé le chauffage">
+<rect width="800" height="520" fill="#fff8ef"/>
+<text x="40" y="55" font-family="sans-serif" font-size="28" font-weight="bold" fill="#1d2b4a">« J'ai allumé le chauffage ! »</text>
+<text x="40" y="85" font-family="sans-serif" font-size="17" fill="#55657f">Part des personnes sondées par Weathernews</text>
+<line x1="60" y1="400" x2="760" y2="400" stroke="#1d2b4a" stroke-width="2"/>
+<rect x="90" y="331" width="110" height="69" rx="8" fill="#9db8e0"/>
+<text x="145" y="323" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1d2b4a">23%</text>
+<text x="145" y="425" font-family="sans-serif" font-size="15" text-anchor="middle" fill="#1d2b4a">28 oct. (Japon)</text>
+<rect x="260" y="271" width="110" height="129" rx="8" fill="#f0a24a"/>
+<text x="315" y="263" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1d2b4a">43%</text>
+<text x="315" y="425" font-family="sans-serif" font-size="15" text-anchor="middle" fill="#1d2b4a">29 oct. (Japon)</text>
+<rect x="430" y="166" width="110" height="234" rx="8" fill="#f08a3a"/>
+<text x="485" y="158" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1d2b4a">78%</text>
+<text x="485" y="425" font-family="sans-serif" font-size="15" text-anchor="middle" fill="#1d2b4a">Tohoku</text>
+<rect x="600" y="145" width="110" height="255" rx="8" fill="#e2622e"/>
+<text x="655" y="137" font-family="sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1d2b4a">85%</text>
+<text x="655" y="425" font-family="sans-serif" font-size="15" text-anchor="middle" fill="#1d2b4a">Hokkaido</text>
+<rect x="40" y="445" width="720" height="58" rx="14" fill="#3b6fd8"/>
+<text x="400" y="482" font-family="sans-serif" font-size="22" font-weight="bold" text-anchor="middle" fill="#ffffff">616 stations sur environ 900 : record de froid de la saison</text>
+</svg>

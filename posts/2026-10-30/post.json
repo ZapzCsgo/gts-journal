@@ -1,0 +1,543 @@
+{
+  "date": "2026-10-30",
+  "newsDate": "2026-10-29",
+  "category": "meteo",
+  "title": "Brrr ! Le Japon a vécu son matin le plus froid de l'automne",
+  "summary": {
+    "fr": "Le 29 octobre au matin, 616 stations météo, soit environ 7 sur 10, ont relevé leur température la plus basse de la saison, avec moins 6,3 °C à Taiki (Hokkaido). La veille, la première neige était tombée à Sapporo et Aomori, et 43% des Japonais sondés ont rallumé le chauffage.",
+    "en": "On the morning of October 29, 616 weather stations, about 7 in 10, logged their lowest temperature of the season, down to minus 6.3 °C in Taiki (Hokkaido). The first snow had fallen in Sapporo and Aomori the day before, and 43% of people surveyed switched their heating back on."
+  },
+  "sources": [
+    {
+      "name": "Weathernews (ウェザーニュース)",
+      "url": "https://weathernews.jp/news/202610/290071/"
+    },
+    {
+      "name": "tenki.jp (日本気象協会)",
+      "url": "https://tenki.jp/forecaster/deskpart/2026/10/29/41129.html"
+    },
+    {
+      "name": "Weathernews, sondage chauffage",
+      "url": "https://weathernews.jp/news/202610/290231/"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.svg",
+      "alt": "Carte simplifiée du Japon avec les températures du matin du 29 octobre : moins 6,3 °C à Taiki, 2,3 °C à Sapporo, 6,2 °C à Sendai, 10,4 °C à Tokyo, 8,6 °C à Nagoya, 10,1 °C à Osaka et 11,9 °C à Fukuoka, avec des flocons au nord.",
+      "caption": "Le matin du 29 octobre : plus on monte au nord, plus ça pique !"
+    },
+    {
+      "file": "chauffage.svg",
+      "alt": "Graphique en barres : 23% des personnes sondées ont allumé le chauffage le 28 octobre, 43% le 29 octobre, 78% dans le Tohoku et 85% à Hokkaido. En bas, le chiffre clé : 616 stations sur environ 900 ont battu leur record de froid de la saison.",
+      "caption": "Le chauffage se rallume partout (sondage Weathernews)"
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "{日本|にほん}の あさが とても さむかったです",
+      "paragraphs": [
+        "{十月|じゅうがつ}{二十九日|にじゅうくにち}の あさ、{日本|にほん}は とても さむかったです。{東京|とうきょう}は {十|じゅう}どぐらいでした。{北海道|ほっかいどう}は マイナス {六|ろく}どでした。",
+        "たくさんの {人|ひと}が ヒーターを つけました。あたたかい ふくを きて ください！"
+      ],
+      "vocab": [
+        {
+          "word": "{日本|にほん}",
+          "meaning": {
+            "fr": "le Japon",
+            "en": "Japan"
+          }
+        },
+        {
+          "word": "あさ",
+          "meaning": {
+            "fr": "le matin",
+            "en": "morning"
+          }
+        },
+        {
+          "word": "さむい",
+          "meaning": {
+            "fr": "froid (temps)",
+            "en": "cold (weather)"
+          }
+        },
+        {
+          "word": "ヒーター",
+          "meaning": {
+            "fr": "le chauffage, le radiateur",
+            "en": "heater"
+          }
+        },
+        {
+          "word": "つけます",
+          "meaning": {
+            "fr": "allumer",
+            "en": "to turn on"
+          }
+        },
+        {
+          "word": "ふく",
+          "meaning": {
+            "fr": "les vêtements",
+            "en": "clothes"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{十月|じゅうがつ}{二十九日|にじゅうくにち}の あさは どうでしたか。",
+          "choices": [
+            "あつかったです",
+            "さむかったです",
+            "あめでした"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le texte dit とても さむかったです : il faisait très froid.",
+            "en": "The text says とても さむかったです: it was very cold."
+          }
+        },
+        {
+          "question": "{東京|とうきょう}は なんどでしたか。",
+          "choices": [
+            "{十|じゅう}どぐらい",
+            "マイナス {六|ろく}ど",
+            "{三十|さんじゅう}ど"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Tokyo était à environ 10 degrés. Moins 6, c'était à Hokkaido.",
+            "en": "Tokyo was about 10 degrees. Minus 6 was in Hokkaido."
+          }
+        },
+        {
+          "question": "たくさんの {人|ひと}は なにを つけましたか。",
+          "choices": [
+            "テレビ",
+            "ヒーター",
+            "でんわ"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Beaucoup de gens ont allumé le chauffage (ヒーター).",
+            "en": "Many people turned on the heater (ヒーター)."
+          }
+        }
+      ]
+    },
+    "N4": {
+      "title": "この{秋|あき}で いちばん {寒|さむ}い {朝|あさ}でした",
+      "paragraphs": [
+        "{十月|じゅうがつ}{二十九日|にじゅうくにち}の {朝|あさ}、{日本|にほん}の {多|おお}くの {町|まち}で、この{秋|あき} いちばん {低|ひく}い {気温|きおん}に なりました。{前|まえ}の {日|ひ}に、{北|きた}から {冷|つめ}たい {空気|くうき}が {来|き}たからです。{東京|とうきょう}は 10.4{度|ど}、{大阪|おおさか}は 10.1{度|ど}でした。{北海道|ほっかいどう}の {大樹町|たいきちょう}では マイナス 6.3{度|ど}まで {下|さ}がりました。",
+        "{前|まえ}の {日|ひ}には、{北海道|ほっかいどう}や {青森|あおもり}で {雪|ゆき}も {降|ふ}りました。アンケートでは、{全国|ぜんこく}の 43%の {人|ひと}が「{暖房|だんぼう}を つけた」と {答|こた}えました。{朝|あさ}と {昼|ひる}の {気温|きおん}が ずいぶん {違|ちが}うので、{上着|うわぎ}を {持|も}って {出|で}かけましょう。"
+      ],
+      "vocab": [
+        {
+          "word": "{気温|きおん}",
+          "meaning": {
+            "fr": "la température (de l'air)",
+            "en": "air temperature"
+          }
+        },
+        {
+          "word": "{空気|くうき}",
+          "meaning": {
+            "fr": "l'air",
+            "en": "air"
+          }
+        },
+        {
+          "word": "{下|さ}がる",
+          "meaning": {
+            "fr": "baisser, descendre",
+            "en": "to go down"
+          }
+        },
+        {
+          "word": "{雪|ゆき}",
+          "meaning": {
+            "fr": "la neige",
+            "en": "snow"
+          }
+        },
+        {
+          "word": "{暖房|だんぼう}",
+          "meaning": {
+            "fr": "le chauffage",
+            "en": "heating"
+          }
+        },
+        {
+          "word": "{答|こた}える",
+          "meaning": {
+            "fr": "répondre",
+            "en": "to answer"
+          }
+        },
+        {
+          "word": "{上着|うわぎ}",
+          "meaning": {
+            "fr": "la veste, le gilet",
+            "en": "jacket"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "どうして {寒|さむ}く なりましたか。",
+          "choices": [
+            "{南|みなみ}から {暑|あつ}い {風|かぜ}が {来|き}たから",
+            "{北|きた}から {冷|つめ}たい {空気|くうき}が {来|き}たから",
+            "{雨|あめ}が たくさん {降|ふ}ったから"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le texte dit que de l'air froid est arrivé du nord la veille.",
+            "en": "The text says cold air came from the north the day before."
+          }
+        },
+        {
+          "question": "{大樹町|たいきちょう}は {何度|なんど}まで {下|さ}がりましたか。",
+          "choices": [
+            "マイナス 6.3{度|ど}",
+            "10.4{度|ど}",
+            "マイナス 1{度|ど}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Taiki, à Hokkaido, est descendu à moins 6,3 degrés. 10,4, c'est Tokyo.",
+            "en": "Taiki in Hokkaido dropped to minus 6.3 degrees. 10.4 is Tokyo."
+          }
+        },
+        {
+          "question": "{全国|ぜんこく}で {何|なん}%の {人|ひと}が {暖房|だんぼう}を つけましたか。",
+          "choices": [
+            "23%",
+            "43%",
+            "85%"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "43% des personnes interrogées ont allumé le chauffage.",
+            "en": "43% of the people surveyed turned on the heating."
+          }
+        }
+      ]
+    },
+    "N3": {
+      "title": "{全国|ぜんこく}の{約|やく}7{割|わり}で「この{秋|あき}いちばんの{寒|さむ}さ」",
+      "paragraphs": [
+        "10{月|がつ}29{日|にち}の{朝|あさ}、{日本|にほん}は{広|ひろ}い{範囲|はんい}で{冷|ひ}え{込|こ}みました。{全国|ぜんこく}の{観測|かんそく}{地点|ちてん}の{約|やく}7{割|わり}にあたる616{地点|ちてん}で、この{秋|あき}いちばん{低|ひく}い{気温|きおん}を{記録|きろく}しました。{東京|とうきょう}{都心|としん}は10.4{度|ど}、{名古屋|なごや}は8.6{度|ど}で、{北海道|ほっかいどう}の{大樹町|たいきちょう}ではマイナス6.3{度|ど}まで{下|さ}がりました。",
+        "{前|まえ}の{日|ひ}には、この{秋|あき}いちばん{強|つよ}い{寒気|かんき}が{南|みなみ}へ{下|お}りてきて、{札幌|さっぽろ}や{青森|あおもり}で{初雪|はつゆき}が{降|ふ}りました。{青森市|あおもりし}で10{月|がつ}に{初雪|はつゆき}が{降|ふ}ったのは16{年|ねん}ぶりだそうです。ウェザーニュースのアンケートでは、「{暖房|だんぼう}をつけた」という{人|ひと}が{前|まえ}の{日|ひ}の23%から43%に{増|ふ}えました。{昼間|ひるま}は{気温|きおん}が{上|あ}がる{所|ところ}も{多|おお}いので、{脱|ぬ}いだり{着|き}たりしやすい{服|ふく}がおすすめです。"
+      ],
+      "vocab": [
+        {
+          "word": "{冷|ひ}え{込|こ}む",
+          "meaning": {
+            "fr": "se refroidir fortement",
+            "en": "to get very cold"
+          }
+        },
+        {
+          "word": "{範囲|はんい}",
+          "meaning": {
+            "fr": "la zone, l'étendue",
+            "en": "area, range"
+          }
+        },
+        {
+          "word": "{観測|かんそく}",
+          "meaning": {
+            "fr": "l'observation (météo)",
+            "en": "observation"
+          }
+        },
+        {
+          "word": "{記録|きろく}する",
+          "meaning": {
+            "fr": "enregistrer, relever",
+            "en": "to record"
+          }
+        },
+        {
+          "word": "{寒気|かんき}",
+          "meaning": {
+            "fr": "la masse d'air froid",
+            "en": "cold air mass"
+          }
+        },
+        {
+          "word": "{初雪|はつゆき}",
+          "meaning": {
+            "fr": "la première neige",
+            "en": "first snow"
+          }
+        },
+        {
+          "word": "{増|ふ}える",
+          "meaning": {
+            "fr": "augmenter",
+            "en": "to increase"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "616{地点|ちてん}は{全国|ぜんこく}のどのくらいですか。",
+          "choices": [
+            "{約|やく}3{割|わり}",
+            "{約|やく}5{割|わり}",
+            "{約|やく}7{割|わり}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "616 stations, c'est environ 7 sur 10 (7割) des stations du pays.",
+            "en": "616 stations is about 70% (7割) of the country's stations."
+          }
+        },
+        {
+          "question": "{青森市|あおもりし}の{初雪|はつゆき}について、{正|ただ}しいのはどれですか。",
+          "choices": [
+            "10{月|がつ}の{初雪|はつゆき}は16{年|ねん}ぶりだった",
+            "この{冬|ふゆ}は{雪|ゆき}が{降|ふ}らなかった",
+            "12{月|がつ}に{降|ふ}った"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "À Aomori, une première neige en octobre, ça n'était pas arrivé depuis 16 ans.",
+            "en": "In Aomori city, first snow in October had not happened for 16 years."
+          }
+        },
+        {
+          "question": "{記事|きじ}がすすめている{服|ふく}はどれですか。",
+          "choices": [
+            "{夏|なつ}の{服|ふく}だけ",
+            "{脱|ぬ}いだり{着|き}たりしやすい{服|ふく}",
+            "とても{厚|あつ}いコートだけ"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Comme il fait froid le matin et plus doux le midi, on conseille des habits faciles à enlever et remettre.",
+            "en": "Cold mornings and milder afternoons: clothes that are easy to take off and put on are recommended."
+          }
+        }
+      ]
+    },
+    "N2": {
+      "title": "{強|つよ}い{寒気|かんき}で{列島|れっとう}が{冷|ひ}え{込|こ}み　{暖房|だんぼう}を{使|つか}う{人|ひと}が{急増|きゅうぞう}",
+      "paragraphs": [
+        "10{月|がつ}29{日|にち}の{朝|あさ}は、{前日|ぜんじつ}に{南下|なんか}した{今季|こんき}{最強|さいきょう}の{寒気|かんき}の{影響|えいきょう}で、{全国的|ぜんこくてき}に{冷|ひ}え{込|こ}みが{強|つよ}まった。{全国|ぜんこく}のアメダスの{約|やく}7{割|わり}にあたる616{地点|ちてん}で{今季|こんき}{最低|さいてい}{気温|きおん}を{更新|こうしん}し、{仙台|せんだい}、{東京|とうきょう}{都心|としん}、{名古屋|なごや}、{大阪|おおさか}、{福岡|ふくおか}などの{主要|しゅよう}{都市|とし}でも、この{秋|あき}{一番|いちばん}の{寒|さむ}さとなった。",
+        "{全国|ぜんこく}で{最|もっと}も{低|ひく}かったのは{北海道|ほっかいどう}{十勝|とかち}{地方|ちほう}の{大樹町|たいきちょう}で、マイナス6.3{度|ど}を{観測|かんそく}した。{最低|さいてい}{気温|きおん}が0{度|ど}を{下回|したまわ}る「{冬日|ふゆび}」の{地点|ちてん}も、{今季|こんき}{初|はじ}めて100か{所|しょ}を{超|こ}えた。{前日|ぜんじつ}の28{日|にち}には{札幌|さっぽろ}や{函館|はこだて}、{青森|あおもり}などで{初雪|はつゆき}が{観測|かんそく}され、{東京|とうきょう}と{近畿|きんき}では「{木枯|こが}らし1{号|ごう}」も{吹|ふ}いた。",
+        "ウェザーニュースがアプリ{利用者|りようしゃ}を{対象|たいしょう}に{行|おこな}った{調査|ちょうさ}によると、29{日|にち}に{暖房|だんぼう}を「つけた」と{答|こた}えた{人|ひと}は43%で、{前日|ぜんじつ}の23%から20ポイント{増|ふ}えた。{北海道|ほっかいどう}では85%に{達|たっ}している。{一方|いっぽう}、{日中|にっちゅう}は{気温|きおん}が{上|あ}がる{地域|ちいき}も{多|おお}く、{朝晩|あさばん}との{寒暖差|かんだんさ}が{大|おお}きくなるため、{服装|ふくそう}での{調節|ちょうせつ}が{呼|よ}びかけられている。"
+      ],
+      "vocab": [
+        {
+          "word": "{南下|なんか}する",
+          "meaning": {
+            "fr": "descendre vers le sud",
+            "en": "to move south"
+          }
+        },
+        {
+          "word": "{影響|えいきょう}",
+          "meaning": {
+            "fr": "l'influence, l'effet",
+            "en": "influence, effect"
+          }
+        },
+        {
+          "word": "{更新|こうしん}する",
+          "meaning": {
+            "fr": "battre (un record), mettre à jour",
+            "en": "to break (a record), to update"
+          }
+        },
+        {
+          "word": "{冬日|ふゆび}",
+          "meaning": {
+            "fr": "jour de gel (minimale sous 0 °C)",
+            "en": "day with a low below 0 °C"
+          }
+        },
+        {
+          "word": "{下回|したまわ}る",
+          "meaning": {
+            "fr": "passer sous, être inférieur à",
+            "en": "to fall below"
+          }
+        },
+        {
+          "word": "{木枯|こが}らし",
+          "meaning": {
+            "fr": "vent froid du nord qui annonce l'hiver",
+            "en": "cold northerly wind of early winter"
+          }
+        },
+        {
+          "word": "{寒暖差|かんだんさ}",
+          "meaning": {
+            "fr": "l'écart de température",
+            "en": "temperature gap"
+          }
+        },
+        {
+          "word": "{調節|ちょうせつ}",
+          "meaning": {
+            "fr": "l'ajustement, le réglage",
+            "en": "adjustment"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "「{冬日|ふゆび}」とはどんな{日|ひ}か。",
+          "choices": [
+            "{最高|さいこう}{気温|きおん}が25{度|ど}{以上|いじょう}の{日|ひ}",
+            "{最低|さいてい}{気温|きおん}が0{度|ど}を{下回|したまわ}る{日|ひ}",
+            "{雪|ゆき}が10センチ{以上|いじょう}{積|つ}もった{日|ひ}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Un 冬日, c'est un jour où la minimale passe sous 0 °C. Plus de 100 stations l'ont connu ce matin-là.",
+            "en": "A 冬日 is a day with a low below 0 °C. Over 100 stations had one that morning."
+          }
+        },
+        {
+          "question": "{暖房|だんぼう}を「つけた」{人|ひと}の{割合|わりあい}はどう{変|か}わったか。",
+          "choices": [
+            "43%から23%に{減|へ}った",
+            "23%から43%に{増|ふ}えた",
+            "85%のまま{変|か}わらなかった"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "On est passé de 23% la veille à 43% le 29 octobre, soit 20 points de plus.",
+            "en": "It went from 23% the day before to 43% on October 29, up 20 points."
+          }
+        },
+        {
+          "question": "「{木枯|こが}らし1{号|ごう}」が{吹|ふ}いたのはどこか。",
+          "choices": [
+            "{東京|とうきょう}と{近畿|きんき}",
+            "{北海道|ほっかいどう}と{東北|とうほく}",
+            "{九州|きゅうしゅう}と{沖縄|おきなわ}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Le premier kogarashi a soufflé sur Tokyo et la région du Kinki (Osaka, Kyoto).",
+            "en": "The first kogarashi blew over Tokyo and the Kinki region (Osaka, Kyoto)."
+          }
+        }
+      ]
+    },
+    "N1": {
+      "title": "{列島|れっとう}に{今季|こんき}{最強|さいきょう}{寒気|かんき}　616{地点|ちてん}で{今季|こんき}{最低|さいてい}、{暖房|だんぼう}{需要|じゅよう}が{一気|いっき}に{本格化|ほんかくか}",
+      "paragraphs": [
+        "{今季|こんき}{最強|さいきょう}の{寒気|かんき}が{列島|れっとう}を{覆|おお}った{影響|えいきょう}で、29{日|にち}{朝|あさ}は{移動性|いどうせい}{高気圧|こうきあつ}の{下|もと}で{放射|ほうしゃ}{冷却|れいきゃく}が{強|つよ}まり、{全国|ぜんこく}のアメダス{観測|かんそく}{地点|ちてん}の{約|やく}7{割|わり}に{当|あ}たる616{地点|ちてん}で{今季|こんき}{最低|さいてい}{気温|きおん}を{更新|こうしん}した。{東京|とうきょう}{都心|としん}は10.4{度|ど}、{名古屋市|なごやし}は8.6{度|ど}、{大阪市|おおさかし}は10.1{度|ど}と、{主要|しゅよう}{都市|とし}も{軒並|のきな}み{今季|こんき}{一番|いちばん}の{冷|ひ}え{込|こ}みとなった。",
+        "{最|もっと}も{低|ひく}かったのは{北海道|ほっかいどう}{大樹町|たいきちょう}のマイナス6.3{度|ど}で、{釧路|くしろ}{地方|ちほう}の{標茶町|しべちゃちょう}でもマイナス6.0{度|ど}を{記録|きろく}。いずれも{今季|こんき}{初|はつ}のマイナス6{度|ど}{以下|いか}となった。{本州|ほんしゅう}でも{長野県|ながのけん}{菅平|すがだいら}でマイナス4.6{度|ど}まで{下|さ}がり、{冬日|ふゆび}の{地点|ちてん}は{今季|こんき}{初|はじ}めて100を{超|こ}えた。",
+        "{前日|ぜんじつ}の28{日|にち}には{札幌|さっぽろ}や{青森|あおもり}などで{初雪|はつゆき}が{観測|かんそく}され、{青森市|あおもりし}では10{月|がつ}{中|ちゅう}の{初雪|はつゆき}が16{年|ねん}ぶりとなった。{東京|とうきょう}と{近畿|きんき}では{冬|ふゆ}の{訪|おとず}れを{告|つ}げる「{木枯|こが}らし1{号|ごう}」も{吹|ふ}き、{晩秋|ばんしゅう}から{初冬|しょとう}への{季節|きせつ}の{歩|あゆ}みが{一段|いちだん}と{加速|かそく}した{格好|かっこう}だ。",
+        "{寒|さむ}さは{家庭|かてい}の{行動|こうどう}にも{如実|にょじつ}に{表|あらわ}れた。ウェザーニュースが{約|やく}1{万|まん}4600{人|にん}から{回答|かいとう}を{得|え}た{調査|ちょうさ}では、29{日|にち}に{暖房|だんぼう}を「つけた」との{回答|かいとう}が43%に{上|のぼ}り、{前日|ぜんじつ}から20ポイント{増加|ぞうか}。{北海道|ほっかいどう}では85%、{東北|とうほく}でも78%に{達|たっ}した。30{日|にち}{朝|あさ}は{冷|ひ}え{込|こ}みが{和|やわ}らぐものの、{週末|しゅうまつ}には{再|ふたた}び{寒気|かんき}が{南下|なんか}する{見通|みとお}しで、{日|ひ}ごとの{寒暖差|かんだんさ}への{警戒|けいかい}が{必要|ひつよう}だ。"
+      ],
+      "vocab": [
+        {
+          "word": "{放射冷却|ほうしゃれいきゃく}",
+          "meaning": {
+            "fr": "le refroidissement radiatif (nuit claire)",
+            "en": "radiative cooling"
+          }
+        },
+        {
+          "word": "{移動性高気圧|いどうせいこうきあつ}",
+          "meaning": {
+            "fr": "anticyclone mobile",
+            "en": "migratory high-pressure system"
+          }
+        },
+        {
+          "word": "{軒並|のきな}み",
+          "meaning": {
+            "fr": "partout, sans exception",
+            "en": "across the board"
+          }
+        },
+        {
+          "word": "{如実|にょじつ}に",
+          "meaning": {
+            "fr": "de façon flagrante, concrètement",
+            "en": "vividly, clearly"
+          }
+        },
+        {
+          "word": "{晩秋|ばんしゅう}",
+          "meaning": {
+            "fr": "la fin de l'automne",
+            "en": "late autumn"
+          }
+        },
+        {
+          "word": "{需要|じゅよう}",
+          "meaning": {
+            "fr": "la demande",
+            "en": "demand"
+          }
+        },
+        {
+          "word": "{見通|みとお}し",
+          "meaning": {
+            "fr": "les prévisions, la perspective",
+            "en": "outlook"
+          }
+        },
+        {
+          "word": "{警戒|けいかい}",
+          "meaning": {
+            "fr": "la vigilance",
+            "en": "caution, vigilance"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "29{日|にち}{朝|あさ}の{冷|ひ}え{込|こ}みを{強|つよ}めた{要因|よういん}として、{記事|きじ}が{挙|あ}げているのはどれか。",
+          "choices": [
+            "{台風|たいふう}の{接近|せっきん}",
+            "{放射|ほうしゃ}{冷却|れいきゃく}",
+            "{梅雨|つゆ}{前線|ぜんせん}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Sous un anticyclone, le ciel dégagé laisse filer la chaleur du sol : c'est le refroidissement radiatif.",
+            "en": "Under a high-pressure system, clear skies let the ground's heat escape: radiative cooling."
+          }
+        },
+        {
+          "question": "{今季|こんき}{初|はつ}のマイナス6{度|ど}{以下|いか}を{記録|きろく}した{地点|ちてん}の{組|く}み{合|あ}わせとして{正|ただ}しいのはどれか。",
+          "choices": [
+            "{大樹町|たいきちょう}と{標茶町|しべちゃちょう}",
+            "{菅平|すがだいら}と{札幌|さっぽろ}",
+            "{青森市|あおもりし}と{仙台市|せんだいし}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Taiki (moins 6,3) et Shibecha (moins 6,0), toutes deux à Hokkaido. Sugadaira n'est descendu qu'à moins 4,6.",
+            "en": "Taiki (minus 6.3) and Shibecha (minus 6.0), both in Hokkaido. Sugadaira only fell to minus 4.6."
+          }
+        },
+        {
+          "question": "{記事|きじ}の{結|むす}びで{求|もと}められているのは{何|なに}か。",
+          "choices": [
+            "{暖房|だんぼう}の{使用|しよう}を{控|ひか}えること",
+            "{日|ひ}ごとの{寒暖差|かんだんさ}への{警戒|けいかい}",
+            "{初雪|はつゆき}の{観測|かんそく}{方法|ほうほう}の{見直|みなお}し"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La dernière phrase appelle à se méfier des écarts de température d'un jour à l'autre.",
+            "en": "The last sentence calls for caution about day-to-day temperature swings."
+          }
+        }
+      ]
+    }
+  }
+}
