@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "date": "2026-10-31",
+      "title": "Halloween : le costume d'infirmière, oui ! La croix rouge, non !",
+      "category": "societe",
+      "cover": "cover.svg"
+    },
+    {
       "date": "2026-10-30",
       "title": "Brrr ! Le Japon a vécu son matin le plus froid de l'automne",
       "category": "meteo",

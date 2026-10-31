@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Les chiffres clés de la croix rouge">
+<rect width="800" height="520" fill="#fff8ee"/>
+<text x="400" y="55" text-anchor="middle" font-family="sans-serif" font-size="34" font-weight="bold" fill="#333">La croix rouge en 4 chiffres</text>
+<g font-family="sans-serif" text-anchor="middle">
+  <rect x="40" y="90" width="340" height="180" rx="18" fill="#ffe1b3"/>
+  <text x="210" y="160" font-size="56" font-weight="bold" fill="#c0392b">1864</text>
+  <text x="210" y="200" font-size="20" fill="#333">Convention de Genève :</text>
+  <text x="210" y="228" font-size="20" fill="#333">on n'attaque pas qui porte</text>
+  <text x="210" y="256" font-size="20" fill="#333">ce symbole</text>
+  <rect x="420" y="90" width="340" height="180" rx="18" fill="#d9f0ff"/>
+  <text x="590" y="160" font-size="50" font-weight="bold" fill="#1f6fa8">300 000 ¥</text>
+  <text x="590" y="200" font-size="20" fill="#333">amende maximale au Japon</text>
+  <text x="590" y="228" font-size="20" fill="#333">(ou jusqu'à 6 mois de prison)</text>
+  <text x="590" y="256" font-size="20" fill="#333">sans autorisation</text>
+  <rect x="40" y="300" width="340" height="180" rx="18" fill="#e3f7e1"/>
+  <text x="210" y="370" font-size="56" font-weight="bold" fill="#2e7d32">2022</text>
+  <text x="210" y="410" font-size="20" fill="#333">depuis cette année, la</text>
+  <text x="210" y="438" font-size="20" fill="#333">Croix-Rouge japonaise prévient</text>
+  <text x="210" y="466" font-size="20" fill="#333">avant chaque Halloween</text>
+  <rect x="420" y="300" width="340" height="180" rx="18" fill="#f3e5ff"/>
+  <text x="590" y="370" font-size="56" font-weight="bold" fill="#7b3fb0">40</text>
+  <text x="590" y="410" font-size="20" fill="#333">costumes d'infirmière dans</text>
+  <text x="590" y="438" font-size="20" fill="#333">une boutique d'Akihabara,</text>
+  <text x="590" y="466" font-size="20" fill="#333">avec des coeurs à la place</text>
+</g>
+</svg>

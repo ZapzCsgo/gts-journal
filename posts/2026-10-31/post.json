@@ -1,0 +1,557 @@
+{
+  "date": "2026-10-31",
+  "newsDate": "2026-10-30",
+  "category": "societe",
+  "title": "Halloween : le costume d'infirmière, oui ! La croix rouge, non !",
+  "summary": {
+    "fr": "À la veille d'Halloween, la Croix-Rouge japonaise a rappelé le 30 octobre qu'on n'a pas le droit de mettre l'emblème de la croix rouge sur un déguisement d'infirmière. Ce symbole n'est pas celui de la médecine : il protège les blessés et les secouristes, et l'utiliser sans autorisation peut coûter jusqu'à 300 000 yens d'amende.",
+    "en": "On October 30, the eve of Halloween, the Japanese Red Cross Society reminded people that they may not put the red cross emblem on nurse costumes. The symbol is not a medical logo but a protective sign for the wounded and aid workers, and unauthorized use can lead to a fine of up to 300,000 yen."
+  },
+  "sources": [
+    {
+      "name": "Jiji Press (時事通信), via Infoseek",
+      "url": "http://news.infoseek.co.jp/article/jiji_2026103000129/"
+    },
+    {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/30/japan/halloween-nurse-red-cross/"
+    },
+    {
+      "name": "Croix-Rouge japonaise (日本赤十字社), communiqué",
+      "url": "https://www.jrc.or.jp/press/2026/1022_056573.html"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.svg",
+      "alt": "Dessin de deux enfants déguisés en infirmière sous une lune d'Halloween, avec des citrouilles. À gauche, la blouse porte un coeur rose et une seringue en jouet, avec la mention OK. À droite, la blouse porte une croix rouge barrée d'un panneau d'interdiction, avec la mention Interdit.",
+      "caption": "Le coeur, c'est permis. La croix rouge, même rose, c'est non !"
+    },
+    {
+      "file": "chiffres.svg",
+      "alt": "Quatre cases de chiffres clés : 1864, la Convention de Genève qui protège ceux qui portent ce symbole ; 300 000 yens d'amende au maximum au Japon (ou jusqu'à 6 mois de prison) ; 2022, l'année depuis laquelle la Croix-Rouge japonaise prévient avant chaque Halloween ; 40 costumes d'infirmière dans une boutique d'Akihabara, décorés de coeurs.",
+      "caption": "La croix rouge en 4 chiffres"
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "ハロウィンの ふく、あかい じゅうじは だめです",
+      "paragraphs": [
+        "{十月|じゅうがつ}{三十一日|さんじゅういちにち}は ハロウィンです。たくさんの {人|ひと}が ナースの ふくを きます。",
+        "でも、ふくに あかい じゅうじの マークを つけては いけません。これは だいじな マークです。ハートの マークは いいですよ！"
+      ],
+      "vocab": [
+        {
+          "word": "ハロウィン",
+          "meaning": {
+            "fr": "Halloween",
+            "en": "Halloween"
+          }
+        },
+        {
+          "word": "{人|ひと}",
+          "meaning": {
+            "fr": "une personne, les gens",
+            "en": "person, people"
+          }
+        },
+        {
+          "word": "ふく",
+          "meaning": {
+            "fr": "les vêtements",
+            "en": "clothes"
+          }
+        },
+        {
+          "word": "きます",
+          "meaning": {
+            "fr": "porter (un vêtement)",
+            "en": "to wear"
+          }
+        },
+        {
+          "word": "あかい",
+          "meaning": {
+            "fr": "rouge",
+            "en": "red"
+          }
+        },
+        {
+          "word": "〜ては いけません",
+          "meaning": {
+            "fr": "il ne faut pas…, interdit de…",
+            "en": "must not…"
+          }
+        },
+        {
+          "word": "だいじ",
+          "meaning": {
+            "fr": "important, précieux",
+            "en": "important"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{十月|じゅうがつ}{三十一日|さんじゅういちにち}は なんの {日|ひ}ですか。",
+          "choices": [
+            "クリスマス",
+            "ハロウィン",
+            "おしょうがつ"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le texte dit : le 31 octobre, c'est Halloween.",
+            "en": "The text says October 31 is Halloween."
+          }
+        },
+        {
+          "question": "ふくに なにを つけては いけませんか。",
+          "choices": [
+            "あかい じゅうじの マーク",
+            "ハートの マーク",
+            "ほしの マーク"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Il ne faut pas mettre la croix rouge (あかい じゅうじ) sur les vêtements.",
+            "en": "You must not put a red cross (あかい じゅうじ) on clothes."
+          }
+        },
+        {
+          "question": "ハートの マークは どうですか。",
+          "choices": [
+            "だめです",
+            "いいです",
+            "たかいです"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "ハートの マークは いいですよ : le coeur, c'est permis !",
+            "en": "ハートの マークは いいですよ: the heart is fine!"
+          }
+        }
+      ]
+    },
+    "N4": {
+      "title": "ハロウィンの ナース{服|ふく}に {赤|あか}い {十字|じゅうじ}は {使|つか}わないで！",
+      "paragraphs": [
+        "{十月|じゅうがつ}{三十一日|さんじゅういちにち}の ハロウィンに、ナースの {服|ふく}を {着|き}る {人|ひと}が {多|おお}いです。でも、{日本赤十字社|にほんせきじゅうじしゃ}は「{服|ふく}に {赤|あか}い {十字|じゅうじ}の マークを {使|つか}わないで ください」と {言|い}って います。",
+        "この マークは {病院|びょういん}の マークでは ありません。{戦争|せんそう}などの とき、けがを した {人|ひと}や {助|たす}ける {人|ひと}を {守|まも}るための マークです。{法律|ほうりつ}で、{決|き}められた {人|ひと}しか {使|つか}えません。ピンクの {十字|じゅうじ}も だめだ そうです。{秋葉原|あきはばら}の お{店|みせ}は、ハートの マークを {使|つか}った ナース{服|ふく}を {売|う}って います。"
+      ],
+      "vocab": [
+        {
+          "word": "{着|き}る",
+          "meaning": {
+            "fr": "porter, mettre (un vêtement)",
+            "en": "to wear"
+          }
+        },
+        {
+          "word": "{十字|じゅうじ}",
+          "meaning": {
+            "fr": "une croix",
+            "en": "cross"
+          }
+        },
+        {
+          "word": "{病院|びょういん}",
+          "meaning": {
+            "fr": "l'hôpital",
+            "en": "hospital"
+          }
+        },
+        {
+          "word": "{助|たす}ける",
+          "meaning": {
+            "fr": "aider, secourir",
+            "en": "to help, to rescue"
+          }
+        },
+        {
+          "word": "{守|まも}る",
+          "meaning": {
+            "fr": "protéger",
+            "en": "to protect"
+          }
+        },
+        {
+          "word": "{法律|ほうりつ}",
+          "meaning": {
+            "fr": "la loi",
+            "en": "law"
+          }
+        },
+        {
+          "word": "{売|う}る",
+          "meaning": {
+            "fr": "vendre",
+            "en": "to sell"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{赤|あか}い {十字|じゅうじ}の マークは なんの マークですか。",
+          "choices": [
+            "{病院|びょういん}の マーク",
+            "{人|ひと}を {守|まも}るための マーク",
+            "お{店|みせ}の マーク"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Ce n'est pas la marque des hôpitaux : elle sert à protéger les blessés et ceux qui les aident.",
+            "en": "It is not a hospital logo: it protects the wounded and those who help them."
+          }
+        },
+        {
+          "question": "ピンクの {十字|じゅうじ}は どうですか。",
+          "choices": [
+            "だいじょうぶです",
+            "だめです",
+            "{赤|あか}より いいです"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "ピンクの {十字|じゅうじ}も だめだ そうです : même une croix rose, c'est non.",
+            "en": "Even a pink cross is not allowed."
+          }
+        },
+        {
+          "question": "{秋葉原|あきはばら}の お{店|みせ}は どんな {服|ふく}を {売|う}って いますか。",
+          "choices": [
+            "ハートの マークの ナース{服|ふく}",
+            "{赤|あか}い {十字|じゅうじ}の ナース{服|ふく}",
+            "ピンクの {十字|じゅうじ}の ナース{服|ふく}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "La boutique d'Akihabara vend des costumes avec un coeur.",
+            "en": "The Akihabara shop sells costumes with a heart."
+          }
+        }
+      ]
+    },
+    "N3": {
+      "title": "ナースの{仮装|かそう}に{赤十字|せきじゅうじ}マークはNG！{日赤|にっせき}が{注意|ちゅうい}を{呼|よ}びかけ",
+      "paragraphs": [
+        "ハロウィンを{前|まえ}に、{日本赤十字社|にほんせきじゅうじしゃ}（{日赤|にっせき}）が「{仮装|かそう}に{赤十字|せきじゅうじ}マークを{使|つか}わないで」と{呼|よ}びかけている。ナース{服|ふく}は{人気|にんき}の{仮装|かそう}だが、{白|しろ}い{地|じ}に{赤|あか}い{十字|じゅうじ}のマークは、{実|じつ}は{医療|いりょう}のマークではない。{戦争|せんそう}などのとき、けがをした{人|ひと}や{助|たす}ける{人|ひと}を「{攻撃|こうげき}してはいけない」と{示|しめ}す、{大切|たいせつ}な{目印|めじるし}なのだ。",
+        "{日本|にほん}の{法律|ほうりつ}では、{日赤|にっせき}や{許可|きょか}を{得|え}た{人|ひと}{以外|いがい}は{使|つか}ってはいけないことになっていて、{違反|いはん}すると30{万円|まんえん}{以下|いか}の{罰金|ばっきん}になることもある。ピンクなど{赤|あか}に{近|ちか}い{色|いろ}や、{形|かたち}が{少|すこ}し{違|ちが}う{十字|じゅうじ}もだめだそうだ。{秋葉原|あきはばら}のコスプレの{店|みせ}では、{代|か}わりにハートのマークや{注射器|ちゅうしゃき}のおもちゃを{使|つか}って、ナースらしさを{出|だ}している。"
+      ],
+      "vocab": [
+        {
+          "word": "{仮装|かそう}",
+          "meaning": {
+            "fr": "le déguisement",
+            "en": "costume, dressing up"
+          }
+        },
+        {
+          "word": "{呼|よ}びかける",
+          "meaning": {
+            "fr": "lancer un appel, inviter à",
+            "en": "to call on, to appeal"
+          }
+        },
+        {
+          "word": "{医療|いりょう}",
+          "meaning": {
+            "fr": "les soins médicaux, la médecine",
+            "en": "medical care"
+          }
+        },
+        {
+          "word": "{目印|めじるし}",
+          "meaning": {
+            "fr": "un signe, un repère",
+            "en": "sign, mark"
+          }
+        },
+        {
+          "word": "{許可|きょか}",
+          "meaning": {
+            "fr": "l'autorisation",
+            "en": "permission"
+          }
+        },
+        {
+          "word": "{違反|いはん}する",
+          "meaning": {
+            "fr": "enfreindre (une règle)",
+            "en": "to violate"
+          }
+        },
+        {
+          "word": "{罰金|ばっきん}",
+          "meaning": {
+            "fr": "une amende",
+            "en": "fine"
+          }
+        },
+        {
+          "word": "〜らしさ",
+          "meaning": {
+            "fr": "l'allure de…, le côté…",
+            "en": "-ness, looking like…"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{赤十字|せきじゅうじ}マークは{本当|ほんとう}は{何|なん}のための{目印|めじるし}か。",
+          "choices": [
+            "{病院|びょういん}の{場所|ばしょ}を{教|おし}えるため",
+            "けがをした{人|ひと}や{助|たす}ける{人|ひと}を{守|まも}るため",
+            "ハロウィンを{楽|たの}しむため"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le texte dit que ce n'est pas une marque médicale, mais un signe pour qu'on n'attaque pas les blessés et les secouristes.",
+            "en": "The text says it is not a medical mark but a sign that the wounded and helpers must not be attacked."
+          }
+        },
+        {
+          "question": "{法律|ほうりつ}に{違反|いはん}すると、どうなることがあるか。",
+          "choices": [
+            "30{万円|まんえん}{以下|いか}の{罰金|ばっきん}になる",
+            "{服|ふく}がもらえる",
+            "{何|なに}も{起|お}こらない"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "On risque une amende allant jusqu'à 300 000 yens.",
+            "en": "You may get a fine of up to 300,000 yen."
+          }
+        },
+        {
+          "question": "{秋葉原|あきはばら}の{店|みせ}はどうしているか。",
+          "choices": [
+            "ピンクの{十字|じゅうじ}を{使|つか}っている",
+            "ハートや{注射器|ちゅうしゃき}のおもちゃを{使|つか}っている",
+            "ナース{服|ふく}を{売|う}るのをやめた"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La boutique remplace la croix par des coeurs et des seringues en jouet.",
+            "en": "The shop uses hearts and toy syringes instead of the cross."
+          }
+        }
+      ]
+    },
+    "N2": {
+      "title": "「{医療|いりょう}のマークではない」ハロウィン{前|まえ}に{日赤|にっせき}が{赤十字|せきじゅうじ}マークの{誤用|ごよう}に{注意|ちゅうい}{喚起|かんき}",
+      "paragraphs": [
+        "31{日|にち}のハロウィンを{控|ひか}え、{日本赤十字社|にほんせきじゅうじしゃ}は、ナース{服|ふく}などの{仮装|かそう}に「{赤十字|せきじゅうじ}マーク」を{使|つか}わないよう{呼|よ}びかけている。{日赤|にっせき}は2022{年|ねん}から{毎年|まいとし}この{時期|じき}にSNSで{注意|ちゅうい}を{促|うなが}しており、30{日|にち}にも{公式|こうしき}Xで「{仮装|かそう}のナース{服|ふく}で{見|み}かける{赤十字|せきじゅうじ}マーク、{実|じつ}は{誤|あやま}った{使|つか}われ{方|かた}」と{投稿|とうこう}した。",
+        "{赤十字|せきじゅうじ}マークはジュネーブ{条約|じょうやく}に{基|もと}づき、{紛争|ふんそう}の{際|さい}に「{攻撃|こうげき}してはならない{人|ひと}や{施設|しせつ}」を{示|しめ}す{目印|めじるし}だ。{国内|こくない}の{法律|ほうりつ}でも、{日赤|にっせき}や{許可|きょか}を{得|え}た{者|もの}{以外|いがい}の{使用|しよう}は{禁|きん}じられており、{違反|いはん}すれば6か{月|げつ}{以下|いか}の{拘禁刑|こうきんけい}または30{万円|まんえん}{以下|いか}の{罰金|ばっきん}が{科|か}される{可能性|かのうせい}がある。{平時|へいじ}に{誤用|ごよう}が{広|ひろ}がると、いざというときにマークの{意味|いみ}が{薄|うす}れてしまうというわけだ。",
+        "{興味深|きょうみぶか}いのは、マークの{色|いろ}や{形|かたち}が{厳密|げんみつ}には{決|き}められていない{点|てん}だ。{混乱|こんらん}の{中|なか}で{正確|せいかく}に{描|えが}けるとは{限|かぎ}らないためで、その{分|ぶん}、ピンクの{十字|じゅうじ}や{形|かたち}の{違|ちが}う{十字|じゅうじ}も「{類似|るいじ}マーク」として{使|つか}えない。{一方|いっぽう}、{秋葉原|あきはばら}のコスプレ{専門店|せんもんてん}はハートや{注射器|ちゅうしゃき}の{小道具|こどうぐ}を{使|つか}い、マークなしでナースらしさを{表現|ひょうげん}しているという。"
+      ],
+      "vocab": [
+        {
+          "word": "{控|ひか}える",
+          "meaning": {
+            "fr": "être à la veille de",
+            "en": "to have (an event) coming up"
+          }
+        },
+        {
+          "word": "{促|うなが}す",
+          "meaning": {
+            "fr": "inciter, presser",
+            "en": "to urge"
+          }
+        },
+        {
+          "word": "〜に{基|もと}づく",
+          "meaning": {
+            "fr": "se fonder sur",
+            "en": "to be based on"
+          }
+        },
+        {
+          "word": "{施設|しせつ}",
+          "meaning": {
+            "fr": "un établissement, une installation",
+            "en": "facility"
+          }
+        },
+        {
+          "word": "{可能性|かのうせい}",
+          "meaning": {
+            "fr": "la possibilité",
+            "en": "possibility"
+          }
+        },
+        {
+          "word": "{厳密|げんみつ}",
+          "meaning": {
+            "fr": "strict, rigoureux",
+            "en": "strict, precise"
+          }
+        },
+        {
+          "word": "{類似|るいじ}",
+          "meaning": {
+            "fr": "ressemblance, similaire",
+            "en": "similar"
+          }
+        },
+        {
+          "word": "{表現|ひょうげん}する",
+          "meaning": {
+            "fr": "exprimer, rendre",
+            "en": "to express"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{日赤|にっせき}はいつから{毎年|まいとし}SNSで{注意|ちゅうい}を{呼|よ}びかけているか。",
+          "choices": [
+            "2020{年|ねん}",
+            "2022{年|ねん}",
+            "2026{年|ねん}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le texte dit 2022年から毎年 : chaque année depuis 2022.",
+            "en": "The text says every year since 2022."
+          }
+        },
+        {
+          "question": "マークの{色|いろ}や{形|かたち}が{厳密|げんみつ}に{決|き}められていないのはなぜか。",
+          "choices": [
+            "デザインを{自由|じゆう}に{楽|たの}しめるように",
+            "{混乱|こんらん}の{中|なか}で{正確|せいかく}に{描|えが}けるとは{限|かぎ}らないから",
+            "スイスの{国旗|こっき}と{同|おな}じにするため"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Dans la confusion, on ne peut pas toujours dessiner la marque parfaitement.",
+            "en": "In chaos, people cannot always draw the mark exactly."
+          }
+        },
+        {
+          "question": "{平時|へいじ}に{誤用|ごよう}が{広|ひろ}がると、どんな{問題|もんだい}があるか。",
+          "choices": [
+            "マークの{値段|ねだん}が{上|あ}がる",
+            "いざというときにマークの{意味|いみ}が{薄|うす}れる",
+            "ハロウィンが{禁止|きんし}される"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Si tout le monde l'utilise n'importe comment, la marque perd sa force quand on en a vraiment besoin.",
+            "en": "If misuse spreads, the mark loses its meaning when it is really needed."
+          }
+        }
+      ]
+    },
+    "N1": {
+      "title": "「{有事|ゆうじ}の{最後|さいご}の{命綱|いのちづな}」　{赤十字|せきじゅうじ}{標章|ひょうしょう}の{仮装|かそう}{使用|しよう}に{日赤|にっせき}が{警鐘|けいしょう}",
+      "paragraphs": [
+        "ハロウィンを{翌日|よくじつ}に{控|ひか}えた30{日|にち}、{日本赤十字社|にほんせきじゅうじしゃ}は{公式|こうしき}SNSを{通|つう}じ、ナース{服|ふく}などの{仮装|かそう}に{赤十字|せきじゅうじ}{標章|ひょうしょう}を{用|もち}いないよう{改|あらた}めて{呼|よ}びかけた。{白地|しろじ}に{赤|あか}い{十字|じゅうじ}は{医療|いりょう}の{象徴|しょうちょう}と{誤解|ごかい}されがちだが、{本来|ほんらい}はジュネーブ{条約|じょうやく}に{基|もと}づき、{武力|ぶりょく}{紛争|ふんそう}{下|か}で{攻撃|こうげき}の{対象|たいしょう}としてはならない{人員|じんいん}や{施設|しせつ}を{識別|しきべつ}するための「{保護|ほご}{標章|ひょうしょう}」である。",
+        "{国内|こくない}では{赤十字|せきじゅうじ}{標章法|ひょうしょうほう}が、{日赤|にっせき}およびその{許可|きょか}を{受|う}けた{者|もの}{以外|いがい}による「みだりな」{使用|しよう}を{禁|きん}じており、{違反|いはん}{者|しゃ}には6か{月|げつ}{以下|いか}の{拘禁刑|こうきんけい}または30{万円|まんえん}{以下|いか}の{罰金|ばっきん}が{科|か}され{得|う}る。{同社|どうしゃ}{国際部|こくさいぶ}の{斉藤彰彦|さいとうあきひこ}{企画係長|きかくかかりちょう}は「{赤十字|せきじゅうじ}マークは{医療|いりょう}のマークではない。{有事|ゆうじ}での{最後|さいご}の{命綱|いのちづな}だ」と{強調|きょうちょう}する。",
+        "{注目|ちゅうもく}すべきは、{標章|ひょうしょう}の{寸法|すんぽう}や{色調|しきちょう}が{敢|あ}えて{厳格|げんかく}に{規定|きてい}されていない{点|てん}だ。{混乱|こんらん}の{渦中|かちゅう}で{正確|せいかく}な{図案|ずあん}を{再現|さいげん}できず、それを{口実|こうじつ}に{攻撃|こうげき}されることを{防|ふせ}ぐためで、{裏|うら}を{返|かえ}せば、ピンク{系|けい}の{十字|じゅうじ}や{形状|けいじょう}の{異|こと}なる{十字|じゅうじ}も{類似|るいじ}{標章|ひょうしょう}として{規制|きせい}の{対象|たいしょう}となる。",
+        "{業界|ぎょうかい}{側|がわ}も{対応|たいおう}を{進|すす}める。{秋葉原|あきはばら}と{上海|しゃんはい}に{店舗|てんぽ}を{構|かま}えるコスプレ{専門店|せんもんてん}は、{今季|こんき}40{種|しゅ}のナース{服|ふく}をそろえたが、ハートのモチーフや{注射器|ちゅうしゃき}の{小道具|こどうぐ}で「らしさ」を{演出|えんしゅつ}している。{日赤|にっせき}は2022{年|ねん}から{毎年|まいとし}この{時期|じき}に{注意|ちゅうい}{喚起|かんき}を{続|つづ}けており、{平時|へいじ}の{誤用|ごよう}が{標章|ひょうしょう}の{重|おも}みを{損|そこ}なうことへの{危機感|ききかん}をにじませる。"
+      ],
+      "vocab": [
+        {
+          "word": "{標章|ひょうしょう}",
+          "meaning": {
+            "fr": "un emblème",
+            "en": "emblem"
+          }
+        },
+        {
+          "word": "{警鐘|けいしょう}を{鳴|な}らす",
+          "meaning": {
+            "fr": "tirer la sonnette d'alarme",
+            "en": "to sound the alarm"
+          }
+        },
+        {
+          "word": "{有事|ゆうじ}",
+          "meaning": {
+            "fr": "une situation d'urgence, une crise",
+            "en": "emergency, contingency"
+          }
+        },
+        {
+          "word": "{命綱|いのちづな}",
+          "meaning": {
+            "fr": "une bouée de sauvetage (au sens figuré)",
+            "en": "lifeline"
+          }
+        },
+        {
+          "word": "{識別|しきべつ}する",
+          "meaning": {
+            "fr": "identifier, distinguer",
+            "en": "to identify"
+          }
+        },
+        {
+          "word": "{口実|こうじつ}",
+          "meaning": {
+            "fr": "un prétexte",
+            "en": "pretext"
+          }
+        },
+        {
+          "word": "{損|そこ}なう",
+          "meaning": {
+            "fr": "nuire à, abîmer",
+            "en": "to undermine, to damage"
+          }
+        },
+        {
+          "word": "{演出|えんしゅつ}する",
+          "meaning": {
+            "fr": "mettre en scène, créer (un effet)",
+            "en": "to stage, to create (an effect)"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{赤十字|せきじゅうじ}{標章|ひょうしょう}の{本来|ほんらい}の{役割|やくわり}は{何|なに}か。",
+          "choices": [
+            "{医療|いりょう}{機関|きかん}であることを{広|ひろ}く{知|し}らせること",
+            "{武力|ぶりょく}{紛争|ふんそう}{下|か}で{攻撃|こうげき}してはならない{人員|じんいん}や{施設|しせつ}を{識別|しきべつ}すること",
+            "{募金|ぼきん}を{集|あつ}めること"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "C'est un « emblème protecteur » (保護標章) défini par la Convention de Genève.",
+            "en": "It is a 'protective emblem' defined by the Geneva Conventions."
+          }
+        },
+        {
+          "question": "{標章|ひょうしょう}の{寸法|すんぽう}や{色調|しきちょう}が{厳格|げんかく}に{規定|きてい}されていない{理由|りゆう}は{何|なに}か。",
+          "choices": [
+            "{各国|かっこく}が{自由|じゆう}にデザインできるようにするため",
+            "{図案|ずあん}の{不正確|ふせいかく}さを{口実|こうじつ}にした{攻撃|こうげき}を{防|ふせ}ぐため",
+            "{印刷|いんさつ}{費用|ひよう}を{抑|おさ}えるため"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Personne ne doit pouvoir dire « ce n'était pas le vrai symbole » pour justifier une attaque.",
+            "en": "Nobody should be able to use an imperfect drawing as an excuse to attack."
+          }
+        },
+        {
+          "question": "{日赤|にっせき}が{危機感|ききかん}を{抱|いだ}いているのは{何|なに}に{対|たい}してか。",
+          "choices": [
+            "{平時|へいじ}の{誤用|ごよう}が{標章|ひょうしょう}の{重|おも}みを{損|そこ}なうこと",
+            "ハロウィンの{参加者|さんかしゃ}が{減|へ}ること",
+            "ナース{服|ふく}の{売|う}り{上|あ}げが{落|お}ちること"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "La dernière phrase : l'usage abusif en temps de paix affaiblit le poids de l'emblème.",
+            "en": "Last sentence: misuse in peacetime weakens the emblem's weight."
+          }
+        }
+      ]
+    }
+  }
+}
