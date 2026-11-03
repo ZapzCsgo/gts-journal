@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Les chiffres clés de la nouvelle agence">
+<rect width="800" height="600" fill="#fff8ec"/>
+<text x="400" y="58" text-anchor="middle" font-family="sans-serif" font-size="36" font-weight="bold" fill="#1f4e79">Le Bōsai-chō en 4 chiffres</text>
+<g font-family="sans-serif" text-anchor="middle">
+<rect x="40" y="90" width="345" height="230" rx="18" fill="#d6eaf8"/>
+<text x="212" y="190" font-size="80" font-weight="bold" fill="#1f618d">352</text>
+<text x="212" y="240" font-size="24" fill="#333">personnes y travaillent</text>
+<text x="212" y="275" font-size="20" fill="#555">environ 1,6 fois plus qu'avant</text>
+<rect x="415" y="90" width="345" height="230" rx="18" fill="#fdebd0"/>
+<text x="587" y="190" font-size="72" font-weight="bold" fill="#ca6f1e">3 à 7</text>
+<text x="587" y="240" font-size="24" fill="#333">jours de réserves</text>
+<text x="587" y="275" font-size="20" fill="#555">à garder à la maison</text>
+<rect x="40" y="345" width="345" height="230" rx="18" fill="#d1f2eb"/>
+<text x="212" y="445" font-size="80" font-weight="bold" fill="#148f77">3 L</text>
+<text x="212" y="495" font-size="24" fill="#333">d'eau par personne</text>
+<text x="212" y="530" font-size="20" fill="#555">et par jour</text>
+<rect x="415" y="345" width="345" height="230" rx="18" fill="#fadbd8"/>
+<text x="587" y="420" font-size="60" font-weight="bold" fill="#b03a2e">4 gestes</text>
+<text x="587" y="462" font-size="19" fill="#333">maison solide</text>
+<text x="587" y="490" font-size="19" fill="#333">meubles fixés</text>
+<text x="587" y="518" font-size="19" fill="#333">lieu d'évacuation connu</text>
+<text x="587" y="546" font-size="19" fill="#333">réserves d'eau et de repas</text>
+</g>
+</svg>

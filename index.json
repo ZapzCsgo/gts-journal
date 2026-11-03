@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "date": "2026-11-03",
+      "title": "Le Japon ouvre son agence anti-catastrophes : et toi, ton kit de secours est prêt ?",
+      "category": "societe",
+      "cover": "cover.svg"
+    },
+    {
       "date": "2026-10-31",
       "title": "Halloween : le costume d'infirmière, oui ! La croix rouge, non !",
       "category": "societe",

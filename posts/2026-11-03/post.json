@@ -1,0 +1,554 @@
+{
+  "date": "2026-11-03",
+  "newsDate": "2026-11-02",
+  "category": "societe",
+  "title": "Le Japon ouvre son agence anti-catastrophes : et toi, ton kit de secours est prêt ?",
+  "summary": {
+    "fr": "Le 2 novembre, le Japon a lancé le « Bōsai-chō », une nouvelle agence de 352 personnes chargée de préparer le pays aux séismes, tsunamis et éruptions, puis d'aider à reconstruire. Son ministre, Goshi Hosono, a aussitôt demandé à chaque foyer de fixer ses meubles et de garder au moins 3 jours (idéalement 7) d'eau et de nourriture à la maison.",
+    "en": "On November 2, Japan launched its National Disaster Management Agency, a 352-person body in charge of preparing the country for earthquakes, tsunamis and eruptions and of leading recovery. Its minister, Goshi Hosono, immediately asked every household to secure furniture and keep at least 3 days (ideally a week) of water and food at home."
+  },
+  "sources": [
+    {
+      "name": "NHK News Web Easy",
+      "url": "https://www3.nhk.or.jp/news/easy/20261102de69516/20261102de69516.html"
+    },
+    {
+      "name": "NHK World-Japan",
+      "url": "https://www3.nhk.or.jp/nhkworld/news/20261102de69379/"
+    },
+    {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/02/japan/new-disaster-agency-public-prepare/"
+    },
+    {
+      "name": "AP News",
+      "url": "https://apnews.com/article/japan-earthquakes-disaster-management-agency-launch-9c9178280d94edbafd8fdf32b01facf0"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.svg",
+      "alt": "Dessin d'un bâtiment avec le panneau 防災庁 (agence de prévention des catastrophes) et la date du 2 novembre 2026. Devant, un enfant souriant porte un sac de secours, à côté de bouteilles d'eau, de boîtes de conserve et d'une lampe de poche.",
+      "caption": "Le nouveau Bōsai-chō ouvre ses portes, et le petit sac de secours est prêt !"
+    },
+    {
+      "file": "chiffres.svg",
+      "alt": "Quatre cases de chiffres clés : 352 personnes travaillent dans la nouvelle agence, soit environ 1,6 fois plus qu'avant ; 3 à 7 jours de réserves à garder à la maison ; 3 litres d'eau par personne et par jour ; 4 gestes demandés : vérifier que la maison résiste aux séismes, fixer les meubles, connaître son lieu d'évacuation, faire des réserves.",
+      "caption": "La nouvelle agence en 4 chiffres"
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "{日本|にほん}に あたらしい「ぼうさいちょう」が できました",
+      "paragraphs": [
+        "{十一月|じゅういちがつ}{二日|ふつか}に、{日本|にほん}に あたらしい「ぼうさいちょう」が できました。じしんなどの とき、{人|ひと}を たすける ところです。",
+        "「うちに {水|みず}と たべものを {三日|みっか}から {七日|なのか}ぶん おいて ください」と いいました。みなさんの うちは だいじょうぶですか。"
+      ],
+      "vocab": [
+        {
+          "word": "あたらしい",
+          "meaning": {
+            "fr": "nouveau",
+            "en": "new"
+          }
+        },
+        {
+          "word": "じしん",
+          "meaning": {
+            "fr": "un tremblement de terre",
+            "en": "earthquake"
+          }
+        },
+        {
+          "word": "たすける",
+          "meaning": {
+            "fr": "aider, secourir",
+            "en": "to help, to rescue"
+          }
+        },
+        {
+          "word": "{水|みず}",
+          "meaning": {
+            "fr": "l'eau",
+            "en": "water"
+          }
+        },
+        {
+          "word": "たべもの",
+          "meaning": {
+            "fr": "la nourriture",
+            "en": "food"
+          }
+        },
+        {
+          "word": "{七日|なのか}",
+          "meaning": {
+            "fr": "sept jours, le 7 du mois",
+            "en": "seven days, the 7th"
+          }
+        },
+        {
+          "word": "うち",
+          "meaning": {
+            "fr": "la maison, chez soi",
+            "en": "home"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "「ぼうさいちょう」は いつ できましたか。",
+          "choices": [
+            "{十一月|じゅういちがつ}{二日|ふつか}",
+            "{十月|じゅうがつ}{二日|ふつか}",
+            "{十一月|じゅういちがつ}{七日|なのか}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Le texte dit : 十一月二日 (le 2 novembre).",
+            "en": "The text says 十一月二日 (November 2)."
+          }
+        },
+        {
+          "question": "うちに なにを おきますか。",
+          "choices": [
+            "{水|みず}と たべもの",
+            "テレビと ほん",
+            "くるまと じてんしゃ"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "On garde de l'eau (水) et de la nourriture (たべもの) à la maison.",
+            "en": "You keep water (水) and food (たべもの) at home."
+          }
+        },
+        {
+          "question": "なんにちぶん おきますか。",
+          "choices": [
+            "{一日|いちにち}だけ",
+            "{三日|みっか}から {七日|なのか}",
+            "{十日|とおか}から {二十日|はつか}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "三日から七日ぶん : de 3 à 7 jours de réserves.",
+            "en": "三日から七日ぶん: 3 to 7 days' worth."
+          }
+        }
+      ]
+    },
+    "N4": {
+      "title": "{災害|さいがい}に {備|そな}える「{防災庁|ぼうさいちょう}」が できました",
+      "paragraphs": [
+        "{十一月|じゅういちがつ}{二日|ふつか}、{日本|にほん}の {政府|せいふ}は「{防災庁|ぼうさいちょう}」を {作|つく}りました。{大|おお}きな {地震|じしん}や {津波|つなみ}などの {災害|さいがい}の とき、{国|くに}の まんなかで {働|はたら}く ところです。ここで {働|はたら}く {人|ひと}は 352{人|にん}です。",
+        "{細野|ほその}{大臣|だいじん}は「{大|おお}きな {災害|さいがい}の とき、{国|くに}は すぐに みんなを {助|たす}けることが できません。{自分|じぶん}でも {準備|じゅんび}を して ください」と {言|い}いました。{家|いえ}に {三日|みっか}から {七日|なのか}{分|ぶん}の {水|みず}や {食|た}べ{物|もの}を {用意|ようい}して、{家具|かぐ}が {動|うご}かないように しておくと いいそうです。"
+      ],
+      "vocab": [
+        {
+          "word": "{災害|さいがい}",
+          "meaning": {
+            "fr": "une catastrophe",
+            "en": "disaster"
+          }
+        },
+        {
+          "word": "{地震|じしん}",
+          "meaning": {
+            "fr": "un tremblement de terre",
+            "en": "earthquake"
+          }
+        },
+        {
+          "word": "{津波|つなみ}",
+          "meaning": {
+            "fr": "un tsunami",
+            "en": "tsunami"
+          }
+        },
+        {
+          "word": "{助|たす}ける",
+          "meaning": {
+            "fr": "aider, secourir",
+            "en": "to help, to rescue"
+          }
+        },
+        {
+          "word": "{準備|じゅんび}",
+          "meaning": {
+            "fr": "la préparation",
+            "en": "preparation"
+          }
+        },
+        {
+          "word": "{用意|ようい}する",
+          "meaning": {
+            "fr": "préparer, avoir sous la main",
+            "en": "to prepare, to have ready"
+          }
+        },
+        {
+          "word": "{家具|かぐ}",
+          "meaning": {
+            "fr": "les meubles",
+            "en": "furniture"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{防災庁|ぼうさいちょう}で {働|はたら}く {人|ひと}は {何人|なんにん}ですか。",
+          "choices": [
+            "35{人|にん}",
+            "352{人|にん}",
+            "3520{人|にん}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le texte dit : 352人 (352 personnes).",
+            "en": "The text says 352人 (352 people)."
+          }
+        },
+        {
+          "question": "{細野|ほその}{大臣|だいじん}は みんなに {何|なに}を して ほしいですか。",
+          "choices": [
+            "{自分|じぶん}でも {準備|じゅんび}を する",
+            "{毎日|まいにち} {旅行|りょこう}を する",
+            "{家具|かぐ}を {売|う}る"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "自分でも準備をしてください : préparez-vous aussi vous-mêmes.",
+            "en": "自分でも準備をしてください: prepare yourselves too."
+          }
+        },
+        {
+          "question": "{家具|かぐ}は どう しておくと いいですか。",
+          "choices": [
+            "{外|そと}に {出|だ}しておく",
+            "{動|うご}かないように しておく",
+            "{毎日|まいにち} {動|うご}かす"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Il faut fixer les meubles pour qu'ils ne bougent pas (動かないように).",
+            "en": "Furniture should be secured so it does not move (動かないように)."
+          }
+        }
+      ]
+    },
+    "N3": {
+      "title": "「{防災庁|ぼうさいちょう}」が{発足|ほっそく}　{国|くに}が{呼|よ}びかける「{家|いえ}での{備|そな}え」",
+      "paragraphs": [
+        "{大|おお}きな{災害|さいがい}に{備|そな}えるための「{防災庁|ぼうさいちょう}」が11{月|がつ}{2日|ふつか}、{新|あたら}しくできた。これまで{内閣府|ないかくふ}の{一部|いちぶ}が{担当|たんとう}していた{仕事|しごと}をまとめ、{災害|さいがい}の{前|まえ}の{準備|じゅんび}から、{起|お}きたあとの{対応|たいおう}、{町|まち}の{復興|ふっこう}までを{一|ひと}つの{組織|そしき}が{担当|たんとう}する。{職員|しょくいん}は352{人|にん}で、{前|まえ}より{約|やく}6{割|わり}{増|ふ}えた。{日本|にほん}では{南海|なんかい}トラフ{地震|じしん}や{首都|しゅと}{直下|ちょっか}{地震|じしん}、{富士山|ふじさん}の{噴火|ふんか}などが{心配|しんぱい}されている。",
+        "{防災庁|ぼうさいちょう}を{担当|たんとう}する{細野|ほその}{大臣|だいじん}は、「{大|おお}きな{災害|さいがい}では、{国|くに}や{町|まち}がすぐに{全員|ぜんいん}を{助|たす}けることはできない」と{話|はな}し、{国民|こくみん}に{準備|じゅんび}を{呼|よ}びかけた。{家|いえ}が{地震|じしん}に{強|つよ}いか{確|たし}かめる、{家具|かぐ}を{固定|こてい}する、{避難|ひなん}する{場所|ばしょ}を{調|しら}べておく、そして{水|みず}や{食|た}べ{物|もの}、トイレの{用品|ようひん}を{少|すく}なくとも{3日|みっか}{分|ぶん}、できれば1{週間|しゅうかん}{分|ぶん}{用意|ようい}する、という4つだ。{水|みず}は1{人|り}1{日|にち}3リットルが{目安|めやす}だという。"
+      ],
+      "vocab": [
+        {
+          "word": "{発足|ほっそく}する",
+          "meaning": {
+            "fr": "être créé, démarrer (organisme)",
+            "en": "to be launched (organization)"
+          }
+        },
+        {
+          "word": "{備|そな}える",
+          "meaning": {
+            "fr": "se préparer à",
+            "en": "to prepare for"
+          }
+        },
+        {
+          "word": "{職員|しょくいん}",
+          "meaning": {
+            "fr": "le personnel, les agents",
+            "en": "staff"
+          }
+        },
+        {
+          "word": "{噴火|ふんか}",
+          "meaning": {
+            "fr": "une éruption volcanique",
+            "en": "volcanic eruption"
+          }
+        },
+        {
+          "word": "{固定|こてい}する",
+          "meaning": {
+            "fr": "fixer, attacher",
+            "en": "to secure, to fix in place"
+          }
+        },
+        {
+          "word": "{避難|ひなん}する",
+          "meaning": {
+            "fr": "évacuer, se mettre à l'abri",
+            "en": "to evacuate"
+          }
+        },
+        {
+          "word": "{目安|めやす}",
+          "meaning": {
+            "fr": "un repère, une référence",
+            "en": "guideline, rough standard"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{防災庁|ぼうさいちょう}の{仕事|しごと}として{正|ただ}しいものはどれか。",
+          "choices": [
+            "{災害|さいがい}の{前|まえ}の{準備|じゅんび}だけ",
+            "{準備|じゅんび}から{復興|ふっこう}まで{全部|ぜんぶ}",
+            "{天気予報|てんきよほう}を{作|つく}ること"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "L'agence s'occupe de tout : de la préparation jusqu'à la reconstruction (復興).",
+            "en": "The agency handles everything, from preparation to reconstruction (復興)."
+          }
+        },
+        {
+          "question": "{職員|しょくいん}は{前|まえ}と{比|くら}べてどうなったか。",
+          "choices": [
+            "{約|やく}6{割|わり}{増|ふ}えた",
+            "{半分|はんぶん}になった",
+            "{変|か}わらない"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "約6割増えた : environ 60 % de plus qu'avant.",
+            "en": "約6割増えた: about 60% more than before."
+          }
+        },
+        {
+          "question": "{水|みず}の{目安|めやす}は1{人|り}1{日|にち}{何|なん}リットルか。",
+          "choices": [
+            "1リットル",
+            "3リットル",
+            "10リットル"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le repère est de 3 litres par personne et par jour.",
+            "en": "The guideline is 3 liters per person per day."
+          }
+        }
+      ]
+    },
+    "N2": {
+      "title": "{災害|さいがい}{対応|たいおう}の{司令塔|しれいとう}「{防災庁|ぼうさいちょう}」{始動|しどう}　{細野|ほその}{大臣|だいじん}「{自|みずか}ら{備|そな}えを」",
+      "paragraphs": [
+        "{政府|せいふ}は11{月|がつ}{2日|ふつか}、{災害|さいがい}{対策|たいさく}の{司令塔|しれいとう}となる「{防災庁|ぼうさいちょう}」を{発足|ほっそく}させた。7{月|がつ}に{国会|こっかい}で{成立|せいりつ}した{法律|ほうりつ}に{基|もと}づくもので、{事前|じぜん}の{防災|ぼうさい}から{発災|はっさい}{直後|ちょくご}の{対応|たいおう}、{復旧|ふっきゅう}・{復興|ふっこう}までを{一貫|いっかん}して{担|にな}う。{職員|しょくいん}は352{人|にん}と、これまで{担当|たんとう}してきた{内閣府|ないかくふ}の{部署|ぶしょ}に{比|くら}べて{約|やく}1.6{倍|ばい}に{増|ふ}えた。",
+        "{長|ちょう}は{高市|たかいち}{首相|しゅしょう}が{務|つと}め、{細野|ほその}{防災|ぼうさい}{大臣|だいじん}が{実務|じつむ}を{取|と}り{仕切|しき}る。{大臣|だいじん}には{各省庁|かくしょうちょう}に{対|たい}して{勧告|かんこく}を{行|おこな}う{権限|けんげん}が{与|あた}えられた。{発足|ほっそく}{式|しき}で{高市|たかいち}{首相|しゅしょう}は「{自然|しぜん}{災害|さいがい}を{防|ふせ}ぐことはできないが、{備|そな}えることで{被害|ひがい}を{減|へ}らすことはできる」と{述|の}べた。",
+        "{一方|いっぽう}、{細野|ほその}{大臣|だいじん}は{記者|きしゃ}{会見|かいけん}で、{巨大|きょだい}{災害|さいがい}の{際|さい}には{行政|ぎょうせい}の{支援|しえん}に{限界|げんかい}があると{指摘|してき}し、{国民|こくみん}に「{緊急|きんきゅう}の{要請|ようせい}」を{出|だ}した。{住宅|じゅうたく}の{耐震性|たいしんせい}の{確認|かくにん}、{家具|かぐ}の{固定|こてい}、{避難|ひなん}{先|さき}の{確認|かくにん}に{加|くわ}え、{水|みず}や{食料|しょくりょう}、{携帯|けいたい}トイレを{最低|さいてい}{3日|みっか}{分|ぶん}、できれば1{週間|しゅうかん}{分|ぶん}{備蓄|びちく}してほしいという。{日本|にほん}を「{世界一|せかいいち}{災害|さいがい}に{備|そな}えた{国|くに}」にするのが{目標|もくひょう}だ。"
+      ],
+      "vocab": [
+        {
+          "word": "{司令塔|しれいとう}",
+          "meaning": {
+            "fr": "le poste de commandement, la tour de contrôle",
+            "en": "control tower, command center"
+          }
+        },
+        {
+          "word": "{一貫|いっかん}して",
+          "meaning": {
+            "fr": "de bout en bout, sans interruption",
+            "en": "consistently, end to end"
+          }
+        },
+        {
+          "word": "{担|にな}う",
+          "meaning": {
+            "fr": "assumer, avoir la charge de",
+            "en": "to bear, to take charge of"
+          }
+        },
+        {
+          "word": "{権限|けんげん}",
+          "meaning": {
+            "fr": "le pouvoir, la compétence",
+            "en": "authority, power"
+          }
+        },
+        {
+          "word": "{被害|ひがい}",
+          "meaning": {
+            "fr": "les dégâts",
+            "en": "damage"
+          }
+        },
+        {
+          "word": "{限界|げんかい}",
+          "meaning": {
+            "fr": "la limite",
+            "en": "limit"
+          }
+        },
+        {
+          "word": "{備蓄|びちく}する",
+          "meaning": {
+            "fr": "stocker des réserves",
+            "en": "to stockpile"
+          }
+        },
+        {
+          "word": "{耐震性|たいしんせい}",
+          "meaning": {
+            "fr": "la résistance aux séismes",
+            "en": "earthquake resistance"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{防災庁|ぼうさいちょう}の{長|ちょう}を{務|つと}めるのは{誰|だれ}か。",
+          "choices": [
+            "{細野|ほその}{大臣|だいじん}",
+            "{高市|たかいち}{首相|しゅしょう}",
+            "{東京都|とうきょうと}{知事|ちじ}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "長は高市首相が務め : c'est la Première ministre Takaichi qui la dirige ; Hosono gère le travail au quotidien.",
+            "en": "長は高市首相が務め: Prime Minister Takaichi heads it; Hosono runs daily operations."
+          }
+        },
+        {
+          "question": "{細野|ほその}{大臣|だいじん}が「{緊急|きんきゅう}の{要請|ようせい}」を{出|だ}した{理由|りゆう}は{何|なに}か。",
+          "choices": [
+            "{行政|ぎょうせい}の{支援|しえん}には{限界|げんかい}があるから",
+            "{地震|じしん}が{明日|あした}{起|お}きると{分|わ}かったから",
+            "{職員|しょくいん}が{足|た}りないから"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Lors d'une très grande catastrophe, l'aide publique a ses limites (限界).",
+            "en": "In a huge disaster, public support has limits (限界)."
+          }
+        },
+        {
+          "question": "{本文|ほんぶん}の{内容|ないよう}と{合|あ}うものはどれか。",
+          "choices": [
+            "{職員|しょくいん}は{前|まえ}より{減|へ}った",
+            "{法律|ほうりつ}は7{月|がつ}に{成立|せいりつ}した",
+            "{備蓄|びちく}は1{日|にち}{分|ぶん}でよい"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La loi a été votée au Parlement en juillet (7月に国会で成立).",
+            "en": "The law was passed by the Diet in July (7月に国会で成立)."
+          }
+        }
+      ]
+    },
+    "N1": {
+      "title": "「{防災庁|ぼうさいちょう}」{発足|ほっそく}　「{世界一|せかいいち}の{防災|ぼうさい}{大国|たいこく}」へ　{公助|こうじょ}の{限界|げんかい}{踏|ふ}まえ{自助|じじょ}{促|うなが}す",
+      "paragraphs": [
+        "{災害|さいがい}{対応|たいおう}の{司令塔|しれいとう}を{担|にな}う「{防災庁|ぼうさいちょう}」が{2日|ふつか}、{発足|ほっそく}した。{今年|ことし}7{月|がつ}に{成立|せいりつ}した{設置法|せっちほう}に{基|もと}づき、{内閣府|ないかくふ}の{防災|ぼうさい}{部門|ぶもん}を{母体|ぼたい}として{新設|しんせつ}されたもので、{平時|へいじ}の{事前|じぜん}{防災|ぼうさい}から{発災|はっさい}{時|じ}の{応急|おうきゅう}{対応|たいおう}、{復旧|ふっきゅう}・{復興|ふっこう}に{至|いた}るまでを{切|き}れ{目|め}なく{所管|しょかん}する。{職員|しょくいん}{数|すう}は352{人|にん}と、{従来|じゅうらい}の{体制|たいせい}から{約|やく}6{割|わり}{拡充|かくじゅう}された。",
+        "{庁|ちょう}の{長|ちょう}には{高市|たかいち}{首相|しゅしょう}が{就|つ}き、{細野豪志|ほそのごうし}{防災相|ぼうさいしょう}が{実務|じつむ}を{統括|とうかつ}する。{防災相|ぼうさいしょう}には{関係|かんけい}{省庁|しょうちょう}への{勧告|かんこく}{権|けん}が{付与|ふよ}され、{勧告|かんこく}を{受|う}けた{省庁|しょうちょう}はこれを{十分|じゅうぶん}に{尊重|そんちょう}しなければならない。{発足|ほっそく}{式|しき}で{首相|しゅしょう}は、{縦割|たてわ}りを{排|はい}し「{強力|きょうりょく}な{司令塔|しれいとう}」として{機能|きのう}するよう{各省庁|かくしょうちょう}に{指示|しじ}した。{地方|ちほう}{拠点|きょてん}については{設置|せっち}{場所|ばしょ}を{今後|こんご}{決定|けってい}し、2028{年|ねん}7{月|がつ}までに{開設|かいせつ}する{方針|ほうしん}だ。",
+        "{背景|はいけい}にあるのは、{南海|なんかい}トラフ{巨大|きょだい}{地震|じしん}や{首都|しゅと}{直下|ちょっか}{地震|じしん}、{富士山|ふじさん}{噴火|ふんか}といった{広域|こういき}{災害|さいがい}への{危機感|ききかん}である。{被害|ひがい}が{同時|どうじ}{多発|たはつ}{的|てき}に{生|しょう}じれば、{公助|こうじょ}だけで{被災者|ひさいしゃ}を{支|ささ}えきることは{困難|こんなん}だ。{細野|ほその}{氏|し}は{同日|どうじつ}、{自治体|じちたい}と{住民|じゅうみん}に{向|む}けて「{緊急|きんきゅう}{要請|ようせい}」を{発出|はっしゅつ}し、{住宅|じゅうたく}の{耐震|たいしん}{化|か}や{家具|かぐ}の{固定|こてい}、{避難|ひなん}{経路|けいろ}の{確認|かくにん}、{最低|さいてい}{3日|みっか}{分|ぶん}、{望|のぞ}ましくは1{週間|しゅうかん}{分|ぶん}の{水|みず}・{食料|しょくりょう}・{携帯|けいたい}トイレの{備蓄|びちく}を{求|もと}めた。",
+        "「{自然|しぜん}{災害|さいがい}は{防|ふせ}げないが、{備|そな}えによって{被害|ひがい}は{減|へ}らせる」。{首相|しゅしょう}のこの{言葉|ことば}どおり、{新組織|しんそしき}の{成否|せいひ}は、{省庁|しょうちょう}{間|かん}の{調整|ちょうせい}{力|りょく}もさることながら、{一人|ひとり}ひとりの「{自助|じじょ}」をいかに{引|ひ}き{出|だ}せるかにかかっていると{言|い}えそうだ。"
+      ],
+      "vocab": [
+        {
+          "word": "{所管|しょかん}する",
+          "meaning": {
+            "fr": "avoir dans ses attributions",
+            "en": "to have jurisdiction over"
+          }
+        },
+        {
+          "word": "{拡充|かくじゅう}",
+          "meaning": {
+            "fr": "le renforcement, l'extension",
+            "en": "expansion, reinforcement"
+          }
+        },
+        {
+          "word": "{統括|とうかつ}する",
+          "meaning": {
+            "fr": "superviser, coordonner l'ensemble",
+            "en": "to oversee, to supervise"
+          }
+        },
+        {
+          "word": "{勧告|かんこく}",
+          "meaning": {
+            "fr": "une recommandation officielle",
+            "en": "official recommendation"
+          }
+        },
+        {
+          "word": "{縦割|たてわ}り",
+          "meaning": {
+            "fr": "le cloisonnement administratif",
+            "en": "bureaucratic silos"
+          }
+        },
+        {
+          "word": "{公助|こうじょ}・{自助|じじょ}",
+          "meaning": {
+            "fr": "l'aide publique / l'autoprotection",
+            "en": "public help / self-help"
+          }
+        },
+        {
+          "word": "{発出|はっしゅつ}する",
+          "meaning": {
+            "fr": "émettre, publier (un avis)",
+            "en": "to issue (a notice)"
+          }
+        },
+        {
+          "word": "{成否|せいひ}",
+          "meaning": {
+            "fr": "le succès ou l'échec",
+            "en": "success or failure"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{防災相|ぼうさいしょう}に{与|あた}えられた{権限|けんげん}はどれか。",
+          "choices": [
+            "{関係|かんけい}{省庁|しょうちょう}への{勧告|かんこく}{権|けん}",
+            "{国会|こっかい}の{解散|かいさん}{権|けん}",
+            "{自治体|じちたい}{予算|よさん}の{決定|けってい}{権|けん}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "勧告権が付与され : le ministre peut adresser des recommandations aux ministères.",
+            "en": "勧告権が付与され: the minister can issue recommendations to ministries."
+          }
+        },
+        {
+          "question": "{筆者|ひっしゃ}によれば、{新組織|しんそしき}の{成否|せいひ}を{左右|さゆう}するのは{何|なに}か。",
+          "choices": [
+            "{職員|しょくいん}{数|すう}のさらなる{増加|ぞうか}だけ",
+            "{住民|じゅうみん}{一人|ひとり}ひとりの{自助|じじょ}をどう{引|ひ}き{出|だ}すか",
+            "{地方|ちほう}{拠点|きょてん}の{数|かず}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Dernier paragraphe : tout dépend de la capacité à susciter le 自助 de chacun.",
+            "en": "Last paragraph: it depends on drawing out each person's 自助."
+          }
+        },
+        {
+          "question": "{地方|ちほう}{拠点|きょてん}について{正|ただ}しいものはどれか。",
+          "choices": [
+            "すでに{全国|ぜんこく}に{開設|かいせつ}された",
+            "2028{年|ねん}7{月|がつ}までに{開設|かいせつ}する{方針|ほうしん}",
+            "{設置|せっち}しないことになった"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Les antennes régionales ouvriront d'ici juillet 2028.",
+            "en": "Regional offices will open by July 2028."
+          }
+        }
+      ]
+    }
+  }
+}
