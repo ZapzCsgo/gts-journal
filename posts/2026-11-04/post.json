@@ -1,0 +1,554 @@
+{
+  "date": "2026-11-04",
+  "newsDate": "2026-11-03",
+  "category": "culture",
+  "title": "Fête de la culture : 8 grands talents décorés, dont le papa de Mario !",
+  "summary": {
+    "fr": "Le 3 novembre, jour de la Culture au Japon, l'empereur Naruhito a remis l'Ordre de la Culture (文化勲章) à 7 des 8 lauréats de l'année au palais impérial de Tokyo, dont le Nobel de chimie Kenso Soai et un spécialiste de littérature française. Shigeru Miyamoto, le créateur de Super Mario chez Nintendo, fait partie des lauréats mais n'était pas présent à la cérémonie.",
+    "en": "On November 3, Japan's Culture Day, Emperor Naruhito presented the Order of Culture to 7 of this year's 8 recipients at the Imperial Palace in Tokyo, including chemistry Nobel laureate Kenso Soai and a French literature scholar. Nintendo's Shigeru Miyamoto, creator of Super Mario, is among the recipients but did not attend the ceremony."
+  },
+  "sources": [
+    {
+      "name": "NHK News",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261103de69927"
+    },
+    {
+      "name": "Tokyo Shimbun",
+      "url": "https://www.tokyo-np.co.jp/article/525788"
+    },
+    {
+      "name": "TBS NEWS DIG",
+      "url": "https://newsdig.tbs.co.jp/articles/-/3058643?display=1"
+    },
+    {
+      "name": "The Japan Times (Jiji)",
+      "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/ceremony-order-of-culture/"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.svg",
+      "alt": "Dessin d'une grande médaille dorée en forme de fleur blanche, accrochée à un ruban violet, sous un ciel bleu d'automne. Un panneau indique 文化の日 2026.11.3. Autour de la médaille, des petites icônes : une manette de jeu (ゲーム), une note de musique (音楽), une maison (建築), un flacon de chimie (科学) et un livre ouvert (文学).",
+      "caption": "Le 3 novembre, la culture japonaise sort ses médailles !"
+    },
+    {
+      "file": "laureats.svg",
+      "alt": "Tableau de 8 cartes, une par lauréat du 文化勲章 2026, avec le nom en japonais, l'âge et le domaine : Kenso Soai, 76 ans, chimie (Nobel) ; Motoko Ishii, 88 ans, lumière ; Toyoo Ito, 85 ans, architecture ; Tsuneyoshi Kuroiwa, 84 ans, biologie ; Tetsuya Shiokawa, 81 ans, littérature française ; Shunichi Tokura, 78 ans, musique ; Shigekazu Nagata, 77 ans, immunologie ; Shigeru Miyamoto, 73 ans, jeu vidéo (Mario), sa carte est grisée avec la mention absent. En bas : 7 présents et 1 absent, le 3 novembre au palais impérial.",
+      "caption": "Les 8 lauréats de l'année : 7 présents, 1 absent"
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "「ぶんかの {日|ひ}」に {八人|はちにん}が くんしょうを もらいます",
+      "paragraphs": [
+        "{十一月|じゅういちがつ}{三日|みっか}は「ぶんかの {日|ひ}」でした。この {日|ひ}、とうきょうで「ぶんかくんしょう」の しきが ありました。くんしょうを もらう {人|ひと}は {八人|はちにん}です。",
+        "ゲームの「マリオ」を つくった みやもと しげるさんも その {一人|ひとり}です。でも、みやもとさんは しきに きませんでした。ほかの {七人|しちにん}は てんのうへいかから くんしょうを もらいました。"
+      ],
+      "vocab": [
+        {
+          "word": "{日|ひ}",
+          "meaning": {
+            "fr": "le jour",
+            "en": "day"
+          }
+        },
+        {
+          "word": "くんしょう",
+          "meaning": {
+            "fr": "une médaille, une décoration",
+            "en": "medal, decoration"
+          }
+        },
+        {
+          "word": "しき",
+          "meaning": {
+            "fr": "une cérémonie",
+            "en": "ceremony"
+          }
+        },
+        {
+          "word": "もらう",
+          "meaning": {
+            "fr": "recevoir",
+            "en": "to receive"
+          }
+        },
+        {
+          "word": "つくる",
+          "meaning": {
+            "fr": "fabriquer, créer",
+            "en": "to make, to create"
+          }
+        },
+        {
+          "word": "ゲーム",
+          "meaning": {
+            "fr": "un jeu vidéo",
+            "en": "video game"
+          }
+        },
+        {
+          "word": "きませんでした",
+          "meaning": {
+            "fr": "n'est pas venu (forme passée négative de くる)",
+            "en": "did not come (past negative of くる)"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "「ぶんかの {日|ひ}」は なんがつ なんにちですか。",
+          "choices": [
+            "{十一月|じゅういちがつ}{三日|みっか}",
+            "{十月|じゅうがつ}{三日|みっか}",
+            "{十一月|じゅういちがつ}{八日|ようか}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Le texte dit : 十一月三日 (le 3 novembre).",
+            "en": "The text says 十一月三日 (November 3)."
+          }
+        },
+        {
+          "question": "くんしょうを もらう {人|ひと}は なんにんですか。",
+          "choices": [
+            "{三人|さんにん}",
+            "{八人|はちにん}",
+            "{十人|じゅうにん}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "八人 : 8 personnes reçoivent la médaille cette année.",
+            "en": "八人: 8 people receive the medal this year."
+          }
+        },
+        {
+          "question": "みやもとさんは しきに きましたか。",
+          "choices": [
+            "はい、きました。",
+            "いいえ、きませんでした。",
+            "ともだちと きました。"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "みやもとさんは しきに きませんでした : Miyamoto n'est pas venu.",
+            "en": "みやもとさんは しきに きませんでした: Miyamoto did not come."
+          }
+        }
+      ]
+    },
+    "N4": {
+      "title": "「{文化|ぶんか}の{日|ひ}」に{文化勲章|ぶんかくんしょう}　マリオを{作|つく}った{人|ひと}も",
+      "paragraphs": [
+        "{十一月|じゅういちがつ}{三日|みっか}の「{文化|ぶんか}の{日|ひ}」に、{東京|とうきょう}の{皇居|こうきょ}で「{文化勲章|ぶんかくんしょう}」の{式|しき}が ありました。{文化勲章|ぶんかくんしょう}は、{日本|にほん}の{文化|ぶんか}や{科学|かがく}のために {長|なが}い あいだ がんばった{人|ひと}に {贈|おく}られる{特別|とくべつ}な{勲章|くんしょう}です。{今年|ことし}は 8{人|にん}が {選|えら}ばれました。",
+        "その{中|なか}には、ノーベル{化学賞|かがくしょう}を もらうことが {決|き}まった {硤合憲三|そあいけんそう}さん（76{歳|さい}）や、{任天堂|にんてんどう}で「スーパーマリオ」を {作|つく}った {宮本茂|みやもとしげる}さん（73{歳|さい}）も います。{宮本|みやもと}さんは {式|しき}に {来|こ}ませんでしたが、ほかの 7{人|にん}は {天皇陛下|てんのうへいか}から {勲章|くんしょう}を {受|う}け{取|と}りました。{式|しき}の あと、みんなは {秋|あき}の {青|あお}い{空|そら}の {下|した}で {写真|しゃしん}を {撮|と}りました。"
+      ],
+      "vocab": [
+        {
+          "word": "{文化|ぶんか}",
+          "meaning": {
+            "fr": "la culture",
+            "en": "culture"
+          }
+        },
+        {
+          "word": "{科学|かがく}",
+          "meaning": {
+            "fr": "la science",
+            "en": "science"
+          }
+        },
+        {
+          "word": "{特別|とくべつ}な",
+          "meaning": {
+            "fr": "spécial",
+            "en": "special"
+          }
+        },
+        {
+          "word": "{選|えら}ぶ",
+          "meaning": {
+            "fr": "choisir",
+            "en": "to choose"
+          }
+        },
+        {
+          "word": "{決|き}まる",
+          "meaning": {
+            "fr": "être décidé",
+            "en": "to be decided"
+          }
+        },
+        {
+          "word": "{受|う}け{取|と}る",
+          "meaning": {
+            "fr": "recevoir (en main)",
+            "en": "to receive"
+          }
+        },
+        {
+          "word": "{写真|しゃしん}を{撮|と}る",
+          "meaning": {
+            "fr": "prendre une photo",
+            "en": "to take a photo"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{文化勲章|ぶんかくんしょう}は どんな{人|ひと}に {贈|おく}られますか。",
+          "choices": [
+            "{文化|ぶんか}や{科学|かがく}のために {長|なが}い あいだ がんばった{人|ひと}",
+            "{若|わか}くて {有名|ゆうめい}な{人|ひと}",
+            "{皇居|こうきょ}で {働|はたら}く{人|ひと}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Elle récompense ceux qui ont beaucoup travaillé pour la culture ou la science.",
+            "en": "It honors people who worked a long time for culture or science."
+          }
+        },
+        {
+          "question": "{宮本|みやもと}さんは {何|なに}を {作|つく}った{人|ひと}ですか。",
+          "choices": [
+            "{映画|えいが}",
+            "「スーパーマリオ」",
+            "{車|くるま}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Miyamoto a créé Super Mario chez Nintendo (任天堂).",
+            "en": "Miyamoto created Super Mario at Nintendo (任天堂)."
+          }
+        },
+        {
+          "question": "{式|しき}の あと、みんなは {何|なに}を しましたか。",
+          "choices": [
+            "ご{飯|はん}を {食|た}べました",
+            "{歌|うた}を {歌|うた}いました",
+            "{写真|しゃしん}を {撮|と}りました"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "式のあと、写真を撮りました : ils ont pris une photo sous le ciel d'automne.",
+            "en": "After the ceremony they took a photo under the autumn sky."
+          }
+        }
+      ]
+    },
+    "N3": {
+      "title": "{文化|ぶんか}の{日|ひ}に{文化勲章|ぶんかくんしょう}の{親授式|しんじゅしき}　ノーベル{賞|しょう}の{硤合|そあい}さんら7{人|にん}",
+      "paragraphs": [
+        "「{文化|ぶんか}の{日|ひ}」の11{月|がつ}{3日|みっか}、{皇居|こうきょ}・{宮殿|きゅうでん}の「{松|まつ}の{間|ま}」で{文化勲章|ぶんかくんしょう}の{親授式|しんじゅしき}が{行|おこな}われた。{今年|ことし}の{受章者|じゅしょうしゃ}は8{人|にん}で、そのうち7{人|にん}が{出席|しゅっせき}し、{天皇陛下|てんのうへいか}から{一人|ひとり}ずつ{勲章|くんしょう}を{手渡|てわた}された。{出席|しゅっせき}したのは、ノーベル{化学賞|かがくしょう}に{選|えら}ばれた{硤合憲三|そあいけんそう}さん（76）、{照明|しょうめい}デザイナーの{石井幹子|いしいもとこ}さん（88）、{建築家|けんちくか}の{伊東豊雄|いとうとよお}さん（85）、フランス{文学|ぶんがく}の{塩川徹也|しおかわてつや}さん（81）、「ペッパー{警部|けいぶ}」などを{作曲|さっきょく}した{都倉俊一|とくらしゅんいち}さん（78）たちだ。ゲーム「スーパーマリオ」の{生|う}みの{親|おや}、{宮本茂|みやもとしげる}さん（73）は{欠席|けっせき}した。",
+        "{陛下|へいか}は「{長年|ながねん}{努力|どりょく}を{重|かさ}ね、{大|おお}きな{業績|ぎょうせき}をおさめられ、{文化|ぶんか}の{向上|こうじょう}に{尽|つ}くしてこられたことを{誠|まこと}に{喜|よろこ}ばしく{思|おも}います」と{言葉|ことば}をかけられた。{式|しき}のあとの{記者会見|きしゃかいけん}で、{硤合|そあい}さんは、12{月|がつ}にストックホルムで{行|おこな}われるノーベル{賞|しょう}の{授賞式|じゅしょうしき}にも、この{名誉|めいよ}を{背負|せお}ってしっかり{臨|のぞ}みたいと{話|はな}した。"
+      ],
+      "vocab": [
+        {
+          "word": "{受章者|じゅしょうしゃ}",
+          "meaning": {
+            "fr": "le lauréat (d'une décoration)",
+            "en": "recipient (of an order)"
+          }
+        },
+        {
+          "word": "{出席|しゅっせき}する",
+          "meaning": {
+            "fr": "être présent, assister",
+            "en": "to attend"
+          }
+        },
+        {
+          "word": "{欠席|けっせき}する",
+          "meaning": {
+            "fr": "être absent",
+            "en": "to be absent"
+          }
+        },
+        {
+          "word": "{手渡|てわた}す",
+          "meaning": {
+            "fr": "remettre en main propre",
+            "en": "to hand over"
+          }
+        },
+        {
+          "word": "{生|う}みの{親|おや}",
+          "meaning": {
+            "fr": "le créateur, le « papa » d'une œuvre",
+            "en": "creator, father (of a work)"
+          }
+        },
+        {
+          "word": "{記者会見|きしゃかいけん}",
+          "meaning": {
+            "fr": "une conférence de presse",
+            "en": "press conference"
+          }
+        },
+        {
+          "word": "{名誉|めいよ}",
+          "meaning": {
+            "fr": "l'honneur",
+            "en": "honor"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{親授式|しんじゅしき}に{出席|しゅっせき}したのは{何人|なんにん}か。",
+          "choices": [
+            "8{人|にん}",
+            "7{人|にん}",
+            "3{人|にん}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "8 lauréats, dont 7 présents (そのうち7人が出席).",
+            "en": "8 recipients, 7 of whom attended."
+          }
+        },
+        {
+          "question": "{宮本茂|みやもとしげる}さんについて{正|ただ}しいものはどれか。",
+          "choices": [
+            "{式|しき}を{欠席|けっせき}した",
+            "{代表|だいひょう}であいさつをした",
+            "ノーベル{賞|しょう}をもらう"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "宮本茂さんは欠席した : il n'était pas là.",
+            "en": "宮本茂さんは欠席した: he was absent."
+          }
+        },
+        {
+          "question": "{硤合|そあい}さんは12{月|がつ}にどこへ{行|い}くか。",
+          "choices": [
+            "パリ",
+            "ストックホルム",
+            "ニューヨーク"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La remise du Nobel a lieu en décembre à Stockholm.",
+            "en": "The Nobel ceremony takes place in December in Stockholm."
+          }
+        }
+      ]
+    },
+    "N2": {
+      "title": "{皇居|こうきょ}で{文化勲章|ぶんかくんしょう}{親授式|しんじゅしき}　{陛下|へいか}「{文化|ぶんか}の{向上|こうじょう}に{尽|つ}くされた」　{宮本茂|みやもとしげる}さんは{欠席|けっせき}",
+      "paragraphs": [
+        "{文化|ぶんか}の{日|ひ}の3{日|か}、{文化勲章|ぶんかくんしょう}の{親授式|しんじゅしき}が{皇居|こうきょ}・{宮殿|きゅうでん}「{松|まつ}の{間|ま}」で{催|もよお}され、{今年|ことし}のノーベル{化学賞|かがくしょう}に{決|き}まった{有機|ゆうき}{合成|ごうせい}{化学|かがく}の{硤合憲三|そあいけんそう}さん（76）ら7{人|にん}に、{天皇陛下|てんのうへいか}から{勲章|くんしょう}が{手渡|てわた}された。{受章者|じゅしょうしゃ}はほかに、{照明|しょうめい}デザインの{石井幹子|いしいもとこ}さん（88）、{建築|けんちく}の{伊東豊雄|いとうとよお}さん（85）、{生物|せいぶつ}{科学|かがく}の{黒岩常祥|くろいわつねよし}さん（84）、フランス{文学|ぶんがく}の{塩川徹也|しおかわてつや}さん（81）、{大衆|たいしゅう}{音楽|おんがく}の{都倉俊一|とくらしゅんいち}さん（78）、{免疫学|めんえきがく}の{長田重一|ながたしげかず}さん（77）。メディア{芸術|げいじゅつ}（ゲーム）の{分野|ぶんや}で{選|えら}ばれた{任天堂|にんてんどう}の{宮本茂|みやもとしげる}さん（73）は{欠席|けっせき}した。",
+        "{陛下|へいか}は「{長年|ながねん}{努力|どりょく}を{重|かさ}ね、{大|おお}きな{業績|ぎょうせき}をおさめられ、{文化|ぶんか}の{向上|こうじょう}に{尽|つ}くしてこられたことを{誠|まこと}に{喜|よろこ}ばしく{思|おも}います」とねぎらわれた。これに{対|たい}し、{受章者|じゅしょうしゃ}を{代表|だいひょう}して{石井|いしい}さんが「それぞれの{分野|ぶんや}において{一層|いっそう}{精進|しょうじん}を{重|かさ}ねる{決意|けつい}でございます」とお{礼|れい}を{述|の}べた。{式|しき}の{後|あと}、{受章者|じゅしょうしゃ}たちは{秋晴|あきば}れの{空|そら}の{下|した}、{勲章|くんしょう}を{胸|むね}に{記念|きねん}{撮影|さつえい}に{臨|のぞ}んだ。",
+        "その{後|ご}の{記者|きしゃ}{会見|かいけん}で、{硤合|そあい}さんは「{今後|こんご}さらに{役立|やくだ}つ{研究|けんきゅう}をしたり、{若|わか}い{人|ひと}を{育|そだ}てたり、{一層|いっそう}{励|はげ}もうと{心|こころ}を{新|あら}たにした」と{語|かた}った。ピンク・レディーの「ペッパー{警部|けいぶ}」などで{知|し}られる{都倉|とくら}さんは、{戦後|せんご}、ジャズやロックを{取|と}り{入|い}れて{日本|にほん}のポップ{音楽|おんがく}を{発展|はってん}させた{先輩|せんぱい}たちを{代表|だいひょう}して{受|う}けた{栄誉|えいよ}だと{受|う}け{止|と}めていた。"
+      ],
+      "vocab": [
+        {
+          "word": "{催|もよお}す",
+          "meaning": {
+            "fr": "organiser, tenir (un événement)",
+            "en": "to hold (an event)"
+          }
+        },
+        {
+          "word": "ねぎらう",
+          "meaning": {
+            "fr": "remercier quelqu'un pour sa peine",
+            "en": "to thank for one's efforts"
+          }
+        },
+        {
+          "word": "{業績|ぎょうせき}",
+          "meaning": {
+            "fr": "les réalisations, l'œuvre accomplie",
+            "en": "achievements"
+          }
+        },
+        {
+          "word": "{精進|しょうじん}",
+          "meaning": {
+            "fr": "l'effort assidu, le dévouement",
+            "en": "devotion, diligent effort"
+          }
+        },
+        {
+          "word": "{決意|けつい}",
+          "meaning": {
+            "fr": "la détermination",
+            "en": "determination"
+          }
+        },
+        {
+          "word": "{秋晴|あきば}れ",
+          "meaning": {
+            "fr": "un beau temps clair d'automne",
+            "en": "clear autumn weather"
+          }
+        },
+        {
+          "word": "{栄誉|えいよ}",
+          "meaning": {
+            "fr": "l'honneur, la gloire",
+            "en": "honor, glory"
+          }
+        },
+        {
+          "word": "{受|う}け{止|と}める",
+          "meaning": {
+            "fr": "accueillir, prendre (une nouvelle) d'une certaine façon",
+            "en": "to take, to receive (news)"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{受章者|じゅしょうしゃ}を{代表|だいひょう}してお{礼|れい}を{述|の}べたのは{誰|だれ}か。",
+          "choices": [
+            "{硤合憲三|そあいけんそう}さん",
+            "{石井幹子|いしいもとこ}さん",
+            "{宮本茂|みやもとしげる}さん"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "C'est Motoko Ishii, la designer lumière, qui a parlé au nom de tous.",
+            "en": "Lighting designer Motoko Ishii spoke on behalf of everyone."
+          }
+        },
+        {
+          "question": "{宮本茂|みやもとしげる}さんはどの{分野|ぶんや}で{選|えら}ばれたか。",
+          "choices": [
+            "{大衆|たいしゅう}{音楽|おんがく}",
+            "{建築|けんちく}",
+            "メディア{芸術|げいじゅつ}（ゲーム）"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Miyamoto est distingué pour les arts médiatiques (jeu vidéo).",
+            "en": "Miyamoto was chosen for media arts (games)."
+          }
+        },
+        {
+          "question": "{都倉|とくら}さんは{今回|こんかい}の{栄誉|えいよ}をどう{受|う}け{止|と}めているか。",
+          "choices": [
+            "{自分|じぶん}{一人|ひとり}の{力|ちから}で{得|え}たものだ",
+            "{日本|にほん}のポップ{音楽|おんがく}を{育|そだ}てた{先輩|せんぱい}たちを{代表|だいひょう}して{受|う}けたものだ",
+            "ジャズの{分野|ぶんや}だけへの{賞|しょう}だ"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Il dit recevoir cet honneur au nom des aînés qui ont développé la pop japonaise.",
+            "en": "He sees it as an honor received on behalf of the seniors who built Japanese pop."
+          }
+        }
+      ]
+    },
+    "N1": {
+      "title": "{文化勲章|ぶんかくんしょう}、{皇居|こうきょ}で{親授式|しんじゅしき}　ノーベル{賞|しょう}の{硤合|そあい}{氏|し}ら7{人|にん}に　「{生|う}みの{親|おや}」{宮本|みやもと}{氏|し}は{欠席|けっせき}",
+      "paragraphs": [
+        "{文化|ぶんか}の{日|ひ}の3{日|か}、{本年度|ほんねんど}の{文化勲章|ぶんかくんしょう}{親授式|しんじゅしき}が{皇居|こうきょ}・{宮殿|きゅうでん}「{松|まつ}の{間|ま}」で{執|と}り{行|おこな}われ、{今年|ことし}のノーベル{化学賞|かがくしょう}{受賞|じゅしょう}が{決|き}まった{東京|とうきょう}{理科|りか}{大学|だいがく}の{硤合憲三|そあいけんそう}{氏|し}（76）ら7{人|にん}が、{天皇陛下|てんのうへいか}から{直接|ちょくせつ}{勲章|くんしょう}を{授|さず}けられた。{受章者|じゅしょうしゃ}は{先月|せんげつ}{発表|はっぴょう}された8{人|にん}で、メディア{芸術|げいじゅつ}の{分野|ぶんや}から{選|えら}ばれた{任天堂|にんてんどう}の{宮本茂|みやもとしげる}{氏|し}（73）は{式|しき}を{欠席|けっせき}した。「スーパーマリオ」シリーズの{生|う}みの{親|おや}として{世界的|せかいてき}に{知|し}られる{同氏|どうし}の{受章|じゅしょう}は、ゲームが{国|くに}の{顕彰|けんしょう}{対象|たいしょう}として{文化|ぶんか}の{一角|いっかく}を{占|し}めるに{至|いた}ったことを{印象|いんしょう}づけた。",
+        "{出席|しゅっせき}した{受章者|じゅしょうしゃ}は{硤合|そあい}{氏|し}のほか、{照明|しょうめい}デザイナーの{石井幹子|いしいもとこ}{氏|し}（88）、{建築家|けんちくか}の{伊東豊雄|いとうとよお}{氏|し}（85）、{細胞|さいぼう}{生物学|せいぶつがく}の{黒岩常祥|くろいわつねよし}{氏|し}（84）、フランス{文学|ぶんがく}の{塩川徹也|しおかわてつや}{氏|し}（81）、{作曲家|さっきょくか}で{元|もと}{文化庁|ぶんかちょう}{長官|ちょうかん}の{都倉俊一|とくらしゅんいち}{氏|し}（78）、{免疫学|めんえきがく}の{長田重一|ながたしげかず}{氏|し}（77）。{陛下|へいか}は「{長年|ながねん}{努力|どりょく}を{重|かさ}ね、{大|おお}きな{業績|ぎょうせき}をおさめられ、{文化|ぶんか}の{向上|こうじょう}に{尽|つ}くしてこられたことを{誠|まこと}に{喜|よろこ}ばしく{思|おも}います」とねぎらわれ、{石井|いしい}{氏|し}が{一同|いちどう}を{代表|だいひょう}し「それぞれの{分野|ぶんや}において{一層|いっそう}{精進|しょうじん}を{重|かさ}ねる{決意|けつい}でございます」と{謝辞|しゃじ}を{述|の}べた。",
+        "{式後|しきご}、{宮内庁|くないちょう}で{会見|かいけん}に{臨|のぞ}んだ{硤合|そあい}{氏|し}は、12{月|がつ}にストックホルムで{開|ひら}かれるノーベル{賞|しょう}{授賞式|じゅしょうしき}を{見据|みす}え、「{名誉|めいよ}を{背負|せお}って、しっかり{臨|のぞ}んでいきたいという{気持|きも}ちを{新|あら}たにした」と{抱負|ほうふ}を{語|かた}った。{細胞死|さいぼうし}の{一形態|いちけいたい}であるアポトーシスの{分子|ぶんし}{機構|きこう}を{解明|かいめい}した{長田|ながた}{氏|し}は、{基礎|きそ}{研究|けんきゅう}が{評価|ひょうか}されたことを「うれしく、{光栄|こうえい}に{思|おも}う」と{喜|よろこ}びを{口|くち}にした。",
+        "ピンク・レディーの「ペッパー{警部|けいぶ}」などのヒット{曲|きょく}で{知|し}られる{都倉|とくら}{氏|し}は、{戦後|せんご}、{米国|べいこく}のジャズやロックを{取|と}り{入|い}れて{日本|にほん}のポップ{音楽|おんがく}を{発展|はってん}させた{先達|せんだつ}に{思|おも}いを{馳|は}せ、「{今日|きょう}の{栄誉|えいよ}はそういった{人|ひと}たちを{代表|だいひょう}して{頂|いただ}いたと{思|おも}う」と{述|の}べた。{科学|かがく}から{大衆|たいしゅう}{文化|ぶんか}まで、{今年|ことし}の{顔|かお}ぶれは{文化|ぶんか}という{言葉|ことば}の{裾野|すその}の{広|ひろ}さを{改|あらた}めて{示|しめ}すものとなった。"
+      ],
+      "vocab": [
+        {
+          "word": "{執|と}り{行|おこな}う",
+          "meaning": {
+            "fr": "célébrer, procéder à (une cérémonie)",
+            "en": "to perform (a ceremony)"
+          }
+        },
+        {
+          "word": "{授|さず}ける",
+          "meaning": {
+            "fr": "conférer, décerner",
+            "en": "to confer, to bestow"
+          }
+        },
+        {
+          "word": "{顕彰|けんしょう}",
+          "meaning": {
+            "fr": "la distinction publique, l'hommage officiel",
+            "en": "public recognition, honoring"
+          }
+        },
+        {
+          "word": "{謝辞|しゃじ}",
+          "meaning": {
+            "fr": "le discours de remerciement",
+            "en": "words of thanks"
+          }
+        },
+        {
+          "word": "{抱負|ほうふ}",
+          "meaning": {
+            "fr": "les ambitions, les résolutions",
+            "en": "aspirations"
+          }
+        },
+        {
+          "word": "{解明|かいめい}する",
+          "meaning": {
+            "fr": "élucider",
+            "en": "to elucidate"
+          }
+        },
+        {
+          "word": "{先達|せんだつ}",
+          "meaning": {
+            "fr": "les pionniers, les aînés",
+            "en": "pioneers, predecessors"
+          }
+        },
+        {
+          "word": "{裾野|すその}",
+          "meaning": {
+            "fr": "l'étendue, la base large (au sens figuré)",
+            "en": "breadth, range (figurative)"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{宮本|みやもと}{氏|し}の{受章|じゅしょう}について、{記事|きじ}が{指摘|してき}していることはどれか。",
+          "choices": [
+            "ゲームが{国|くに}の{顕彰|けんしょう}{対象|たいしょう}として{文化|ぶんか}の{一角|いっかく}を{占|し}めるに{至|いた}ったこと",
+            "ゲームの{分野|ぶんや}では{初|はじ}めて{式|しき}に{出席|しゅっせき}したこと",
+            "{受章|じゅしょう}を{辞退|じたい}したこと"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Le premier paragraphe dit que sa distinction montre que le jeu vidéo a pris place dans la culture reconnue par l'État.",
+            "en": "The first paragraph says his award shows games now hold a place in state-recognized culture."
+          }
+        },
+        {
+          "question": "{長田|ながた}{氏|し}の{業績|ぎょうせき}として{正|ただ}しいものはどれか。",
+          "choices": [
+            "{照明|しょうめい}デザインの{確立|かくりつ}",
+            "アポトーシスの{分子|ぶんし}{機構|きこう}の{解明|かいめい}",
+            "{有機|ゆうき}{合成|ごうせい}{化学|かがく}でのノーベル{賞|しょう}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Nagata a élucidé le mécanisme moléculaire de l'apoptose (mort cellulaire programmée).",
+            "en": "Nagata elucidated the molecular mechanism of apoptosis."
+          }
+        },
+        {
+          "question": "{筆者|ひっしゃ}は{今年|ことし}の{受章者|じゅしょうしゃ}の{顔|かお}ぶれから{何|なに}を{読|よ}み{取|と}っているか。",
+          "choices": [
+            "{科学|かがく}の{分野|ぶんや}が{軽視|けいし}されていること",
+            "{文化|ぶんか}という{言葉|ことば}が{指|さ}す{範囲|はんい}の{広|ひろ}さ",
+            "{若手|わかて}の{受章者|じゅしょうしゃ}が{増|ふ}えていること"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Dernière phrase : de la science à la culture populaire, la liste montre l'étendue (裾野の広さ) du mot culture.",
+            "en": "Last sentence: from science to pop culture, the lineup shows how broad the word culture is."
+          }
+        }
+      ]
+    }
+  }
+}
