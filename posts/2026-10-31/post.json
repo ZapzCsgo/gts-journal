@@ -23,9 +23,18 @@
   ],
   "images": [
     {
-      "file": "cover.svg",
-      "alt": "Dessin de deux enfants déguisés en infirmière sous une lune d'Halloween, avec des citrouilles. À gauche, la blouse porte un coeur rose et une seringue en jouet, avec la mention OK. À droite, la blouse porte une croix rouge barrée d'un panneau d'interdiction, avec la mention Interdit.",
-      "caption": "Le coeur, c'est permis. La croix rouge, même rose, c'est non !"
+      "file": "cover.webp",
+      "alt": "Photo de nuit du carrefour de Shibuya à Tokyo le soir d'Halloween : une foule immense de gens déguisés sous les écrans géants lumineux des immeubles.",
+      "caption": "Le soir d'Halloween, le carrefour de Shibuya se remplit de costumes (ici en 2017).",
+      "credit": "Photo : Dick Thomas Johnson / CC BY 2.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Shibuya_Halloween_2017_(October_31)_(38848549505).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Shibuya_Halloween_2017_%28October_31%29_%2838848549505%29.jpg",
+        "origin": "Flickr, via Wikimedia Commons",
+        "author": "Dick Thomas Johnson",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+      }
     },
     {
       "file": "chiffres.svg",

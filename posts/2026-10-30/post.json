@@ -23,9 +23,18 @@
   ],
   "images": [
     {
-      "file": "cover.svg",
-      "alt": "Carte simplifiée du Japon avec les températures du matin du 29 octobre : moins 6,3 °C à Taiki, 2,3 °C à Sapporo, 6,2 °C à Sendai, 10,4 °C à Tokyo, 8,6 °C à Nagoya, 10,1 °C à Osaka et 11,9 °C à Fukuoka, avec des flocons au nord.",
-      "caption": "Le matin du 29 octobre : plus on monte au nord, plus ça pique !"
+      "file": "cover.webp",
+      "alt": "Gros plan sur une feuille d'érable rouge couverte de givre blanc, au bord du lac Kawaguchi, au pied du mont Fuji, un matin d'automne.",
+      "caption": "Premier givre sur les érables rouges : l'automne japonais sort son manteau blanc.",
+      "credit": "Photo : lumoplank / CC0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Kawaguchiko,_Part_III_-_Kawaguchiko6786.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Kawaguchiko%2C_Part_III_-_Kawaguchiko6786.jpg",
+        "origin": "Flickr, via Wikimedia Commons",
+        "author": "lumoplank",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      }
     },
     {
       "file": "chauffage.svg",

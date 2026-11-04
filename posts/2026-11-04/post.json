@@ -27,9 +27,18 @@
   ],
   "images": [
     {
-      "file": "cover.svg",
-      "alt": "Dessin d'une grande médaille dorée en forme de fleur blanche, accrochée à un ruban violet, sous un ciel bleu d'automne. Un panneau indique 文化の日 2026.11.3. Autour de la médaille, des petites icônes : une manette de jeu (ゲーム), une note de musique (音楽), une maison (建築), un flacon de chimie (科学) et un livre ouvert (文学).",
-      "caption": "Le 3 novembre, la culture japonaise sort ses médailles !"
+      "file": "cover.webp",
+      "alt": "Photo officielle de l'Ordre de la Culture (文化勲章) : un insigne en forme de fleur blanche à cinq pétales avec un centre rouge, sous une couronne de feuilles vertes, suspendu à un ruban violet noué, sur fond gris clair.",
+      "caption": "Le 文化勲章, la médaille remise le jour de la Culture : une fleur de tachibana blanche sur un ruban violet.",
+      "credit": "Photo : Cabinet Office du Japon (内閣府) / CC BY 4.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Order_of_Culture.png",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Order_of_Culture.png",
+        "origin": "内閣府「勲章の種類（文化勲章）」, via Wikimedia Commons",
+        "author": "内閣府 (Cabinet Office du Japon)",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+      }
     },
     {
       "file": "laureats.svg",

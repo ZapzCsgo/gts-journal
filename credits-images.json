@@ -1,0 +1,53 @@
+{
+  "_note": "Registre des photos du Journal : une entrée par image non créée par nous (origine, auteur, licence). Le plus récent en premier. Ajouter en tête, ne jamais supprimer.",
+  "images": [
+    {
+      "date": "2026-11-04",
+      "file": "cover.webp",
+      "credit": "Photo : Cabinet Office du Japon (内閣府) / CC BY 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Order_of_Culture.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Order_of_Culture.png",
+      "origin": "内閣府「勲章の種類（文化勲章）」, via Wikimedia Commons",
+      "author": "内閣府 (Cabinet Office du Japon)",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
+      "date": "2026-11-03",
+      "file": "cover.webp",
+      "credit": "Photo : Toby Oxborrow / CC BY-SA 2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Earthquake_Kit_in_Japan_2008.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Earthquake_Kit_in_Japan_2008.jpg",
+      "origin": "Flickr, via Wikimedia Commons",
+      "author": "Toby Oxborrow",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
+      "date": "2026-10-31",
+      "file": "cover.webp",
+      "credit": "Photo : Dick Thomas Johnson / CC BY 2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Shibuya_Halloween_2017_(October_31)_(38848549505).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Shibuya_Halloween_2017_%28October_31%29_%2838848549505%29.jpg",
+      "origin": "Flickr, via Wikimedia Commons",
+      "author": "Dick Thomas Johnson",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
+      "date": "2026-10-30",
+      "file": "cover.webp",
+      "credit": "Photo : lumoplank / CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kawaguchiko,_Part_III_-_Kawaguchiko6786.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Kawaguchiko%2C_Part_III_-_Kawaguchiko6786.jpg",
+      "origin": "Flickr, via Wikimedia Commons",
+      "author": "lumoplank",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    }
+  ]
+}

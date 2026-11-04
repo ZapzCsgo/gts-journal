@@ -27,9 +27,18 @@
   ],
   "images": [
     {
-      "file": "cover.svg",
-      "alt": "Dessin d'un bâtiment avec le panneau 防災庁 (agence de prévention des catastrophes) et la date du 2 novembre 2026. Devant, un enfant souriant porte un sac de secours, à côté de bouteilles d'eau, de boîtes de conserve et d'une lampe de poche.",
-      "caption": "Le nouveau Bōsai-chō ouvre ses portes, et le petit sac de secours est prêt !"
+      "file": "cover.webp",
+      "alt": "Photo d'un vrai kit de secours japonais posé sur une table : un sac argenté marqué 非常持出袋, deux casques blancs, une grande bouteille d'eau, une boîte de conserve, des gants et des sachets de nourriture.",
+      "caption": "Un vrai sac de secours japonais (非常持出袋) : casque, eau, conserves et gants, prêts à partir.",
+      "credit": "Photo : Toby Oxborrow / CC BY-SA 2.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Earthquake_Kit_in_Japan_2008.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Earthquake_Kit_in_Japan_2008.jpg",
+        "origin": "Flickr, via Wikimedia Commons",
+        "author": "Toby Oxborrow",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      }
     },
     {
       "file": "chiffres.svg",
