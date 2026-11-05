@@ -2,6 +2,18 @@
   "_note": "Registre des photos du Journal : une entrée par image non créée par nous (origine, auteur, licence). Le plus récent en premier. Ajouter en tête, ne jamais supprimer.",
   "images": [
     {
+      "date": "2026-11-05",
+      "file": "cover.webp",
+      "credit": "Photo : Loki austanfell / CC BY-SA 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%22Traditional_lamprey_fishing%22_Manhole_cover_of_Ebestu_city,_Hokkaido,_Japan._Colored_version.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/%22Traditional_lamprey_fishing%22_Manhole_cover_of_Ebestu_city%2C_Hokkaido%2C_Japan._Colored_version.jpg",
+      "origin": "Wikimedia Commons",
+      "author": "Loki austanfell",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
       "date": "2026-11-04",
       "file": "cover.webp",
       "credit": "Photo : Cabinet Office du Japon (内閣府) / CC BY 4.0",

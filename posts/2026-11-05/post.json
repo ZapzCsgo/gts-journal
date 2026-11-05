@@ -1,0 +1,569 @@
+{
+  "date": "2026-11-05",
+  "newsDate": "2026-11-04",
+  "category": "societe",
+  "title": "Cartes de plaques d'égout : collectionner, oui ! Crier sur le personnel, non !",
+  "summary": {
+    "fr": "Au Japon, les villes distribuent gratuitement des « cartes de plaques d'égout » (マンホールカード), si populaires qu'environ 26 millions ont déjà été données. Mais à cause de collectionneurs impolis (voitures mal garées, cris contre le personnel), Higashihiroshima a suspendu sa distribution et la ville de Shari, à Hokkaido, l'a arrêtée.",
+    "en": "Japanese towns hand out free \"manhole cards\", so popular that about 26 million have been given away. But rude collectors (illegal parking, shouting at staff) led Higashihiroshima to suspend distribution and the town of Shari in Hokkaido to end it."
+  },
+  "sources": [
+    {
+      "name": "nippon.com (Jiji Press, japonais)",
+      "url": "https://www.nippon.com/ja/articles/-/56877"
+    },
+    {
+      "name": "nippon.com (Jiji Press, anglais)",
+      "url": "https://www.nippon.com/en/articles/-/56878"
+    },
+    {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/society/manhole-card-collectors/"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "Plaque d'égout ronde et colorée de la ville d'Ebetsu (Hokkaido), posée dans le sol devant la mairie : le dessin en couleurs montre la pêche traditionnelle à la lamproie sur la rivière Ishikari.",
+      "caption": "Au Japon, chaque ville a sa plaque d'égout décorée. Ici, celle d'Ebetsu, à Hokkaido.",
+      "credit": "Photo : Loki austanfell / CC BY-SA 4.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:%22Traditional_lamprey_fishing%22_Manhole_cover_of_Ebestu_city,_Hokkaido,_Japan._Colored_version.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/%22Traditional_lamprey_fishing%22_Manhole_cover_of_Ebestu_city%2C_Hokkaido%2C_Japan._Colored_version.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "Loki austanfell",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "マンホールカードは にんきです",
+      "paragraphs": [
+        "{日本|にほん}の {町|まち}には「マンホールカード」が あります。マンホールの しゃしんの カードで、ただです。",
+        "とても にんきですから、たくさんの {人|ひと}が カードを もらいに {来|き}ます。でも、{町|まち}の {人|ひと}に {大|おお}きい こえで おこる {人|ひと}も います。それで、カードを やめた {町|まち}も あります。"
+      ],
+      "vocab": [
+        {
+          "word": "マンホール",
+          "meaning": {
+            "fr": "une plaque d'égout",
+            "en": "manhole (cover)"
+          }
+        },
+        {
+          "word": "しゃしん",
+          "meaning": {
+            "fr": "une photo",
+            "en": "photo"
+          }
+        },
+        {
+          "word": "ただ",
+          "meaning": {
+            "fr": "gratuit",
+            "en": "free (of charge)"
+          }
+        },
+        {
+          "word": "にんき",
+          "meaning": {
+            "fr": "la popularité, populaire",
+            "en": "popularity, popular"
+          }
+        },
+        {
+          "word": "もらう",
+          "meaning": {
+            "fr": "recevoir",
+            "en": "to receive"
+          }
+        },
+        {
+          "word": "こえ",
+          "meaning": {
+            "fr": "la voix",
+            "en": "voice"
+          }
+        },
+        {
+          "word": "おこる",
+          "meaning": {
+            "fr": "se fâcher",
+            "en": "to get angry"
+          }
+        },
+        {
+          "word": "やめる",
+          "meaning": {
+            "fr": "arrêter",
+            "en": "to stop, to quit"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "マンホールカードは いくらですか。",
+          "choices": [
+            "{百円|ひゃくえん}です",
+            "ただです",
+            "{千円|せんえん}です"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La carte est « ただ », c'est-à-dire gratuite.",
+            "en": "The card is \"ただ\", which means free."
+          }
+        },
+        {
+          "question": "どうして たくさんの {人|ひと}が {来|き}ますか。",
+          "choices": [
+            "{雨|あめ}ですから",
+            "おまつりですから",
+            "カードが にんきですから"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Les gens viennent parce que la carte est très populaire (にんき).",
+            "en": "People come because the card is very popular (にんき)."
+          }
+        },
+        {
+          "question": "どうして カードを やめた {町|まち}が ありますか。",
+          "choices": [
+            "{大|おお}きい こえで おこる {人|ひと}が いましたから",
+            "マンホールが ありませんでしたから",
+            "{町|まち}に {人|ひと}が いませんでしたから"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Certaines personnes criaient sur le personnel de la ville, alors des villes ont arrêté.",
+            "en": "Some people shouted angrily at town staff, so some towns stopped."
+          }
+        }
+      ]
+    },
+    "N4": {
+      "title": "{人気|にんき}のマンホールカード、マナーが{悪|わる}くて{困|こま}る{町|まち}も",
+      "paragraphs": [
+        "マンホールカードは、{町|まち}のマンホールのふたの{写真|しゃしん}がのっているカードです。2016{年|ねん}から、{日本中|にほんじゅう}の{町|まち}が{作|つく}って、{無料|むりょう}で{一人|ひとり}{一枚|いちまい}ずつ{配|くば}っています。{今|いま}までに{約|やく}2600{万枚|まんまい}も{配|くば}られました。",
+        "でも、カードを{集|あつ}める{人|ひと}のマナーが{問題|もんだい}になっています。{広島県|ひろしまけん}の{東広島市|ひがしひろしまし}では、{狭|せま}い{道|みち}に{車|くるま}を{止|と}める{人|ひと}や、{係|かかり}の{人|ひと}に「{早|はや}くしろ」と{言|い}う{人|ひと}がいたので、カードを{配|くば}るのを{休|やす}むことにしました。",
+        "ルールを{守|まも}って、{楽|たの}しく{集|あつ}めましょう！"
+      ],
+      "vocab": [
+        {
+          "word": "{写真|しゃしん}",
+          "meaning": {
+            "fr": "une photo",
+            "en": "photo"
+          }
+        },
+        {
+          "word": "{無料|むりょう}",
+          "meaning": {
+            "fr": "gratuit",
+            "en": "free of charge"
+          }
+        },
+        {
+          "word": "{配|くば}る",
+          "meaning": {
+            "fr": "distribuer",
+            "en": "to hand out"
+          }
+        },
+        {
+          "word": "{集|あつ}める",
+          "meaning": {
+            "fr": "collectionner, rassembler",
+            "en": "to collect"
+          }
+        },
+        {
+          "word": "{問題|もんだい}",
+          "meaning": {
+            "fr": "un problème",
+            "en": "problem"
+          }
+        },
+        {
+          "word": "{止|と}める",
+          "meaning": {
+            "fr": "garer, arrêter (une voiture)",
+            "en": "to park, to stop (a car)"
+          }
+        },
+        {
+          "word": "{守|まも}る",
+          "meaning": {
+            "fr": "respecter (une règle)",
+            "en": "to follow, to keep (a rule)"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "マンホールカードは{一人|ひとり}{何枚|なんまい}もらえますか。",
+          "choices": [
+            "2{枚|まい}",
+            "1{枚|まい}",
+            "5{枚|まい}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le texte dit « 一人一枚ずつ » : une carte par personne.",
+            "en": "The text says \"一人一枚ずつ\": one card per person."
+          }
+        },
+        {
+          "question": "{東広島市|ひがしひろしまし}で{困|こま}ったことは{何|なん}ですか。",
+          "choices": [
+            "カードが{高|たか}かった",
+            "{雨|あめ}がたくさん{降|ふ}った",
+            "{狭|せま}い{道|みち}に{車|くるま}を{止|と}める{人|ひと}がいた"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Des visiteurs garaient leur voiture dans une rue étroite et parlaient mal au personnel.",
+            "en": "Visitors parked on a narrow street and spoke rudely to staff."
+          }
+        },
+        {
+          "question": "{今|いま}までに{何枚|なんまい}ぐらい{配|くば}られましたか。",
+          "choices": [
+            "{約|やく}2600{万枚|まんまい}",
+            "{約|やく}2600{枚|まい}",
+            "{約|やく}26{万枚|まんまい}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Environ 26 millions de cartes (2600万枚) ont été distribuées.",
+            "en": "About 26 million cards (2600万枚) have been handed out."
+          }
+        }
+      ]
+    },
+    "N3": {
+      "title": "マンホールカードの{収集家|しゅうしゅうか}、マナー{違反|いはん}で{配布|はいふ}をやめる{町|まち}も",
+      "paragraphs": [
+        "マンホールカードは、{下水道|げすいどう}のPRや{観光|かんこう}のために、2016{年|ねん}から{全国|ぜんこく}の{自治体|じちたい}が{作|つく}っている{名刺|めいし}ぐらいの{大|おお}きさのカードだ。{表|おもて}にはマンホールのふたの{写真|しゃしん}と{場所|ばしょ}、{裏|うら}にはデザインの{由来|ゆらい}が{書|か}いてある。{道|みち}の{駅|えき}などで{一人|ひとり}{一枚|いちまい}{無料|むりょう}でもらえ、{一日|いちにち}に{約|やく}4000{枚|まい}も{配|くば}られることがあるそうだ。",
+        "ところが、{人気|にんき}が{出|で}るにつれて、{集|あつ}める{人|ひと}のマナー{違反|いはん}が{増|ふ}えている。{北海道|ほっかいどう}の{斜里町|しゃりちょう}では、カードがすぐになくなり、もらえなかった{観光客|かんこうきゃく}が{職員|しょくいん}を{怒鳴|どな}ることもあったため、{去年|きょねん}の2{月|がつ}で{配布|はいふ}をやめてしまった。また、{服|ふく}を{着替|きが}えて{何度|なんど}ももらい、{高|たか}く{売|う}る{人|ひと}もいるという。"
+      ],
+      "vocab": [
+        {
+          "word": "{収集家|しゅうしゅうか}",
+          "meaning": {
+            "fr": "un collectionneur",
+            "en": "collector"
+          }
+        },
+        {
+          "word": "{自治体|じちたい}",
+          "meaning": {
+            "fr": "une collectivité locale (ville, village)",
+            "en": "local government"
+          }
+        },
+        {
+          "word": "{観光|かんこう}",
+          "meaning": {
+            "fr": "le tourisme",
+            "en": "tourism"
+          }
+        },
+        {
+          "word": "{由来|ゆらい}",
+          "meaning": {
+            "fr": "l'origine",
+            "en": "origin"
+          }
+        },
+        {
+          "word": "{違反|いはん}",
+          "meaning": {
+            "fr": "une infraction, le non-respect",
+            "en": "violation"
+          }
+        },
+        {
+          "word": "{職員|しょくいん}",
+          "meaning": {
+            "fr": "un employé, un agent",
+            "en": "staff member"
+          }
+        },
+        {
+          "word": "{怒鳴|どな}る",
+          "meaning": {
+            "fr": "crier, hurler sur quelqu'un",
+            "en": "to shout at"
+          }
+        },
+        {
+          "word": "{着替|きが}える",
+          "meaning": {
+            "fr": "se changer (de vêtements)",
+            "en": "to change clothes"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "カードの{裏|うら}には{何|なに}が{書|か}いてありますか。",
+          "choices": [
+            "デザインの{由来|ゆらい}",
+            "カードの{値段|ねだん}",
+            "{町|まち}の{人口|じんこう}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Au dos (裏), on trouve l'origine (由来) du dessin.",
+            "en": "The back (裏) explains the origin (由来) of the design."
+          }
+        },
+        {
+          "question": "{斜里町|しゃりちょう}が{配布|はいふ}をやめたのはいつですか。",
+          "choices": [
+            "{今年|ことし}の9{月|がつ}",
+            "{去年|きょねん}の2{月|がつ}",
+            "2016{年|ねん}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Shari a arrêté en février de l'an dernier (去年の2月).",
+            "en": "Shari stopped in February last year (去年の2月)."
+          }
+        },
+        {
+          "question": "{問題|もんだい}として{書|か}かれていないことはどれですか。",
+          "choices": [
+            "{服|ふく}を{着替|きが}えて{何度|なんど}ももらう",
+            "カードを{高|たか}く{売|う}る",
+            "カードを{破|やぶ}って{捨|す}てる"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Le texte ne parle pas de cartes déchirées : il parle de vêtements changés et de revente.",
+            "en": "The text never mentions tearing cards; it mentions changing clothes and reselling."
+          }
+        }
+      ]
+    },
+    "N2": {
+      "title": "{人気|にんき}の「マンホールカード」、{収集家|しゅうしゅうか}のマナー{違反|いはん}{相次|あいつ}ぐ",
+      "paragraphs": [
+        "{全国|ぜんこく}の{自治体|じちたい}が{発行|はっこう}する「マンホールカード」をめぐり、{収集家|しゅうしゅうか}によるマナー{違反|いはん}が{相次|あいつ}いでいる。カードは{下水道|げすいどう}{事業|じぎょう}のPRと{観光|かんこう}{振興|しんこう}を{目的|もくてき}に2016{年|ねん}から{作|つく}られており、{発行|はっこう}{枚数|まいすう}は{累計|るいけい}で{約|やく}2600{万枚|まんまい}に{上|のぼ}る。",
+        "{広島県|ひろしまけん}{東広島市|ひがしひろしまし}は、7{月|がつ}からご{当地|とうち}{名物|めいぶつ}「{東広島焼|ひがしひろしまや}き」をデザインしたカードを{配|くば}っていたが、9{月|がつ}{末|まつ}で{一時|いちじ}{休止|きゅうし}した。{配布|はいふ}{場所|ばしょ}の{観光|かんこう}{案内所|あんないじょ}{前|まえ}の{狭|せま}い{道|みち}に{車|くるま}が{止|と}められて{住民|じゅうみん}が{通|とお}れなくなったうえ、{職員|しょくいん}が「{早|はや}くしろ」と{暴言|ぼうげん}を{吐|は}かれたためだという。",
+        "{北海道|ほっかいどう}{斜里町|しゃりちょう}も、{苦情|くじょう}やマナーの{悪|わる}さを{理由|りゆう}に{配布|はいふ}を{終了|しゅうりょう}した。{担当|たんとう}の{課長|かちょう}は「{厚意|こうい}で{配|くば}ってもらっていたので、これ{以上|いじょう}は{難|むずか}しいと{判断|はんだん}した」と{肩|かた}を{落|お}とす。{一方|いっぽう}、{東広島市|ひがしひろしまし}は{新|あら}たな{配布|はいふ}{場所|ばしょ}を{探|さが}しながら、マナーを{守|まも}るよう{呼|よ}びかけている。"
+      ],
+      "vocab": [
+        {
+          "word": "{発行|はっこう}する",
+          "meaning": {
+            "fr": "émettre, publier",
+            "en": "to issue"
+          }
+        },
+        {
+          "word": "{相次|あいつ}ぐ",
+          "meaning": {
+            "fr": "se succéder, se multiplier",
+            "en": "to occur one after another"
+          }
+        },
+        {
+          "word": "{振興|しんこう}",
+          "meaning": {
+            "fr": "la promotion, le développement",
+            "en": "promotion"
+          }
+        },
+        {
+          "word": "{累計|るいけい}",
+          "meaning": {
+            "fr": "le total cumulé",
+            "en": "cumulative total"
+          }
+        },
+        {
+          "word": "{一時|いちじ}{休止|きゅうし}",
+          "meaning": {
+            "fr": "une suspension temporaire",
+            "en": "temporary suspension"
+          }
+        },
+        {
+          "word": "{暴言|ぼうげん}",
+          "meaning": {
+            "fr": "des paroles insultantes",
+            "en": "verbal abuse"
+          }
+        },
+        {
+          "word": "{苦情|くじょう}",
+          "meaning": {
+            "fr": "une plainte, une réclamation",
+            "en": "complaint"
+          }
+        },
+        {
+          "word": "{呼|よ}びかける",
+          "meaning": {
+            "fr": "appeler à, lancer un appel",
+            "en": "to call on, to appeal"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{東広島市|ひがしひろしまし}のカードには{何|なに}がデザインされていますか。",
+          "choices": [
+            "{知床半島|しれとこはんとう}",
+            "ご{当地|とうち}{名物|めいぶつ}の{東広島焼|ひがしひろしまや}き",
+            "{下水道|げすいどう}の{地図|ちず}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La carte de Higashihiroshima montre la spécialité locale, le 東広島焼き.",
+            "en": "Higashihiroshima's card shows the local specialty, 東広島焼き."
+          }
+        },
+        {
+          "question": "{東広島市|ひがしひろしまし}が{配布|はいふ}を{休止|きゅうし}した{理由|りゆう}に{合|あ}うものはどれですか。",
+          "choices": [
+            "カードの{予算|よさん}がなくなった",
+            "{住民|じゅうみん}が{通|とお}れないほど{車|くるま}が{止|と}められた",
+            "デザインが{不評|ふひょう}だった"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Des voitures garées bloquaient la rue des habitants, et le personnel se faisait insulter.",
+            "en": "Parked cars blocked residents' way, and staff were verbally abused."
+          }
+        },
+        {
+          "question": "{東広島市|ひがしひろしまし}は{今後|こんご}どうしようとしていますか。",
+          "choices": [
+            "{新|あら}たな{配布|はいふ}{場所|ばしょ}を{探|さが}している",
+            "{配布|はいふ}を{永久|えいきゅう}にやめる",
+            "カードを{有料|ゆうりょう}にする"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "La ville cherche un nouveau lieu de distribution (新たな配布場所).",
+            "en": "The city is looking for a new distribution spot (新たな配布場所)."
+          }
+        }
+      ]
+    },
+    "N1": {
+      "title": "マンホールカード、{収集家|しゅうしゅうか}の{迷惑|めいわく}{行為|こうい}で{配布|はいふ}{打|う}ち{切|き}る{自治体|じちたい}も",
+      "paragraphs": [
+        "{下水道|げすいどう}{事業|じぎょう}の{広報|こうほう}と{観光|かんこう}{振興|しんこう}を{狙|ねら}い、{全国|ぜんこく}の{自治体|じちたい}が2016{年|ねん}から{発行|はっこう}している「マンホールカード」を{巡|めぐ}り、{収集家|しゅうしゅうか}のマナー{違反|いはん}が{後|あと}を{絶|た}たない。{累計|るいけい}{発行|はっこう}{枚数|まいすう}は{約|やく}2600{万枚|まんまい}に{達|たっ}し、{一日|いちにち}で{約|やく}4000{枚|まい}が{配布|はいふ}される{例|れい}もあるなど、{人気|にんき}は{過熱|かねつ}{気味|ぎみ}だ。",
+        "{広島県|ひろしまけん}{東広島市|ひがしひろしまし}では、{観光|かんこう}{案内所|あんないじょ}{前|まえ}の{狭|せま}い{道路|どうろ}への{路上|ろじょう}{駐車|ちゅうしゃ}で{住民|じゅうみん}の{通行|つうこう}が{妨|さまた}げられたほか、{案内|あんない}{業務|ぎょうむ}{中|ちゅう}の{職員|しょくいん}が{暴言|ぼうげん}を{浴|あ}びせられる{事態|じたい}も{発生|はっせい}し、{同市|どうし}は9{月|がつ}{末|まつ}で{配布|はいふ}を{一時|いちじ}{休止|きゅうし}した。",
+        "{北海道|ほっかいどう}{斜里町|しゃりちょう}に{至|いた}っては、{在庫|ざいこ}{切|ぎ}れで{受|う}け{取|と}れなかった{観光客|かんこうきゃく}が{職員|しょくいん}を{怒鳴|どな}りつけるなどしたため、{昨年|さくねん}2{月|がつ}をもって{配布|はいふ}を{終了|しゅうりょう}した。{増刷|ぞうさつ}も{検討|けんとう}していたというが、{今後|こんご}の{予定|よてい}は{一切|いっさい}{考|かんが}えていないという。",
+        "{自治体|じちたい}を{支援|しえん}する{財団|ざいだん}によれば、{転売|てんばい}{目的|もくてき}での{入手|にゅうしゅ}や、{服装|ふくそう}を{変|か}えて{何度|なんど}も{受|う}け{取|と}る{行為|こうい}も{確認|かくにん}されている。{一部|いちぶ}の{心|こころ}ない{振|ふ}る{舞|ま}いが、{地域|ちいき}の{魅力|みりょく}を{伝|つた}える{取|と}り{組|く}みそのものを{揺|ゆ}るがしかねない{状況|じょうきょう}だ。"
+      ],
+      "vocab": [
+        {
+          "word": "{後|あと}を{絶|た}たない",
+          "meaning": {
+            "fr": "ne pas cesser, se répéter sans fin",
+            "en": "to never stop happening"
+          }
+        },
+        {
+          "word": "{過熱|かねつ}{気味|ぎみ}",
+          "meaning": {
+            "fr": "un peu trop emballé, en surchauffe",
+            "en": "somewhat overheated"
+          }
+        },
+        {
+          "word": "{妨|さまた}げる",
+          "meaning": {
+            "fr": "gêner, entraver",
+            "en": "to obstruct"
+          }
+        },
+        {
+          "word": "{浴|あ}びせる",
+          "meaning": {
+            "fr": "faire pleuvoir (insultes, critiques)",
+            "en": "to shower (with abuse)"
+          }
+        },
+        {
+          "word": "{増刷|ぞうさつ}",
+          "meaning": {
+            "fr": "une réimpression",
+            "en": "reprint"
+          }
+        },
+        {
+          "word": "{転売|てんばい}",
+          "meaning": {
+            "fr": "la revente",
+            "en": "resale"
+          }
+        },
+        {
+          "word": "{心|こころ}ない",
+          "meaning": {
+            "fr": "irréfléchi, sans égards",
+            "en": "thoughtless, inconsiderate"
+          }
+        },
+        {
+          "word": "{揺|ゆ}るがす",
+          "meaning": {
+            "fr": "ébranler, menacer",
+            "en": "to shake, to undermine"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{記事|きじ}によると、カードの{人気|にんき}を{示|しめ}す{数字|すうじ}として{正|ただ}しいのはどれか。",
+          "choices": [
+            "{一日|いちにち}で{約|やく}4000{枚|まい}が{配布|はいふ}される{例|れい}もある",
+            "{一日|いちにち}で{約|やく}2600{万枚|まんまい}が{配布|はいふ}される",
+            "{年間|ねんかん}4000{枚|まい}しか{発行|はっこう}されない"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Jusqu'à environ 4000 cartes par jour à certains endroits ; 26 millions est le total depuis 2016.",
+            "en": "Up to about 4,000 cards a day in some places; 26 million is the total since 2016."
+          }
+        },
+        {
+          "question": "{斜里町|しゃりちょう}について{正|ただ}しいものはどれか。",
+          "choices": [
+            "{在庫|ざいこ}を{増|ふ}やして{配布|はいふ}を{続|つづ}けている",
+            "{昨年|さくねん}2{月|がつ}をもって{配布|はいふ}を{終了|しゅうりょう}した",
+            "{東広島焼|ひがしひろしまや}きのカードを{配|くば}っていた"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Shari a mis fin à la distribution en février de l'an dernier et n'a aucun projet de reprise.",
+            "en": "Shari ended distribution in February last year and has no plans to resume."
+          }
+        },
+        {
+          "question": "{財団|ざいだん}が{確認|かくにん}している{問題|もんだい}{行為|こうい}はどれか。",
+          "choices": [
+            "カードの{偽造|ぎぞう}",
+            "{転売|てんばい}{目的|もくてき}での{入手|にゅうしゅ}",
+            "マンホールの{盗難|とうなん}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La fondation signale des cartes prises pour être revendues (転売目的).",
+            "en": "The foundation reports cards taken to be resold (転売目的)."
+          }
+        }
+      ]
+    }
+  }
+}
