@@ -1,0 +1,566 @@
+{
+  "date": "2026-11-06",
+  "newsDate": "2026-11-05",
+  "category": "culture",
+  "title": "Pinceau, encre et papier : la calligraphie japonaise bientôt au patrimoine de l'UNESCO !",
+  "summary": {
+    "fr": "Le 5 novembre, l'Agence pour les affaires culturelles a annoncé que les experts de l'UNESCO recommandent d'inscrire le shodō (書道), la calligraphie japonaise au pinceau, au patrimoine culturel immatériel. La décision finale sera prise début décembre en Chine : ce serait la 24e inscription du Japon, après le kabuki, le washoku ou le saké traditionnel.",
+    "en": "On November 5, Japan's Agency for Cultural Affairs announced that UNESCO's evaluation body recommends inscribing shodō (書道), Japanese brush calligraphy, on the Intangible Cultural Heritage list. The final decision is due in early December in China: it would be Japan's 24th entry, after kabuki, washoku and traditional sake-making."
+  },
+  "sources": [
+    {
+      "name": "nippon.com (Jiji Press, japonais)",
+      "url": "https://www.nippon.com/ja/articles/-/56902"
+    },
+    {
+      "name": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/05/japan/society/calligraphy-unesco-list/"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "Mur d'une école de langue japonaise à Tokyo où sont affichées, en rangées, des feuilles de calligraphie d'élèves tracées au pinceau, avec des mots comme 自由 (liberté), 愛 (amour), 金 (or) et 平和 (paix).",
+      "caption": "Des calligraphies d'élèves exposées dans une école de japonais à Tokyo. À toi de prendre le pinceau !",
+      "credit": "Photo : Ryohei Noda / CC BY 2.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Daiki_Japanese_Language_Institute_Tokyo_(54343111958).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Daiki_Japanese_Language_Institute_Tokyo_%2854343111958%29.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "Ryohei Noda",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "{日本|にほん}の しょどうが せかいの たからものに？",
+      "paragraphs": [
+        "しょどうは、ふでと すみで もじを かく {日本|にほん}の アートです。",
+        "{十一月|じゅういちがつ}{五日|いつか}に、ユネスコの {人|ひと}たちが「しょどうは だいじな ぶんかです」と いいました。{十二月|じゅうにがつ}に、しょどうは せかいの たからものに なるかもしれません。",
+        "{日本|にほん}の こどもは、おしょうがつに しょどうを します。みなさんも かいて みませんか。"
+      ],
+      "vocab": [
+        {
+          "word": "しょどう",
+          "meaning": {
+            "fr": "la calligraphie japonaise",
+            "en": "Japanese calligraphy"
+          }
+        },
+        {
+          "word": "ふで",
+          "meaning": {
+            "fr": "un pinceau",
+            "en": "brush"
+          }
+        },
+        {
+          "word": "すみ",
+          "meaning": {
+            "fr": "l'encre de Chine",
+            "en": "ink (sumi)"
+          }
+        },
+        {
+          "word": "もじ",
+          "meaning": {
+            "fr": "un caractère, une lettre",
+            "en": "letter, character"
+          }
+        },
+        {
+          "word": "ぶんか",
+          "meaning": {
+            "fr": "la culture",
+            "en": "culture"
+          }
+        },
+        {
+          "word": "たからもの",
+          "meaning": {
+            "fr": "un trésor",
+            "en": "treasure"
+          }
+        },
+        {
+          "word": "おしょうがつ",
+          "meaning": {
+            "fr": "le Nouvel An",
+            "en": "New Year"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "しょどうは なんで かきますか。",
+          "choices": [
+            "ふでと すみ",
+            "えんぴつ",
+            "パソコン"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "On écrit avec un pinceau (ふで) et de l'encre (すみ).",
+            "en": "You write with a brush (ふで) and ink (すみ)."
+          }
+        },
+        {
+          "question": "しょどうは いつ せかいの たからものに なるかもしれませんか。",
+          "choices": [
+            "{十月|じゅうがつ}",
+            "{十二月|じゅうにがつ}",
+            "{一月|いちがつ}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le texte dit « {十二月|じゅうにがつ}に », en décembre.",
+            "en": "The text says \"{十二月|じゅうにがつ}に\", in December."
+          }
+        },
+        {
+          "question": "{日本|にほん}の こどもは いつ しょどうを しますか。",
+          "choices": [
+            "おしょうがつ",
+            "なつやすみ",
+            "たんじょうび"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Les enfants font de la calligraphie au Nouvel An (おしょうがつ).",
+            "en": "Children do calligraphy at New Year (おしょうがつ)."
+          }
+        }
+      ]
+    },
+    "N4": {
+      "title": "{書道|しょどう}がユネスコの{無形文化遺産|むけいぶんかいさん}になりそうです",
+      "paragraphs": [
+        "{書道|しょどう}は、{筆|ふで}と{墨|すみ}を{使|つか}って、{紙|かみ}に{字|じ}を{書|か}く{日本|にほん}の{伝統|でんとう}です。11{月|がつ}5{日|いつか}、{文化庁|ぶんかちょう}は「ユネスコの{専門家|せんもんか}が、{書道|しょどう}を{無形文化遺産|むけいぶんかいさん}にしたほうがいいと{言|い}いました」と{発表|はっぴょう}しました。",
+        "{最後|さいご}に{決|き}めるのは、12{月|がつ}の{初|はじ}めに{中国|ちゅうごく}で{開|ひら}かれる{会議|かいぎ}です。{決|き}まったら、{日本|にほん}の{無形文化遺産|むけいぶんかいさん}は24{個目|こめ}になります。{和食|わしょく}や{歌舞伎|かぶき}も、もう{入|はい}っています。",
+        "{日本|にほん}では、お{正月|しょうがつ}に{学校|がっこう}などで「{書|か}き{初|ぞ}め」をします。みなさんも{書|か}いてみませんか。"
+      ],
+      "vocab": [
+        {
+          "word": "{書道|しょどう}",
+          "meaning": {
+            "fr": "la calligraphie japonaise",
+            "en": "Japanese calligraphy"
+          }
+        },
+        {
+          "word": "{筆|ふで}",
+          "meaning": {
+            "fr": "un pinceau",
+            "en": "brush"
+          }
+        },
+        {
+          "word": "{墨|すみ}",
+          "meaning": {
+            "fr": "l'encre de Chine",
+            "en": "ink (sumi)"
+          }
+        },
+        {
+          "word": "{伝統|でんとう}",
+          "meaning": {
+            "fr": "une tradition",
+            "en": "tradition"
+          }
+        },
+        {
+          "word": "{無形文化遺産|むけいぶんかいさん}",
+          "meaning": {
+            "fr": "le patrimoine culturel immatériel",
+            "en": "intangible cultural heritage"
+          }
+        },
+        {
+          "word": "{発表|はっぴょう}する",
+          "meaning": {
+            "fr": "annoncer",
+            "en": "to announce"
+          }
+        },
+        {
+          "word": "{会議|かいぎ}",
+          "meaning": {
+            "fr": "une réunion, une conférence",
+            "en": "meeting, conference"
+          }
+        },
+        {
+          "word": "{書|か}き{初|ぞ}め",
+          "meaning": {
+            "fr": "la première calligraphie de l'année",
+            "en": "first calligraphy of the New Year"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{書道|しょどう}で{使|つか}わないものはどれですか。",
+          "choices": [
+            "{筆|ふで}",
+            "{墨|すみ}",
+            "ボールペン"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Le shodō se fait au pinceau et à l'encre, pas au stylo bille.",
+            "en": "Shodō uses a brush and ink, not a ballpoint pen."
+          }
+        },
+        {
+          "question": "{最後|さいご}に{決|き}めるのはいつですか。",
+          "choices": [
+            "11{月|がつ}の{初|はじ}め",
+            "12{月|がつ}の{初|はじ}め",
+            "1{月|がつ}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La décision finale sera prise début décembre, en Chine.",
+            "en": "The final decision will be made in early December, in China."
+          }
+        },
+        {
+          "question": "{決|き}まったら、{日本|にほん}の{無形文化遺産|むけいぶんかいさん}はいくつになりますか。",
+          "choices": [
+            "10{個|こ}",
+            "23{個|こ}",
+            "24{個|こ}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Ce serait la 24e inscription du Japon (24{個目|こめ}).",
+            "en": "It would be Japan's 24th entry (24{個目|こめ})."
+          }
+        }
+      ]
+    },
+    "N3": {
+      "title": "{書道|しょどう}、ユネスコ{無形文化遺産|むけいぶんかいさん}へ　{評価機関|ひょうかきかん}が{登録|とうろく}を{勧告|かんこく}",
+      "paragraphs": [
+        "{文化庁|ぶんかちょう}は11{月|がつ}5{日|いつか}、{日本|にほん}が{申請|しんせい}していた「{書道|しょどう}」について、ユネスコの{評価機関|ひょうかきかん}が{無形文化遺産|むけいぶんかいさん}に{登録|とうろく}するよう{勧告|かんこく}したと{発表|はっぴょう}した。{正式|せいしき}な{決定|けってい}は、11{月|がつ}30{日|にち}から12{月|がつ}5{日|いつか}まで{中国|ちゅうごく}のアモイで{開|ひら}かれる{会議|かいぎ}で{行|おこな}われる{予定|よてい}だ。{登録|とうろく}されれば、2024{年|ねん}の「{伝統的|でんとうてき}{酒造|さけづく}り」{以来|いらい}で、{日本|にほん}では24{件目|けんめ}となる。",
+        "{書道|しょどう}は、{筆|ふで}や{墨|すみ}、{硯|すずり}、{紙|かみ}を{使|つか}って{文字|もじ}を{書|か}く{表現|ひょうげん}だ。{奈良時代|ならじだい}に{中国|ちゅうごく}から{伝|つた}わり、{手紙|てがみ}やお{正月|しょうがつ}の「{書|か}き{初|ぞ}め」など、{今|いま}も{生活|せいかつ}の{中|なか}で{生|い}きている。{書道|しょどう}をする{人|ひと}が{減|へ}っているため、{関係者|かんけいしゃ}は「{国内外|こくないがい}で{書道|しょどう}を{知|し}ってもらうきっかけになる」と{期待|きたい}している。"
+      ],
+      "vocab": [
+        {
+          "word": "{申請|しんせい}する",
+          "meaning": {
+            "fr": "déposer une demande, candidater",
+            "en": "to apply"
+          }
+        },
+        {
+          "word": "{評価機関|ひょうかきかん}",
+          "meaning": {
+            "fr": "l'organe d'évaluation",
+            "en": "evaluation body"
+          }
+        },
+        {
+          "word": "{登録|とうろく}",
+          "meaning": {
+            "fr": "l'inscription, l'enregistrement",
+            "en": "registration, inscription"
+          }
+        },
+        {
+          "word": "{勧告|かんこく}する",
+          "meaning": {
+            "fr": "recommander (officiellement)",
+            "en": "to recommend (officially)"
+          }
+        },
+        {
+          "word": "{正式|せいしき}",
+          "meaning": {
+            "fr": "officiel",
+            "en": "official"
+          }
+        },
+        {
+          "word": "{硯|すずり}",
+          "meaning": {
+            "fr": "la pierre à encre",
+            "en": "inkstone"
+          }
+        },
+        {
+          "word": "{表現|ひょうげん}",
+          "meaning": {
+            "fr": "l'expression (artistique)",
+            "en": "expression"
+          }
+        },
+        {
+          "word": "{期待|きたい}する",
+          "meaning": {
+            "fr": "espérer, attendre beaucoup de",
+            "en": "to hope, to expect"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{書道|しょどう}について{発表|はっぴょう}したのはどこですか。",
+          "choices": [
+            "{文化庁|ぶんかちょう}",
+            "{気象庁|きしょうちょう}",
+            "{警察庁|けいさつちょう}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "C'est l'Agence pour les affaires culturelles (文化庁) qui l'a annoncé.",
+            "en": "The Agency for Cultural Affairs (文化庁) announced it."
+          }
+        },
+        {
+          "question": "{正式|せいしき}な{決定|けってい}はどこで{行|おこな}われますか。",
+          "choices": [
+            "{東京|とうきょう}",
+            "{中国|ちゅうごく}のアモイ",
+            "パリ"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La réunion finale a lieu à Xiamen (アモイ), en Chine.",
+            "en": "The final meeting takes place in Xiamen (アモイ), China."
+          }
+        },
+        {
+          "question": "{関係者|かんけいしゃ}は{何|なに}を{期待|きたい}していますか。",
+          "choices": [
+            "{書道|しょどう}を{知|し}ってもらうこと",
+            "{筆|ふで}が{安|やす}くなること",
+            "{学校|がっこう}が{休|やす}みになること"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Ils espèrent que davantage de gens découvriront le shodō, au Japon et ailleurs.",
+            "en": "They hope more people in Japan and abroad will get to know shodō."
+          }
+        }
+      ]
+    },
+    "N2": {
+      "title": "「{書道|しょどう}」、{無形文化遺産|むけいぶんかいさん}に{登録|とうろく}される{見通|みとお}し　ユネスコ{評価機関|ひょうかきかん}が{勧告|かんこく}",
+      "paragraphs": [
+        "ユネスコの{評価機関|ひょうかきかん}は、{日本|にほん}が{提案|ていあん}していた「{書道|しょどう}」を{無形文化遺産|むけいぶんかいさん}の{代表一覧表|だいひょういちらんひょう}に「{記載|きさい}」するよう{勧告|かんこく}した。{文化庁|ぶんかちょう}が5{日|いつか}に{発表|はっぴょう}した。{最終的|さいしゅうてき}な{可否|かひ}は11{月|がつ}30{日|にち}から{中国|ちゅうごく}・アモイで{開|ひら}かれる{政府間委員会|せいふかんいいんかい}で{決|き}まるが、{勧告|かんこく}どおり{登録|とうろく}される{見通|みとお}しだ。",
+        "{政府|せいふ}は2024{年|ねん}3{月|がつ}に{申請|しんせい}したものの、{登録件数|とうろくけんすう}の{多|おお}い{日本|にほん}の{新規案件|しんきあんけん}は{実質|じっしつ}2{年|ねん}に1{度|ど}しか{審査|しんさ}されないため、25{年|ねん}は{対象|たいしょう}とならず、{再申請|さいしんせい}していた。{登録|とうろく}が{実現|じつげん}すれば、{歌舞伎|かぶき}や{和食|わしょく}、{和紙|わし}などに{続|つづ}き、{国内|こくない}24{件目|けんめ}となる。",
+        "{文化庁|ぶんかちょう}によると、{書道|しょどう}とは{筆|ふで}や{墨|すみ}、{硯|すずり}などを{用|もち}い、{伝統的|でんとうてき}な{筆遣|ふでづか}いで{文字|もじ}を{手書|てが}きする{表現|ひょうげん}のことで、{印材|いんざい}に{文字|もじ}を{彫|ほ}る「{篆刻|てんこく}」も{含|ふく}まれる。{日本|にほん}は{書道|しょどう}のほかに、「{神楽|かぐら}」と「{温泉文化|おんせんぶんか}」の{登録|とうろく}も{目指|めざ}している。"
+      ],
+      "vocab": [
+        {
+          "word": "{見通|みとお}し",
+          "meaning": {
+            "fr": "une perspective, une prévision",
+            "en": "outlook, prospect"
+          }
+        },
+        {
+          "word": "{提案|ていあん}する",
+          "meaning": {
+            "fr": "proposer",
+            "en": "to propose"
+          }
+        },
+        {
+          "word": "{可否|かひ}",
+          "meaning": {
+            "fr": "le oui ou non (approbation ou rejet)",
+            "en": "approval or rejection"
+          }
+        },
+        {
+          "word": "{委員会|いいんかい}",
+          "meaning": {
+            "fr": "un comité",
+            "en": "committee"
+          }
+        },
+        {
+          "word": "{審査|しんさ}する",
+          "meaning": {
+            "fr": "examiner, évaluer",
+            "en": "to examine, to screen"
+          }
+        },
+        {
+          "word": "{実現|じつげん}する",
+          "meaning": {
+            "fr": "se réaliser",
+            "en": "to come true, to be realized"
+          }
+        },
+        {
+          "word": "{含|ふく}む",
+          "meaning": {
+            "fr": "inclure, comprendre",
+            "en": "to include"
+          }
+        },
+        {
+          "word": "{目指|めざ}す",
+          "meaning": {
+            "fr": "viser, avoir pour objectif",
+            "en": "to aim for"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{日本|にほん}の{新規案件|しんきあんけん}はどのくらい{審査|しんさ}されますか。",
+          "choices": [
+            "{毎年|まいとし}",
+            "{実質|じっしつ}2{年|ねん}に1{度|ど}",
+            "5{年|ねん}に1{度|ど}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le Japon ayant déjà beaucoup d'inscriptions, ses nouveaux dossiers ne sont examinés qu'environ une année sur deux.",
+            "en": "Because Japan already has many entries, its new files are only examined about once every two years."
+          }
+        },
+        {
+          "question": "{書道|しょどう}に{含|ふく}まれるものはどれですか。",
+          "choices": [
+            "{篆刻|てんこく}",
+            "{茶道|さどう}",
+            "{生|い}け{花|ばな}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Le tenkoku (篆刻), la gravure de caractères sur un sceau, fait partie du shodō.",
+            "en": "Tenkoku (篆刻), carving characters into a seal, is part of shodō."
+          }
+        },
+        {
+          "question": "{日本|にほん}が{書道|しょどう}のほかに{登録|とうろく}を{目指|めざ}しているものはどれですか。",
+          "choices": [
+            "「{神楽|かぐら}」と「{温泉文化|おんせんぶんか}」",
+            "「{寿司|すし}」と「{相撲|すもう}」",
+            "「{桜|さくら}」と「{富士山|ふじさん}」"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Le Japon vise aussi le kagura (danses sacrées) et la culture des onsen.",
+            "en": "Japan is also aiming for kagura (sacred dances) and onsen culture."
+          }
+        }
+      ]
+    },
+    "N1": {
+      "title": "{書道|しょどう}、{無形文化遺産|むけいぶんかいさん}{登録|とうろく}へ　ユネスコ{評価機関|ひょうかきかん}が「{記載|きさい}」{勧告|かんこく}、12{月|がつ}に{正式決定|せいしきけってい}の{見込|みこ}み",
+      "paragraphs": [
+        "{国連教育科学文化機関|こくれんきょういくかがくぶんかきかん}（ユネスコ）の{評価機関|ひょうかきかん}は、{筆|ふで}や{墨|すみ}を{用|もち}いて{文字|もじ}を{手書|てが}きする{日本|にほん}の「{書道|しょどう}」を{無形文化遺産|むけいぶんかいさん}に{登録|とうろく}するよう{勧告|かんこく}した。{文化庁|ぶんかちょう}が5{日|いつか}{発表|はっぴょう}した。11{月|がつ}30{日|にち}に{中国|ちゅうごく}・アモイで{開幕|かいまく}する{政府間委員会|せいふかんいいんかい}で{審議|しんぎ}され、12{月|がつ}{初旬|しょじゅん}に{勧告|かんこく}どおり{正式決定|せいしきけってい}する{公算|こうさん}が{大|おお}きい。{実現|じつげん}すれば、2024{年|ねん}の「{伝統的酒造|でんとうてきさけづく}り」{以来|いらい}2{年|ねん}ぶり、{国内|こくない}24{件目|けんめ}の{登録|とうろく}となる。",
+        "{評価機関|ひょうかきかん}は{各地域|かくちいき}から{選出|せんしゅつ}された{専門家|せんもんか}とNGOで{構成|こうせい}され、{勧告|かんこく}には「{記載|きさい}」「{情報照会|じょうほうしょうかい}」「{不記載|ふきさい}」の3{区分|くぶん}がある。{書道|しょどう}は5つの{登録基準|とうろくきじゅん}をすべて{満|み}たしたと{判断|はんだん}され、「{記載|きさい}」が{適当|てきとう}とされた。",
+        "{書道|しょどう}は{奈良時代|ならじだい}に{中国|ちゅうごく}から{伝来|でんらい}し、{室町時代|むろまちじだい}には{禅|ぜん}の{教|おし}えを{師|し}から{弟子|でし}へ{伝|つた}える{手段|しゅだん}として、{安土桃山時代|あづちももやまじだい}には{茶道|さどう}と{結|むす}びついて{発展|はってん}した。{年始|ねんし}の「{書|か}き{初|ぞ}め」は{江戸時代|えどじだい}に{定着|ていちゃく}し、{今|いま}も{地域|ちいき}や{学校|がっこう}で{受|う}け{継|つ}がれている。{政府|せいふ}は{申請|しんせい}にあたり、{手紙|てがみ}や{芳名帳|ほうめいちょう}への{署名|しょめい}など、{書道|しょどう}が{日常生活|にちじょうせいかつ}に{根付|ねづ}いた{社会的慣習|しゃかいてきかんしゅう}である{点|てん}を{強調|きょうちょう}していた。",
+        "{一方|いっぽう}、{書道人口|しょどうじんこう}の{減少|げんしょう}や{高齢化|こうれいか}は{課題|かだい}となっている。{保持団体|ほじだんたい}である{日本書道文化協会|にほんしょどうぶんかきょうかい}の{関係者|かんけいしゃ}は「{国内外|こくないがい}で{書道|しょどう}をより{知|し}ってもらうきっかけとなる」と{述|の}べ、{普及|ふきゅう}と{継承|けいしょう}への{追|お}い{風|かぜ}になると{期待|きたい}を{寄|よ}せた。"
+      ],
+      "vocab": [
+        {
+          "word": "{公算|こうさん}が{大|おお}きい",
+          "meaning": {
+            "fr": "il est fort probable que",
+            "en": "highly likely"
+          }
+        },
+        {
+          "word": "{審議|しんぎ}する",
+          "meaning": {
+            "fr": "délibérer, examiner (en séance)",
+            "en": "to deliberate"
+          }
+        },
+        {
+          "word": "{初旬|しょじゅん}",
+          "meaning": {
+            "fr": "le début du mois (du 1er au 10)",
+            "en": "early part of the month"
+          }
+        },
+        {
+          "word": "{伝来|でんらい}する",
+          "meaning": {
+            "fr": "être introduit (de l'étranger)",
+            "en": "to be introduced (from abroad)"
+          }
+        },
+        {
+          "word": "{定着|ていちゃく}する",
+          "meaning": {
+            "fr": "s'enraciner, s'établir",
+            "en": "to take root, to become established"
+          }
+        },
+        {
+          "word": "{根付|ねづ}く",
+          "meaning": {
+            "fr": "prendre racine",
+            "en": "to take root"
+          }
+        },
+        {
+          "word": "{継承|けいしょう}",
+          "meaning": {
+            "fr": "la transmission, la succession",
+            "en": "succession, passing down"
+          }
+        },
+        {
+          "word": "{追|お}い{風|かぜ}",
+          "meaning": {
+            "fr": "un vent favorable, un coup de pouce",
+            "en": "tailwind, boost"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{評価機関|ひょうかきかん}の{勧告|かんこく}の{区分|くぶん}に{含|ふく}まれないものはどれか。",
+          "choices": [
+            "{記載|きさい}",
+            "{情報照会|じょうほうしょうかい}",
+            "{延期|えんき}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Les trois catégories sont « inscrire », « renvoyer pour information » et « ne pas inscrire ». « Reporter » n'en fait pas partie.",
+            "en": "The three categories are \"inscribe\", \"refer\" and \"not to inscribe\". \"Postpone\" is not one of them."
+          }
+        },
+        {
+          "question": "「{書|か}き{初|ぞ}め」の{風習|ふうしゅう}が{定着|ていちゃく}したのはいつか。",
+          "choices": [
+            "{奈良時代|ならじだい}",
+            "{室町時代|むろまちじだい}",
+            "{江戸時代|えどじだい}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Le kakizome du Nouvel An s'est installé à l'époque d'Edo.",
+            "en": "The New Year kakizome custom took root in the Edo period."
+          }
+        },
+        {
+          "question": "{関係者|かんけいしゃ}は{登録|とうろく}にどのような{効果|こうか}を{期待|きたい}しているか。",
+          "choices": [
+            "{書道|しょどう}の{普及|ふきゅう}と{継承|けいしょう}",
+            "{観光客|かんこうきゃく}の{減少|げんしょう}",
+            "{筆|ふで}の{値下|ねさ}げ"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Ils espèrent que l'inscription aidera à diffuser et transmettre le shodō.",
+            "en": "They hope the inscription will help spread and pass down shodō."
+          }
+        }
+      ]
+    }
+  }
+}
