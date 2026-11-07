@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "date": "2026-11-07",
+      "title": "25 °C à Tokyo en novembre, neige dans le nord : le Japon a fait le grand écart !",
+      "category": "meteo",
+      "cover": "cover.webp"
+    },
+    {
       "date": "2026-11-06",
       "title": "Pinceau, encre et papier : la calligraphie japonaise bientôt au patrimoine de l'UNESCO !",
       "category": "culture",

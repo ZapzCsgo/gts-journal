@@ -2,6 +2,18 @@
   "_note": "Registre des photos du Journal : une entrée par image non créée par nous (origine, auteur, licence). Le plus récent en premier. Ajouter en tête, ne jamais supprimer.",
   "images": [
     {
+      "date": "2026-11-07",
+      "file": "cover.webp",
+      "credit": "Photo : Basile Morin / CC BY-SA 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Marunouchi_Central_Plaza_with_blue_sky,_Tokyo_station_and_Shin-Marunouchi_Building,_panoramic_view_from_JP_Tower,_Tokyo,_Japan.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Marunouchi_Central_Plaza_with_blue_sky%2C_Tokyo_station_and_Shin-Marunouchi_Building%2C_panoramic_view_from_JP_Tower%2C_Tokyo%2C_Japan.jpg",
+      "origin": "Wikimedia Commons",
+      "author": "Basile Morin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
       "date": "2026-11-06",
       "file": "cover.webp",
       "credit": "Photo : Ryohei Noda / CC BY 2.0",

@@ -1,0 +1,552 @@
+{
+ "date": "2026-11-07",
+ "newsDate": "2026-11-06",
+ "category": "meteo",
+ "title": "25 °C à Tokyo en novembre, neige dans le nord : le Japon a fait le grand écart !",
+ "summary": {
+  "fr": "Le 6 novembre, le centre de Tokyo a atteint 25,3 °C, un « jour d'été » en novembre pour la première fois depuis 3 ans, et Tsuchiura a battu son record de novembre avec 26,1 °C. Le soir même, l'air froid arrivait par le nord et la pluie se changeait en neige dans le nord du Japon.",
+  "en": "On November 6, central Tokyo hit 25.3°C, a 'summer day' in November for the first time in 3 years, and Tsuchiura set a November record at 26.1°C. That same evening, cold air arrived from the north and rain turned to snow in northern Japan."
+ },
+ "sources": [
+  {
+   "name": "Weathernews (japonais)",
+   "url": "https://weathernews.jp/news/202611/060161/"
+  },
+  {
+   "name": "Nippon TV News (japonais)",
+   "url": "https://news.ntv.co.jp/category/weather/1a7e69c1375e420e963aa109a2d593c7"
+  }
+ ],
+ "images": [
+  {
+   "file": "cover.webp",
+   "alt": "Vue en hauteur de la grande place devant la gare de Tokyo, côté Marunouchi, sous un ciel bleu sans nuage, avec la façade en briques rouges de la gare, de larges allées et les gratte-ciel du quartier.",
+   "caption": "Grand ciel bleu sur la gare de Tokyo : le 6 novembre, on s'y serait cru en septembre !",
+   "credit": "Photo : Basile Morin / CC BY-SA 4.0",
+   "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Marunouchi_Central_Plaza_with_blue_sky,_Tokyo_station_and_Shin-Marunouchi_Building,_panoramic_view_from_JP_Tower,_Tokyo,_Japan.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Marunouchi_Central_Plaza_with_blue_sky%2C_Tokyo_station_and_Shin-Marunouchi_Building%2C_panoramic_view_from_JP_Tower%2C_Tokyo%2C_Japan.jpg",
+    "origin": "Wikimedia Commons",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   }
+  }
+ ],
+ "levels": {
+  "N5": {
+   "title": "{十一月|じゅういちがつ}なのに なつ？ {東京|とうきょう}が とても あつかったです",
+   "paragraphs": [
+    "{十一月|じゅういちがつ}{六日|むいか}、{東京|とうきょう}は とても あたたかかったです。きおんは 25.3どでした。",
+    "なつの ような {日|ひ}でした。うわぎを きない {人|ひと}も いました。",
+    "でも、{日本|にほん}の {北|きた}の ほうでは、よるに ゆきが ふりました。{日本|にほん}は {大|おお}きい くにですね。"
+   ],
+   "vocab": [
+    {
+     "word": "{十一月|じゅういちがつ}",
+     "meaning": {
+      "fr": "novembre",
+      "en": "November"
+     }
+    },
+    {
+     "word": "あたたかい",
+     "meaning": {
+      "fr": "doux, chaud (temps agréable)",
+      "en": "warm"
+     }
+    },
+    {
+     "word": "あつい",
+     "meaning": {
+      "fr": "chaud (très)",
+      "en": "hot"
+     }
+    },
+    {
+     "word": "なつ",
+     "meaning": {
+      "fr": "l'été",
+      "en": "summer"
+     }
+    },
+    {
+     "word": "ゆき",
+     "meaning": {
+      "fr": "la neige",
+      "en": "snow"
+     }
+    },
+    {
+     "word": "よる",
+     "meaning": {
+      "fr": "la nuit, le soir",
+      "en": "night"
+     }
+    },
+    {
+     "word": "{北|きた}",
+     "meaning": {
+      "fr": "le nord",
+      "en": "north"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "{十一月|じゅういちがつ}{六日|むいか}、{東京|とうきょう}は どうでしたか。",
+     "choices": [
+      "とても さむかったです",
+      "とても あたたかかったです",
+      "ゆきが ふりました"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Le texte dit que Tokyo était très doux (あたたかかったです).",
+      "en": "The text says Tokyo was very warm."
+     }
+    },
+    {
+     "question": "{東京|とうきょう}の きおんは なんどでしたか。",
+     "choices": [
+      "15ど",
+      "20ど",
+      "25.3ど"
+     ],
+     "answer": 2,
+     "explain": {
+      "fr": "Il a fait 25,3 degrés.",
+      "en": "It was 25.3 degrees."
+     }
+    },
+    {
+     "question": "{北|きた}の ほうでは、よる なにが ふりましたか。",
+     "choices": [
+      "あめ",
+      "ゆき",
+      "はな"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Dans le nord du Japon, il a neigé (ゆき) la nuit.",
+      "en": "In northern Japan, it snowed at night."
+     }
+    }
+   ]
+  },
+  "N4": {
+   "title": "11{月|がつ}なのに{東京|とうきょう}で「{夏日|なつび}」になりました",
+   "paragraphs": [
+    "11{月|がつ}6{日|むいか}、{東京|とうきょう}の{気温|きおん}は25.3{度|ど}まで{上|あ}がりました。25{度|ど}{以上|いじょう}の{日|ひ}を「{夏日|なつび}」と{言|い}います。",
+    "11{月|がつ}に{東京|とうきょう}が{夏日|なつび}になったのは、3{年|ねん}ぶりです。{前|まえ}の{日|ひ}より8.8{度|ど}も{高|たか}くて、{上着|うわぎ}がいらないほどでした。",
+    "でも、{夜|よる}になると{冷|つめ}たい{風|かぜ}が{吹|ふ}いて、{北海道|ほっかいどう}などでは{雨|あめ}が{雪|ゆき}に{変|か}わりました。{暑|あつ}い{日|ひ}と{寒|さむ}い{日|ひ}が{続|つづ}くので、{服|ふく}に{気|き}をつけましょう。"
+   ],
+   "vocab": [
+    {
+     "word": "{気温|きおん}",
+     "meaning": {
+      "fr": "la température (de l'air)",
+      "en": "air temperature"
+     }
+    },
+    {
+     "word": "{夏日|なつび}",
+     "meaning": {
+      "fr": "jour d'été (25 °C ou plus)",
+      "en": "summer day (25°C or more)"
+     }
+    },
+    {
+     "word": "{以上|いじょう}",
+     "meaning": {
+      "fr": "ou plus, au moins",
+      "en": "or more"
+     }
+    },
+    {
+     "word": "〜ぶり",
+     "meaning": {
+      "fr": "pour la première fois depuis…",
+      "en": "for the first time in…"
+     }
+    },
+    {
+     "word": "{上着|うわぎ}",
+     "meaning": {
+      "fr": "une veste",
+      "en": "jacket"
+     }
+    },
+    {
+     "word": "{冷|つめ}たい",
+     "meaning": {
+      "fr": "froid (au toucher, vent)",
+      "en": "cold (wind, water)"
+     }
+    },
+    {
+     "word": "{変|か}わる",
+     "meaning": {
+      "fr": "changer, se transformer",
+      "en": "to change"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "「{夏日|なつび}」は{何度|なんど}{以上|いじょう}の{日|ひ}ですか。",
+     "choices": [
+      "20{度|ど}",
+      "25{度|ど}",
+      "30{度|ど}"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Un 夏日 est un jour à 25 °C ou plus.",
+      "en": "A 夏日 is a day of 25°C or more."
+     }
+    },
+    {
+     "question": "11{月|がつ}に{東京|とうきょう}が{夏日|なつび}になったのは、{何年|なんねん}ぶりですか。",
+     "choices": [
+      "1{年|ねん}ぶり",
+      "3{年|ねん}ぶり",
+      "10{年|ねん}ぶり"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Le texte dit 3{年|ねん}ぶり : la première fois depuis 3 ans.",
+      "en": "The text says 3年ぶり: the first time in 3 years."
+     }
+    },
+    {
+     "question": "{夜|よる}、{北海道|ほっかいどう}などでは{何|なに}がありましたか。",
+     "choices": [
+      "{雨|あめ}が{雪|ゆき}に{変|か}わった",
+      "{夏日|なつび}になった",
+      "{風|かぜ}がなかった"
+     ],
+     "answer": 0,
+     "explain": {
+      "fr": "La nuit, la pluie s'est changée en neige à Hokkaidō.",
+      "en": "At night, rain turned to snow in Hokkaido."
+     }
+    }
+   ]
+  },
+  "N3": {
+   "title": "{東京|とうきょう}{都心|としん}で3{年|ねん}ぶりの11{月|がつ}の{夏日|なつび}、{北|きた}では{雪|ゆき}も",
+   "paragraphs": [
+    "6{日|むいか}は{上空|じょうくう}に{暖|あたた}かい{空気|くうき}が{入|はい}り、{日差|ひざ}しも{戻|もど}ったため、{関東|かんとう}を{中心|ちゅうしん}に{気温|きおん}が{大|おお}きく{上|あ}がった。{東京|とうきょう}{都心|としん}は{前|まえ}の{日|ひ}より8.8{度|ど}{高|たか}い25.3{度|ど}で、11{月|がつ}としては3{年|ねん}ぶりの{夏日|なつび}になった。{茨城県|いばらきけん}の{土浦|つちうら}では26.1{度|ど}を{記録|きろく}し、11{月|がつ}としては{観測史上|かんそくしじょう}{最|もっと}も{高|たか}い{気温|きおん}だった。",
+    "ところが、{北|きた}からは{寒気|かんき}が{近|ちか}づいていて、{夜|よる}には{北日本|きたにほん}で{雨|あめ}が{雪|ゆき}に{変|か}わった。{北海道|ほっかいどう}では{強|つよ}い{風|かぜ}にも{注意|ちゅうい}が{必要|ひつよう}だという。{昼|ひる}は{半袖|はんそで}、{夜|よる}はコートという{一日|いちにち}で、{季節|きせつ}の{変|か}わり{目|め}を{感|かん}じた{人|ひと}も{多|おお}かっただろう。"
+   ],
+   "vocab": [
+    {
+     "word": "{都心|としん}",
+     "meaning": {
+      "fr": "le centre de Tokyo",
+      "en": "central Tokyo"
+     }
+    },
+    {
+     "word": "{上空|じょうくう}",
+     "meaning": {
+      "fr": "en altitude, le ciel au-dessus",
+      "en": "upper air"
+     }
+    },
+    {
+     "word": "{日差|ひざ}し",
+     "meaning": {
+      "fr": "les rayons du soleil",
+      "en": "sunlight"
+     }
+    },
+    {
+     "word": "{記録|きろく}する",
+     "meaning": {
+      "fr": "enregistrer, établir (un record)",
+      "en": "to record"
+     }
+    },
+    {
+     "word": "{寒気|かんき}",
+     "meaning": {
+      "fr": "l'air froid, une masse d'air froid",
+      "en": "cold air"
+     }
+    },
+    {
+     "word": "{半袖|はんそで}",
+     "meaning": {
+      "fr": "manches courtes",
+      "en": "short sleeves"
+     }
+    },
+    {
+     "word": "{季節|きせつ}の{変|か}わり{目|め}",
+     "meaning": {
+      "fr": "le changement de saison",
+      "en": "turn of the seasons"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "{東京|とうきょう}{都心|としん}の{気温|きおん}は{前|まえ}の{日|ひ}より{何度|なんど}{高|たか}かったか。",
+     "choices": [
+      "3{度|ど}",
+      "8.8{度|ど}",
+      "25.3{度|ど}"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Il faisait 8,8 °C de plus que la veille.",
+      "en": "It was 8.8°C warmer than the day before."
+     }
+    },
+    {
+     "question": "{土浦|つちうら}の26.1{度|ど}はどんな{記録|きろく}か。",
+     "choices": [
+      "11{月|がつ}として{最|もっと}も{高|たか}い",
+      "{一年|いちねん}で{最|もっと}も{高|たか}い",
+      "11{月|がつ}として{最|もっと}も{低|ひく}い"
+     ],
+     "answer": 0,
+     "explain": {
+      "fr": "C'est la température la plus haute jamais mesurée à Tsuchiura en novembre.",
+      "en": "It is the highest November temperature ever recorded in Tsuchiura."
+     }
+    },
+    {
+     "question": "{夜|よる}、{北日本|きたにほん}の{天気|てんき}はどうなったか。",
+     "choices": [
+      "{晴|は}れて{暑|あつ}くなった",
+      "{雨|あめ}が{雪|ゆき}に{変|か}わった",
+      "{台風|たいふう}が{来|き}た"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Avec l'air froid venu du nord, la pluie s'est changée en neige.",
+      "en": "With cold air from the north, rain turned to snow."
+     }
+    }
+   ]
+  },
+  "N2": {
+   "title": "{晩秋|ばんしゅう}に{夏|なつ}が{逆戻|ぎゃくもど}り　{関東|かんとう}で{夏日|なつび}{続出|ぞくしゅつ}、{夜|よる}からは{一転|いってん}して{冬|ふゆ}の{気配|けはい}",
+   "paragraphs": [
+    "6{日|むいか}は{上空|じょうくう}に{暖|あたた}かい{空気|くうき}が{流|なが}れ{込|こ}んだうえ、{日差|ひざ}しが{戻|もど}り、{西寄|にしよ}りの{風|かぜ}が{山|やま}を{越|こ}えて{吹|ふ}き{下|お}りたことで、{気温|きおん}が{上|あ}がる{条件|じょうけん}がそろった。{東京|とうきょう}{都心|としん}は25.3{度|ど}と、11{月|がつ}としては3{年|ねん}ぶりに{夏日|なつび}となり、9{月|がつ}{下旬|げじゅん}{並|な}みの{暖|あたた}かさだった。",
+    "{関東|かんとう}では{各地|かくち}で{夏日|なつび}が{続出|ぞくしゅつ}し、{茨城県|いばらきけん}{土浦市|つちうらし}では26.1{度|ど}と11{月|がつ}の{観測史上|かんそくしじょう}{最高|さいこう}を{更新|こうしん}した。{前日|ぜんじつ}は{雨|あめ}で{肌寒|はだざむ}かっただけに、{仙台市|せんだいし}でも{前日|ぜんじつ}より6.9{度|ど}{高|たか}い21.5{度|ど}を{観測|かんそく}するなど、{寒暖差|かんだんさ}の{大|おお}きさが{目立|めだ}った。",
+    "しかし、{北|きた}からは{寒気|かんき}が{迫|せま}っており、{夜|よる}には{北日本|きたにほん}で{雨|あめ}が{雪|ゆき}に{変|か}わる{見込|みこ}みだ。{北海道|ほっかいどう}では{暴風|ぼうふう}や{吹雪|ふぶき}への{警戒|けいかい}が{呼|よ}びかけられており、{冬|ふゆ}{支度|じたく}を{急|いそ}ぐ{必要|ひつよう}がありそうだ。"
+   ],
+   "vocab": [
+    {
+     "word": "{晩秋|ばんしゅう}",
+     "meaning": {
+      "fr": "la fin de l'automne",
+      "en": "late autumn"
+     }
+    },
+    {
+     "word": "{逆戻|ぎゃくもど}り",
+     "meaning": {
+      "fr": "retour en arrière",
+      "en": "going back, reversion"
+     }
+    },
+    {
+     "word": "{続出|ぞくしゅつ}する",
+     "meaning": {
+      "fr": "se succéder, se multiplier",
+      "en": "to occur one after another"
+     }
+    },
+    {
+     "word": "{更新|こうしん}する",
+     "meaning": {
+      "fr": "battre (un record), mettre à jour",
+      "en": "to break (a record), to update"
+     }
+    },
+    {
+     "word": "{肌寒|はだざむ}い",
+     "meaning": {
+      "fr": "frisquet",
+      "en": "chilly"
+     }
+    },
+    {
+     "word": "{寒暖差|かんだんさ}",
+     "meaning": {
+      "fr": "l'écart de température",
+      "en": "temperature difference"
+     }
+    },
+    {
+     "word": "{警戒|けいかい}",
+     "meaning": {
+      "fr": "la vigilance, l'alerte",
+      "en": "caution, vigilance"
+     }
+    },
+    {
+     "word": "{冬支度|ふゆじたく}",
+     "meaning": {
+      "fr": "les préparatifs pour l'hiver",
+      "en": "preparing for winter"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "{気温|きおん}が{上|あ}がった{理由|りゆう}として{本文|ほんぶん}に{書|か}かれていないものはどれか。",
+     "choices": [
+      "{上空|じょうくう}の{暖|あたた}かい{空気|くうき}",
+      "{山|やま}を{越|こ}えて{吹|ふ}き{下|お}りる{風|かぜ}",
+      "{台風|たいふう}の{接近|せっきん}"
+     ],
+     "answer": 2,
+     "explain": {
+      "fr": "Le texte cite l'air chaud en altitude, le soleil et le vent qui descend des montagnes, pas un typhon.",
+      "en": "The text mentions warm air aloft, sunshine and wind descending from the mountains, not a typhoon."
+     }
+    },
+    {
+     "question": "{仙台市|せんだいし}の{気温|きおん}について{正|ただ}しいものはどれか。",
+     "choices": [
+      "{前日|ぜんじつ}より6.9{度|ど}{高|たか}かった",
+      "{夏日|なつび}になった",
+      "{雪|ゆき}が{降|ふ}った"
+     ],
+     "answer": 0,
+     "explain": {
+      "fr": "Sendai a eu 21,5 °C, soit 6,9 °C de plus que la veille.",
+      "en": "Sendai reached 21.5°C, 6.9°C higher than the day before."
+     }
+    },
+    {
+     "question": "{北海道|ほっかいどう}では{何|なに}に{警戒|けいかい}が{呼|よ}びかけられているか。",
+     "choices": [
+      "{熱中症|ねっちゅうしょう}",
+      "{暴風|ぼうふう}や{吹雪|ふぶき}",
+      "{大雨|おおあめ}による{洪水|こうずい}"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "On appelle à la vigilance face aux vents violents et aux tempêtes de neige.",
+      "en": "People are warned about violent winds and snowstorms."
+     }
+    }
+   ]
+  },
+  "N1": {
+   "title": "{関東|かんとう}で{季節外|きせつはず}れの{夏日|なつび}{相次|あいつ}ぐ　{土浦|つちうら}は11{月|がつ}の{観測史上|かんそくしじょう}{最高|さいこう}、{北日本|きたにほん}は{一転|いってん}して{冬|ふゆ}の{嵐|あらし}へ",
+   "paragraphs": [
+    "6{日|むいか}の{関東地方|かんとうちほう}は、{上空|じょうくう}への{暖気|だんき}の{流入|りゅうにゅう}に{加|くわ}え、{日照|にっしょう}の{回復|かいふく}と{西寄|にしよ}りの{風|かぜ}による{山越|やまご}えの{効果|こうか}が{重|かさ}なり、{気温|きおん}が{急|きゅう}ピッチで{上昇|じょうしょう}した。{東京|とうきょう}{都心|としん}の{最高気温|さいこうきおん}は{前日比|ぜんじつひ}8.8{度|ど}{高|たか}の25.3{度|ど}に{達|たっ}し、11{月|がつ}としては3{年|ねん}ぶりの{夏日|なつび}を{記録|きろく}した。",
+    "{茨城県|いばらきけん}{土浦市|つちうらし}では26.1{度|ど}を{観測|かんそく}し、11{月|がつ}の{観測史上|かんそくしじょう}{最高|さいこう}を{塗|ぬ}り{替|か}えた。なお、{東京|とうきょう}{都心|としん}における11{月|がつ}の{最高記録|さいこうきろく}は2023{年|ねん}11{月|がつ}7{日|なのか}の27.5{度|ど}、{夏日|なつび}の{最|もっと}も{遅|おそ}い{記録|きろく}は1975{年|ねん}11{月|がつ}16{日|にち}の25.1{度|ど}とされる。",
+    "{一方|いっぽう}、{北|きた}からは{強|つよ}い{寒気|かんき}が{南下|なんか}しつつあり、{北日本|きたにほん}では{同日夜|どうじつよる}から{雨|あめ}が{雪|ゆき}に{変|か}わる{見通|みとお}しだ。{北海道|ほっかいどう}では{暴風|ぼうふう}や{吹雪|ふぶき}による{交通|こうつう}{障害|しょうがい}への{警戒|けいかい}が{呼|よ}びかけられている。",
+    "{真夏日|まなつび}{並|な}みの{陽気|ようき}から{一夜|いちや}にして{冬型|ふゆがた}の{天候|てんこう}へと{移|うつ}り{変|か}わる{極端|きょくたん}な{寒暖差|かんだんさ}は、{体調管理|たいちょうかんり}の{面|めん}でも{注意|ちゅうい}を{要|よう}しそうだ。"
+   ],
+   "vocab": [
+    {
+     "word": "{季節外|きせつはず}れ",
+     "meaning": {
+      "fr": "hors de saison, inhabituel pour la saison",
+      "en": "unseasonable"
+     }
+    },
+    {
+     "word": "{相次|あいつ}ぐ",
+     "meaning": {
+      "fr": "se succéder",
+      "en": "to follow one after another"
+     }
+    },
+    {
+     "word": "{暖気|だんき}の{流入|りゅうにゅう}",
+     "meaning": {
+      "fr": "l'arrivée d'air chaud",
+      "en": "inflow of warm air"
+     }
+    },
+    {
+     "word": "{塗|ぬ}り{替|か}える",
+     "meaning": {
+      "fr": "battre (un record), réécrire",
+      "en": "to rewrite (a record)"
+     }
+    },
+    {
+     "word": "{南下|なんか}する",
+     "meaning": {
+      "fr": "descendre vers le sud",
+      "en": "to move south"
+     }
+    },
+    {
+     "word": "{見通|みとお}し",
+     "meaning": {
+      "fr": "les prévisions, la perspective",
+      "en": "outlook"
+     }
+    },
+    {
+     "word": "{陽気|ようき}",
+     "meaning": {
+      "fr": "le temps (doux, agréable)",
+      "en": "weather, mild weather"
+     }
+    },
+    {
+     "word": "{要|よう}する",
+     "meaning": {
+      "fr": "nécessiter, exiger",
+      "en": "to require"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "{東京|とうきょう}{都心|としん}の11{月|がつ}の{最高記録|さいこうきろく}はどれか。",
+     "choices": [
+      "25.3{度|ど}",
+      "26.1{度|ど}",
+      "27.5{度|ど}"
+     ],
+     "answer": 2,
+     "explain": {
+      "fr": "Le record de novembre au centre de Tokyo est de 27,5 °C (7 novembre 2023).",
+      "en": "Central Tokyo's November record is 27.5°C (Nov. 7, 2023)."
+     }
+    },
+    {
+     "question": "6{日|むいか}に{観測史上|かんそくしじょう}{最高|さいこう}を{更新|こうしん}したのはどこか。",
+     "choices": [
+      "{東京|とうきょう}{都心|としん}",
+      "{土浦市|つちうらし}",
+      "{仙台市|せんだいし}"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "C'est Tsuchiura (Ibaraki), avec 26,1 °C.",
+      "en": "It was Tsuchiura (Ibaraki), with 26.1°C."
+     }
+    },
+    {
+     "question": "{本文|ほんぶん}によれば、{北海道|ほっかいどう}で{特|とく}に{懸念|けねん}されているのは{何|なに}か。",
+     "choices": [
+      "{暴風|ぼうふう}や{吹雪|ふぶき}による{交通|こうつう}{障害|しょうがい}",
+      "{記録的|きろくてき}な{高温|こうおん}",
+      "{水不足|みずぶそく}"
+     ],
+     "answer": 0,
+     "explain": {
+      "fr": "On craint des perturbations des transports à cause des vents violents et des tempêtes de neige.",
+      "en": "Traffic disruptions from violent winds and snowstorms are feared."
+     }
+    }
+   ]
+  }
+ }
+}
