@@ -2,6 +2,18 @@
   "_note": "Registre des photos du Journal : une entrée par image non créée par nous (origine, auteur, licence). Le plus récent en premier. Ajouter en tête, ne jamais supprimer.",
   "images": [
     {
+      "date": "2026-11-08",
+      "file": "cover.webp",
+      "credit": "Photo : TR15336300101 / CC BY-SA 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nara_Deer_Antler-Cutting_Ceremony.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nara_Deer_Antler-Cutting_Ceremony.jpg",
+      "origin": "Wikimedia Commons",
+      "author": "TR15336300101",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
       "date": "2026-11-07",
       "file": "cover.webp",
       "credit": "Photo : Basile Morin / CC BY-SA 4.0",

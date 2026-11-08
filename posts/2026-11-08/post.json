@@ -1,0 +1,549 @@
+{
+  "date": "2026-11-08",
+  "newsDate": "2026-11-07",
+  "category": "culture",
+  "title": "Nara : les cerfs passent chez le « coiffeur » pour leurs bois !",
+  "summary": {
+    "fr": "Le 7 novembre, le parc de Nara a lancé le « shika no tsunokiri », une tradition de plus de 370 ans où l'on coupe les bois des cerfs mâles pour qu'ils ne blessent personne pendant la saison des amours. Des rabatteurs en veste happi, drapeaux rouges en main, ont attrapé les cerfs sous les acclamations du public.",
+    "en": "On November 7, Nara Park held its 'shika no tsunokiri', a tradition over 370 years old in which male deer have their antlers cut so they don't hurt anyone during the breeding season. Handlers in happi coats waving red flags caught the deer as the crowd cheered."
+  },
+  "sources": [
+    {
+      "name": "FNN Prime Online / Kansai TV (japonais)",
+      "url": "https://www.fnn.jp/articles/-/1148065"
+    },
+    {
+      "name": "Office du tourisme de Nara (japonais)",
+      "url": "https://narashikanko.or.jp/event/detail_10205.html"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "Cérémonie du tsunokiri dans l'enclos aux cerfs du parc de Nara : des rabatteurs en tenue traditionnelle maîtrisent un cerf mâle pour lui couper les bois.",
+      "caption": "Le tsunokiri au parc de Nara (photo d'une édition précédente, en 2017).",
+      "credit": "Photo : TR15336300101 / CC BY-SA 4.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nara_Deer_Antler-Cutting_Ceremony.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Nara_Deer_Antler-Cutting_Ceremony.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "TR15336300101",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "{奈良|なら}の シカ、つのを きります",
+      "paragraphs": [
+        "{十一月|じゅういちがつ}{七日|なのか}、{奈良|なら}の こうえんで「シカの つのきり」が ありました。",
+        "あきの オスの シカは、つのが {大|おお}きくて、ちょっと あぶないです。",
+        "だから、{人|ひと}が シカを つかまえて、つのを きります。",
+        "{見|み}に {来|き}た {子|こ}どもは「シカは かわいくて、とても はやかった」と {言|い}いました。"
+      ],
+      "vocab": [
+        {
+          "word": "シカ",
+          "meaning": {
+            "fr": "le cerf, la biche",
+            "en": "deer"
+          }
+        },
+        {
+          "word": "つの",
+          "meaning": {
+            "fr": "les bois, les cornes",
+            "en": "antlers, horns"
+          }
+        },
+        {
+          "word": "きります",
+          "meaning": {
+            "fr": "couper",
+            "en": "to cut"
+          }
+        },
+        {
+          "word": "オス",
+          "meaning": {
+            "fr": "le mâle",
+            "en": "male (animal)"
+          }
+        },
+        {
+          "word": "あぶない",
+          "meaning": {
+            "fr": "dangereux",
+            "en": "dangerous"
+          }
+        },
+        {
+          "word": "こうえん",
+          "meaning": {
+            "fr": "le parc",
+            "en": "park"
+          }
+        },
+        {
+          "word": "はやい",
+          "meaning": {
+            "fr": "rapide",
+            "en": "fast"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "なにを きりましたか。",
+          "choices": [
+            "シカの つの",
+            "シカの あし",
+            "きの えだ"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "On a coupé les bois des cerfs (シカの つの).",
+            "en": "They cut the deer's antlers."
+          }
+        },
+        {
+          "question": "どこで ありましたか。",
+          "choices": [
+            "{東京|とうきょう}",
+            "{奈良|なら}",
+            "{大阪|おおさか}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Ça s'est passé dans un parc de Nara.",
+            "en": "It took place in a park in Nara."
+          }
+        },
+        {
+          "question": "{子|こ}どもは シカを どう {言|い}いましたか。",
+          "choices": [
+            "こわい",
+            "かわいくて はやい",
+            "{大|おお}きくて おそい"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "L'enfant a trouvé les cerfs mignons et très rapides.",
+            "en": "The child said the deer were cute and very fast."
+          }
+        }
+      ]
+    },
+    "N4": {
+      "title": "{奈良|なら}{公園|こうえん}で「{鹿|しか}の{角|つの}きり」が {始|はじ}まりました",
+      "paragraphs": [
+        "{十一月|じゅういちがつ}{七日|なのか}、{奈良|なら}{公園|こうえん}で「{鹿|しか}の{角|つの}きり」という {行事|ぎょうじ}が {始|はじ}まりました。",
+        "{秋|あき}に なると、オスの{鹿|しか}は {気|き}が {強|つよ}く なって、{角|つの}で {人|ひと}や ほかの{鹿|しか}に けがを させる ことが あります。",
+        "それを {止|と}める ために、{江戸|えど}{時代|じだい}から この{行事|ぎょうじ}が {続|つづ}いて います。",
+        "はっぴを {着|き}た {人|ひと}たちが {赤|あか}い{旗|はた}を {持|も}って {鹿|しか}を {追|お}いかけ、なわで つかまえます。",
+        "それから、のこぎりで {角|つの}を {切|き}ります。",
+        "{見|み}に {来|き}た 10{歳|さい}の {男|おとこ}の{子|こ}は「とても {速|はや}かった。もう {一回|いっかい} {見|み}たい」と {話|はな}して いました。"
+      ],
+      "vocab": [
+        {
+          "word": "{行事|ぎょうじ}",
+          "meaning": {
+            "fr": "un événement (traditionnel)",
+            "en": "event, ceremony"
+          }
+        },
+        {
+          "word": "{角|つの}",
+          "meaning": {
+            "fr": "les bois (du cerf)",
+            "en": "antlers"
+          }
+        },
+        {
+          "word": "{秋|あき}",
+          "meaning": {
+            "fr": "l'automne",
+            "en": "autumn"
+          }
+        },
+        {
+          "word": "けが",
+          "meaning": {
+            "fr": "une blessure",
+            "en": "injury"
+          }
+        },
+        {
+          "word": "{続|つづ}く",
+          "meaning": {
+            "fr": "continuer, durer",
+            "en": "to continue"
+          }
+        },
+        {
+          "word": "{追|お}いかける",
+          "meaning": {
+            "fr": "poursuivre, courir après",
+            "en": "to chase"
+          }
+        },
+        {
+          "word": "{旗|はた}",
+          "meaning": {
+            "fr": "un drapeau",
+            "en": "flag"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "どうして {角|つの}を {切|き}りますか。",
+          "choices": [
+            "{角|つの}を {売|う}る ため",
+            "{鹿|しか}が {人|ひと}に けがを させない ため",
+            "{鹿|しか}を きれいに する ため"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "On coupe les bois pour que les cerfs ne blessent personne.",
+            "en": "The antlers are cut so the deer don't hurt anyone."
+          }
+        },
+        {
+          "question": "この{行事|ぎょうじ}は いつから {続|つづ}いて いますか。",
+          "choices": [
+            "{江戸|えど}{時代|じだい}から",
+            "{去年|きょねん}から",
+            "10{年|ねん}{前|まえ}から"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "La tradition existe depuis l'époque d'Edo.",
+            "en": "It has continued since the Edo period."
+          }
+        },
+        {
+          "question": "{人|ひと}たちは {何|なに}を {持|も}って いましたか。",
+          "choices": [
+            "{青|あお}い{傘|かさ}",
+            "{赤|あか}い{旗|はた}",
+            "{白|しろ}い{紙|かみ}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Les participants tenaient des drapeaux rouges (赤い旗).",
+            "en": "They were holding red flags."
+          }
+        }
+      ]
+    },
+    "N3": {
+      "title": "370{年|ねん}{以上|いじょう}{続|つづ}く「{鹿|しか}の{角|つの}きり」、{今年|ことし}も{奈良|なら}で{始|はじ}まりました",
+      "paragraphs": [
+        "{奈良|なら}{公園|こうえん}にある{春日大社|かすがたいしゃ}の{境内|けいだい}で{七日|なのか}、{秋|あき}の{伝統|でんとう}{行事|ぎょうじ}「{鹿|しか}の{角|つの}きり」が{始|はじ}まりました。{秋|あき}は{鹿|しか}の{繁殖期|はんしょくき}で、オスは{気|き}が{荒|あら}くなり、{角|つの}で{人|ひと}やほかの{鹿|しか}を{傷|きず}つけるおそれがあります。それを{防|ふせ}ぐために、{江戸|えど}{時代|じだい}から370{年|ねん}{以上|いじょう}{続|つづ}けられているそうです。",
+        "{太鼓|たいこ}の{音|おと}が{響|ひび}く{中|なか}、はっぴ{姿|すがた}の「{勢子|せこ}」たちが{赤|あか}い{旗|はた}で{鹿|しか}を{追|お}い{込|こ}み、なわで{捕|つか}まえました。そして{神職|しんしょく}{役|やく}の{人|ひと}が、のこぎりで{角|つの}を{切|き}り{落|お}としました。{鹿|しか}は{神様|かみさま}の{使|つか}いとされているため、{切|き}った{角|つの}は{神前|しんぜん}に{供|そな}えられます。{行事|ぎょうじ}は{八日|ようか}にも{行|おこな}われます。"
+      ],
+      "vocab": [
+        {
+          "word": "{伝統|でんとう}",
+          "meaning": {
+            "fr": "la tradition",
+            "en": "tradition"
+          }
+        },
+        {
+          "word": "{繁殖期|はんしょくき}",
+          "meaning": {
+            "fr": "la saison des amours",
+            "en": "breeding season"
+          }
+        },
+        {
+          "word": "{荒|あら}い",
+          "meaning": {
+            "fr": "agité, brutal",
+            "en": "rough, wild"
+          }
+        },
+        {
+          "word": "{防|ふせ}ぐ",
+          "meaning": {
+            "fr": "empêcher, prévenir",
+            "en": "to prevent"
+          }
+        },
+        {
+          "word": "{追|お}い{込|こ}む",
+          "meaning": {
+            "fr": "rabattre, acculer",
+            "en": "to drive into, to corner"
+          }
+        },
+        {
+          "word": "{捕|つか}まえる",
+          "meaning": {
+            "fr": "attraper",
+            "en": "to catch"
+          }
+        },
+        {
+          "word": "{供|そな}える",
+          "meaning": {
+            "fr": "offrir (aux dieux)",
+            "en": "to offer (to the gods)"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{角|つの}きりはどこで{行|おこな}われましたか。",
+          "choices": [
+            "{春日大社|かすがたいしゃ}の{境内|けいだい}",
+            "{東大寺|とうだいじ}の{中|なか}",
+            "{奈良|なら}{駅|えき}の{前|まえ}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "La cérémonie a lieu dans l'enceinte du sanctuaire Kasuga-taisha.",
+            "en": "It took place in the grounds of Kasuga Taisha shrine."
+          }
+        },
+        {
+          "question": "{切|き}った{角|つの}はどうなりますか。",
+          "choices": [
+            "{観光客|かんこうきゃく}にプレゼントされる",
+            "{神前|しんぜん}に{供|そな}えられる",
+            "{捨|す}てられる"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Les bois coupés sont offerts aux dieux, car le cerf est leur messager.",
+            "en": "The cut antlers are offered to the gods."
+          }
+        },
+        {
+          "question": "{行事|ぎょうじ}はいつまで{行|おこな}われますか。",
+          "choices": [
+            "{七日|なのか}だけ",
+            "{八日|ようか}まで",
+            "{月末|げつまつ}まで"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La cérémonie a lieu le 7 et le 8 novembre.",
+            "en": "The event runs on the 7th and 8th."
+          }
+        }
+      ]
+    },
+    "N2": {
+      "title": "{古都|こと}{奈良|なら}の{秋|あき}の{風物詩|ふうぶつし}「{鹿|しか}の{角|つの}きり」に{観客|かんきゃく}から{歓声|かんせい}",
+      "paragraphs": [
+        "{江戸|えど}{時代|じだい}から370{年|ねん}{以上|いじょう}にわたって{受|う}け{継|つ}がれてきた{奈良|なら}の{伝統|でんとう}{行事|ぎょうじ}「{鹿|しか}の{角|つの}きり」が{7日|なのか}、{奈良|なら}{公園|こうえん}の{春日大社|かすがたいしゃ}{境内|けいだい}にある{鹿苑|ろくえん}{角|つの}きり{場|ば}で{始|はじ}まった。{行事|ぎょうじ}は{8日|ようか}にも{開催|かいさい}される。",
+        "{主催|しゅさい}する{一般|いっぱん}{財団|ざいだん}{法人|ほうじん}「{奈良|なら}の{鹿|しか}{愛護会|あいごかい}」によると、{秋|あき}は{鹿|しか}の{繁殖期|はんしょくき}にあたり、{雄|おす}の{鹿|しか}が{攻撃的|こうげきてき}になる。{角|つの}きりは、{角|つの}で{人|ひと}や{他|ほか}の{鹿|しか}を{傷|きず}つけるのを{防|ふせ}ぐ{目的|もくてき}で{始|はじ}まったとされている。",
+        "{太鼓|たいこ}の{音|おと}が{鳴|な}り{響|ひび}く{中|なか}、{法被|はっぴ}{姿|すがた}の{勢子|せこ}たちが{赤|あか}い{旗|はた}を{使|つか}って{鹿|しか}を{追|お}い{込|こ}むと、{激|はげ}しく{駆|か}け{回|まわ}る{鹿|しか}との{攻防|こうぼう}に{観客|かんきゃく}から{歓声|かんせい}が{上|あ}がった。{兵庫県|ひょうごけん}から{家族|かぞく}と{訪|おとず}れた10{歳|さい}の{男|おとこ}の{子|こ}は「めちゃくちゃ{速|はや}いと{思|おも}った。もう{一回|いっかい}{見|み}てみたい」と{驚|おどろ}いていた。"
+      ],
+      "vocab": [
+        {
+          "word": "{受|う}け{継|つ}ぐ",
+          "meaning": {
+            "fr": "hériter, transmettre",
+            "en": "to inherit, to carry on"
+          }
+        },
+        {
+          "word": "{開催|かいさい}",
+          "meaning": {
+            "fr": "la tenue (d'un événement)",
+            "en": "holding (an event)"
+          }
+        },
+        {
+          "word": "{主催|しゅさい}",
+          "meaning": {
+            "fr": "l'organisation",
+            "en": "sponsorship, organizing"
+          }
+        },
+        {
+          "word": "{攻撃的|こうげきてき}",
+          "meaning": {
+            "fr": "agressif",
+            "en": "aggressive"
+          }
+        },
+        {
+          "word": "{目的|もくてき}",
+          "meaning": {
+            "fr": "le but",
+            "en": "purpose"
+          }
+        },
+        {
+          "word": "{攻防|こうぼう}",
+          "meaning": {
+            "fr": "l'attaque et la défense, le duel",
+            "en": "offense and defense, tussle"
+          }
+        },
+        {
+          "word": "{歓声|かんせい}",
+          "meaning": {
+            "fr": "les cris de joie, les acclamations",
+            "en": "cheers"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{角|つの}きりを{主催|しゅさい}したのはどこか。",
+          "choices": [
+            "{奈良市|ならし}{役所|やくしょ}",
+            "{奈良|なら}の{鹿|しか}{愛護会|あいごかい}",
+            "{奈良県|ならけん}{警察|けいさつ}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "L'organisateur est la fondation « Nara no Shika Aigokai ».",
+            "en": "It is organized by the Nara Deer Preservation Foundation."
+          }
+        },
+        {
+          "question": "{雄|おす}の{鹿|しか}が{攻撃的|こうげきてき}になるのはなぜか。",
+          "choices": [
+            "{繁殖期|はんしょくき}だから",
+            "{寒|さむ}いから",
+            "{観光客|かんこうきゃく}が{多|おお}いから"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "En automne, c'est la saison des amours : les mâles deviennent agressifs.",
+            "en": "Autumn is the breeding season, so males get aggressive."
+          }
+        },
+        {
+          "question": "{勢子|せこ}たちは{何|なに}を{使|つか}って{鹿|しか}を{追|お}い{込|こ}んだか。",
+          "choices": [
+            "{太鼓|たいこ}",
+            "{赤|あか}い{旗|はた}",
+            "{笛|ふえ}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Les seko rabattent les cerfs avec des drapeaux rouges ; le tambour, lui, rythme la scène.",
+            "en": "The seko used red flags; the drums only set the rhythm."
+          }
+        }
+      ]
+    },
+    "N1": {
+      "title": "{春日大社|かすがたいしゃ}で{古式|こしき}「{鹿|しか}の{角|つの}きり」　370{年|ねん}{超|ちょう}の{伝統|でんとう}、{人|ひと}と{鹿|しか}の{共生|きょうせい}{映|うつ}す",
+      "paragraphs": [
+        "{古都|こと}{奈良|なら}の{秋|あき}を{彩|いろど}る{伝統|でんとう}{行事|ぎょうじ}「{鹿|しか}の{角|つの}きり」が{7日|なのか}、{奈良市|ならし}の{春日大社|かすがたいしゃ}{境内|けいだい}にある{鹿苑|ろくえん}{角|つの}きり{場|ば}で{幕|まく}を{開|あ}けた。{江戸|えど}{時代|じだい}に{端|たん}を{発|はっ}し、370{年|ねん}{余|あま}りにわたって{継承|けいしょう}されてきたもので、{8日|ようか}まで{催|もよお}される。",
+        "{主催|しゅさい}する「{奈良|なら}の{鹿|しか}{愛護会|あいごかい}」によれば、{繁殖期|はんしょくき}を{迎|むか}えた{雄|おす}{鹿|じか}は{気性|きしょう}が{荒|あら}くなり、{角|つの}で{人|ひと}や{他|た}の{鹿|しか}を{傷|きず}つける{恐|おそ}れがある。{角|つの}きりはこうした{事態|じたい}を{未然|みぜん}に{防|ふせ}ぐ{目的|もくてき}で{始|はじ}まったとされ、{現在|げんざい}は{職員|しょくいん}の{捕獲|ほかく}{業務|ぎょうむ}の{研修|けんしゅう}を{兼|か}ねて{実施|じっし}されている。",
+        "{会場|かいじょう}では{太鼓|たいこ}が{鳴|な}り{響|ひび}く{中|なか}、{法被|はっぴ}{姿|すがた}の{勢子|せこ}が{赤旗|あかはた}を{手|て}に{雄|おす}{鹿|じか}を{追|お}い{込|こ}み、「{十字|じゅうじ}」と{呼|よ}ばれる{道具|どうぐ}を{角|つの}めがけて{素早|すばや}く{投|な}げ{落|お}として{捕|と}らえた。{取|と}り{押|お}さえられた{鹿|しか}の{角|つの}は{神職|しんしょく}{役|やく}がのこぎりで{切|き}り{落|お}とし、{鹿|しか}が{神|かみ}の{使|つか}い「{神鹿|しんろく}」とされてきたことにちなんで{神前|しんぜん}に{供|そな}えられた。",
+        "{俊敏|しゅんびん}に{駆|か}け{回|まわ}る{鹿|しか}と{勢子|せこ}との{攻防|こうぼう}に、{詰|つ}めかけた{観客|かんきゃく}からはたびたび{歓声|かんせい}が{上|あ}がった。{伝統|でんとう}の{継承|けいしょう}と{安全|あんぜん}{対策|たいさく}を{両立|りょうりつ}させる{営|いとな}みとして、{人|ひと}と{鹿|しか}の{共生|きょうせい}を{象徴|しょうちょう}する{行事|ぎょうじ}と{言|い}えそうだ。"
+      ],
+      "vocab": [
+        {
+          "word": "{端|たん}を{発|はっ}する",
+          "meaning": {
+            "fr": "avoir son origine dans",
+            "en": "to originate from"
+          }
+        },
+        {
+          "word": "{継承|けいしょう}",
+          "meaning": {
+            "fr": "la transmission, la succession",
+            "en": "succession, inheritance"
+          }
+        },
+        {
+          "word": "{気性|きしょう}",
+          "meaning": {
+            "fr": "le tempérament",
+            "en": "temperament"
+          }
+        },
+        {
+          "word": "{未然|みぜん}に{防|ふせ}ぐ",
+          "meaning": {
+            "fr": "prévenir avant que ça n'arrive",
+            "en": "to prevent beforehand"
+          }
+        },
+        {
+          "word": "{捕獲|ほかく}",
+          "meaning": {
+            "fr": "la capture",
+            "en": "capture"
+          }
+        },
+        {
+          "word": "{兼|か}ねる",
+          "meaning": {
+            "fr": "servir aussi de, cumuler",
+            "en": "to double as"
+          }
+        },
+        {
+          "word": "{共生|きょうせい}",
+          "meaning": {
+            "fr": "la cohabitation, la symbiose",
+            "en": "coexistence"
+          }
+        },
+        {
+          "word": "{象徴|しょうちょう}",
+          "meaning": {
+            "fr": "le symbole",
+            "en": "symbol"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{現在|げんざい}、{角|つの}きりは{何|なに}を{兼|か}ねて{実施|じっし}されているか。",
+          "choices": [
+            "{観光|かんこう}{収入|しゅうにゅう}の{確保|かくほ}",
+            "{職員|しょくいん}の{捕獲|ほかく}{業務|ぎょうむ}の{研修|けんしゅう}",
+            "{鹿|しか}の{健康|けんこう}{診断|しんだん}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Aujourd'hui, la cérémonie sert aussi d'entraînement à la capture pour le personnel.",
+            "en": "Today it also serves as capture training for the staff."
+          }
+        },
+        {
+          "question": "{切|き}り{落|お}とされた{角|つの}が{神前|しんぜん}に{供|そな}えられるのはなぜか。",
+          "choices": [
+            "{鹿|しか}が{神|かみ}の{使|つか}いとされてきたから",
+            "{角|つの}が{高価|こうか}だから",
+            "{観客|かんきゃく}が{望|のぞ}んだから"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Le cerf est considéré comme le messager des dieux (神鹿).",
+            "en": "Deer have been regarded as messengers of the gods."
+          }
+        },
+        {
+          "question": "「{十字|じゅうじ}」とは{何|なに}か。",
+          "choices": [
+            "{勢子|せこ}が{持|も}つ{旗|はた}",
+            "{鹿|しか}を{捕|と}らえるための{道具|どうぐ}",
+            "{神職|しんしょく}の{衣装|いしょう}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le « jûji » est un outil lancé vers les bois pour attraper le cerf.",
+            "en": "The 'juji' is a tool thrown at the antlers to catch the deer."
+          }
+        }
+      ]
+    }
+  }
+}
