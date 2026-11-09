@@ -1,0 +1,502 @@
+{
+  "date": "2026-11-09",
+  "newsDate": "2026-11-08",
+  "category": "culture",
+  "title": "À Kushiro, les estampes de Kōji Yūki font parler l’art aïnou",
+  "summary": {
+    "fr": "Le musée municipal de Kushiro expose les estampes de Kōji Yūki, artiste aïnou originaire de la ville. L’exposition est annoncée jusqu’au 10 janvier 2027.",
+    "en": "Kushiro City Museum is exhibiting prints by Kōji Yūki, an Ainu artist from the city. The exhibition is scheduled through January 10, 2027."
+  },
+  "sources": [
+    {
+      "name": "Kushiro Shimbun, 8 novembre 2026",
+      "url": "https://kushironews.jp/2026/11/08/716245/"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "Vitrines et objets exposés au musée de la culture aïnoue de Nibutani, à Hokkaidō.",
+      "caption": "Une exposition sur la culture aïnoue à Nibutani, en 2023 ; photo d’illustration, pas de l’exposition de Kushiro.",
+      "credit": "Photo : Calistemon / CC BY-SA 4.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Exhibitions_in_the_Nibutani_Ainu_Culture_Museum,_April_2023_07.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Exhibitions_in_the_Nibutani_Ainu_Culture_Museum%2C_April_2023_07.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "Calistemon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "{博物館|はくぶつかん}で {絵|え}を {見|み}ます",
+      "paragraphs": [
+        "{北海道|ほっかいどう}の {博物館|はくぶつかん}に、{結城|ゆうき}さんの {絵|え}が あります。",
+        "{結城|ゆうき}さんは アイヌの {人|ひと}です。",
+        "{絵|え}は アイヌの {文化|ぶんか}を {見|み}せます。",
+        "{来年|らいねん}の {一月|いちがつ}{十日|とおか}まで {見|み}る ことが できます。"
+      ],
+      "vocab": [
+        {
+          "word": "{博物館|はくぶつかん}",
+          "meaning": {
+            "fr": "musée",
+            "en": "museum"
+          }
+        },
+        {
+          "word": "{絵|え}",
+          "meaning": {
+            "fr": "image, tableau",
+            "en": "picture"
+          }
+        },
+        {
+          "word": "アイヌ",
+          "meaning": {
+            "fr": "Aïnous, peuple autochtone du Japon",
+            "en": "Ainu people"
+          }
+        },
+        {
+          "word": "{文化|ぶんか}",
+          "meaning": {
+            "fr": "culture",
+            "en": "culture"
+          }
+        },
+        {
+          "word": "{見|み}る",
+          "meaning": {
+            "fr": "voir",
+            "en": "to see"
+          }
+        },
+        {
+          "word": "{来年|らいねん}",
+          "meaning": {
+            "fr": "année prochaine",
+            "en": "next year"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "どこで {絵|え}を {見|み}ますか。",
+          "choices": [
+            "{博物館|はくぶつかん}",
+            "うみ",
+            "がっこう"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Au musée.",
+            "en": "At the museum."
+          }
+        },
+        {
+          "question": "{絵|え}を かいた {人|ひと}は だれですか。",
+          "choices": [
+            "{結城|ゆうき}さん",
+            "たなかさん",
+            "{先生|せんせい}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Ce sont des œuvres de M. Yūki.",
+            "en": "They are by Mr. Yūki."
+          }
+        },
+        {
+          "question": "いつまで {見|み}る ことが できますか。",
+          "choices": [
+            "{今日|きょう}まで",
+            "{来年|らいねん}の {一月|いちがつ}{十日|とおか}まで",
+            "{来年|らいねん}の {三月|さんがつ}まで"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Jusqu’au 10 janvier de l’année suivante.",
+            "en": "Until January 10 next year."
+          }
+        }
+      ]
+    },
+    "N4": {
+      "title": "{釧路|くしろ}の{博物館|はくぶつかん}でアイヌの{作品|さくひん}を{紹介|しょうかい}",
+      "paragraphs": [
+        "{北海道|ほっかいどう}の{釧路市立博物館|くしろしりつはくぶつかん}で、{結城幸司|ゆうきこうじ}さんの{作品展|さくひんてん}を{開|ひら}いています。",
+        "{結城|ゆうき}さんは{釧路|くしろ}{出身|しゅっしん}のアイヌのアーティストです。",
+        "{会場|かいじょう}では、{結城|ゆうき}さんの{版画|はんが}を{見|み}ることができます。",
+        "{版画|はんが}は、{絵|え}を{彫|ほ}って{紙|かみ}に{刷|す}る{方法|ほうほう}で{作|つく}ります。",
+        "この{展示|てんじ}は、{来年|らいねん}の{一月|いちがつ}{十日|とおか}まで{続|つづ}きます。",
+        "{作品|さくひん}を{通|とお}して、アイヌの{文化|ぶんか}に{触|ふ}れることができます。"
+      ],
+      "vocab": [
+        {
+          "word": "{作品展|さくひんてん}",
+          "meaning": {
+            "fr": "exposition d’œuvres",
+            "en": "art exhibition"
+          }
+        },
+        {
+          "word": "{出身|しゅっしん}",
+          "meaning": {
+            "fr": "originaire de",
+            "en": "from, birthplace"
+          }
+        },
+        {
+          "word": "{版画|はんが}",
+          "meaning": {
+            "fr": "estampe",
+            "en": "printmaking"
+          }
+        },
+        {
+          "word": "{展示|てんじ}",
+          "meaning": {
+            "fr": "exposition",
+            "en": "exhibition"
+          }
+        },
+        {
+          "word": "{続|つづ}く",
+          "meaning": {
+            "fr": "continuer",
+            "en": "to continue"
+          }
+        },
+        {
+          "word": "{触|ふ}れる",
+          "meaning": {
+            "fr": "découvrir, entrer en contact avec",
+            "en": "to encounter"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{結城|ゆうき}さんはどこの{出身|しゅっしん}ですか。",
+          "choices": [
+            "{釧路|くしろ}",
+            "{東京|とうきょう}",
+            "{大阪|おおさか}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Il est originaire de Kushiro.",
+            "en": "He is from Kushiro."
+          }
+        },
+        {
+          "question": "{会場|かいじょう}で{見|み}られる{作品|さくひん}は{何|なん}ですか。",
+          "choices": [
+            "{版画|はんが}",
+            "{映画|えいが}",
+            "{花|はな}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "On peut voir ses estampes.",
+            "en": "Visitors can see his prints."
+          }
+        },
+        {
+          "question": "{展示|てんじ}はいつまでですか。",
+          "choices": [
+            "{一月|いちがつ}{十日|とおか}まで",
+            "{十二月|じゅうにがつ}{一日|ついたち}まで",
+            "{三月|さんがつ}まで"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Jusqu’au 10 janvier.",
+            "en": "Until January 10."
+          }
+        }
+      ]
+    },
+    "N3": {
+      "title": "{釧路|くしろ}でアイヌの{芸術家|げいじゅつか}、{結城幸司|ゆうきこうじ}さんの{版画展|はんがてん}",
+      "paragraphs": [
+        "{釧路市立博物館|くしろしりつはくぶつかん}では、{釧路|くしろ}{出身|しゅっしん}のアイヌ{民族|みんぞく}の{芸術家|げいじゅつか}、{結城幸司|ゆうきこうじ}さんの{作品展|さくひんてん}が{開|ひら}かれています。{八日|ようか}、{地元|じもと}の{新聞|しんぶん}がこの{展示|てんじ}を{紹介|しょうかい}しました。{会場|かいじょう}では、{結城|ゆうき}さんの{版画|はんが}{作品|さくひん}を{見|み}ることができます。",
+        "{展覧会|てんらんかい}の{題名|だいめい}は「{銀色|ぎんいろ}の{空|そら}　{銀色|ぎんいろ}の{物語|ものがたり}　シロカニ　ニソロ　シロカニ　オルシペ」です。{来年|らいねん}の{一月|いちがつ}{十日|とおか}まで{続|つづ}くので、{作品|さくひん}を{通|とお}してアイヌの{文化|ぶんか}や{芸術|げいじゅつ}に{触|ふ}れる{機会|きかい}になりそうです。"
+      ],
+      "vocab": [
+        {
+          "word": "{芸術家|げいじゅつか}",
+          "meaning": {
+            "fr": "artiste",
+            "en": "artist"
+          }
+        },
+        {
+          "word": "{民族|みんぞく}",
+          "meaning": {
+            "fr": "peuple",
+            "en": "people, ethnic group"
+          }
+        },
+        {
+          "word": "{版画|はんが}",
+          "meaning": {
+            "fr": "estampe",
+            "en": "print"
+          }
+        },
+        {
+          "word": "{展覧会|てんらんかい}",
+          "meaning": {
+            "fr": "exposition",
+            "en": "exhibition"
+          }
+        },
+        {
+          "word": "{題名|だいめい}",
+          "meaning": {
+            "fr": "titre",
+            "en": "title"
+          }
+        },
+        {
+          "word": "{機会|きかい}",
+          "meaning": {
+            "fr": "occasion",
+            "en": "opportunity"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{展示|てんじ}が{開|ひら}かれている{場所|ばしょ}は？",
+          "choices": [
+            "{釧路市立博物館|くしろしりつはくぶつかん}",
+            "{札幌駅|さっぽろえき}",
+            "{東京国立博物館|とうきょうこくりつはくぶつかん}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Au musée municipal de Kushiro.",
+            "en": "At the Kushiro City Museum."
+          }
+        },
+        {
+          "question": "{結城|ゆうき}さんはどんな{作品|さくひん}を{展示|てんじ}していますか。",
+          "choices": [
+            "{版画|はんが}",
+            "アニメ",
+            "{写真|しゃしん}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Il expose des estampes.",
+            "en": "He is exhibiting prints."
+          }
+        },
+        {
+          "question": "{展覧会|てんらんかい}はいつまで{続|つづ}きますか。",
+          "choices": [
+            "{来年|らいねん}の{一月|いちがつ}{十日|とおか}まで",
+            "{今月|こんげつ}{八日|ようか}まで",
+            "{来年|らいねん}の{六月|ろくがつ}まで"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Jusqu’au 10 janvier 2027.",
+            "en": "Until January 10, 2027."
+          }
+        }
+      ]
+    },
+    "N2": {
+      "title": "{釧路|くしろ}ゆかりのアイヌ{作家|さっか}、{結城幸司|ゆうきこうじ}さんの{版画|はんが}を{紹介|しょうかい}",
+      "paragraphs": [
+        "{釧路市立博物館|くしろしりつはくぶつかん}で、{釧路市|くしろし}{出身|しゅっしん}のアイヌ{民族|みんぞく}のアーティスト、{結城幸司|ゆうきこうじ}さんの{作品展|さくひんてん}が{開催|かいさい}されている。{地元紙|じもとし}は{八日|ようか}、{版画|はんが}を{中心|ちゅうしん}に{結城|ゆうき}さんの{作品|さくひん}を{紹介|しょうかい}した。",
+        "{展覧会|てんらんかい}は「{銀色|ぎんいろ}の{空|そら}　{銀色|ぎんいろ}の{物語|ものがたり}　シロカニ　ニソロ　シロカニ　オルシペ」と{題|だい}されている。アイヌ{文化|ぶんか}に{関|かか}わる{作品|さくひん}に{触|ふ}れる{場|ば}として、{博物館|はくぶつかん}が{企画|きかく}した。",
+        "{会期|かいき}は2027{年|ねん}{一月|いちがつ}{十日|とおか}まで。{土地|とち}にゆかりのある{作家|さっか}の{表現|ひょうげん}を、{地域|ちいき}の{博物館|はくぶつかん}でじっくり{見|み}られる{機会|きかい}となっている。"
+      ],
+      "vocab": [
+        {
+          "word": "{地元紙|じもとし}",
+          "meaning": {
+            "fr": "journal local",
+            "en": "local newspaper"
+          }
+        },
+        {
+          "word": "{開催|かいさい}",
+          "meaning": {
+            "fr": "tenue (d’un événement)",
+            "en": "holding of an event"
+          }
+        },
+        {
+          "word": "{題|だい}する",
+          "meaning": {
+            "fr": "intituler",
+            "en": "to title"
+          }
+        },
+        {
+          "word": "{企画|きかく}",
+          "meaning": {
+            "fr": "organiser, concevoir",
+            "en": "to organize"
+          }
+        },
+        {
+          "word": "{会期|かいき}",
+          "meaning": {
+            "fr": "durée de l’exposition",
+            "en": "exhibition period"
+          }
+        },
+        {
+          "word": "ゆかり",
+          "meaning": {
+            "fr": "lien avec un lieu",
+            "en": "connection to a place"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{結城|ゆうき}さんと{釧路|くしろ}の{関係|かんけい}は？",
+          "choices": [
+            "{釧路市|くしろし}{出身|しゅっしん}である",
+            "{釧路|くしろ}に{初|はじ}めて{来|き}た",
+            "{博物館|はくぶつかん}の{館長|かんちょう}である"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "L’artiste est originaire de Kushiro.",
+            "en": "The artist was born in Kushiro."
+          }
+        },
+        {
+          "question": "{作品展|さくひんてん}で{中心|ちゅうしん}となる{表現|ひょうげん}は？",
+          "choices": [
+            "{版画|はんが}",
+            "{建築|けんちく}",
+            "{映画|えいが}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "L’exposition présente notamment ses estampes.",
+            "en": "The show features his prints."
+          }
+        },
+        {
+          "question": "{会期|かいき}の{終了日|しゅうりょうび}は？",
+          "choices": [
+            "2027{年|ねん}{一月|いちがつ}{十日|とおか}",
+            "2026{年|ねん}{十一月|じゅういちがつ}{八日|ようか}",
+            "2027{年|ねん}{十月|じゅうがつ}{十日|とおか}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Elle court jusqu’au 10 janvier 2027.",
+            "en": "It runs through January 10, 2027."
+          }
+        }
+      ]
+    },
+    "N1": {
+      "title": "{釧路市立博物館|くしろしりつはくぶつかん}、アイヌ{民族|みんぞく}の{美術家|びじゅつか}・{結城幸司|ゆうきこうじ}さんの{版画|はんが}を{展示|てんじ}",
+      "paragraphs": [
+        "{北海道|ほっかいどう}の{釧路市立博物館|くしろしりつはくぶつかん}で、{同市|どうし}{出身|しゅっしん}のアイヌ{民族|みんぞく}のアーティスト、{結城幸司|ゆうきこうじ}さんの{作品展|さくひんてん}が{開|ひら}かれている。{釧路新聞|くしろしんぶん}が{八日|ようか}に{報|ほう}じた。",
+        "{展覧会|てんらんかい}は「{銀色|ぎんいろ}の{空|そら}　{銀色|ぎんいろ}の{物語|ものがたり}　シロカニ　ニソロ　シロカニ　オルシペ」と{題|だい}し、{結城|ゆうき}さんの{版画|はんが}{作品|さくひん}を{紹介|しょうかい}する。{郷土|きょうど}ゆかりの{作家|さっか}によるアイヌ{文化|ぶんか}に{根差|ねざ}した{表現|ひょうげん}に{接|せっ}することができる。",
+        "{会期|かいき}は2027{年|ねん}{一月|いちがつ}{十日|とおか}まで。{地域|ちいき}の{文化|ぶんか}を{伝|つた}える{博物館|はくぶつかん}が、{地元|じもと}{出身|しゅっしん}の{美術家|びじゅつか}の{作品|さくひん}を{取|と}り{上|あ}げる{機会|きかい}となる。"
+      ],
+      "vocab": [
+        {
+          "word": "{同市|どうし}",
+          "meaning": {
+            "fr": "cette même ville",
+            "en": "the same city"
+          }
+        },
+        {
+          "word": "{報|ほう}じる",
+          "meaning": {
+            "fr": "rapporter (dans la presse)",
+            "en": "to report"
+          }
+        },
+        {
+          "word": "{郷土|きょうど}",
+          "meaning": {
+            "fr": "région natale",
+            "en": "home region"
+          }
+        },
+        {
+          "word": "{根差|ねざ}す",
+          "meaning": {
+            "fr": "s’enraciner",
+            "en": "to be rooted in"
+          }
+        },
+        {
+          "word": "{会期|かいき}",
+          "meaning": {
+            "fr": "durée de l’exposition",
+            "en": "exhibition period"
+          }
+        },
+        {
+          "word": "{取|と}り{上|あ}げる",
+          "meaning": {
+            "fr": "mettre en lumière",
+            "en": "to feature"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{報道|ほうどう}で{言及|げんきゅう}された{結城|ゆうき}さんの{出身地|しゅっしんち}は？",
+          "choices": [
+            "{釧路市|くしろし}",
+            "{京都市|きょうとし}",
+            "{那覇市|なはし}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Il est originaire de Kushiro.",
+            "en": "He is from Kushiro."
+          }
+        },
+        {
+          "question": "{展覧会|てんらんかい}で{紹介|しょうかい}される{作品|さくひん}は？",
+          "choices": [
+            "{版画|はんが}",
+            "{映像作品|えいぞうさくひん}のみ",
+            "{陶磁器|とうじき}のみ"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "L’article mentionne ses estampes.",
+            "en": "The report mentions his prints."
+          }
+        },
+        {
+          "question": "{会期|かいき}について{正|ただ}しいものは？",
+          "choices": [
+            "2027{年|ねん}{一月|いちがつ}{十日|とおか}まで",
+            "2026{年|ねん}{十一月|じゅういちがつ}{八日|ようか}のみ",
+            "2027{年|ねん}の{夏|なつ}まで"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Fin annoncée le 10 janvier 2027.",
+            "en": "The reported end date is January 10, 2027."
+          }
+        }
+      ]
+    }
+  }
+}
