@@ -1,0 +1,532 @@
+{
+  "date": "2026-11-11",
+  "newsDate": "2026-11-10",
+  "category": "tech",
+  "title": "Plus besoin de sortir son téléphone : à Tokyo, on passera les portiques sans badger !",
+  "summary": {
+    "fr": "JR East a annoncé le 10 novembre des portiques « walk-through » : avec Mobile Suica, on passe sans toucher la borne, le téléphone dans la poche. Ils arriveront au printemps 2028 dans 40 gares, dont toutes celles de la ligne Yamanote, après un essai dès avril 2027.",
+    "en": "On November 10, JR East announced walk-through ticket gates: Mobile Suica users will pass without tapping, phone in pocket. They will arrive in spring 2028 at 40 stations, including every Yamanote Line station, after a trial from April 2027."
+  },
+  "sources": [
+    {
+      "name": "JR East, communiqué officiel via PR TIMES (japonais)",
+      "url": "https://prtimes.jp/main/html/rd/p/000001568.000017557.html"
+    },
+    {
+      "name": "Mynavi News (japonais)",
+      "url": "https://news.mynavi.jp/article/20261110-5295447"
+    },
+    {
+      "name": "Keitai Watch (japonais)",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2155254.html"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "Rangée de portiques automatiques gris de la gare de Sugamo, sur la ligne Yamanote à Tokyo, avec les panneaux d'entrée au-dessus",
+      "caption": "Les portiques de la gare de Sugamo, sur la ligne Yamanote : en 2028, on pourra les franchir sans badger.",
+      "credit": "Photo : Mister0124 / CC BY-SA 4.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:JR_Yamanote-Line_Sugamo_Station_Gates.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/JR_Yamanote-Line_Sugamo_Station_Gates.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "Mister0124",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "スマホを {出|だ}さないで {駅|えき}に {入|はい}ります",
+      "paragraphs": [
+        "{東京|とうきょう}の {駅|えき}に {新|あたら}しい {改札|かいさつ}が できます。",
+        "スマホを かばんに {入|い}れて、そのまま {通|とお}る ことが できます。",
+        "{山手線|やまのてせん}の {駅|えき}は ぜんぶ この {改札|かいさつ}に なります。",
+        "2028{年|ねん}の はるから です。"
+      ],
+      "vocab": [
+        {
+          "word": "{駅|えき}",
+          "meaning": {
+            "fr": "gare",
+            "en": "station"
+          }
+        },
+        {
+          "word": "{改札|かいさつ}",
+          "meaning": {
+            "fr": "portique de contrôle des billets",
+            "en": "ticket gate"
+          }
+        },
+        {
+          "word": "{新|あたら}しい",
+          "meaning": {
+            "fr": "nouveau",
+            "en": "new"
+          }
+        },
+        {
+          "word": "スマホ",
+          "meaning": {
+            "fr": "smartphone",
+            "en": "smartphone"
+          }
+        },
+        {
+          "word": "かばん",
+          "meaning": {
+            "fr": "sac",
+            "en": "bag"
+          }
+        },
+        {
+          "word": "{入|はい}る",
+          "meaning": {
+            "fr": "entrer",
+            "en": "to enter"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "スマホは どこに ありますか。",
+          "choices": [
+            "{手|て}の {中|なか}",
+            "かばんの {中|なか}",
+            "{家|いえ}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "On peut garder le téléphone dans son sac.",
+            "en": "You can keep your phone in your bag."
+          }
+        },
+        {
+          "question": "どの {駅|えき}に {新|あたら}しい {改札|かいさつ}が できますか。",
+          "choices": [
+            "{大阪|おおさか}の {駅|えき}",
+            "{山手線|やまのてせん}の {駅|えき}",
+            "{学校|がっこう}の {前|まえ}の {駅|えき}だけ"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Toutes les gares de la ligne Yamanote, à Tokyo.",
+            "en": "All Yamanote Line stations in Tokyo."
+          }
+        },
+        {
+          "question": "いつから ですか。",
+          "choices": [
+            "{今日|きょう}から",
+            "2028{年|ねん}の はるから",
+            "2030{年|ねん}の ふゆから"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "À partir du printemps 2028.",
+            "en": "From spring 2028."
+          }
+        }
+      ]
+    },
+    "N4": {
+      "title": "タッチしなくても {通|とお}れる {改札|かいさつ}",
+      "paragraphs": [
+        "JR{東日本|ひがしにほん}は 11{月|がつ}10{日|とおか}、{新|あたら}しい {改札|かいさつ}を {作|つく}ると {発表|はっぴょう}しました。",
+        "「モバイルSuica」を {使|つか}う {人|ひと}は、スマホを {改札|かいさつ}に タッチしなくても {通|とお}れます。",
+        "スマホは ポケットや かばんに {入|い}れた ままで {大丈夫|だいじょうぶ}です。",
+        "{荷物|にもつ}が {多|おお}い {人|ひと}や ベビーカーを {使|つか}っている {人|ひと}に {便利|べんり}です。",
+        "2027{年|ねん}4{月|がつ}から 14の {駅|えき}で {試|ため}します。",
+        "そして 2028{年|ねん}の {春|はる}、{山手線|やまのてせん}の すべての {駅|えき}など 40の {駅|えき}で {始|はじ}まります。"
+      ],
+      "vocab": [
+        {
+          "word": "{発表|はっぴょう}する",
+          "meaning": {
+            "fr": "annoncer",
+            "en": "to announce"
+          }
+        },
+        {
+          "word": "{通|とお}る",
+          "meaning": {
+            "fr": "passer, franchir",
+            "en": "to pass through"
+          }
+        },
+        {
+          "word": "{荷物|にもつ}",
+          "meaning": {
+            "fr": "bagages",
+            "en": "luggage"
+          }
+        },
+        {
+          "word": "{便利|べんり}",
+          "meaning": {
+            "fr": "pratique",
+            "en": "convenient"
+          }
+        },
+        {
+          "word": "{試|ため}す",
+          "meaning": {
+            "fr": "essayer, tester",
+            "en": "to try, to test"
+          }
+        },
+        {
+          "word": "{始|はじ}まる",
+          "meaning": {
+            "fr": "commencer",
+            "en": "to begin"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{新|あたら}しい {改札|かいさつ}では、スマホを どう しますか。",
+          "choices": [
+            "{改札|かいさつ}に タッチする",
+            "ポケットに {入|い}れた ままで いい",
+            "{駅員|えきいん}に {見|み}せる"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le téléphone peut rester dans la poche ou le sac.",
+            "en": "The phone can stay in your pocket or bag."
+          }
+        },
+        {
+          "question": "どんな {人|ひと}に とくに {便利|べんり}ですか。",
+          "choices": [
+            "{荷物|にもつ}が {多|おお}い {人|ひと}",
+            "{電車|でんしゃ}に {乗|の}らない {人|ひと}",
+            "{車|くるま}で {来|く}る {人|ひと}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "C'est pratique avec beaucoup de bagages ou une poussette.",
+            "en": "It helps people with lots of luggage or a stroller."
+          }
+        },
+        {
+          "question": "2027{年|ねん}4{月|がつ}から {何|なに}を しますか。",
+          "choices": [
+            "すべての {駅|えき}で {始|はじ}める",
+            "14の {駅|えき}で {試|ため}す",
+            "{古|ふる}い {改札|かいさつ}を なくす"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Un essai dans 14 gares commence en avril 2027.",
+            "en": "A trial at 14 stations starts in April 2027."
+          }
+        }
+      ]
+    },
+    "N3": {
+      "title": "{改札|かいさつ}は「タッチ」から「ウォークスルー」へ",
+      "paragraphs": [
+        "JR{東日本|ひがしにほん}は11{月|がつ}10{日|とおか}、スマートフォンを{取|と}り{出|だ}さずに{通過|つうか}できる「ウォークスルー{改札|かいさつ}」を{導入|どうにゅう}すると{発表|はっぴょう}した。「モバイルSuica」を{使|つか}えば、スマホをポケットに{入|い}れたまま{改札|かいさつ}を{通|とお}れる。{通|とお}る{速|はや}さは、これまでのタッチと{変|か}わらないそうだ。",
+        "まず2027{年|ねん}4{月|がつ}から、{品川|しながわ}{周辺|しゅうへん}や{東京|とうきょう}、{新宿|しんじゅく}など14{駅|えき}で、{約|やく}400{人|にん}のモニターが{試|ため}す。そして2028{年|ねん}{春|はる}には、{山手線|やまのてせん}の{全駅|ぜんえき}や{成田空港|なりたくうこう}の{駅|えき}など40{駅|えき}で{本格的|ほんかくてき}に{始|はじ}まる{予定|よてい}だ。2031{年度|ねんど}{末|まつ}までには、{改札機|かいさつき}がある{全|すべ}ての{駅|えき}に{広|ひろ}げたいという。"
+      ],
+      "vocab": [
+        {
+          "word": "{取|と}り{出|だ}す",
+          "meaning": {
+            "fr": "sortir (de sa poche, de son sac)",
+            "en": "to take out"
+          }
+        },
+        {
+          "word": "{通過|つうか}する",
+          "meaning": {
+            "fr": "passer, franchir",
+            "en": "to pass through"
+          }
+        },
+        {
+          "word": "{導入|どうにゅう}する",
+          "meaning": {
+            "fr": "introduire, mettre en place",
+            "en": "to introduce"
+          }
+        },
+        {
+          "word": "{変|か}わらない",
+          "meaning": {
+            "fr": "ne pas changer, rester pareil",
+            "en": "to stay the same"
+          }
+        },
+        {
+          "word": "{周辺|しゅうへん}",
+          "meaning": {
+            "fr": "alentours",
+            "en": "surroundings"
+          }
+        },
+        {
+          "word": "{予定|よてい}",
+          "meaning": {
+            "fr": "prévision, programme",
+            "en": "plan, schedule"
+          }
+        },
+        {
+          "word": "{広|ひろ}げる",
+          "meaning": {
+            "fr": "étendre",
+            "en": "to expand"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "ウォークスルー{改札|かいさつ}を{通|とお}る{速|はや}さはどうですか。",
+          "choices": [
+            "タッチよりずっと{遅|おそ}い",
+            "タッチと{変|か}わらない",
+            "{走|はし}らないと{通|とお}れない"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La vitesse de passage reste la même qu'avec le badge.",
+            "en": "The passing speed is the same as tapping."
+          }
+        },
+        {
+          "question": "2027{年|ねん}の{試験|しけん}には{何人|なんにん}ぐらいが{参加|さんか}しますか。",
+          "choices": [
+            "{約|やく}40{人|にん}",
+            "{約|やく}400{人|にん}",
+            "{約|やく}4000{人|にん}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Environ 400 testeurs participent à l'essai.",
+            "en": "About 400 monitors take part in the trial."
+          }
+        },
+        {
+          "question": "2031{年度|ねんど}{末|まつ}までの{目標|もくひょう}は{何|なん}ですか。",
+          "choices": [
+            "{山手線|やまのてせん}だけで{使|つか}う",
+            "{改札機|かいさつき}がある{全|すべ}ての{駅|えき}に{広|ひろ}げる",
+            "{改札|かいさつ}をなくす"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Équiper toutes les gares qui ont des portiques.",
+            "en": "To roll it out to every station with ticket gates."
+          }
+        }
+      ]
+    },
+    "N2": {
+      "title": "モバイルSuica、「かざさず{通過|つうか}」の{時代|じだい}へ　28{年|ねん}{春|はる}に40{駅|えき}で{本格導入|ほんかくどうにゅう}",
+      "paragraphs": [
+        "JR{東日本|ひがしにほん}は11{月|がつ}10{日|とおか}、モバイルSuicaの{利用者|りようしゃ}がスマートフォンを{改札機|かいさつき}にかざすことなく{通過|つうか}できる「ウォークスルー{改札|かいさつ}」を、2028{年|ねん}{春|はる}から{首都圏|しゅとけん}の40{駅|えき}に{本格導入|ほんかくどうにゅう}すると{発表|はっぴょう}した。{対象|たいしょう}は{山手線|やまのてせん}{全駅|ぜんえき}に{加|くわ}え、{成田空港|なりたくうこう}の{各駅|かくえき}や{東京|とうきょう}モノレールの{羽田空港|はねだくうこう}{各駅|かくえき}などだ。",
+        "{仕組|しく}みの{鍵|かぎ}となるのは、UWB（{超広帯域無線|ちょうこうたいいきむせん}）と{呼|よ}ばれる{技術|ぎじゅつ}である。{数|すう}センチ{単位|たんい}で{位置|いち}を{把握|はあく}できるため、{改札機|かいさつき}が{通過|つうか}する{人|ひと}のスマホを{正確|せいかく}に{特定|とくてい}できる。{現在|げんざい}の{定期券|ていきけん}やチャージ{残高|ざんだか}はそのまま{使|つか}え、{従来|じゅうらい}のタッチとの{併用|へいよう}も{可能|かのう}だという。",
+        "{本格導入|ほんかくどうにゅう}に{先立|さきだ}ち、2027{年|ねん}4{月|がつ}からは14{駅|えき}で{体験導入|たいけんどうにゅう}を{行|おこな}い、{改札|かいさつ}{処理|しょり}の{正確|せいかく}さなどを{確|たし}かめる。{同社|どうしゃ}は2031{年度|ねんど}{末|まつ}までに{約|やく}550の{全|ぜん}{改札機|かいさつき}{設置駅|せっちえき}へ{広|ひろ}げる{方針|ほうしん}で、{大|おお}きな{荷物|にもつ}を{持|も}つ{旅行者|りょこうしゃ}や{車|くるま}いすの{利用者|りようしゃ}にとっても{移動|いどう}が{楽|らく}になりそうだ。"
+      ],
+      "vocab": [
+        {
+          "word": "かざす",
+          "meaning": {
+            "fr": "présenter (une carte, un téléphone) devant un lecteur",
+            "en": "to hold up (a card) over"
+          }
+        },
+        {
+          "word": "{首都圏|しゅとけん}",
+          "meaning": {
+            "fr": "région de la capitale (Grand Tokyo)",
+            "en": "Greater Tokyo area"
+          }
+        },
+        {
+          "word": "{把握|はあく}する",
+          "meaning": {
+            "fr": "saisir, déterminer avec précision",
+            "en": "to grasp, to determine"
+          }
+        },
+        {
+          "word": "{特定|とくてい}する",
+          "meaning": {
+            "fr": "identifier",
+            "en": "to identify"
+          }
+        },
+        {
+          "word": "{残高|ざんだか}",
+          "meaning": {
+            "fr": "solde",
+            "en": "balance"
+          }
+        },
+        {
+          "word": "{併用|へいよう}",
+          "meaning": {
+            "fr": "usage combiné",
+            "en": "combined use"
+          }
+        },
+        {
+          "word": "{方針|ほうしん}",
+          "meaning": {
+            "fr": "ligne directrice, politique",
+            "en": "policy, plan"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "ウォークスルー{改札|かいさつ}に{使|つか}われる{技術|ぎじゅつ}は{何|なん}ですか。",
+          "choices": [
+            "GPS",
+            "UWB",
+            "QRコード"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La technologie radio UWB (ultra large bande).",
+            "en": "Ultra-wideband (UWB) radio technology."
+          }
+        },
+        {
+          "question": "{今|いま}の{定期券|ていきけん}はどうなりますか。",
+          "choices": [
+            "{新|あたら}しく{買|か}い{直|なお}す{必要|ひつよう}がある",
+            "そのまま{使|つか}える",
+            "{使|つか}えなくなる"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Les abonnements et le solde actuels restent utilisables.",
+            "en": "Current passes and balances can still be used."
+          }
+        },
+        {
+          "question": "2031{年度|ねんど}{末|まつ}までに{何駅|なんえき}ぐらいへ{広|ひろ}げる{方針|ほうしん}ですか。",
+          "choices": [
+            "{約|やく}40{駅|えき}",
+            "{約|やく}140{駅|えき}",
+            "{約|やく}550{駅|えき}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Environ 550 gares, soit toutes celles qui ont des portiques.",
+            "en": "About 550 stations, all those with ticket gates."
+          }
+        }
+      ]
+    },
+    "N1": {
+      "title": "JR{東日本|ひがしにほん}、「ウォークスルー{改札|かいさつ}」を28{年|ねん}{春|はる}に{本格導入|ほんかくどうにゅう}　{山手線|やまのてせん}{全駅|ぜんえき}など40{駅|えき}、31{年度|ねんど}{末|まつ}に{全域|ぜんいき}{展開|てんかい}へ",
+      "paragraphs": [
+        "JR{東日本|ひがしにほん}は11{月|がつ}10{日|とおか}、モバイルSuicaの{利用者|りようしゃ}が{端末|たんまつ}を{改札機|かいさつき}にかざさずに{入出場|にゅうしゅつじょう}できる「ウォークスルー{改札|かいさつ}」を、2028{年|ねん}{春|はる}から{山手線|やまのてせん}{全駅|ぜんえき}をはじめとする{首都圏|しゅとけん}40{駅|えき}で{本格導入|ほんかくどうにゅう}すると{発表|はっぴょう}した。グループ{経営|けいえい}ビジョンに{掲|かか}げる「Suica Renaissance」の{一環|いっかん}と{位置|いち}づけ、「{改札|かいさつ}はタッチするという{当|あ}たり{前|まえ}」からの{脱却|だっきゃく}を{打|う}ち{出|だ}した{格好|かっこう}だ。",
+        "{同|どう}{改札|かいさつ}は、{既存|きぞん}の{近距離無線通信|きんきょりむせんつうしん}（NFC）に{加|くわ}え、{数|すう}メートルの{範囲|はんい}で{高精度|こうせいど}な{測位|そくい}が{可能|かのう}なUWB（{超広帯域無線|ちょうこうたいいきむせん}）に{対応|たいおう}したハイブリッド{仕様|しよう}となる。リーダー・ライターの{開発|かいはつ}はソニー、{端末側|たんまつがわ}のセキュリティソフトはフェリカネットワークスが{担|にな}い、{通過|つうか}{速度|そくど}は{従来|じゅうらい}のタッチ{方式|ほうしき}と{遜色|そんしょく}ないとされる。{定期券|ていきけん}やチャージ{残高|ざんだか}は{引|ひ}き{続|つづ}き{利用|りよう}でき、{未導入駅|みどうにゅうえき}ではこれまで{通|どお}りタッチで{出場|しゅつじょう}できる。",
+        "{本格導入|ほんかくどうにゅう}に{先立|さきだ}ち、2027{年|ねん}4{月|がつ}から{品川|しながわ}{周辺|しゅうへん}や{主要|しゅよう}ターミナル{駅|えき}など14{駅|えき}で、{約|やく}400{人|にん}のモニターによる{体験導入|たいけんどうにゅう}を{実施|じっし}し、{処理|しょり}の{正確性|せいかくせい}を{検証|けんしょう}する。{同社|どうしゃ}は2031{年度|ねんど}{末|まつ}までに{新幹線|しんかんせん}・{在来線|ざいらいせん}を{含|ふく}む{約|やく}550の{改札機|かいさつき}{設置駅|せっちえき}すべてへの{導入|どうにゅう}を{目指|めざ}すほか、2030{年代|ねんだい}{中頃|なかごろ}にはGPSを{活用|かつよう}した「スマホ{改札|かいさつ}（{仮称|かしょう}）」により、{駅|えき}の{内外|ないがい}の{区別|くべつ}をなくす{構想|こうそう}も{描|えが}く。",
+        "{訪日客|ほうにちきゃく}の{増加|ぞうか}で{大型|おおがた}の{荷物|にもつ}を{抱|かか}えた{利用者|りようしゃ}が{目立|めだ}つ{中|なか}、{改札|かいさつ}{前|まえ}の{滞留|たいりゅう}{解消|かいしょう}や{車|くるま}いす{利用者|りようしゃ}の{負担|ふたん}{軽減|けいげん}につながるかが{注目|ちゅうもく}される。{一方|いっぽう}、{対応|たいおう}{機種|きしゅ}は{未定|みてい}で、{普及|ふきゅう}の{度合|どあ}いが{成否|せいひ}を{左右|さゆう}しそうだ。"
+      ],
+      "vocab": [
+        {
+          "word": "{脱却|だっきゃく}",
+          "meaning": {
+            "fr": "sortie, rupture (avec une habitude)",
+            "en": "breaking away from"
+          }
+        },
+        {
+          "word": "{一環|いっかん}",
+          "meaning": {
+            "fr": "partie (d'un ensemble de mesures)",
+            "en": "part of (an effort)"
+          }
+        },
+        {
+          "word": "{測位|そくい}",
+          "meaning": {
+            "fr": "géolocalisation, mesure de position",
+            "en": "positioning"
+          }
+        },
+        {
+          "word": "{遜色|そんしょく}ない",
+          "meaning": {
+            "fr": "ne rien avoir à envier, équivalent",
+            "en": "comparable, not inferior"
+          }
+        },
+        {
+          "word": "{検証|けんしょう}する",
+          "meaning": {
+            "fr": "vérifier, valider",
+            "en": "to verify"
+          }
+        },
+        {
+          "word": "{滞留|たいりゅう}",
+          "meaning": {
+            "fr": "engorgement, attroupement",
+            "en": "congestion, buildup"
+          }
+        },
+        {
+          "word": "{成否|せいひ}を{左右|さゆう}する",
+          "meaning": {
+            "fr": "décider du succès ou de l'échec",
+            "en": "to determine success or failure"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "ウォークスルー{改札機|かいさつき}の{仕様|しよう}として{正|ただ}しいものはどれか。",
+          "choices": [
+            "UWBのみに{対応|たいおう}する",
+            "NFCとUWBの{両方|りょうほう}に{対応|たいおう}する",
+            "GPSのみで{位置|いち}を{判定|はんてい}する"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le portique est hybride : NFC (le badge actuel) et UWB.",
+            "en": "The gate is hybrid: NFC (current tapping) and UWB."
+          }
+        },
+        {
+          "question": "2030{年代|ねんだい}{中頃|なかごろ}に{予定|よてい}されているのは{何|なに}か。",
+          "choices": [
+            "{紙|かみ}の{切符|きっぷ}の{復活|ふっかつ}",
+            "GPSを{活用|かつよう}した「スマホ{改札|かいさつ}」",
+            "{顔認証|かおにんしょう}だけの{改札|かいさつ}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Un « portique smartphone » basé sur le GPS, au milieu des années 2030.",
+            "en": "A GPS-based \"smartphone gate\" in the mid-2030s."
+          }
+        },
+        {
+          "question": "{記事|きじ}によると、{普及|ふきゅう}の{課題|かだい}は{何|なに}か。",
+          "choices": [
+            "{対応|たいおう}{機種|きしゅ}がまだ{決|き}まっていないこと",
+            "{運賃|うんちん}が{高|たか}くなること",
+            "{山手線|やまのてせん}では{使|つか}えないこと"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Les modèles de téléphones compatibles ne sont pas encore connus.",
+            "en": "Compatible phone models have not been decided yet."
+          }
+        }
+      ]
+    }
+  }
+}

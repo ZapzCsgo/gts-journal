@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "date": "2026-11-11",
+      "title": "Plus besoin de sortir son téléphone : à Tokyo, on passera les portiques sans badger !",
+      "category": "tech",
+      "cover": "cover.webp"
+    },
+    {
       "date": "2026-11-09",
       "title": "À Kushiro, les estampes de Kōji Yūki font parler l’art aïnou",
       "category": "culture",
