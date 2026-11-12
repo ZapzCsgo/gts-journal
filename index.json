@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "date": "2026-11-12",
+      "title": "Zelda Ocarina of Time revient : 5,2 millions de jeux vendus en 4 jours !",
+      "category": "culture",
+      "cover": "cover.webp"
+    },
+    {
       "date": "2026-11-11",
       "title": "Plus besoin de sortir son téléphone : à Tokyo, on passera les portiques sans badger !",
       "category": "tech",

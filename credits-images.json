@@ -2,6 +2,18 @@
   "_note": "Registre des photos du Journal : une entrée par image non créée par nous (origine, auteur, licence). Le plus récent en premier. Ajouter en tête, ne jamais supprimer.",
   "images": [
     {
+      "date": "2026-11-12",
+      "file": "cover.webp",
+      "credit": "Photo : Crisco 1492 / CC BY-SA 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_in_Docking_Console.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg",
+      "origin": "Wikimedia Commons",
+      "author": "Crisco 1492",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
       "date": "2026-11-11",
       "file": "cover.webp",
       "credit": "Photo : Mister0124 / CC BY-SA 4.0",

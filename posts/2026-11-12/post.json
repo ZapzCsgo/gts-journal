@@ -1,0 +1,551 @@
+{
+  "date": "2026-11-12",
+  "newsDate": "2026-11-11",
+  "category": "culture",
+  "title": "Zelda Ocarina of Time revient : 5,2 millions de jeux vendus en 4 jours !",
+  "summary": {
+    "fr": "Nintendo a annoncé le 11 novembre que le remake de « Zelda : Ocarina of Time » sur Switch 2 s'est vendu à plus de 5,2 millions d'exemplaires en 4 jours, dont 810 000 au Japon. C'est le meilleur démarrage d'un jeu Switch 2 édité par Nintendo, 28 ans après le jeu d'origine sur Nintendo 64.",
+    "en": "Nintendo announced on November 11 that the Switch 2 remake of \"Zelda: Ocarina of Time\" sold over 5.2 million copies in four days, including 810,000 in Japan. It is the best launch ever for a Nintendo-published Switch 2 game, 28 years after the Nintendo 64 original."
+  },
+  "sources": [
+    {
+      "name": "Nintendo, communiqué officiel du 11/11/2026 (japonais)",
+      "url": "https://www.nintendo.co.jp/corporate/release/2026/261111.html"
+    },
+    {
+      "name": "Nintendo, communiqué officiel du 11/11/2026 (anglais)",
+      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/261111.html"
+    },
+    {
+      "name": "Nintendo Life (anglais)",
+      "url": "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "Une console Nintendo Switch 2 posée dans sa station d'accueil, photographiée sur fond neutre",
+      "caption": "La Nintendo Switch 2, la console sur laquelle sort le remake de Zelda.",
+      "credit": "Photo : Crisco 1492 / CC BY-SA 4.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_in_Docking_Console.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nintendo_Switch_2_in_Docking_Console.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "Crisco 1492",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "ゲームが たくさん {売|う}れました",
+      "paragraphs": [
+        "{任天堂|にんてんどう}の {新|あたら}しい ゲームが たくさん {売|う}れました。",
+        "ゲームの {名前|なまえ}は 「ゼルダの {伝説|でんせつ} {時|とき}の オカリナ」です。",
+        "11{月|がつ}5{日|か}に {店|みせ}に {出|で}ました。",
+        "4{日|か}で 520{万|まん}{本|ぼん} {売|う}れました。",
+        "{日本|にほん}では 81{万|まん}{本|ぼん} {売|う}れました。"
+      ],
+      "vocab": [
+        {
+          "word": "ゲーム",
+          "meaning": {
+            "fr": "jeu vidéo",
+            "en": "video game"
+          }
+        },
+        {
+          "word": "{売|う}れる",
+          "meaning": {
+            "fr": "se vendre",
+            "en": "to sell (be sold)"
+          }
+        },
+        {
+          "word": "{新|あたら}しい",
+          "meaning": {
+            "fr": "nouveau",
+            "en": "new"
+          }
+        },
+        {
+          "word": "{名前|なまえ}",
+          "meaning": {
+            "fr": "nom",
+            "en": "name"
+          }
+        },
+        {
+          "word": "{万|まん}",
+          "meaning": {
+            "fr": "dix mille",
+            "en": "ten thousand"
+          }
+        },
+        {
+          "word": "{日本|にほん}",
+          "meaning": {
+            "fr": "Japon",
+            "en": "Japan"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "ゲームは いつ {店|みせ}に {出|で}ましたか。",
+          "choices": [
+            "10{月|がつ}5{日|か}",
+            "11{月|がつ}5{日|か}",
+            "12{月|がつ}5{日|か}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le jeu est sorti le 5 novembre.",
+            "en": "The game came out on November 5."
+          }
+        },
+        {
+          "question": "4{日|か}で なん{本|ぼん} {売|う}れましたか。",
+          "choices": [
+            "520{万|まん}{本|ぼん}",
+            "52{万|まん}{本|ぼん}",
+            "5200{万|まん}{本|ぼん}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "520 万本, soit 5,2 millions de jeux en 4 jours.",
+            "en": "5.2 million copies in 4 days."
+          }
+        },
+        {
+          "question": "{日本|にほん}では なん{本|ぼん} {売|う}れましたか。",
+          "choices": [
+            "8{万|まん}{本|ぼん}",
+            "810{万|まん}{本|ぼん}",
+            "81{万|まん}{本|ぼん}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Au Japon, 810 000 jeux (81 万本).",
+            "en": "810,000 copies in Japan."
+          }
+        }
+      ]
+    },
+    "N4": {
+      "title": "「{時|とき}のオカリナ」が 4{日|か}で 520{万|まん}{本|ぼん}！",
+      "paragraphs": [
+        "{任天堂|にんてんどう}は 11{月|がつ}11{日|にち}、「ゼルダの{伝説|でんせつ} {時|とき}のオカリナ」が {世界|せかい}で 520{万|まん}{本|ぼん}{以上|いじょう} {売|う}れたと {発表|はっぴょう}しました。",
+        "このゲームは 11{月|がつ}5{日|か}に Nintendo Switch 2で {発売|はつばい}されました。{発売|はつばい}してから たった 4{日|か}で、こんなに たくさん {売|う}れたのです。{日本|にほん}では 81{万|まん}{本|ぼん}が {売|う}れました。",
+        "もとのゲームは 1998{年|ねん}に NINTENDO64で {出|で}た {古|ふる}いゲームです。{新|あたら}しいゲームは {絵|え}が きれいになって、もっと {遊|あそ}びやすくなりました。"
+      ],
+      "vocab": [
+        {
+          "word": "{発表|はっぴょう}する",
+          "meaning": {
+            "fr": "annoncer",
+            "en": "to announce"
+          }
+        },
+        {
+          "word": "{発売|はつばい}する",
+          "meaning": {
+            "fr": "mettre en vente",
+            "en": "to release, to put on sale"
+          }
+        },
+        {
+          "word": "{世界|せかい}",
+          "meaning": {
+            "fr": "monde",
+            "en": "world"
+          }
+        },
+        {
+          "word": "{以上|いじょう}",
+          "meaning": {
+            "fr": "plus de",
+            "en": "more than"
+          }
+        },
+        {
+          "word": "{古|ふる}い",
+          "meaning": {
+            "fr": "ancien, vieux",
+            "en": "old"
+          }
+        },
+        {
+          "word": "{遊|あそ}ぶ",
+          "meaning": {
+            "fr": "jouer",
+            "en": "to play"
+          }
+        },
+        {
+          "word": "{絵|え}",
+          "meaning": {
+            "fr": "image, dessin",
+            "en": "picture"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "このニュースを {発表|はっぴょう}したのは どこですか。",
+          "choices": [
+            "ソニー",
+            "{任天堂|にんてんどう}",
+            "{日本|にほん}の {国|くに}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "C'est Nintendo qui a annoncé les chiffres.",
+            "en": "Nintendo announced the figures."
+          }
+        },
+        {
+          "question": "もとのゲームは いつ {出|で}ましたか。",
+          "choices": [
+            "1998{年|ねん}",
+            "2008{年|ねん}",
+            "2026{年|ねん}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Le jeu d'origine est sorti en 1998 sur Nintendo 64.",
+            "en": "The original came out in 1998 on the Nintendo 64."
+          }
+        },
+        {
+          "question": "{新|あたら}しいゲームは {何|なに}が よくなりましたか。",
+          "choices": [
+            "{値段|ねだん}が {安|やす}くなった",
+            "{話|はなし}が ぜんぶ {変|か}わった",
+            "{絵|え}が きれいになった"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Les images sont plus belles et le jeu est plus facile à jouer.",
+            "en": "The graphics are prettier and it is easier to play."
+          }
+        }
+      ]
+    },
+    "N3": {
+      "title": "「{時|とき}のオカリナ」リメイク、{発売|はつばい}4{日|か}で520{万|まん}{本|ぼん}を{突破|とっぱ}",
+      "paragraphs": [
+        "{任天堂|にんてんどう}は11{月|がつ}11{日|にち}、Nintendo Switch 2{用|よう}の「ゼルダの{伝説|でんせつ} {時|とき}のオカリナ」が、{発売|はつばい}から4{日間|よっかかん}で{世界|せかい}{全体|ぜんたい}で520{万|まん}{本|ぼん}{以上|いじょう}{売|う}れたと{発表|はっぴょう}しました。そのうち{日本|にほん}での{販売|はんばい}は81{万|まん}{本|ぼん}でした。{任天堂|にんてんどう}が{出|だ}したSwitch 2のソフトの{中|なか}で、{最初|さいしょ}の4{日間|よっかかん}の{記録|きろく}としては{過去|かこ}{最高|さいこう}だそうです。",
+        "このゲームは、1998{年|ねん}にNINTENDO64で{発売|はつばい}された{名作|めいさく}を、{新|あたら}しく{作|つく}り{直|なお}したリメイク{版|ばん}です。{主人公|しゅじんこう}のリンクは、{子|こ}どもと{大人|おとな}の{二|ふた}つの{時代|じだい}を{行|い}ったり{来|き}たりしながら{冒険|ぼうけん}します。{絵|え}はとてもきれいになりましたが、もとのゲームの{楽|たの}しさは{大切|たいせつ}に{残|のこ}されています。"
+      ],
+      "vocab": [
+        {
+          "word": "{突破|とっぱ}する",
+          "meaning": {
+            "fr": "dépasser (un cap)",
+            "en": "to break through, to exceed"
+          }
+        },
+        {
+          "word": "{記録|きろく}",
+          "meaning": {
+            "fr": "record",
+            "en": "record"
+          }
+        },
+        {
+          "word": "{過去|かこ}{最高|さいこう}",
+          "meaning": {
+            "fr": "record absolu, meilleur résultat jamais atteint",
+            "en": "all-time high"
+          }
+        },
+        {
+          "word": "{作|つく}り{直|なお}す",
+          "meaning": {
+            "fr": "refaire, reconstruire",
+            "en": "to remake"
+          }
+        },
+        {
+          "word": "{主人公|しゅじんこう}",
+          "meaning": {
+            "fr": "héros, personnage principal",
+            "en": "main character"
+          }
+        },
+        {
+          "word": "{冒険|ぼうけん}",
+          "meaning": {
+            "fr": "aventure",
+            "en": "adventure"
+          }
+        },
+        {
+          "word": "{時代|じだい}",
+          "meaning": {
+            "fr": "époque",
+            "en": "era, period"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "520{万|まん}{本|ぼん}は、どこで{売|う}れた{数|かず}ですか。",
+          "choices": [
+            "{日本|にほん}だけ",
+            "{世界|せかい}{全体|ぜんたい}",
+            "アメリカだけ"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "C'est le total mondial ; le Japon en représente 810 000.",
+            "en": "It is the worldwide total; Japan accounts for 810,000."
+          }
+        },
+        {
+          "question": "リンクはどのように{冒険|ぼうけん}しますか。",
+          "choices": [
+            "{二|ふた}つの{時代|じだい}を{行|い}ったり{来|き}たりする",
+            "ずっと{子|こ}どものまま{冒険|ぼうけん}する",
+            "{宇宙|うちゅう}を{旅|たび}する"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Link voyage entre deux époques, enfant puis adulte.",
+            "en": "Link travels between two eras, as a child and as an adult."
+          }
+        },
+        {
+          "question": "「{過去|かこ}{最高|さいこう}」とは、{何|なん}の{記録|きろく}ですか。",
+          "choices": [
+            "{任天堂|にんてんどう}の{会社|かいしゃ}の{人数|にんずう}",
+            "ゲーム{機|き}の{値段|ねだん}",
+            "{任天堂|にんてんどう}が{出|だ}したSwitch 2ソフトの{最初|さいしょ}の4{日間|よっかかん}の{販売|はんばい}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Record des ventes sur les 4 premiers jours pour un jeu Switch 2 édité par Nintendo.",
+            "en": "Record first-four-day sales for a Nintendo-published Switch 2 game."
+          }
+        }
+      ]
+    },
+    "N2": {
+      "title": "{名作|めいさく}リメイクが{快走|かいそう}、「{時|とき}のオカリナ」4{日間|よっかかん}で520{万|まん}{本|ぼん}{超|ご}え",
+      "paragraphs": [
+        "{任天堂|にんてんどう}は11月11日、11月5日に{世界|せかい}{同時|どうじ}{発売|はつばい}したNintendo Switch 2{向|む}けソフト「ゼルダの{伝説|でんせつ} {時|とき}のオカリナ」の{販売|はんばい}{本数|ほんすう}が、発売後4{日間|よっかかん}で520万本を{超|こ}えたと{発表|はっぴょう}した。このうち{国内|こくない}での販売は81万本にのぼる。",
+        "{同社|どうしゃ}によると、任天堂が発売したSwitch 2向けソフトとしては、発売後4日間の世界販売本数で{過去|かこ}{最高|さいこう}となった。アメリカやカナダ、{中南米|ちゅうなんべい}でも、同社発売のSwitch 2ソフトとして{最|もっと}も速いペースで売れているという。",
+        "{本作|ほんさく}は1998年にNINTENDO64で発売された作品を{全面的|ぜんめんてき}に作り直したものだ。{主人公|しゅじんこう}リンクが{少年|しょうねん}と{青年|せいねん}の二つの{時代|じだい}を{行|い}き{来|き}しながら{冒険|ぼうけん}するという{原作|げんさく}の{体験|たいけん}はそのままに、グラフィックを{一新|いっしん}し、{遊|あそ}びやすさも{向上|こうじょう}させた。28年前の名作が、{昔|むかし}からのファンと新しい{世代|せだい}の{両方|りょうほう}を{引|ひ}きつけているようだ。"
+      ],
+      "vocab": [
+        {
+          "word": "{販売|はんばい}{本数|ほんすう}",
+          "meaning": {
+            "fr": "nombre d'exemplaires vendus",
+            "en": "number of units sold"
+          }
+        },
+        {
+          "word": "{世界|せかい}{同時|どうじ}{発売|はつばい}",
+          "meaning": {
+            "fr": "sortie mondiale simultanée",
+            "en": "simultaneous worldwide release"
+          }
+        },
+        {
+          "word": "〜にのぼる",
+          "meaning": {
+            "fr": "atteindre (un chiffre élevé)",
+            "en": "to reach, to amount to"
+          }
+        },
+        {
+          "word": "{全面的|ぜんめんてき}",
+          "meaning": {
+            "fr": "complet, total",
+            "en": "complete, full-scale"
+          }
+        },
+        {
+          "word": "{一新|いっしん}する",
+          "meaning": {
+            "fr": "renouveler entièrement",
+            "en": "to completely renew"
+          }
+        },
+        {
+          "word": "{向上|こうじょう}させる",
+          "meaning": {
+            "fr": "améliorer",
+            "en": "to improve"
+          }
+        },
+        {
+          "word": "{原作|げんさく}",
+          "meaning": {
+            "fr": "œuvre originale",
+            "en": "the original work"
+          }
+        },
+        {
+          "word": "{世代|せだい}",
+          "meaning": {
+            "fr": "génération",
+            "en": "generation"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{国内|こくない}での{販売|はんばい}{本数|ほんすう}はどのくらいか。",
+          "choices": [
+            "52{万|まん}{本|ぼん}",
+            "81{万|まん}{本|ぼん}",
+            "520{万|まん}{本|ぼん}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "810 000 exemplaires au Japon.",
+            "en": "810,000 units in Japan."
+          }
+        },
+        {
+          "question": "{本作|ほんさく}について{正|ただ}しいものはどれか。",
+          "choices": [
+            "{原作|げんさく}とはまったく{違|ちが}う{物語|ものがたり}になった",
+            "NINTENDO64{向|む}けに{発売|はつばい}された",
+            "{原作|げんさく}の{体験|たいけん}を{残|のこ}しつつ、グラフィックを{一新|いっしん}した"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "L'expérience d'origine est conservée, les graphismes sont refaits.",
+            "en": "The original experience is kept and the graphics are renewed."
+          }
+        },
+        {
+          "question": "{原作|げんさく}が{発売|はつばい}されたのは{何年|なんねん}か。",
+          "choices": [
+            "1998{年|ねん}",
+            "1989{年|ねん}",
+            "2017{年|ねん}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Le jeu d'origine date de 1998.",
+            "en": "The original dates from 1998."
+          }
+        }
+      ]
+    },
+    "N1": {
+      "title": "「{時|とき}のオカリナ」リメイク、{発売|はつばい}4日で520万本　Switch 2{自社|じしゃ}ソフトで{最速|さいそく}",
+      "paragraphs": [
+        "{任天堂|にんてんどう}は11日、Nintendo Switch 2用ソフト「ゼルダの{伝説|でんせつ} 時のオカリナ」の全世界における販売本数が、5日の発売から4日間で520万本を{突破|とっぱ}したと発表した。うち国内は81万本。同社が発売したSwitch 2向けタイトルとしては、発売後4日間の世界販売で過去最高を記録した。",
+        "本作は1998年にNINTENDO64向けに発売された{同名|どうめい}作品のフルリメイク。少年期と青年期の二つの時代を{往来|おうらい}しながら謎を解き進める{原作|げんさく}の{骨格|こっかく}を{踏襲|とうしゅう}しつつ、映像表現を{刷新|さっしん}し、{操作性|そうさせい}にも改良を加えた。",
+        "米国やカナダ、中南米においても、同社発売のSwitch 2ソフトとして最速の{売|う}れ{行|ゆ}きとなった。発売から30年近くを{経|へ}た名作の{再始動|さいしどう}が、{往年|おうねん}のファンのみならず、原作を知らない若い世代の{購買|こうばい}{意欲|いよく}をも{喚起|かんき}した{格好|かっこう}だ。",
+        "{年末|ねんまつ}{商戦|しょうせん}を{控|ひか}え、Switch 2本体の{普及|ふきゅう}を{後押|あとお}しする材料となりそうだ。"
+      ],
+      "vocab": [
+        {
+          "word": "{突破|とっぱ}する",
+          "meaning": {
+            "fr": "franchir (un seuil)",
+            "en": "to surpass"
+          }
+        },
+        {
+          "word": "{踏襲|とうしゅう}する",
+          "meaning": {
+            "fr": "reprendre fidèlement, suivre",
+            "en": "to follow, to inherit"
+          }
+        },
+        {
+          "word": "{刷新|さっしん}する",
+          "meaning": {
+            "fr": "rénover, moderniser",
+            "en": "to overhaul"
+          }
+        },
+        {
+          "word": "{往来|おうらい}する",
+          "meaning": {
+            "fr": "aller et venir",
+            "en": "to go back and forth"
+          }
+        },
+        {
+          "word": "{売|う}れ{行|ゆ}き",
+          "meaning": {
+            "fr": "rythme des ventes",
+            "en": "sales"
+          }
+        },
+        {
+          "word": "{喚起|かんき}する",
+          "meaning": {
+            "fr": "susciter, éveiller",
+            "en": "to arouse, to stimulate"
+          }
+        },
+        {
+          "word": "{年末|ねんまつ}{商戦|しょうせん}",
+          "meaning": {
+            "fr": "saison commerciale de fin d'année",
+            "en": "year-end shopping season"
+          }
+        },
+        {
+          "word": "{後押|あとお}しする",
+          "meaning": {
+            "fr": "soutenir, pousser",
+            "en": "to boost, to back"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "本作の{発売日|はつばいび}はいつか。",
+          "choices": [
+            "11月11日",
+            "11月5日",
+            "11月9日"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Sortie le 5 novembre ; l'annonce des ventes date du 11.",
+            "en": "Released on November 5; sales were announced on the 11th."
+          }
+        },
+        {
+          "question": "「原作の{骨格|こっかく}を{踏襲|とうしゅう}」とはどういう意味か。",
+          "choices": [
+            "原作の物語を大きく変えた",
+            "原作の映像をそのまま使っている",
+            "原作の基本的な作りを受け継いでいる"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "On garde la structure du jeu d'origine.",
+            "en": "The basic structure of the original is kept."
+          }
+        },
+        {
+          "question": "記事によると、今回の結果は{何|なに}を{後押|あとお}しすると見られるか。",
+          "choices": [
+            "原作ソフトの再販売",
+            "Switch 2本体の{普及|ふきゅう}",
+            "新しいゲーム機の開発"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le succès devrait aider à vendre davantage de consoles Switch 2.",
+            "en": "It is expected to boost Switch 2 console adoption."
+          }
+        }
+      ]
+    }
+  }
+}
