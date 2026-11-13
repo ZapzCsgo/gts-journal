@@ -1,0 +1,544 @@
+{
+  "date": "2026-11-13",
+  "newsDate": "2026-11-12",
+  "category": "culture",
+  "title": "Tokyo s'illumine : 1,2 km d'arbres dorés à Marunouchi, avec la magie d'Harry Potter !",
+  "summary": {
+    "fr": "Le 12 novembre, la 25e « Marunouchi Illumination » s'est allumée près de la gare de Tokyo : environ 200 arbres sur 1,2 km brillent d'une lumière « or champagne » jusqu'au 14 février. Cette année, Harry Potter s'invite aussi dans le quartier avec des sapins et des décors magiques.",
+    "en": "On November 12, the 25th Marunouchi Illumination was switched on near Tokyo Station: trees along a 1.2 km street glow in champagne gold until February 14. This year, Harry Potter-themed trees and photo spots also fill the district."
+  },
+  "sources": [
+    {
+      "name": "Jorudan, d'après Mitsubishi Estate (japonais)",
+      "url": "https://sp.jorudan.co.jp/illumi/news/jrd_261110_2.html"
+    },
+    {
+      "name": "Site officiel MARUNOUCHI BRIGHT HOLIDAY 2026 (japonais)",
+      "url": "https://www.marunouchi.com/lp/brightholiday2026/"
+    },
+    {
+      "name": "Walkerplus, guide des illuminations (japonais)",
+      "url": "https://illumi.walkerplus.com/detail/ar0313e17371/"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "La rue Naka-dori de Marunouchi la nuit, bordée d'arbres couverts de petites lumières dorées, entre de grands immeubles de bureaux",
+      "caption": "La rue Naka-dori de Marunouchi illuminée (photo prise en décembre 2019).",
+      "credit": "Photo : 掬茶 / CC BY-SA 4.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Christmas_light_of_the_Marunouchi_Nakadori_Street_Dec_2019.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Christmas_light_of_the_Marunouchi_Nakadori_Street_Dec_2019.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "掬茶",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "{東京|とうきょう}の {木|き}が きらきら {光|ひか}ります",
+      "paragraphs": [
+        "{東京駅|とうきょうえき}の {近|ちか}くに {丸|まる}の{内|うち}が あります。",
+        "11{月|がつ}12{日|にち}から、{丸|まる}の{内|うち}の {道|みち}の {木|き}が {光|ひか}って います。",
+        "{光|ひかり}は {金色|きんいろ}です。{夜|よる}、とても きれいです。",
+        "{来年|らいねん}の 2{月|がつ}14{日|か}まで {見|み}ることが できます。"
+      ],
+      "vocab": [
+        {
+          "word": "{木|き}",
+          "meaning": {
+            "fr": "arbre",
+            "en": "tree"
+          }
+        },
+        {
+          "word": "{光|ひか}る",
+          "meaning": {
+            "fr": "briller",
+            "en": "to shine"
+          }
+        },
+        {
+          "word": "{道|みち}",
+          "meaning": {
+            "fr": "rue, chemin",
+            "en": "street, road"
+          }
+        },
+        {
+          "word": "{夜|よる}",
+          "meaning": {
+            "fr": "nuit, soir",
+            "en": "night"
+          }
+        },
+        {
+          "word": "きれい",
+          "meaning": {
+            "fr": "joli, beau",
+            "en": "pretty, beautiful"
+          }
+        },
+        {
+          "word": "{来年|らいねん}",
+          "meaning": {
+            "fr": "l'année prochaine",
+            "en": "next year"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "いつから {木|き}が {光|ひか}って いますか。",
+          "choices": [
+            "10{月|がつ}12{日|にち}",
+            "11{月|がつ}12{日|にち}",
+            "12{月|がつ}12{日|にち}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Les lumières sont allumées depuis le 12 novembre.",
+            "en": "The lights have been on since November 12."
+          }
+        },
+        {
+          "question": "{光|ひかり}は {何色|なにいろ}ですか。",
+          "choices": [
+            "{金色|きんいろ}",
+            "{青|あお}",
+            "{赤|あか}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "La lumière est dorée (or champagne).",
+            "en": "The light is golden (champagne gold)."
+          }
+        },
+        {
+          "question": "いつまで {見|み}ることが できますか。",
+          "choices": [
+            "12{月|がつ}25{日|にち}",
+            "1{月|がつ}1{日|にち}",
+            "2{月|がつ}14{日|か}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "On peut les voir jusqu'au 14 février.",
+            "en": "You can see them until February 14."
+          }
+        }
+      ]
+    },
+    "N4": {
+      "title": "{丸|まる}の{内|うち}で イルミネーションが {始|はじ}まりました",
+      "paragraphs": [
+        "11{月|がつ}12{日|にち}の {夕方|ゆうがた}、{東京駅|とうきょうえき}の {近|ちか}くの {丸|まる}の{内|うち}で イルミネーションが {始|はじ}まりました。",
+        "{長|なが}さ {約|やく}1.2キロの {道|みち}の {木|き}が、「シャンパンゴールド」という {金色|きんいろ}の {光|ひかり}で かざられて います。このイルミネーションは {今年|ことし}で 25{回目|かいめ}です。",
+        "{光|ひかり}は {毎日|まいにち} {夕方|ゆうがた}4{時|じ}から {夜|よる}11{時|じ}まで ついて いて、12{月|がつ}は {夜中|よなか}の 12{時|じ}まで {見|み}られます。",
+        "{道|みち}には クリスマスマーケットも あって、{食|た}べ{物|もの}や {飲|の}み{物|もの}を {買|か}うことが できます。{来年|らいねん}の 2{月|がつ}14{日|か}まで {楽|たの}しめます。"
+      ],
+      "vocab": [
+        {
+          "word": "{始|はじ}まる",
+          "meaning": {
+            "fr": "commencer",
+            "en": "to begin"
+          }
+        },
+        {
+          "word": "{夕方|ゆうがた}",
+          "meaning": {
+            "fr": "fin d'après-midi, début de soirée",
+            "en": "early evening"
+          }
+        },
+        {
+          "word": "{約|やく}",
+          "meaning": {
+            "fr": "environ",
+            "en": "about, approximately"
+          }
+        },
+        {
+          "word": "かざる",
+          "meaning": {
+            "fr": "décorer",
+            "en": "to decorate"
+          }
+        },
+        {
+          "word": "〜{回目|かいめ}",
+          "meaning": {
+            "fr": "la ...e fois",
+            "en": "the ...th time"
+          }
+        },
+        {
+          "word": "{楽|たの}しむ",
+          "meaning": {
+            "fr": "profiter, s'amuser",
+            "en": "to enjoy"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "このイルミネーションは {今年|ことし}で {何回目|なんかいめ}ですか。",
+          "choices": [
+            "5{回目|かいめ}",
+            "12{回目|かいめ}",
+            "25{回目|かいめ}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "C'est la 25e édition.",
+            "en": "It is the 25th edition."
+          }
+        },
+        {
+          "question": "12{月|がつ}は {何時|なんじ}まで {見|み}られますか。",
+          "choices": [
+            "{夜中|よなか}の 12{時|じ}",
+            "{夜|よる} 9{時|じ}",
+            "{夜|よる} 11{時|じ}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "En décembre, les lumières restent allumées jusqu'à minuit.",
+            "en": "In December, the lights stay on until midnight."
+          }
+        },
+        {
+          "question": "クリスマスマーケットで {何|なに}が できますか。",
+          "choices": [
+            "{木|き}を {買|か}う",
+            "{食|た}べ{物|もの}や {飲|の}み{物|もの}を {買|か}う",
+            "スキーを する"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "On peut y acheter à manger et à boire.",
+            "en": "You can buy food and drinks there."
+          }
+        }
+      ]
+    },
+    "N3": {
+      "title": "{冬|ふゆ}の{恒例|こうれい}「{丸|まる}の{内|うち}イルミネーション」が{点灯|てんとう}",
+      "paragraphs": [
+        "{東京駅|とうきょうえき}{前|まえ}の{丸|まる}の{内|うち}エリアで11{月|がつ}12{日|にち}、{冬|ふゆ}の{恒例|こうれい}イベント「{丸|まる}の{内|うち}イルミネーション2026」が{始|はじ}まりました。25{回目|かいめ}となる{今年|ことし}も、{有楽町|ゆうらくちょう}から{大手町|おおてまち}まで{約|やく}1.2キロ{続|つづ}く「{丸|まる}の{内|うち}{仲通|なかどお}り」の{街路樹|がいろじゅ}が、シャンパンゴールドと{呼|よ}ばれる{上品|じょうひん}な{金色|きんいろ}の{光|ひかり}に{包|つつ}まれています。{点灯|てんとう}は{来年|らいねん}2{月|がつ}14{日|か}までの{約|やく}3か{月|げつ}{間|かん}です。",
+        "{今年|ことし}は「ハリー・ポッター」とのコラボレーションも{行|おこな}われていて、エリアの9か{所|しょ}に{映画|えいが}の{世界|せかい}をイメージしたツリーやフォトスポットが{登場|とうじょう}しました。{仲通|なかどお}りではクリスマスマーケットも{開|ひら}かれ、11{月|がつ}27{日|にち}からは{東京駅|とうきょうえき}と{皇居|こうきょ}を{結|むす}ぶ「{行幸通|ぎょうこうどお}り」でもイルミネーションが{点灯|てんとう}する{予定|よてい}です。"
+      ],
+      "vocab": [
+        {
+          "word": "{点灯|てんとう}する",
+          "meaning": {
+            "fr": "allumer (des lumières)",
+            "en": "to light up, switch on"
+          }
+        },
+        {
+          "word": "{恒例|こうれい}",
+          "meaning": {
+            "fr": "habituel, traditionnel",
+            "en": "customary, annual"
+          }
+        },
+        {
+          "word": "{街路樹|がいろじゅ}",
+          "meaning": {
+            "fr": "arbres d'alignement (le long d'une rue)",
+            "en": "roadside trees"
+          }
+        },
+        {
+          "word": "{上品|じょうひん}",
+          "meaning": {
+            "fr": "élégant, raffiné",
+            "en": "elegant, refined"
+          }
+        },
+        {
+          "word": "{包|つつ}まれる",
+          "meaning": {
+            "fr": "être enveloppé",
+            "en": "to be wrapped in"
+          }
+        },
+        {
+          "word": "{登場|とうじょう}する",
+          "meaning": {
+            "fr": "apparaître, faire son entrée",
+            "en": "to appear"
+          }
+        },
+        {
+          "word": "{予定|よてい}",
+          "meaning": {
+            "fr": "programme, prévision",
+            "en": "plan, schedule"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{丸|まる}の{内|うち}{仲通|なかどお}りの{長|なが}さはどのくらいですか。",
+          "choices": [
+            "{約|やく}12キロ",
+            "{約|やく}1.2キロ",
+            "{約|やく}120メートル"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La rue Naka-dori mesure environ 1,2 km.",
+            "en": "Naka-dori is about 1.2 km long."
+          }
+        },
+        {
+          "question": "{今年|ことし}は{何|なに}とコラボレーションしていますか。",
+          "choices": [
+            "「ハリー・ポッター」",
+            "「スター・ウォーズ」",
+            "「ポケモン」"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Cette année, la collaboration se fait avec Harry Potter.",
+            "en": "This year's collaboration is with Harry Potter."
+          }
+        },
+        {
+          "question": "11{月|がつ}27{日|にち}からは、どこでもイルミネーションが{点灯|てんとう}しますか。",
+          "choices": [
+            "{有楽町|ゆうらくちょう}{駅|えき}の{中|なか}",
+            "{皇居|こうきょ}の{中|なか}",
+            "{行幸通|ぎょうこうどお}り"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "À partir du 27 novembre, l'avenue Gyōkō-dōri s'illumine aussi.",
+            "en": "From November 27, Gyoko-dori Avenue lights up too."
+          }
+        }
+      ]
+    },
+    "N2": {
+      "title": "{丸|まる}の{内|うち}に{冬|ふゆ}の{光|ひかり}　25{回目|かいめ}のイルミネーションが{開幕|かいまく}",
+      "paragraphs": [
+        "{三菱地所|みつびしじしょ}は11月12日、東京・丸の内エリアの冬の{風物詩|ふうぶつし}「丸の内イルミネーション2026」の点灯を開始した。25回目を{迎|むか}える今年も、{有楽町|ゆうらくちょう}から{大手町|おおてまち}まで約1.2キロにわたる丸の内{仲通|なかどお}りの{街路樹|がいろじゅ}が、丸の内オリジナルカラーの「シャンパンゴールド」の光で{彩|いろど}られている。期間は2027年2月14日までの約3か月間で、クリスマスが終わった後もバレンタインの{頃|ころ}まで光の{並木道|なみきみち}を楽しめる。",
+        "今年からは、丸の内の冬の取り組みを「MARUNOUCHI BRIGHT HOLIDAY」という{総称|そうしょう}のもとで{展開|てんかい}する。その{目玉|めだま}が「ハリー・ポッター」との{連携|れんけい}企画で、エリア内の9{拠点|きょてん}に作品の世界観をイメージしたクリスマスツリーやモニュメントが{設置|せっち}された。丸ビルのツリーでは、映画の音楽に合わせて光の雪が{舞|ま}うライティングショーも行われる。",
+        "また、道路空間を{活用|かつよう}した{社会実験|しゃかいじっけん}として、仲通りにはクリスマスマーケットやキッチンカーなど計10店舗が並ぶ。11月27日からは東京駅と{皇居外苑|こうきょがいえん}を結ぶ{行幸通|ぎょうこうどお}りでもイルミネーションが点灯し、{過去最大規模|かこさいだいきぼ}となる15店舗のクリスマスヒュッテが登場する予定だ。"
+      ],
+      "vocab": [
+        {
+          "word": "{風物詩|ふうぶつし}",
+          "meaning": {
+            "fr": "tradition de saison, ce qui symbolise une saison",
+            "en": "seasonal tradition"
+          }
+        },
+        {
+          "word": "{彩|いろど}る",
+          "meaning": {
+            "fr": "colorer, embellir",
+            "en": "to color, to adorn"
+          }
+        },
+        {
+          "word": "{並木道|なみきみち}",
+          "meaning": {
+            "fr": "allée bordée d'arbres",
+            "en": "tree-lined avenue"
+          }
+        },
+        {
+          "word": "{総称|そうしょう}",
+          "meaning": {
+            "fr": "nom générique, appellation commune",
+            "en": "umbrella name"
+          }
+        },
+        {
+          "word": "{連携|れんけい}",
+          "meaning": {
+            "fr": "collaboration, partenariat",
+            "en": "collaboration, tie-up"
+          }
+        },
+        {
+          "word": "{拠点|きょてん}",
+          "meaning": {
+            "fr": "point, site",
+            "en": "base, location"
+          }
+        },
+        {
+          "word": "{活用|かつよう}する",
+          "meaning": {
+            "fr": "tirer parti de, utiliser",
+            "en": "to make use of"
+          }
+        },
+        {
+          "word": "{過去最大規模|かこさいだいきぼ}",
+          "meaning": {
+            "fr": "la plus grande ampleur jamais vue",
+            "en": "largest ever"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "このイルミネーションを{主催|しゅさい}しているのはどこか。",
+          "choices": [
+            "{東京都|とうきょうと}",
+            "{三菱地所|みつびしじしょ}",
+            "JR{東日本|ひがしにほん}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "C'est Mitsubishi Estate qui organise l'illumination.",
+            "en": "Mitsubishi Estate runs the illumination."
+          }
+        },
+        {
+          "question": "丸ビルのツリーでは何が行われるか。",
+          "choices": [
+            "音楽に合わせて光の雪が舞うショー",
+            "ハリー・ポッターの映画の上映",
+            "花火大会"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Au Marunouchi Building, un spectacle fait danser une neige lumineuse sur la musique des films.",
+            "en": "At the Marunouchi Building, a show makes light snow dance to the film music."
+          }
+        },
+        {
+          "question": "行幸通りに登場する15店舗について正しいものはどれか。",
+          "choices": [
+            "11月12日から営業している",
+            "キッチンカーだけである",
+            "過去最大規模のクリスマスヒュッテである"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Les 15 chalets de Noël sur Gyōkō-dōri forment le plus grand marché jamais organisé à cet endroit.",
+            "en": "The 15 Christmas huts on Gyoko-dori are the largest ever."
+          }
+        }
+      ]
+    },
+    "N1": {
+      "title": "丸の内イルミネーション、25回目の{点灯|てんとう}　「ハリー・ポッター」と{連携|れんけい}し{街|まち}全体を{演出|えんしゅつ}",
+      "paragraphs": [
+        "{三菱地所|みつびしじしょ}は12日、東京・丸の内エリアの冬の{風物詩|ふうぶつし}として{定着|ていちゃく}した「丸の内イルミネーション2026」の点灯を開始した。25回目となる今回も、{有楽町|ゆうらくちょう}から{大手町|おおてまち}に{至|いた}る約1.2キロの丸の内{仲通|なかどお}りの{街路樹|がいろじゅ}を、同エリア独自の「シャンパンゴールド」の光で{彩|いろど}る。点灯期間は来年2月14日までの約3か月間に{及|およ}ぶ。",
+        "今年は冬季の{諸施策|しょしさく}を「MARUNOUCHI BRIGHT HOLIDAY」の名称で{一体的|いったいてき}に展開するのが特徴だ。「ハリー・ポッター」との{協業|きょうぎょう}により、エリア内9{拠点|きょてん}に作品の世界観を{反映|はんえい}したツリーやフォトスポットを{配置|はいち}し、{回遊|かいゆう}を{促|うなが}すスタンプラリーも実施する。",
+        "道路空間を{活用|かつよう}する{社会実験|しゃかいじっけん}「Marunouchi Street Park 2026 Winter」も{並行|へいこう}して行われ、仲通りには物販・飲食の計10店舗が{軒|のき}を{連|つら}ねる。27日からは東京駅と{皇居外苑|こうきょがいえん}を結ぶ{行幸通|ぎょうこうどお}りでも点灯が始まり、{過去最大規模|かこさいだいきぼ}となる15店舗のクリスマスヒュッテが{出店|しゅってん}する{見通|みとお}しだ。",
+        "歩いて楽しめる{仕掛|しか}けを街全体に{張|は}り{巡|めぐ}らせることで、{年末|ねんまつ}に向けた{集客|しゅうきゃく}につなげる{狙|ねら}いとみられる。"
+      ],
+      "vocab": [
+        {
+          "word": "{定着|ていちゃく}する",
+          "meaning": {
+            "fr": "s'enraciner, devenir une habitude",
+            "en": "to become established"
+          }
+        },
+        {
+          "word": "{諸施策|しょしさく}",
+          "meaning": {
+            "fr": "diverses mesures",
+            "en": "various initiatives"
+          }
+        },
+        {
+          "word": "{協業|きょうぎょう}",
+          "meaning": {
+            "fr": "coopération entre entreprises",
+            "en": "business collaboration"
+          }
+        },
+        {
+          "word": "{回遊|かいゆう}",
+          "meaning": {
+            "fr": "déambulation, circuit de visite",
+            "en": "strolling around, circulation"
+          }
+        },
+        {
+          "word": "{促|うなが}す",
+          "meaning": {
+            "fr": "inciter, encourager",
+            "en": "to encourage, to prompt"
+          }
+        },
+        {
+          "word": "{軒|のき}を{連|つら}ねる",
+          "meaning": {
+            "fr": "être alignés côte à côte (boutiques)",
+            "en": "to stand side by side"
+          }
+        },
+        {
+          "word": "{並行|へいこう}して",
+          "meaning": {
+            "fr": "en parallèle",
+            "en": "in parallel"
+          }
+        },
+        {
+          "word": "{集客|しゅうきゃく}",
+          "meaning": {
+            "fr": "attirer des visiteurs",
+            "en": "attracting customers"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "点灯期間はどのくらいか。",
+          "choices": [
+            "約1か月間",
+            "約3か月間",
+            "約半年間"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Les lumières restent allumées environ 3 mois, jusqu'au 14 février.",
+            "en": "The lights stay on for about 3 months, until February 14."
+          }
+        },
+        {
+          "question": "「回遊を促す」とはどういう意味か。",
+          "choices": [
+            "来場者が街の中を巡り歩くよう働きかける",
+            "来場者の数を制限する",
+            "店の営業時間を延長する"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Il s'agit d'encourager les visiteurs à se promener d'un lieu à l'autre.",
+            "en": "It means encouraging visitors to walk around from spot to spot."
+          }
+        },
+        {
+          "question": "記事によると、27日から行幸通りで何が始まるか。",
+          "choices": [
+            "ハリー・ポッター展の開幕",
+            "道路の通行止め",
+            "点灯とクリスマスヒュッテの出店"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Le 27, Gyōkō-dōri s'illumine et accueille 15 chalets de Noël.",
+            "en": "On the 27th, Gyoko-dori lights up and hosts 15 Christmas huts."
+          }
+        }
+      ]
+    }
+  }
+}

@@ -2,6 +2,18 @@
   "_note": "Registre des photos du Journal : une entrée par image non créée par nous (origine, auteur, licence). Le plus récent en premier. Ajouter en tête, ne jamais supprimer.",
   "images": [
     {
+      "date": "2026-11-13",
+      "file": "cover.webp",
+      "credit": "Photo : 掬茶 / CC BY-SA 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Christmas_light_of_the_Marunouchi_Nakadori_Street_Dec_2019.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Christmas_light_of_the_Marunouchi_Nakadori_Street_Dec_2019.jpg",
+      "origin": "Wikimedia Commons",
+      "author": "掬茶",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
       "date": "2026-11-12",
       "file": "cover.webp",
       "credit": "Photo : Crisco 1492 / CC BY-SA 4.0",

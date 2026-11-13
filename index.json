@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "date": "2026-11-13",
+      "title": "Tokyo s'illumine : 1,2 km d'arbres dorés à Marunouchi, avec la magie d'Harry Potter !",
+      "category": "culture",
+      "cover": "cover.webp"
+    },
+    {
       "date": "2026-11-12",
       "title": "Zelda Ocarina of Time revient : 5,2 millions de jeux vendus en 4 jours !",
       "category": "culture",
