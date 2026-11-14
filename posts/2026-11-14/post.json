@@ -1,0 +1,560 @@
+{
+ "date": "2026-11-14",
+ "newsDate": "2026-11-13",
+ "category": "meteo",
+ "title": "Au pays de la neige, on emmitoufle 10 000 rhododendrons pour l'hiver !",
+ "summary": {
+  "fr": "Sur le plateau de Hiruzen, au nord de la préfecture d'Okayama, l'équipe d'un grand jardin attache un à un 10 000 rhododendrons à des tuteurs en bambou pour que la neige ne casse pas leurs branches. Ce « yukigakoi » dure jusqu'à début décembre, et les fleurs reviendront fin avril.",
+  "en": "On the Hiruzen plateau in northern Okayama, staff at a large garden are tying 10,000 rhododendrons one by one to bamboo supports so the snow won't break their branches. This yukigakoi work lasts until early December, and the flowers will be back in late April."
+ },
+ "sources": [
+  {
+   "name": "RNC News (NNN), 13 novembre 2026 (japonais)",
+   "url": "https://news.ntv.co.jp/n/rnc/category/life/rnba9ede235f894912a94cdc543047e432"
+  },
+  {
+   "name": "Yomiuri Shimbun, édition d'Okayama (japonais)",
+   "url": "https://yomiuri.co.jp/local/okayama/news/20261111-GYTNT00194"
+  },
+  {
+   "name": "Office du tourisme d'Okayama, fête des rhododendrons de Hiruzen (anglais)",
+   "url": "https://okayama-japan.jp/en/spot/13491"
+  }
+ ],
+ "images": [
+  {
+   "file": "cover.webp",
+   "alt": "Les monts Kami-Hiruzen et Naka-Hiruzen vus depuis le plateau de Hiruzen, sous un ciel bleu, avec la végétation brune de l'automne au premier plan",
+   "caption": "Le plateau de Hiruzen et ses montagnes, au nord de la préfecture d'Okayama (photo prise en novembre 2008).",
+   "credit": "Photo : Reggaeman / CC BY-SA 3.0",
+   "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Hiruzen_01.jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hiruzen_01.jpg",
+    "origin": "Wikimedia Commons",
+    "author": "Reggaeman",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+   }
+  }
+ ],
+ "levels": {
+  "N5": {
+   "title": "やまの {木|き}の ふゆの じゅんび",
+   "paragraphs": [
+    "おかやまけんの ひるぜんは、ふゆに ゆきが たくさん ふります。",
+    "ここに しゃくなげの {木|き}が 1{万|まん}5000{本|ぼん} あります。",
+    "いま、{人|ひと}が {木|き}を ひもで しばって います。",
+    "ゆきから {木|き}を まもります。",
+    "はるに、きれいな はなが さきます。"
+   ],
+   "vocab": [
+    {
+     "word": "{木|き}",
+     "meaning": {
+      "fr": "arbre",
+      "en": "tree"
+     }
+    },
+    {
+     "word": "ゆき",
+     "meaning": {
+      "fr": "neige",
+      "en": "snow"
+     }
+    },
+    {
+     "word": "ふゆ",
+     "meaning": {
+      "fr": "hiver",
+      "en": "winter"
+     }
+    },
+    {
+     "word": "ひも",
+     "meaning": {
+      "fr": "corde, ficelle",
+      "en": "string, rope"
+     }
+    },
+    {
+     "word": "まもる",
+     "meaning": {
+      "fr": "protéger",
+      "en": "to protect"
+     }
+    },
+    {
+     "word": "はる",
+     "meaning": {
+      "fr": "printemps",
+      "en": "spring"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "ひるぜんは ふゆに なにが たくさん ふりますか。",
+     "choices": [
+      "あめ",
+      "ゆき",
+      "はな"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "À Hiruzen, il tombe beaucoup de neige en hiver.",
+      "en": "In Hiruzen, a lot of snow falls in winter."
+     }
+    },
+    {
+     "question": "しゃくなげの {木|き}は なん{本|ぼん} ありますか。",
+     "choices": [
+      "1{万|まん}5000{本|ぼん}",
+      "5000{本|ぼん}",
+      "500{本|ぼん}"
+     ],
+     "answer": 0,
+     "explain": {
+      "fr": "Il y a 15 000 rhododendrons.",
+      "en": "There are 15,000 rhododendrons."
+     }
+    },
+    {
+     "question": "いつ はなが さきますか。",
+     "choices": [
+      "なつ",
+      "あき",
+      "はる"
+     ],
+     "answer": 2,
+     "explain": {
+      "fr": "Les fleurs s'ouvrent au printemps.",
+      "en": "The flowers bloom in spring."
+     }
+    }
+   ]
+  },
+  "N4": {
+   "title": "{雪|ゆき}から {木|き}を {守|まも}る {冬|ふゆ}の {仕事|しごと}",
+   "paragraphs": [
+    "{岡山県|おかやまけん}の {北|きた}に ある {蒜山|ひるぜん}{高原|こうげん}は、{冬|ふゆ}に {雪|ゆき}が たくさん {降|ふ}る ところです。",
+    "「ヒルゼン{高原|こうげん}センター」には、シャクナゲという {花|はな}の {木|き}が {約|やく}1{万|まん}5000{本|ぼん} あります。",
+    "{雪|ゆき}が {重|おも}いと、{枝|えだ}が {折|お}れて しまいます。",
+    "そこで スタッフが {竹|たけ}を {立|た}てて、{木|き}を なわで しばって います。これを「{雪囲|ゆきがこ}い」と {言|い}います。",
+    "{高|たか}さが 2メートルより {低|ひく}い {約|やく}1{万|まん}{本|ぼん}を、1{本|ぽん}ずつ ていねいに しばります。この {仕事|しごと}は 12{月|がつ}の はじめまで {続|つづ}きます。",
+    "{春|はる}の 4{月|がつ}の {終|お}わりごろから、{赤|あか}や {白|しろ}や ピンクの {花|はな}が {咲|さ}きます。"
+   ],
+   "vocab": [
+    {
+     "word": "{雪囲|ゆきがこ}い",
+     "meaning": {
+      "fr": "protection des plantes contre la neige",
+      "en": "snow protection for plants"
+     }
+    },
+    {
+     "word": "{枝|えだ}",
+     "meaning": {
+      "fr": "branche",
+      "en": "branch"
+     }
+    },
+    {
+     "word": "{折|お}れる",
+     "meaning": {
+      "fr": "se casser",
+      "en": "to break, to snap"
+     }
+    },
+    {
+     "word": "{竹|たけ}",
+     "meaning": {
+      "fr": "bambou",
+      "en": "bamboo"
+     }
+    },
+    {
+     "word": "{低|ひく}い",
+     "meaning": {
+      "fr": "bas, petit (en hauteur)",
+      "en": "low, short"
+     }
+    },
+    {
+     "word": "{続|つづ}く",
+     "meaning": {
+      "fr": "continuer, durer",
+      "en": "to continue"
+     }
+    },
+    {
+     "word": "{咲|さ}く",
+     "meaning": {
+      "fr": "fleurir",
+      "en": "to bloom"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "どうして {木|き}を しばりますか。",
+     "choices": [
+      "{雪|ゆき}で {枝|えだ}が {折|お}れないように",
+      "{花|はな}を はやく {咲|さ}かせるため",
+      "{木|き}を {高|たか}く するため"
+     ],
+     "answer": 0,
+     "explain": {
+      "fr": "On attache les arbustes pour que la neige ne casse pas les branches.",
+      "en": "The shrubs are tied so the snow doesn't break the branches."
+     }
+    },
+    {
+     "question": "どの {木|き}を しばりますか。",
+     "choices": [
+      "2メートルより {高|たか}い {木|き}",
+      "2メートルより {低|ひく}い {木|き}",
+      "ぜんぶの {木|き}"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "On attache les arbustes de moins de 2 mètres, environ 10 000.",
+      "en": "The shrubs under 2 meters, about 10,000, are tied."
+     }
+    },
+    {
+     "question": "この {仕事|しごと}は いつまで {続|つづ}きますか。",
+     "choices": [
+      "11{月|がつ}の はじめ",
+      "12{月|がつ}の はじめ",
+      "3{月|がつ}の {終|お}わり"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Le travail dure jusqu'au début de décembre.",
+      "en": "The work continues until early December."
+     }
+    }
+   ]
+  },
+  "N3": {
+   "title": "{豪雪|ごうせつ}{地帯|ちたい}の{冬支度|ふゆじたく}、シャクナゲ1{万|まん}{株|かぶ}に「{雪囲|ゆきがこ}い」",
+   "paragraphs": [
+    "{岡山県|おかやまけん}{真庭市|まにわし}の{蒜山|ひるぜん}{高原|こうげん}で、シャクナゲを{雪|ゆき}から{守|まも}る「{雪囲|ゆきがこ}い」の{作業|さぎょう}が{行|おこな}われている。{蒜山|ひるぜん}は{県内|けんない}でも{特|とく}に{雪|ゆき}が{多|おお}い{地域|ちいき}で、{積|つ}もった{雪|ゆき}の{重|おも}さで{枝|えだ}が{折|お}れたり、{株|かぶ}が{傷|いた}んだりすることがあるそうだ。",
+    "「ヒルゼン{高原|こうげん}センター」には{約|やく}1{万|まん}5000{株|かぶ}のシャクナゲがあり、そのうち{高|たか}さ2メートル{未満|みまん}の{約|やく}1{万|まん}{株|かぶ}が{対象|たいしょう}だ。スタッフは{竹|たけ}や{木|き}の{支柱|しちゅう}を{立|た}て、{枝|えだ}が{広|ひろ}がらないように{縄|なわ}で{一株|ひとかぶ}ずつしばっていく。{作業|さぎょう}は12{月|がつ}{上旬|じょうじゅん}まで{続|つづ}き、{囲|かこ}いは{雪|ゆき}が{解|と}ける3{月|がつ}{下旬|げじゅん}までに{外|はず}される。4{月|がつ}{下旬|げじゅん}からは、{色|いろ}とりどりの{大|おお}きな{花|はな}が{観光客|かんこうきゃく}を{楽|たの}しませるという。"
+   ],
+   "vocab": [
+    {
+     "word": "{冬支度|ふゆじたく}",
+     "meaning": {
+      "fr": "préparatifs pour l'hiver",
+      "en": "winter preparations"
+     }
+    },
+    {
+     "word": "{作業|さぎょう}",
+     "meaning": {
+      "fr": "travail, opération",
+      "en": "work, task"
+     }
+    },
+    {
+     "word": "{積|つ}もる",
+     "meaning": {
+      "fr": "s'accumuler (neige)",
+      "en": "to pile up"
+     }
+    },
+    {
+     "word": "{支柱|しちゅう}",
+     "meaning": {
+      "fr": "tuteur, support",
+      "en": "support pole"
+     }
+    },
+    {
+     "word": "{縄|なわ}",
+     "meaning": {
+      "fr": "corde",
+      "en": "rope"
+     }
+    },
+    {
+     "word": "{上旬|じょうじゅん}",
+     "meaning": {
+      "fr": "début du mois (du 1er au 10)",
+      "en": "first ten days of a month"
+     }
+    },
+    {
+     "word": "{下旬|げじゅん}",
+     "meaning": {
+      "fr": "fin du mois (du 21 au 31)",
+      "en": "last ten days of a month"
+     }
+    },
+    {
+     "word": "{観光客|かんこうきゃく}",
+     "meaning": {
+      "fr": "touriste",
+      "en": "tourist"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "{雪囲|ゆきがこ}いの{目的|もくてき}は{何|なん}ですか。",
+     "choices": [
+      "{雪|ゆき}の{重|おも}さから{枝|えだ}や{株|かぶ}を{守|まも}ること",
+      "{花|はな}を{早|はや}く{咲|さ}かせること",
+      "{観光客|かんこうきゃく}が{入|はい}らないようにすること"
+     ],
+     "answer": 0,
+     "explain": {
+      "fr": "Le yukigakoi protège les branches et les pieds du poids de la neige.",
+      "en": "Yukigakoi protects branches and plants from the weight of the snow."
+     }
+    },
+    {
+     "question": "{雪囲|ゆきがこ}いをするシャクナゲは{約|やく}{何|なん}{株|かぶ}ですか。",
+     "choices": [
+      "{約|やく}5000{株|かぶ}",
+      "{約|やく}1{万|まん}{株|かぶ}",
+      "{約|やく}1{万|まん}5000{株|かぶ}"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Sur 15 000 pieds, environ 10 000 (ceux de moins de 2 m) sont protégés.",
+      "en": "Out of 15,000 plants, about 10,000 (those under 2 m) are protected."
+     }
+    },
+    {
+     "question": "{囲|かこ}いはいつまでに{外|はず}されますか。",
+     "choices": [
+      "12{月|がつ}{上旬|じょうじゅん}",
+      "3{月|がつ}{下旬|げじゅん}",
+      "4{月|がつ}{下旬|げじゅん}"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Les protections sont retirées d'ici fin mars, quand la neige fond.",
+      "en": "The covers are removed by late March, when the snow melts."
+     }
+    }
+   ]
+  },
+  "N2": {
+   "title": "{蒜山|ひるぜん}{高原|こうげん}で{雪囲|ゆきがこ}いが{本格化|ほんかくか}、{西日本|にしにほん}{最大級|さいだいきゅう}のシャクナゲが{冬|ふゆ}に{備|そな}える",
+   "paragraphs": [
+    "{本格的|ほんかくてき}な{冬|ふゆ}の{訪|おとず}れを{前|まえ}に、{岡山県|おかやまけん}{真庭市|まにわし}の{蒜山|ひるぜん}{高原|こうげん}にある「ヒルゼン{高原|こうげん}センター」で、シャクナゲを{雪|ゆき}から{守|まも}る「{雪囲|ゆきがこ}い」が{急|きゅう}ピッチで{進|すす}められている。{蒜山|ひるぜん}は{県内|けんない}{有数|ゆうすう}の{豪雪|ごうせつ}{地帯|ちたい}として{知|し}られ、{雪|ゆき}の{重|おも}みで{枝|えだ}や{幹|みき}が{折|お}れるおそれがあるためだ。",
+    "{同|どう}センターには{西日本|にしにほん}{最大級|さいだいきゅう}とされる{約|やく}1{万|まん}5000{株|かぶ}のシャクナゲが{植|う}えられており、このうち{高|たか}さ2メートルに{満|み}たない{約|やく}1{万|まん}{株|かぶ}が{対象|たいしょう}となる。3、4{人|にん}のスタッフが3{本|ぼん}の{竹|たけ}で{支柱|しちゅう}を{組|く}み、{枝|えだ}をまとめて{縄|なわ}で{縛|しば}ることで、1メートル{近|ちか}い{積雪|せきせつ}にも{耐|た}えられるようにしている。",
+    "{作業|さぎょう}は12{月|がつ}{上旬|じょうじゅん}まで{続|つづ}く{見込|みこ}みだ。{囲|かこ}いは{雪解|ゆきど}けを{待|ま}って3{月|がつ}{下旬|げじゅん}までに{取|と}り{外|はず}され、4{月|がつ}{下旬|げじゅん}からは{色|いろ}とりどりの{大輪|たいりん}が{咲|さ}き{誇|ほこ}って、{多|おお}くの{観光客|かんこうきゃく}の{目|め}を{楽|たの}しませるという。"
+   ],
+   "vocab": [
+    {
+     "word": "{本格的|ほんかくてき}",
+     "meaning": {
+      "fr": "véritable, pour de bon",
+      "en": "full-scale, proper"
+     }
+    },
+    {
+     "word": "{豪雪|ごうせつ}{地帯|ちたい}",
+     "meaning": {
+      "fr": "région de fortes neiges",
+      "en": "heavy-snow area"
+     }
+    },
+    {
+     "word": "{有数|ゆうすう}",
+     "meaning": {
+      "fr": "parmi les principaux",
+      "en": "one of the leading"
+     }
+    },
+    {
+     "word": "{幹|みき}",
+     "meaning": {
+      "fr": "tronc",
+      "en": "trunk"
+     }
+    },
+    {
+     "word": "{積雪|せきせつ}",
+     "meaning": {
+      "fr": "couche de neige",
+      "en": "snow cover"
+     }
+    },
+    {
+     "word": "{耐|た}える",
+     "meaning": {
+      "fr": "résister, supporter",
+      "en": "to withstand"
+     }
+    },
+    {
+     "word": "{見込|みこ}み",
+     "meaning": {
+      "fr": "prévision",
+      "en": "expectation, outlook"
+     }
+    },
+    {
+     "word": "{咲|さ}き{誇|ほこ}る",
+     "meaning": {
+      "fr": "être en pleine floraison",
+      "en": "to be in full bloom"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "{蒜山|ひるぜん}で{雪囲|ゆきがこ}いが{必要|ひつよう}な{理由|りゆう}として、{正|ただ}しいものはどれですか。",
+     "choices": [
+      "{雪|ゆき}の{重|おも}みで{枝|えだ}や{幹|みき}が{折|お}れるおそれがあるから",
+      "{雪|ゆき}が{少|すく}なく{土|つち}が{乾|かわ}くから",
+      "{動物|どうぶつ}が{花|はな}を{食|た}べるから"
+     ],
+     "answer": 0,
+     "explain": {
+      "fr": "Le poids de la neige risque de casser branches et troncs.",
+      "en": "The weight of the snow could break branches and trunks."
+     }
+    },
+    {
+     "question": "スタッフはどのように{支柱|しちゅう}を{作|つく}っていますか。",
+     "choices": [
+      "{金属|きんぞく}の{棒|ぼう}を1{本|ぽん}{立|た}てる",
+      "3{本|ぼん}の{竹|たけ}を{組|く}む",
+      "ネットで{全体|ぜんたい}を{覆|おお}う"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Ils assemblent trois bambous pour faire un support.",
+      "en": "They put three bamboo poles together as a support."
+     }
+    },
+    {
+     "question": "{雪囲|ゆきがこ}いをしたシャクナゲは、どのくらいの{積雪|せきせつ}に{耐|た}えられるようにしていますか。",
+     "choices": [
+      "{約|やく}30センチ",
+      "1メートル{近|ちか}く",
+      "3メートル{以上|いじょう}"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Les arbustes doivent tenir sous près d'un mètre de neige.",
+      "en": "The shrubs are prepared to withstand nearly one meter of snow."
+     }
+    }
+   ]
+  },
+  "N1": {
+   "title": "{蒜山|ひるぜん}のシャクナゲ1{万|まん}{株|かぶ}に{雪囲|ゆきがこ}い、{豪雪|ごうせつ}{地帯|ちたい}ならではの{冬支度|ふゆじたく}",
+   "paragraphs": [
+    "{岡山県|おかやまけん}{北部|ほくぶ}の{蒜山|ひるぜん}{高原|こうげん}（{真庭市|まにわし}）で、{冬|ふゆ}の{到来|とうらい}に{備|そな}え、シャクナゲを{積雪|せきせつ}から{保護|ほご}する「{雪囲|ゆきがこ}い」の{作業|さぎょう}が{最盛期|さいせいき}を{迎|むか}えている。{県内|けんない}{屈指|くっし}の{豪雪|ごうせつ}{地帯|ちたい}では、{雪|ゆき}の{重|おも}みによる{枝折|えだお}れや{株|かぶ}の{損傷|そんしょう}を{防|ふせ}ぐこの{手間|てま}のかかる{作業|さぎょう}が、{毎年|まいとし}この{時期|じき}の{風物詩|ふうぶつし}となっている。",
+    "{作業|さぎょう}が{行|おこな}われているのは{観光|かんこう}{施設|しせつ}「ヒルゼン{高原|こうげん}センター」。{西日本|にしにほん}{最大級|さいだいきゅう}とされる{約|やく}1{万|まん}5000{株|かぶ}のうち、{樹高|じゅこう}2メートル{未満|みまん}の{約|やく}1{万|まん}{株|かぶ}が{対象|たいしょう}で、スタッフが{竹|たけ}や{木|き}の{支柱|しちゅう}を{立|た}て、{枝|えだ}が{広|ひろ}がらないよう{縄|なわ}で{一株|ひとかぶ}ずつ{丹念|たんねん}に{固定|こてい}していく。1メートル{近|ちか}い{積雪|せきせつ}にも{耐|た}え{得|う}る{仕様|しよう}だという。",
+    "{作業|さぎょう}は12{月|がつ}{上旬|じょうじゅん}まで{続|つづ}く{見通|みとお}し。{囲|かこ}いは{雪解|ゆきど}けを{待|ま}って{来年|らいねん}3{月|がつ}{下旬|げじゅん}までに{撤去|てっきょ}され、4{月|がつ}{下旬|げじゅん}{以降|いこう}は{約|やく}100{品種|ひんしゅ}の{色|いろ}とりどりの{大輪|たいりん}が{咲|さ}き{誇|ほこ}る。5{月|がつ}には「しゃくなげ{祭|まつ}り」も{開|ひら}かれ、{例年|れいねん}{多|おお}くの{行楽客|こうらくきゃく}でにぎわう。"
+   ],
+   "vocab": [
+    {
+     "word": "{到来|とうらい}",
+     "meaning": {
+      "fr": "arrivée (d'une saison)",
+      "en": "arrival, coming"
+     }
+    },
+    {
+     "word": "{保護|ほご}",
+     "meaning": {
+      "fr": "protection",
+      "en": "protection"
+     }
+    },
+    {
+     "word": "{最盛期|さいせいき}",
+     "meaning": {
+      "fr": "pleine saison, apogée",
+      "en": "peak period"
+     }
+    },
+    {
+     "word": "{屈指|くっし}",
+     "meaning": {
+      "fr": "parmi les tout premiers",
+      "en": "leading, foremost"
+     }
+    },
+    {
+     "word": "{風物詩|ふうぶつし}",
+     "meaning": {
+      "fr": "tradition qui évoque une saison",
+      "en": "seasonal tradition"
+     }
+    },
+    {
+     "word": "{丹念|たんねん}",
+     "meaning": {
+      "fr": "minutieux, soigneux",
+      "en": "painstaking, careful"
+     }
+    },
+    {
+     "word": "{撤去|てっきょ}",
+     "meaning": {
+      "fr": "retrait, démontage",
+      "en": "removal"
+     }
+    },
+    {
+     "word": "{行楽客|こうらくきゃく}",
+     "meaning": {
+      "fr": "promeneurs, visiteurs en excursion",
+      "en": "holidaymakers, day-trippers"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "{記事|きじ}によると、{雪囲|ゆきがこ}いの{作業|さぎょう}は{現在|げんざい}どのような{段階|だんかい}にありますか。",
+     "choices": [
+      "{準備|じゅんび}が{始|はじ}まったばかりだ",
+      "{最盛期|さいせいき}を{迎|むか}えている",
+      "すでに{完了|かんりょう}した"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Le travail bat son plein (最盛期).",
+      "en": "The work is at its peak (最盛期)."
+     }
+    },
+    {
+     "question": "「{風物詩|ふうぶつし}」の{意味|いみ}に{最|もっと}も{近|ちか}いものはどれですか。",
+     "choices": [
+      "その{季節|きせつ}らしさを{感|かん}じさせる{物事|ものごと}",
+      "{昔|むかし}の{詩人|しじん}が{書|か}いた{詩|し}",
+      "{風|かぜ}が{強|つよ}い{日|ひ}の{天気|てんき}"
+     ],
+     "answer": 0,
+     "explain": {
+      "fr": "風物詩 désigne une chose qui fait sentir une saison.",
+      "en": "風物詩 means something that evokes a particular season."
+     }
+    },
+    {
+     "question": "{雪囲|ゆきがこ}いが{撤去|てっきょ}されるのはいつまでですか。",
+     "choices": [
+      "12{月|がつ}{上旬|じょうじゅん}",
+      "3{月|がつ}{下旬|げじゅん}",
+      "4{月|がつ}{下旬|げじゅん}"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Les protections sont retirées d'ici fin mars.",
+      "en": "The protections are removed by late March."
+     }
+    }
+   ]
+  }
+ }
+}

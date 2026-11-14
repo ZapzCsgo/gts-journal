@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "date": "2026-11-14",
+      "title": "Au pays de la neige, on emmitoufle 10 000 rhododendrons pour l'hiver !",
+      "category": "meteo",
+      "cover": "cover.webp"
+    },
+    {
       "date": "2026-11-13",
       "title": "Tokyo s'illumine : 1,2 km d'arbres dorés à Marunouchi, avec la magie d'Harry Potter !",
       "category": "culture",

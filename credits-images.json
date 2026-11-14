@@ -2,6 +2,18 @@
   "_note": "Registre des photos du Journal : une entrée par image non créée par nous (origine, auteur, licence). Le plus récent en premier. Ajouter en tête, ne jamais supprimer.",
   "images": [
     {
+      "date": "2026-11-14",
+      "file": "cover.webp",
+      "credit": "Photo : Reggaeman / CC BY-SA 3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hiruzen_01.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Hiruzen_01.jpg",
+      "origin": "Wikimedia Commons",
+      "author": "Reggaeman",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
       "date": "2026-11-13",
       "file": "cover.webp",
       "credit": "Photo : 掬茶 / CC BY-SA 4.0",
