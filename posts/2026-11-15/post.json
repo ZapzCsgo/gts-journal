@@ -1,0 +1,555 @@
+{
+ "date": "2026-11-15",
+ "newsDate": "2026-11-14",
+ "category": "sport",
+ "title": "Baseball : 11 points en une seule manche, le Japon file en finale !",
+ "summary": {
+  "fr": "Au Tokyo Dome, la jeune équipe du Japon a écrasé l'Australie 16 à 1 au championnat d'Asie de baseball professionnel, avec 11 points dès la première manche et un grand chelem de Rui Muneyama. Trois victoires sur trois : les « Samurai Japan » affrontent la Corée du Sud en finale ce dimanche 15 novembre pour un troisième titre de suite.",
+  "en": "At the Tokyo Dome, Japan's young team crushed Australia 16-1 at the Asia Professional Baseball Championship, scoring 11 runs in the first inning, including a grand slam by Rui Muneyama. Unbeaten in three games, Samurai Japan face South Korea in the final on Sunday, November 15, chasing a third straight title."
+ },
+ "sources": [
+  {
+   "name": "Site officiel de l'équipe du Japon (侍ジャパン), compte rendu du 14 novembre 2026 (japonais)",
+   "url": "https://www.japan-baseball.jp/jp/news/press/20261114_2.html"
+  },
+  {
+   "name": "NPB, feuille de match Australie - Japon du 14 novembre 2026 (japonais)",
+   "url": "https://npb.jp/scores/2026/1114/aus-jpn-80/"
+  },
+  {
+   "name": "Kyodo News, 14 novembre 2026 (anglais)",
+   "url": "https://english.kyodonews.net/articles/-/91417"
+  }
+ ],
+ "images": [
+  {
+   "file": "cover.webp",
+   "alt": "Vue depuis les tribunes du Tokyo Dome pendant un match de baseball : la pelouse verte du terrain, les gradins remplis et le grand toit blanc du stade couvert",
+   "caption": "L'intérieur du Tokyo Dome, où se joue le championnat d'Asie (photo prise lors d'un autre match, en septembre 2016).",
+   "credit": "Photo : Chi-Hung Lin / CC BY-SA 2.0",
+   "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Watching_Baseball_Game_in_Tokyo_Dome_(28777394734).jpg",
+    "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Watching_Baseball_Game_in_Tokyo_Dome_%2828777394734%29.jpg",
+    "origin": "Wikimedia Commons",
+    "author": "Chi-Hung Lin from Chiayi County, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+   }
+  }
+ ],
+ "levels": {
+  "N5": {
+   "title": "{日本|にほん}が やきゅうで {大|おお}かち！",
+   "paragraphs": [
+    "11{月|がつ}14{日|か}、とうきょうドームで やきゅうの しあいが ありました。",
+    "{日本|にほん}と オーストラリアの しあいでした。",
+    "{日本|にほん}は 16てん、オーストラリアは 1てんでした。",
+    "{日本|にほん}は 3かい かちました。",
+    "11{月|がつ}15{日|にち}の よる、かんこくと さいごの しあいを します。"
+   ],
+   "vocab": [
+    {
+     "word": "やきゅう",
+     "meaning": {
+      "fr": "baseball",
+      "en": "baseball"
+     }
+    },
+    {
+     "word": "しあい",
+     "meaning": {
+      "fr": "match",
+      "en": "game, match"
+     }
+    },
+    {
+     "word": "かつ",
+     "meaning": {
+      "fr": "gagner",
+      "en": "to win"
+     }
+    },
+    {
+     "word": "てん",
+     "meaning": {
+      "fr": "point",
+      "en": "point, run"
+     }
+    },
+    {
+     "word": "さいご",
+     "meaning": {
+      "fr": "le dernier, la fin",
+      "en": "last, final"
+     }
+    },
+    {
+     "word": "よる",
+     "meaning": {
+      "fr": "soir, nuit",
+      "en": "evening, night"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "しあいは どこで ありましたか。",
+     "choices": [
+      "おおさか",
+      "とうきょうドーム",
+      "オーストラリア"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Le match a eu lieu au Tokyo Dome.",
+      "en": "The game took place at the Tokyo Dome."
+     }
+    },
+    {
+     "question": "{日本|にほん}は なんてんでしたか。",
+     "choices": [
+      "1てん",
+      "11てん",
+      "16てん"
+     ],
+     "answer": 2,
+     "explain": {
+      "fr": "Le Japon a marqué 16 points.",
+      "en": "Japan scored 16 runs."
+     }
+    },
+    {
+     "question": "15{日|にち}に {日本|にほん}は どこと しあいを しますか。",
+     "choices": [
+      "かんこく",
+      "たいわん",
+      "オーストラリア"
+     ],
+     "answer": 0,
+     "explain": {
+      "fr": "Le 15, le Japon joue contre la Corée du Sud.",
+      "en": "On the 15th, Japan plays South Korea."
+     }
+    }
+   ]
+  },
+  "N4": {
+   "title": "{若|わか}い {日本|にほん}チーム、{決勝|けっしょう}へ！",
+   "paragraphs": [
+    "11{月|がつ}14{日|か}、{東京|とうきょう}ドームで「アジアプロ{野球|やきゅう}チャンピオンシップ」の {試合|しあい}が ありました。",
+    "この {大会|たいかい}は、24{歳|さい}までの {若|わか}い {選手|せんしゅ}が {中心|ちゅうしん}です。",
+    "{日本|にほん}は オーストラリアに 16{対|たい}1で {勝|か}ちました。",
+    "1{回|かい}だけで 11{点|てん}も {取|と}りました。",
+    "{宗山|むねやま}{選手|せんしゅ}は {満塁|まんるい}ホームランを {打|う}って、1{回|かい}で 4{点|てん}を {入|い}れました。",
+    "{日本|にほん}は 3{回|かい} {続|つづ}けて {勝|か}って、{決勝|けっしょう}に {進|すす}みました。",
+    "15{日|にち}の {夜|よる}、{韓国|かんこく}と {優勝|ゆうしょう}を かけて {戦|たたか}います。"
+   ],
+   "vocab": [
+    {
+     "word": "{試合|しあい}",
+     "meaning": {
+      "fr": "match",
+      "en": "game, match"
+     }
+    },
+    {
+     "word": "{大会|たいかい}",
+     "meaning": {
+      "fr": "tournoi, compétition",
+      "en": "tournament"
+     }
+    },
+    {
+     "word": "{選手|せんしゅ}",
+     "meaning": {
+      "fr": "joueur, athlète",
+      "en": "player, athlete"
+     }
+    },
+    {
+     "word": "{勝|か}つ",
+     "meaning": {
+      "fr": "gagner",
+      "en": "to win"
+     }
+    },
+    {
+     "word": "{決勝|けっしょう}",
+     "meaning": {
+      "fr": "finale",
+      "en": "final"
+     }
+    },
+    {
+     "word": "{優勝|ゆうしょう}",
+     "meaning": {
+      "fr": "victoire finale, titre",
+      "en": "championship, title"
+     }
+    },
+    {
+     "word": "{続|つづ}ける",
+     "meaning": {
+      "fr": "continuer, faire à la suite",
+      "en": "to continue"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "{日本|にほん}は 1{回|かい}に {何点|なんてん} {取|と}りましたか。",
+     "choices": [
+      "1{点|てん}",
+      "11{点|てん}",
+      "16{点|てん}"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Le Japon a marqué 11 points dans la première manche.",
+      "en": "Japan scored 11 runs in the first inning."
+     }
+    },
+    {
+     "question": "{宗山|むねやま}{選手|せんしゅ}は {何|なに}を {打|う}ちましたか。",
+     "choices": [
+      "{満塁|まんるい}ホームラン",
+      "ヒットを 1{本|ぽん}だけ",
+      "{何|なに}も {打|う}たなかった"
+     ],
+     "answer": 0,
+     "explain": {
+      "fr": "Muneyama a frappé un grand chelem (home run avec les bases pleines).",
+      "en": "Muneyama hit a grand slam."
+     }
+    },
+    {
+     "question": "{決勝|けっしょう}の {相手|あいて}は どこですか。",
+     "choices": [
+      "オーストラリア",
+      "{台湾|たいわん}",
+      "{韓国|かんこく}"
+     ],
+     "answer": 2,
+     "explain": {
+      "fr": "En finale, le Japon affronte la Corée du Sud.",
+      "en": "In the final, Japan faces South Korea."
+     }
+    }
+   ]
+  },
+  "N3": {
+   "title": "{打線|だせん}が{爆発|ばくはつ}！{侍|さむらい}ジャパン、3{連勝|れんしょう}で{決勝|けっしょう}へ",
+   "paragraphs": [
+    "14日、{東京|とうきょう}ドームで「アジアプロ{野球|やきゅう}チャンピオンシップ2026」の{試合|しあい}が{行|おこな}われ、{日本|にほん}{代表|だいひょう}がオーストラリアに16{対|たい}1で{大勝|たいしょう}しました。この{大会|たいかい}は、24{歳|さい}{以下|いか}かプロ3年目までの{若|わか}い{選手|せんしゅ}を{中心|ちゅうしん}に、{日本|にほん}、{韓国|かんこく}、{台湾|たいわん}、オーストラリアの4チームが{戦|たたか}うものです。",
+    "{日本|にほん}は1回の{攻撃|こうげき}で15人が{打席|だせき}に{立|た}ち、いきなり11{点|てん}を{取|と}りました。{宗山塁|むねやまるい}{選手|せんしゅ}（{楽天|らくてん}）は{満塁|まんるい}ホームランを{打|う}ち、これで3{試合|しあい}{連続|れんぞく}のホームランです。7回が{終|お}わった{時点|じてん}で10{点|てん}{以上|いじょう}の{差|さ}があったため、{試合|しあい}はそこで{終|お}わりました（コールドゲーム）。3{連勝|れんしょう}の{日本|にほん}は、15日の{夜|よる}の{決勝|けっしょう}で{韓国|かんこく}と{対戦|たいせん}し、{大会|たいかい}3{連覇|れんぱ}を{目指|めざ}します。"
+   ],
+   "vocab": [
+    {
+     "word": "{代表|だいひょう}",
+     "meaning": {
+      "fr": "sélection nationale, représentant",
+      "en": "national team, representative"
+     }
+    },
+    {
+     "word": "{大勝|たいしょう}する",
+     "meaning": {
+      "fr": "remporter une large victoire",
+      "en": "to win by a big margin"
+     }
+    },
+    {
+     "word": "{攻撃|こうげき}",
+     "meaning": {
+      "fr": "attaque (tour de batte)",
+      "en": "offense, attack"
+     }
+    },
+    {
+     "word": "{連続|れんぞく}",
+     "meaning": {
+      "fr": "consécutif, d'affilée",
+      "en": "consecutive, in a row"
+     }
+    },
+    {
+     "word": "{差|さ}",
+     "meaning": {
+      "fr": "écart, différence",
+      "en": "difference, gap"
+     }
+    },
+    {
+     "word": "{対戦|たいせん}する",
+     "meaning": {
+      "fr": "affronter",
+      "en": "to play against"
+     }
+    },
+    {
+     "word": "{目指|めざ}す",
+     "meaning": {
+      "fr": "viser",
+      "en": "to aim for"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "この{大会|たいかい}に{出|で}ているのは、どんな{選手|せんしゅ}が{中心|ちゅうしん}ですか。",
+     "choices": [
+      "ベテランの{選手|せんしゅ}",
+      "{若|わか}い{選手|せんしゅ}",
+      "{外国|がいこく}のチームの{選手|せんしゅ}だけ"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Le tournoi réunit surtout de jeunes joueurs (24 ans ou moins, ou 3 premières années pro).",
+      "en": "The tournament is mainly for young players (24 or under, or in their first three pro years)."
+     }
+    },
+    {
+     "question": "{試合|しあい}が7回で{終|お}わったのはなぜですか。",
+     "choices": [
+      "{雨|あめ}が{降|ふ}ったから",
+      "10{点|てん}{以上|いじょう}の{差|さ}があったから",
+      "{選手|せんしゅ}がけがをしたから"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Le match s'arrête après la 7e manche quand l'écart est d'au moins 10 points.",
+      "en": "The game ends after the 7th inning when the gap is 10 runs or more."
+     }
+    },
+    {
+     "question": "{日本|にほん}は{決勝|けっしょう}で{何|なに}を{目指|めざ}しますか。",
+     "choices": [
+      "{初|はつ}{優勝|ゆうしょう}",
+      "3{連覇|れんぱ}",
+      "3{位|い}"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Le Japon vise un troisième titre de suite.",
+      "en": "Japan is aiming for a third straight title."
+     }
+    }
+   ]
+  },
+  "N2": {
+   "title": "{初回|しょかい}11{得点|とくてん}の{猛攻|もうこう}、{侍|さむらい}ジャパンが{無傷|むきず}の3{連勝|れんしょう}で{決勝|けっしょう}へ",
+   "paragraphs": [
+    "{若手|わかて}{主体|しゅたい}の{日本|にほん}{代表|だいひょう}「{侍|さむらい}ジャパン」が14日、{東京|とうきょう}ドームで{行|おこな}われたアジアプロ{野球|やきゅう}チャンピオンシップ2026の1{次|じ}リーグ{最終戦|さいしゅうせん}でオーストラリアを16{対|たい}1で{下|くだ}した。{台湾|たいわん}、{韓国|かんこく}に{続|つづ}く3{連勝|れんしょう}で、15日の{決勝|けっしょう}{進出|しんしゅつ}を{決|き}めた。",
+    "{試合|しあい}は{初回|しょかい}から{一方的|いっぽうてき}な{展開|てんかい}となった。{相手|あいて}の{失策|しっさく}で{先制|せんせい}すると、{連続|れんぞく}{適時打|てきじだ}や{押|お}し{出|だ}しの{四球|しきゅう}で{得点|とくてん}を{重|かさ}ね、{打者|だしゃ}15人で11{点|てん}を{奪|うば}った。{中|なか}でも{宗山塁|むねやまるい}（{楽天|らくてん}）の{満塁|まんるい}{本塁打|ほんるいだ}は、3{試合|しあい}{連続|れんぞく}となる{今|こん}{大会|たいかい}4{本目|ほんめ}だった。{先発|せんぱつ}の{武内夏暉|たけうちなつき}（{西武|せいぶ}）は4回を1{安打|あんだ}1{失点|しってん}に{抑|おさ}え、{試合|しあい}は{大会|たいかい}{規定|きてい}により7回コールドで{終|お}わった。",
+    "{大会|たいかい}は24{歳|さい}{以下|いか}、またはプロ{入|い}り3年{以内|いない}の{選手|せんしゅ}が{中心|ちゅうしん}だ。{井口資仁|いぐちただひと}{監督|かんとく}{率|ひき}いる{日本|にほん}は、15日{夜|よる}の{決勝|けっしょう}で3{大会|たいかい}{連続|れんぞく}となる{韓国|かんこく}との{対戦|たいせん}に{臨|のぞ}み、2017年、2023年に{続|つづ}く3{連覇|れんぱ}を{狙|ねら}う。"
+   ],
+   "vocab": [
+    {
+     "word": "{猛攻|もうこう}",
+     "meaning": {
+      "fr": "assaut, attaque déchaînée",
+      "en": "fierce attack"
+     }
+    },
+    {
+     "word": "{失策|しっさく}",
+     "meaning": {
+      "fr": "erreur (de défense)",
+      "en": "error"
+     }
+    },
+    {
+     "word": "{先制|せんせい}する",
+     "meaning": {
+      "fr": "ouvrir le score",
+      "en": "to score first"
+     }
+    },
+    {
+     "word": "{一方的|いっぽうてき}",
+     "meaning": {
+      "fr": "à sens unique",
+      "en": "one-sided"
+     }
+    },
+    {
+     "word": "{適時打|てきじだ}",
+     "meaning": {
+      "fr": "coup sûr qui fait marquer",
+      "en": "RBI hit"
+     }
+    },
+    {
+     "word": "{抑|おさ}える",
+     "meaning": {
+      "fr": "contenir, limiter",
+      "en": "to hold down"
+     }
+    },
+    {
+     "word": "{臨|のぞ}む",
+     "meaning": {
+      "fr": "aborder, se présenter à",
+      "en": "to face, to take part in"
+     }
+    },
+    {
+     "word": "{狙|ねら}う",
+     "meaning": {
+      "fr": "viser",
+      "en": "to aim at"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "{日本|にほん}の{先制点|せんせいてん}はどのように{生|う}まれたか。",
+     "choices": [
+      "{本塁打|ほんるいだ}",
+      "{相手|あいて}の{失策|しっさく}",
+      "{押|お}し{出|だ}しの{四球|しきゅう}"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Le premier point est venu d'une erreur de la défense australienne.",
+      "en": "The first run came from an Australian fielding error."
+     }
+    },
+    {
+     "question": "{宗山|むねやま}{選手|せんしゅ}の{満塁|まんるい}{本塁打|ほんるいだ}について{正|ただ}しいものはどれか。",
+     "choices": [
+      "{今|こん}{大会|たいかい}{初|はつ}の{本塁打|ほんるいだ}だった",
+      "3{試合|しあい}{連続|れんぞく}の{本塁打|ほんるいだ}だった",
+      "{決勝|けっしょう}で{打|う}った"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "C'était son 4e home run du tournoi, au 3e match de suite.",
+      "en": "It was his 4th homer of the tournament, in a third straight game."
+     }
+    },
+    {
+     "question": "{武内|たけうち}{投手|とうしゅ}の{成績|せいせき}はどれか。",
+     "choices": [
+      "4回1{安打|あんだ}1{失点|しってん}",
+      "7回{無失点|むしってん}",
+      "1回で11{失点|しってん}"
+     ],
+     "answer": 0,
+     "explain": {
+      "fr": "Takeuchi a lancé 4 manches, avec 1 coup sûr et 1 point accordés.",
+      "en": "Takeuchi pitched 4 innings, allowing 1 hit and 1 run."
+     }
+    }
+   ]
+  },
+  "N1": {
+   "title": "{侍|さむらい}ジャパン、{初回|しょかい}11{点|てん}の{猛攻|もうこう}で{豪州|ごうしゅう}を{圧倒|あっとう}　3{連覇|れんぱ}へ{王手|おうて}",
+   "paragraphs": [
+    "{野球|やきゅう}のアジアプロ{野球|やきゅう}チャンピオンシップ2026は14日、{東京|とうきょう}ドームで1{次|じ}リーグ{最終日|さいしゅうび}を{迎|むか}え、{日本|にほん}{代表|だいひょう}はオーストラリアに16{対|たい}1で{七回|ななかい}コールド{勝|が}ちを{収|おさ}めた。{日本|にほん}は1{次|じ}リーグを3{戦|せん}{全勝|ぜんしょう}で{首位|しゅい}{通過|つうか}し、15日の{決勝|けっしょう}で{韓国|かんこく}と{相|あい}まみえる。",
+    "{日本|にほん}は{初回|しょかい}、{相手|あいて}{三塁手|さんるいしゅ}の{失策|しっさく}を{足掛|あしが}かりに{先制|せんせい}すると、{適時打|てきじだ}と{押|お}し{出|だ}しの{四球|しきゅう}を{畳|たた}み{掛|か}け、{打者|だしゃ}{一巡|いちじゅん}の{猛攻|もうこう}で{一挙|いっきょ}11{点|てん}を{挙|あ}げた。とどめを{刺|さ}したのは{宗山塁|むねやまるい}（{楽天|らくてん}）で、{右中間|うちゅうかん}スタンドへ{運|はこ}ぶ{満塁|まんるい}{本塁打|ほんるいだ}は3{試合|しあい}{連続|れんぞく}、{今|こん}{大会|たいかい}4{本目|ほんめ}。{二回|にかい}には{正木智也|まさきともや}（ソフトバンク）、{三回|さんかい}には{渡部聖弥|わたべせいや}（{西武|せいぶ}）がそれぞれ2{点|てん}{本塁打|ほんるいだ}を{放|はな}ち、{攻撃|こうげき}の{手|て}を{緩|ゆる}めなかった。",
+    "{投|な}げては{先発|せんぱつ}の{武内夏暉|たけうちなつき}（{西武|せいぶ}）が{四回|よんかい}にソロ{本塁打|ほんるいだ}を{許|ゆる}したのみで、4回1{安打|あんだ}1{失点|しってん}と{試合|しあい}をつくった。{以降|いこう}は{継投|けいとう}で{無失点|むしってん}に{封|ふう}じ、{大会|たいかい}{規定|きてい}（{七回|ななかい}{終了|しゅうりょう}{時点|じてん}で10{点|てん}{差|さ}{以上|いじょう}）によりコールドゲームが{成立|せいりつ}した。{東京|とうきょう}ドームには3{万|まん}3711人の{観衆|かんしゅう}が{詰|つ}めかけた。",
+    "{同|どう}{大会|たいかい}は24{歳|さい}{以下|いか}またはプロ{入|い}り3年{以内|いない}の{若手|わかて}を{主体|しゅたい}とする{国際|こくさい}{大会|たいかい}で、{日本|にほん}は2017年、2023年と{連覇|れんぱ}している。{韓国|かんこく}はこの日、{台湾|たいわん}を6{対|たい}4で{破|やぶ}り、3チームが1{勝|しょう}2{敗|はい}で{並|なら}ぶ{中|なか}、{得失点率差|とくしってんりつさ}で{決勝|けっしょう}{進出|しんしゅつ}を{決|き}めた。{日韓|にっかん}による{決勝|けっしょう}は3{大会|たいかい}{連続|れんぞく}となる。"
+   ],
+   "vocab": [
+    {
+     "word": "{圧倒|あっとう}する",
+     "meaning": {
+      "fr": "écraser, dominer",
+      "en": "to overwhelm"
+     }
+    },
+    {
+     "word": "{王手|おうて}",
+     "meaning": {
+      "fr": "être à un pas du but (échec au roi)",
+      "en": "one step from victory (check in shogi)"
+     }
+    },
+    {
+     "word": "{足掛|あしが}かり",
+     "meaning": {
+      "fr": "point d'appui, tremplin",
+      "en": "foothold, stepping stone"
+     }
+    },
+    {
+     "word": "{畳|たた}み{掛|か}ける",
+     "meaning": {
+      "fr": "enchaîner sans répit",
+      "en": "to follow up relentlessly"
+     }
+    },
+    {
+     "word": "{一挙|いっきょ}に",
+     "meaning": {
+      "fr": "d'un seul coup",
+      "en": "all at once"
+     }
+    },
+    {
+     "word": "{緩|ゆる}める",
+     "meaning": {
+      "fr": "relâcher",
+      "en": "to loosen, to ease"
+     }
+    },
+    {
+     "word": "{封|ふう}じる",
+     "meaning": {
+      "fr": "museler, neutraliser",
+      "en": "to shut down, to seal"
+     }
+    },
+    {
+     "word": "{相|あい}まみえる",
+     "meaning": {
+      "fr": "se rencontrer, s'affronter",
+      "en": "to face each other"
+     }
+    }
+   ],
+   "quiz": [
+    {
+     "question": "{日本|にほん}が{初回|しょかい}に{挙|あ}げた{得点|とくてん}の{契機|けいき}となったのは{何|なに}か。",
+     "choices": [
+      "{相手|あいて}{三塁手|さんるいしゅ}の{失策|しっさく}",
+      "{宗山|むねやま}の{満塁|まんるい}{本塁打|ほんるいだ}",
+      "{正木|まさき}の2{点|てん}{本塁打|ほんるいだ}"
+     ],
+     "answer": 0,
+     "explain": {
+      "fr": "Tout est parti d'une erreur du joueur de troisième base australien.",
+      "en": "It all started with an error by Australia's third baseman."
+     }
+    },
+    {
+     "question": "コールドゲームが{成立|せいりつ}した{条件|じょうけん}はどれか。",
+     "choices": [
+      "{五回|ごかい}{終了|しゅうりょう}{時点|じてん}で5{点|てん}{差|さ}{以上|いじょう}",
+      "{七回|ななかい}{終了|しゅうりょう}{時点|じてん}で10{点|てん}{差|さ}{以上|いじょう}",
+      "{九回|きゅうかい}{終了|しゅうりょう}{時点|じてん}で15{点|てん}{差|さ}{以上|いじょう}"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Le règlement arrête le match si l'écart est d'au moins 10 points après la 7e manche.",
+      "en": "The rules stop the game if the lead is 10 runs or more after the 7th inning."
+     }
+    },
+    {
+     "question": "{韓国|かんこく}が{決勝|けっしょう}{進出|しんしゅつ}を{決|き}めた{理由|りゆう}として{正|ただ}しいものはどれか。",
+     "choices": [
+      "{全勝|ぜんしょう}したため",
+      "{得失点率差|とくしってんりつさ}で{上回|うわまわ}ったため",
+      "{抽選|ちゅうせん}に{勝|か}ったため"
+     ],
+     "answer": 1,
+     "explain": {
+      "fr": "Trois équipes étaient à égalité (1 victoire, 2 défaites) : la Corée passe grâce au meilleur ratio points marqués / encaissés.",
+      "en": "Three teams were tied at 1-2; Korea advanced on the run-rate tiebreaker."
+     }
+    }
+   ]
+  }
+ }
+}
