@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "date": "2026-11-18",
+      "title": "Un cerf en balade dans les rues de Tokyo !",
+      "category": "insolite",
+      "cover": "cover.webp"
+    },
+    {
       "date": "2026-11-15",
       "title": "Baseball : 11 points en une seule manche, le Japon file en finale !",
       "category": "sport",

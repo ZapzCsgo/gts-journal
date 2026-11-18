@@ -1,0 +1,234 @@
+{
+  "date": "2026-11-18",
+  "newsDate": "2026-11-17",
+  "category": "insolite",
+  "title": "Un cerf en balade dans les rues de Tokyo !",
+  "summary": {
+    "fr": "Mardi 17 novembre, un cerf sauvage s'est promené pendant près de 8 heures dans un quartier résidentiel de Katsushika, à Tokyo, en grignotant l'herbe au passage. Personne n'a été blessé : l'animal a été endormi dans un jardin potager puis mis à l'abri, et la mairie cherche maintenant un zoo pour l'accueillir.",
+    "en": "On Tuesday, November 17, a wild deer wandered for almost 8 hours through a residential area of Katsushika, Tokyo, nibbling grass along the way. Nobody was hurt: the animal was tranquilized in a community farm and taken into care, and the ward is now looking for a zoo to take it in."
+  },
+  "sources": [
+    {
+      "name": "Asahi Shimbun, 17 novembre 2026 (japonais)",
+      "url": "https://www.asahi.com/sp/articles/ASVCK25VLVCKUTIL01LM.html"
+    },
+    {
+      "name": "Yomiuri Shimbun, 17 novembre 2026 (japonais)",
+      "url": "https://www.yomiuri.co.jp/national/20261117-GYT1T00348/"
+    },
+    {
+      "name": "TBS NEWS DIG, 17 novembre 2026 (japonais)",
+      "url": "https://newsdig.tbs.co.jp/articles/-/3091766"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "Un cerf sika au pelage brun clair tacheté, couché au repos à Nara",
+      "caption": "Un cerf sika (ニホンジカ), la même espèce que le visiteur de Katsushika (photo prise à Nara en août 2024).",
+      "credit": "Photo : Jakub Hałun / CC BY 4.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Sika_Deer_in_Nara,_Japan,_20240819_1546_4782.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sika_Deer_in_Nara%2C_Japan%2C_20240819_1546_4782.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "Jakub Hałun",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "{東京|とうきょう}の まちに シカが きました！",
+      "paragraphs": [
+        "11{月|がつ}17{日|にち}の {朝|あさ}、{東京|とうきょう}の かつしかくに シカが いました。",
+        "シカは みちを {歩|ある}きました。",
+        "そして、くさを {食|た}べました。",
+        "ごご 3じごろ、ひとが シカを つかまえました。",
+        "けがを した ひとは いませんでした。"
+      ],
+      "vocab": [
+        { "word": "シカ", "meaning": { "fr": "cerf, biche", "en": "deer" } },
+        { "word": "まち", "meaning": { "fr": "ville, quartier", "en": "town" } },
+        { "word": "みち", "meaning": { "fr": "rue, chemin", "en": "street, road" } },
+        { "word": "{歩|ある}く", "meaning": { "fr": "marcher", "en": "to walk" } },
+        { "word": "くさ", "meaning": { "fr": "herbe", "en": "grass" } },
+        { "word": "つかまえる", "meaning": { "fr": "attraper", "en": "to catch" } }
+      ],
+      "quiz": [
+        {
+          "question": "シカは どこに いましたか。",
+          "choices": ["おおさか", "なら", "{東京|とうきょう}"],
+          "answer": 2,
+          "explain": { "fr": "Le cerf se promenait à Tokyo, dans l'arrondissement de Katsushika.", "en": "The deer was in Katsushika, Tokyo." }
+        },
+        {
+          "question": "シカは なにを {食|た}べましたか。",
+          "choices": ["くさ", "パン", "さかな"],
+          "answer": 0,
+          "explain": { "fr": "Il a mangé de l'herbe.", "en": "It ate grass." }
+        },
+        {
+          "question": "けがを した ひとは いましたか。",
+          "choices": ["はい、ひとり いました", "いいえ、いませんでした", "はい、たくさん いました"],
+          "answer": 1,
+          "explain": { "fr": "Personne n'a été blessé.", "en": "Nobody was hurt." }
+        }
+      ]
+    },
+    "N4": {
+      "title": "{東京|とうきょう}の {住宅街|じゅうたくがい}に シカが {現|あらわ}れた！",
+      "paragraphs": [
+        "11{月|がつ}17{日|にち}の {朝|あさ}7{時|じ}ごろ、{東京|とうきょう}の {葛飾区|かつしかく}で、{自転車|じてんしゃ}に {乗|の}っていた {警察官|けいさつかん}が {公園|こうえん}の {近|ちか}くで シカを {見|み}つけました。",
+        "オスの シカで、{角|つの}が {一本|いっぽん}しか ありませんでした。",
+        "シカは {町|まち}の {中|なか}を {歩|ある}きながら、アパートの {草|くさ}を {食|た}べました。",
+        "そのあと、600メートルぐらい {南|みなみ}に ある {畑|はたけ}に {入|はい}りました。",
+        "{警察|けいさつ}は シカが {逃|に}げないように、{畑|はたけ}の {入|い}り{口|ぐち}を パトカーで {止|と}めました。",
+        "{午後|ごご}3{時|じ}ごろ、{専門|せんもん}の {人|ひと}が {眠|ねむ}くなる {薬|くすり}を {使|つか}って、シカを {捕|つか}まえました。",
+        "{近|ちか}くに {小学校|しょうがっこう}が ありましたが、けがを した {人|ひと}は いませんでした。"
+      ],
+      "vocab": [
+        { "word": "{住宅街|じゅうたくがい}", "meaning": { "fr": "quartier résidentiel", "en": "residential area" } },
+        { "word": "{警察官|けいさつかん}", "meaning": { "fr": "policier", "en": "police officer" } },
+        { "word": "{見|み}つける", "meaning": { "fr": "trouver, repérer", "en": "to find, to spot" } },
+        { "word": "{角|つの}", "meaning": { "fr": "bois (de cerf), corne", "en": "antler, horn" } },
+        { "word": "{畑|はたけ}", "meaning": { "fr": "champ, potager", "en": "field, farm plot" } },
+        { "word": "{逃|に}げる", "meaning": { "fr": "s'enfuir", "en": "to run away" } },
+        { "word": "{入|い}り{口|ぐち}", "meaning": { "fr": "entrée", "en": "entrance" } }
+      ],
+      "quiz": [
+        {
+          "question": "{最初|さいしょ}に シカを {見|み}つけたのは だれですか。",
+          "choices": ["{小学生|しょうがくせい}", "{警察官|けいさつかん}", "{動物園|どうぶつえん}の {人|ひと}"],
+          "answer": 1,
+          "explain": { "fr": "C'est un policier à vélo qui a repéré le cerf près d'un parc.", "en": "A police officer on a bicycle spotted the deer near a park." }
+        },
+        {
+          "question": "{警察|けいさつ}は {畑|はたけ}の {入|い}り{口|ぐち}を {何|なに}で {止|と}めましたか。",
+          "choices": ["パトカー", "{自転車|じてんしゃ}", "ロープ"],
+          "answer": 0,
+          "explain": { "fr": "La police a bloqué l'entrée avec des voitures de patrouille.", "en": "The police blocked the entrance with patrol cars." }
+        },
+        {
+          "question": "シカは {何時|なんじ}ごろ {捕|つか}まりましたか。",
+          "choices": ["{朝|あさ}7{時|じ}ごろ", "{昼|ひる}12{時|じ}ごろ", "{午後|ごご}3{時|じ}ごろ"],
+          "answer": 2,
+          "explain": { "fr": "Le cerf a été attrapé vers 15 h.", "en": "The deer was caught around 3 p.m." }
+        }
+      ]
+    },
+    "N3": {
+      "title": "{葛飾区|かつしかく}の{住宅街|じゅうたくがい}にシカ　8{時間|じかん}の{散歩|さんぽ}のあと{捕獲|ほかく}",
+      "paragraphs": [
+        "17{日|にち}{午前|ごぜん}7{時|じ}ごろ、{東京都|とうきょうと}{葛飾区|かつしかく}{高砂|たかさご}の{住宅街|じゅうたくがい}で、オスのシカ1{頭|とう}が{道|みち}を{歩|ある}いているのが{見|み}つかった。シカは{都営|とえい}アパートの{草|くさ}を{食|た}べたりしながら{南|みなみ}へ{移動|いどう}し、{区民|くみん}{農園|のうえん}に{入|はい}った。{警察|けいさつ}はシカが{逃|に}げないように、パトカーで{農園|のうえん}の{入|い}り{口|ぐち}をふさいだ。",
+        "{区|く}に{頼|たの}まれた{専門|せんもん}の{業者|ぎょうしゃ}が{麻酔銃|ますいじゅう}を{使|つか}い、{午後|ごご}3{時|じ}ごろ、ようやくシカを{捕|つか}まえた。{近|ちか}くには{小学校|しょうがっこう}があり、{子|こ}どもたちは{集|あつ}まって{帰|かえ}るように{言|い}われたが、けが{人|にん}は{出|で}なかった。50{年|ねん}{住|す}んでいるという{男性|だんせい}は「シカを{見|み}るのは{初|はじ}めてで{驚|おどろ}いた」と{話|はな}している。"
+      ],
+      "vocab": [
+        { "word": "{移動|いどう}する", "meaning": { "fr": "se déplacer", "en": "to move" } },
+        { "word": "{農園|のうえん}", "meaning": { "fr": "jardin potager, ferme", "en": "farm, garden plot" } },
+        { "word": "ふさぐ", "meaning": { "fr": "bloquer, boucher", "en": "to block" } },
+        { "word": "{業者|ぎょうしゃ}", "meaning": { "fr": "prestataire, entreprise spécialisée", "en": "contractor" } },
+        { "word": "{麻酔銃|ますいじゅう}", "meaning": { "fr": "fusil hypodermique (anesthésiant)", "en": "tranquilizer gun" } },
+        { "word": "ようやく", "meaning": { "fr": "enfin, finalement", "en": "finally, at last" } },
+        { "word": "{驚|おどろ}く", "meaning": { "fr": "être surpris", "en": "to be surprised" } }
+      ],
+      "quiz": [
+        {
+          "question": "シカは{住宅街|じゅうたくがい}で{何|なに}をしていましたか。",
+          "choices": ["{池|いけ}で{泳|およ}いでいた", "{草|くさ}を{食|た}べながら{歩|ある}いていた", "{駅|えき}で{寝|ね}ていた"],
+          "answer": 1,
+          "explain": { "fr": "Le cerf marchait en mangeant l'herbe d'une résidence municipale.", "en": "The deer walked around eating grass at a public apartment complex." }
+        },
+        {
+          "question": "シカを{捕|つか}まえるために{何|なに}が{使|つか}われましたか。",
+          "choices": ["{麻酔銃|ますいじゅう}", "{大|おお}きな{網|あみ}だけ", "{食|た}べ{物|もの}のわな"],
+          "answer": 0,
+          "explain": { "fr": "Un spécialiste a utilisé un fusil anesthésiant.", "en": "A specialist used a tranquilizer gun." }
+        },
+        {
+          "question": "{小学校|しょうがっこう}の{子|こ}どもたちはどう{言|い}われましたか。",
+          "choices": ["{学校|がっこう}に{泊|と}まるように", "シカの{写真|しゃしん}を{撮|と}るように", "{集|あつ}まって{帰|かえ}るように"],
+          "answer": 2,
+          "explain": { "fr": "On leur a demandé de rentrer en groupe.", "en": "They were told to walk home in groups." }
+        }
+      ]
+    },
+    "N2": {
+      "title": "{都心|としん}に{近|ちか}い{住宅街|じゅうたくがい}に{野生|やせい}のシカ　{区|く}は{受|う}け{入|い}れ{先|さき}を{模索|もさく}",
+      "paragraphs": [
+        "17{日|にち}{朝|あさ}、{東京都|とうきょうと}{葛飾区|かつしかく}の{住宅街|じゅうたくがい}に{野生|やせい}のシカが{現|あらわ}れ、{騒|さわ}ぎとなった。{警視庁|けいしちょう}によると、{午前|ごぜん}7{時|じ}ごろ、{自転車|じてんしゃ}で{巡回|じゅんかい}していた{警察官|けいさつかん}が{高砂|たかさご}4{丁目|ちょうめ}の{公園|こうえん}{付近|ふきん}でオスのシカを{発見|はっけん}した。{角|つの}が{片方|かたほう}しかない{成獣|せいじゅう}とみられる。",
+        "シカは{草|くさ}を{食|た}べながら{南|みなみ}へ{約|やく}600メートル{移動|いどう}し、{区民|くみん}{農園|のうえん}に{入|はい}り{込|こ}んだ。{警察|けいさつ}がパトカーで{入|い}り{口|ぐち}をふさいで{包囲|ほうい}し、{区|く}の{要請|ようせい}を{受|う}けた{専門|せんもん}{業者|ぎょうしゃ}が{麻酔銃|ますいじゅう}を{命中|めいちゅう}させて、{午後|ごご}3{時|じ}ごろに{捕獲|ほかく}した。{発見|はっけん}から{捕獲|ほかく}まで、{実|じつ}に8{時間|じかん}{近|ちか}くかかったことになる。",
+        "{発見|はっけん}が{登校|とうこう}{時間|じかん}と{重|かさ}なったため、{区|く}や{警察|けいさつ}は{住民|じゅうみん}に{注意|ちゅうい}を{呼|よ}びかけるメールを{送|おく}ったが、{人|ひと}への{被害|ひがい}はなかった。{区|く}は「{山|やま}に{放|はな}しても{再|ふたた}び{人里|ひとざと}に{来|く}る{可能性|かのうせい}が{高|たか}い」として、{動物園|どうぶつえん}など{受|う}け{入|い}れてくれる{施設|しせつ}を{探|さが}している。{今月|こんげつ}は{隣|となり}の{千葉県|ちばけん}{松戸市|まつどし}でもシカが{目撃|もくげき}されていた。"
+      ],
+      "vocab": [
+        { "word": "{野生|やせい}", "meaning": { "fr": "sauvage", "en": "wild" } },
+        { "word": "{騒|さわ}ぎ", "meaning": { "fr": "agitation, remue-ménage", "en": "commotion, fuss" } },
+        { "word": "{包囲|ほうい}する", "meaning": { "fr": "encercler", "en": "to surround" } },
+        { "word": "{要請|ようせい}", "meaning": { "fr": "demande officielle", "en": "official request" } },
+        { "word": "{捕獲|ほかく}", "meaning": { "fr": "capture", "en": "capture" } },
+        { "word": "{人里|ひとざと}", "meaning": { "fr": "lieux habités par l'homme", "en": "human settlement" } },
+        { "word": "{目撃|もくげき}する", "meaning": { "fr": "apercevoir, être témoin", "en": "to witness, to sight" } },
+        { "word": "{受|う}け{入|い}れ{先|さき}", "meaning": { "fr": "structure d'accueil", "en": "place to take someone in" } }
+      ],
+      "quiz": [
+        {
+          "question": "{発見|はっけん}されたシカには、どんな{特徴|とくちょう}がありましたか。",
+          "choices": ["{角|つの}が{片方|かたほう}しかなかった", "{体|からだ}が{白|しろ}かった", "まだ{子|こ}どもだった"],
+          "answer": 0,
+          "explain": { "fr": "C'était un mâle adulte avec un seul bois.", "en": "It was an adult male with only one antler." }
+        },
+        {
+          "question": "{区|く}がシカを{山|やま}に{放|はな}さない{理由|りゆう}は{何|なん}ですか。",
+          "choices": ["{山|やま}が{遠|とお}すぎるから", "また{人里|ひとざと}に{戻|もど}ってくるかもしれないから", "シカが{病気|びょうき}だから"],
+          "answer": 1,
+          "explain": { "fr": "Un cerf qui a découvert la ville risque d'y revenir, donc la mairie cherche un zoo.", "en": "A deer that has come to town is likely to return, so the ward is looking for a zoo." }
+        },
+        {
+          "question": "{今月|こんげつ}、ほかにどこでシカが{目撃|もくげき}されましたか。",
+          "choices": ["{奈良市|ならし}", "{横浜市|よこはまし}", "{千葉県|ちばけん}{松戸市|まつどし}"],
+          "answer": 2,
+          "explain": { "fr": "Un cerf avait aussi été vu ce mois-ci à Matsudo, dans le Chiba voisin.", "en": "A deer had also been sighted this month in neighboring Matsudo, Chiba." }
+        }
+      ]
+    },
+    "N1": {
+      "title": "{葛飾|かつしか}の{住宅街|じゅうたくがい}に{迷|まよ}いジカ　8{時間|じかん}{近|ちか}く{徘徊|はいかい}、{麻酔銃|ますいじゅう}で{捕獲|ほかく}",
+      "paragraphs": [
+        "17{日|にち}{午前|ごぜん}7{時|じ}ごろ、{東京都|とうきょうと}{葛飾区|かつしかく}{高砂|たかさご}の{住宅街|じゅうたくがい}で、{公務|こうむ}{中|ちゅう}に{自転車|じてんしゃ}で{移動|いどう}していた{警察官|けいさつかん}が、{公園|こうえん}{付近|ふきん}にいるオスのシカ1{頭|とう}を{発見|はっけん}した。シカは{片角|かたづの}の{成獣|せいじゅう}とみられ、{都営|とえい}アパートの{敷地|しきち}に{生|は}えた{草|くさ}を{食|は}みつつ{南下|なんか}、{約|やく}600メートル{離|はな}れた{区民|くみん}{農園|のうえん}に{入|はい}り{込|こ}んだ。",
+        "{警視庁|けいしちょう}{葛飾署|かつしかしょ}はパトカーで{農園|のうえん}の{出入|でい}り{口|ぐち}を{封鎖|ふうさ}して{包囲|ほうい}。{区|く}の{要請|ようせい}を{受|う}けて{出動|しゅつどう}した{専門|せんもん}{業者|ぎょうしゃ}が{麻酔銃|ますいじゅう}を{命中|めいちゅう}させ、{午後|ごご}3{時|じ}ごろ{捕獲|ほかく}に{至|いた}った。{発見|はっけん}が{児童|じどう}の{登校|とうこう}{時間|じかん}と{重|かさ}なったことから、{区|く}と{警察|けいさつ}は{近隣|きんりん}{住民|じゅうみん}に{注意|ちゅうい}{喚起|かんき}のメールを{配信|はいしん}し、{近隣|きんりん}の{小学校|しょうがっこう}は{集団|しゅうだん}での{下校|げこう}を{指示|しじ}したが、{人的|じんてき}{被害|ひがい}は{確認|かくにん}されていない。",
+        "{捕獲|ほかく}されたシカは{業者|ぎょうしゃ}が{保護|ほご}している。{区|く}の{担当者|たんとうしゃ}は「{一度|いちど}{人里|ひとざと}に{下|お}りてきたシカは{再|ふたた}び{戻|もど}ってくるケースが{多|おお}い」として、{野山|のやま}には{放|はな}たず、{動物園|どうぶつえん}などの{受|う}け{入|い}れ{施設|しせつ}を{探|さが}す{方針|ほうしん}だ。{今月|こんげつ}は{隣接|りんせつ}する{千葉県|ちばけん}{松戸市|まつどし}でもシカの{目撃|もくげき}{情報|じょうほう}が{寄|よ}せられていた。",
+        "{現場|げんば}{近|ちか}くに50{年|ねん}{住|す}むという82{歳|さい}の{男性|だんせい}は「シカを{見|み}るのは{初|はじ}めて。どこから{迷|まよ}い{込|こ}んできたのか{不思議|ふしぎ}だ」と{首|くび}をかしげた。{都市部|としぶ}と{野生|やせい}{動物|どうぶつ}の{距離|きょり}が{縮|ちぢ}まりつつある{現状|げんじょう}を、{改|あらた}めて{印象|いんしょう}づける{一幕|ひとまく}となった。"
+      ],
+      "vocab": [
+        { "word": "{徘徊|はいかい}する", "meaning": { "fr": "errer, rôder", "en": "to wander about" } },
+        { "word": "{南下|なんか}する", "meaning": { "fr": "descendre vers le sud", "en": "to head south" } },
+        { "word": "{封鎖|ふうさ}する", "meaning": { "fr": "bloquer, boucler", "en": "to seal off" } },
+        { "word": "{至|いた}る", "meaning": { "fr": "aboutir à, en arriver à", "en": "to reach, to result in" } },
+        { "word": "{注意|ちゅうい}{喚起|かんき}", "meaning": { "fr": "appel à la vigilance", "en": "call for caution" } },
+        { "word": "{人的|じんてき}{被害|ひがい}", "meaning": { "fr": "victimes, dommages humains", "en": "human casualties" } },
+        { "word": "{方針|ほうしん}", "meaning": { "fr": "ligne de conduite, orientation", "en": "policy, course of action" } },
+        { "word": "{一幕|ひとまく}", "meaning": { "fr": "épisode, scène", "en": "episode, scene" } }
+      ],
+      "quiz": [
+        {
+          "question": "シカが{入|はい}り{込|こ}んだ{農園|のうえん}で、{警察|けいさつ}はまず{何|なに}をしたか。",
+          "choices": ["パトカーで{出入|でい}り{口|ぐち}を{封鎖|ふうさ}した", "{住民|じゅうみん}を{避難|ひなん}させた", "{自|みずか}ら{麻酔銃|ますいじゅう}を{撃|う}った"],
+          "answer": 0,
+          "explain": { "fr": "La police a bouclé les entrées du potager avec des voitures; c'est un spécialiste qui a tiré la fléchette.", "en": "The police sealed the entrances with patrol cars; a specialist fired the dart." }
+        },
+        {
+          "question": "{区|く}が{動物園|どうぶつえん}などの{施設|しせつ}を{探|さが}している{理由|りゆう}として、{本文|ほんぶん}に{合|あ}うものはどれか。",
+          "choices": ["シカが{珍|めずら}しい{品種|ひんしゅ}だったため", "{野山|のやま}に{放|はな}しても{再|ふたた}び{人里|ひとざと}に{戻|もど}る{恐|おそ}れがあるため", "{業者|ぎょうしゃ}が{保護|ほご}を{断|ことわ}ったため"],
+          "answer": 1,
+          "explain": { "fr": "Selon la mairie, un cerf qui est descendu une fois en ville revient souvent.", "en": "According to the ward, a deer that has come down to town once often comes back." }
+        },
+        {
+          "question": "{最後|さいご}の{段落|だんらく}で{筆者|ひっしゃ}が{示唆|しさ}していることは{何|なに}か。",
+          "choices": ["シカの{数|かず}が{全国|ぜんこく}で{減|へ}っていること", "{東京|とうきょう}の{公園|こうえん}が{狭|せま}すぎること", "{都市|とし}と{野生|やせい}{動物|どうぶつ}の{距離|きょり}が{近|ちか}づいていること"],
+          "answer": 2,
+          "explain": { "fr": "L'article conclut que la ville et les animaux sauvages se rapprochent.", "en": "The article concludes that cities and wildlife are getting closer." }
+        }
+      ]
+    }
+  }
+}

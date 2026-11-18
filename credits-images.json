@@ -2,6 +2,18 @@
   "_note": "Registre des photos du Journal : une entrée par image non créée par nous (origine, auteur, licence). Le plus récent en premier. Ajouter en tête, ne jamais supprimer.",
   "images": [
     {
+      "date": "2026-11-18",
+      "file": "cover.webp",
+      "credit": "Photo : Jakub Hałun / CC BY 4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sika_Deer_in_Nara,_Japan,_20240819_1546_4782.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Sika_Deer_in_Nara%2C_Japan%2C_20240819_1546_4782.jpg",
+      "origin": "Wikimedia Commons",
+      "author": "Jakub Hałun",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
       "date": "2026-11-15",
       "file": "cover.webp",
       "credit": "Photo : Chi-Hung Lin / CC BY-SA 2.0",
