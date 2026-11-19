@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "date": "2026-11-19",
+      "title": "Un portable sans internet ? Le légendaire INFOBAR fait son grand retour !",
+      "category": "tech",
+      "cover": "cover.webp"
+    },
+    {
       "date": "2026-11-18",
       "title": "Un cerf en balade dans les rues de Tokyo !",
       "category": "insolite",

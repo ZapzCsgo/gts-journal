@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-19",
+  "newsDate": "2026-11-18",
+  "category": "tech",
+  "title": "Un portable sans internet ? Le légendaire INFOBAR fait son grand retour !",
+  "summary": {
+    "fr": "Mercredi 18 novembre, l'opérateur KDDI a présenté l'INFOBAR ZERO, un téléphone qui ne se connecte pas à internet : appels, SMS, appareil photo et musique, et c'est tout. Il sortira le 25 décembre à 32 780 yens, pour ceux qui veulent souffler un peu loin des notifications.",
+    "en": "On Wednesday, November 18, the carrier KDDI unveiled the INFOBAR ZERO, a phone that does not connect to the internet: calls, text messages, a camera and music, nothing more. It goes on sale on December 25 for 32,780 yen, for people who want a break from notifications."
+  },
+  "sources": [
+    {
+      "name": "KDDI News Room, communiqué du 18 novembre 2026 (japonais)",
+      "url": "https://newsroom.kddi.com/news/detail/kddi_nr-1245_4832.html"
+    },
+    {
+      "name": "TBS NEWS DIG, 18 novembre 2026 (japonais)",
+      "url": "https://newsdig.tbs.co.jp/articles/-/3095365"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "Le premier INFOBAR de 2003, coloris NISHIKIGOI, un téléphone tout plat aux grosses touches carrées, posé en biais sur une table",
+      "caption": "L'INFOBAR d'origine (2003), coloris NISHIKIGOI, que reprend le nouveau modèle.",
+      "credit": "Photo : SuFlyer / CC0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:KDDI_au_INFOBAR_A5307ST_NISHIKIGOI.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/KDDI_au_INFOBAR_A5307ST_NISHIKIGOI.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "SuFlyer",
+        "license": "CC0",
+        "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "インターネットが ない {電話|でんわ}！",
+      "paragraphs": [
+        "KDDIと いう {会社|かいしゃ}が、{新|あたら}しい {電話|でんわ}を つくりました。",
+        "{名前|なまえ}は「INFOBAR ZERO」です。",
+        "この {電話|でんわ}で インターネットは できません。",
+        "でも、{電話|でんわ}を かけたり、しゃしんを とったり できます。",
+        "12{月|がつ}25{日|にち}に みせで うります。"
+      ],
+      "vocab": [
+        { "word": "{電話|でんわ}", "meaning": { "fr": "téléphone", "en": "telephone" } },
+        { "word": "{会社|かいしゃ}", "meaning": { "fr": "entreprise", "en": "company" } },
+        { "word": "{新|あたら}しい", "meaning": { "fr": "nouveau", "en": "new" } },
+        { "word": "{名前|なまえ}", "meaning": { "fr": "nom", "en": "name" } },
+        { "word": "しゃしん", "meaning": { "fr": "photo", "en": "photo" } },
+        { "word": "みせ", "meaning": { "fr": "magasin", "en": "shop" } }
+      ],
+      "quiz": [
+        {
+          "question": "この {電話|でんわ}で なにが できませんか。",
+          "choices": ["インターネット", "{電話|でんわ}", "しゃしん"],
+          "answer": 0,
+          "explain": { "fr": "Ce téléphone ne va pas sur internet.", "en": "This phone cannot go on the internet." }
+        },
+        {
+          "question": "{電話|でんわ}の {名前|なまえ}は なんですか。",
+          "choices": ["INFOBAR ZERO", "INFOBAR ONE", "au PHONE"],
+          "answer": 0,
+          "explain": { "fr": "Il s'appelle INFOBAR ZERO.", "en": "It is called INFOBAR ZERO." }
+        },
+        {
+          "question": "いつ みせで うりますか。",
+          "choices": ["11{月|がつ}18{日|にち}", "12{月|がつ}25{日|にち}", "1{月|がつ}1{日|にち}"],
+          "answer": 1,
+          "explain": { "fr": "Il sera en vente le 25 décembre.", "en": "It goes on sale on December 25." }
+        }
+      ]
+    },
+    "N4": {
+      "title": "インターネットに つながらない {携帯電話|けいたいでんわ}が {出|で}る！",
+      "paragraphs": [
+        "11{月|がつ}18{日|にち}、KDDIが インターネットに つながらない {携帯電話|けいたいでんわ}「INFOBAR ZERO」を {発表|はっぴょう}しました。",
+        "{使|つか}えるのは、{電話|でんわ}と {短|みじか}い メッセージ（SMS）が {中心|ちゅうしん}です。",
+        "SNSも ウェブサイトも {見|み}ることが できません。",
+        "でも、カメラで {写真|しゃしん}を {撮|と}ったり、{音楽|おんがく}を {聞|き}いたり することは できます。",
+        "スマホの {通知|つうち}に {疲|つか}れた {人|ひと}のために {作|つく}られたそうです。",
+        "{値段|ねだん}は 3{万|まん}2780{円|えん}で、12{月|がつ}25{日|にち}に {売|う}り{出|だ}されます。"
+      ],
+      "vocab": [
+        { "word": "{携帯電話|けいたいでんわ}", "meaning": { "fr": "téléphone portable", "en": "mobile phone" } },
+        { "word": "{発表|はっぴょう}する", "meaning": { "fr": "annoncer, présenter", "en": "to announce" } },
+        { "word": "{写真|しゃしん}を {撮|と}る", "meaning": { "fr": "prendre une photo", "en": "to take a photo" } },
+        { "word": "{音楽|おんがく}", "meaning": { "fr": "musique", "en": "music" } },
+        { "word": "{通知|つうち}", "meaning": { "fr": "notification", "en": "notification" } },
+        { "word": "{疲|つか}れる", "meaning": { "fr": "être fatigué", "en": "to get tired" } },
+        { "word": "{値段|ねだん}", "meaning": { "fr": "prix", "en": "price" } }
+      ],
+      "quiz": [
+        {
+          "question": "INFOBAR ZEROで できない ことは どれですか。",
+          "choices": ["{写真|しゃしん}を {撮|と}ること", "SNSを {見|み}ること", "{電話|でんわ}を かけること"],
+          "answer": 1,
+          "explain": { "fr": "On ne peut pas aller sur les réseaux sociaux avec ce téléphone.", "en": "You cannot use social media on this phone." }
+        },
+        {
+          "question": "{値段|ねだん}は いくらですか。",
+          "choices": ["3{万|まん}2780{円|えん}", "2{万|まん}3780{円|えん}", "13{万|まん}{円|えん}"],
+          "answer": 0,
+          "explain": { "fr": "Il coûte 32 780 yens.", "en": "It costs 32,780 yen." }
+        },
+        {
+          "question": "だれの ために {作|つく}られましたか。",
+          "choices": ["ゲームが {好|す}きな {人|ひと}", "{通知|つうち}に {疲|つか}れた {人|ひと}", "{子|こ}どもだけ"],
+          "answer": 1,
+          "explain": { "fr": "Il vise les gens fatigués des notifications du smartphone.", "en": "It is aimed at people tired of smartphone notifications." }
+        }
+      ]
+    },
+    "N3": {
+      "title": "あのINFOBARが{復活|ふっかつ}、でもネットは{使|つか}えない！",
+      "paragraphs": [
+        "KDDIは11{月|がつ}18{日|にち}、インターネットに{接続|せつぞく}できない{携帯電話|けいたいでんわ}「INFOBAR ZERO」を12{月|がつ}25{日|にち}に{発売|はつばい}すると{発表|はっぴょう}した。{使|つか}えるのは{通話|つうわ}とSMSが{中心|ちゅうしん}で、ほかにカメラや{音楽|おんがく}{再生|さいせい}、カレンダー、アラームなどの{機能|きのう}がある。{値段|ねだん}は{税込|ぜいこ}みで3{万|まん}2780{円|えん}だ。",
+        "INFOBARは2003{年|ねん}に{初|はじ}めて{登場|とうじょう}した、デザインで{有名|ゆうめい}な{携帯電話|けいたいでんわ}のシリーズで、{新|あたら}しいモデルは{約|やく}8{年|ねん}ぶりだ。{最初|さいしょ}のモデルと{同|おな}じく、デザイナーの{深澤直人|ふかさわなおと}さんがデザインを{担当|たんとう}した。{欧米|おうべい}では{機能|きのう}を{減|へ}らした「ダムフォン」が{人気|にんき}になっていて、KDDIはスマホと{距離|きょり}を{置|お}きたい{人|ひと}や、2{台目|だいめ}として{使|つか}いたい{人|ひと}に{向|む}けて{売|う}り{出|だ}すという。"
+      ],
+      "vocab": [
+        { "word": "{接続|せつぞく}する", "meaning": { "fr": "se connecter", "en": "to connect" } },
+        { "word": "{発売|はつばい}", "meaning": { "fr": "mise en vente", "en": "release, launch" } },
+        { "word": "{機能|きのう}", "meaning": { "fr": "fonction", "en": "function, feature" } },
+        { "word": "{税込|ぜいこ}み", "meaning": { "fr": "taxes comprises", "en": "tax included" } },
+        { "word": "{登場|とうじょう}する", "meaning": { "fr": "apparaître, faire son entrée", "en": "to appear, debut" } },
+        { "word": "{担当|たんとう}する", "meaning": { "fr": "être chargé de", "en": "to be in charge of" } },
+        { "word": "{距離|きょり}を{置|お}く", "meaning": { "fr": "prendre ses distances", "en": "to keep one's distance" } }
+      ],
+      "quiz": [
+        {
+          "question": "INFOBARが{初|はじ}めて{登場|とうじょう}したのはいつか。",
+          "choices": ["2003{年|ねん}", "2018{年|ねん}", "2026{年|ねん}"],
+          "answer": 0,
+          "explain": { "fr": "Le premier INFOBAR est sorti en 2003.", "en": "The first INFOBAR came out in 2003." }
+        },
+        {
+          "question": "デザインを{担当|たんとう}したのはだれか。",
+          "choices": ["{深澤直人|ふかさわなおと}さん", "KDDIの{社長|しゃちょう}", "{有名|ゆうめい}な{歌手|かしゅ}"],
+          "answer": 0,
+          "explain": { "fr": "C'est le designer Naoto Fukasawa, déjà auteur du premier modèle.", "en": "Designer Naoto Fukasawa, who also designed the first model." }
+        },
+        {
+          "question": "{欧米|おうべい}で{人気|にんき}になっているのはどんな{電話|でんわ}か。",
+          "choices": ["{画面|がめん}が{大|おお}きいスマホ", "{機能|きのう}を{減|へ}らしたダムフォン", "{折|お}りたためるスマホ"],
+          "answer": 1,
+          "explain": { "fr": "Les « dumbphones », aux fonctions réduites, sont à la mode en Europe et aux États-Unis.", "en": "Dumbphones with fewer features are popular in Europe and the US." }
+        }
+      ]
+    },
+    "N2": {
+      "title": "「あえて、しない」{携帯|けいたい}　INFOBARが{約|やく}8{年|ねん}ぶりの{新機種|しんきしゅ}",
+      "paragraphs": [
+        "KDDIは18{日|にち}、インターネットの{閲覧|えつらん}やSNSにあえて{対応|たいおう}しない{携帯電話|けいたいでんわ}「INFOBAR ZERO」を12{月|がつ}25{日|にち}に{発売|はつばい}すると{発表|はっぴょう}した。{通話|つうわ}とSMSを{中心|ちゅうしん}に、{約|やく}200{万画素|まんがそ}のカメラや{音楽|おんがく}{再生|さいせい}など、{必要最小限|ひつようさいしょうげん}の{機能|きのう}に{絞|しぼ}り{込|こ}んだのが{特徴|とくちょう}だ。{価格|かかく}は{税込|ぜいこ}み3{万|まん}2780{円|えん}で、{同日|どうじつ}から{予約|よやく}の{受|う}け{付|つ}けが{始|はじ}まった。",
+        "INFOBARシリーズは2003{年|ねん}に{登場|とうじょう}し、{色|いろ}とりどりの{四角|しかく}いボタンが{並|なら}ぶデザインで{話題|わだい}を{呼|よ}んだ。{新機種|しんきしゅ}は{約|やく}8{年|ねん}ぶりで、{初代|しょだい}から{手|て}がけてきたプロダクトデザイナーの{深澤直人|ふかさわなおと}{氏|し}が{今回|こんかい}もデザインを{担当|たんとう}した。カラーは{初代|しょだい}から{続|つづ}く「NISHIKIGOI」「ICHIMATSU」に{加|くわ}え、{新色|しんしょく}「SUNANEKO」の3{色|しょく}だ。",
+        "{背景|はいけい}には、{通知|つうち}や{情報|じょうほう}と{常|つね}につながっている{生活|せいかつ}の{中|なか}で、スマホとの{距離|きょり}を{見直|みなお}したいという{人|ひと}が{増|ふ}えていることがある。{欧米|おうべい}ではこうした「ダムフォン」が{注目|ちゅうもく}されており、KDDIは「あえて、しない」という{心地|ここち}よい{余白|よはく}を{提案|ていあん}したいとしている。"
+      ],
+      "vocab": [
+        { "word": "{閲覧|えつらん}", "meaning": { "fr": "consultation (de pages web)", "en": "browsing" } },
+        { "word": "あえて", "meaning": { "fr": "délibérément, exprès", "en": "deliberately" } },
+        { "word": "{絞|しぼ}り{込|こ}む", "meaning": { "fr": "réduire à l'essentiel, cibler", "en": "to narrow down" } },
+        { "word": "{予約|よやく}", "meaning": { "fr": "réservation", "en": "reservation, pre-order" } },
+        { "word": "{手|て}がける", "meaning": { "fr": "s'occuper de, réaliser", "en": "to handle, to work on" } },
+        { "word": "{背景|はいけい}", "meaning": { "fr": "contexte, arrière-plan", "en": "background" } },
+        { "word": "{見直|みなお}す", "meaning": { "fr": "reconsidérer", "en": "to reconsider" } },
+        { "word": "{提案|ていあん}する", "meaning": { "fr": "proposer", "en": "to propose" } }
+      ],
+      "quiz": [
+        {
+          "question": "「INFOBAR ZERO」の{特徴|とくちょう}として{正|ただ}しいものはどれか。",
+          "choices": ["SNSが{快適|かいてき}に{使|つか}える", "{必要最小限|ひつようさいしょうげん}の{機能|きのう}に{絞|しぼ}っている", "{画面|がめん}が{非常|ひじょう}に{大|おお}きい"],
+          "answer": 1,
+          "explain": { "fr": "Il se limite au strict nécessaire : appels, SMS, photo, musique.", "en": "It is limited to the bare minimum: calls, SMS, camera, music." }
+        },
+        {
+          "question": "{新|あたら}しいINFOBARは{何年|なんねん}ぶりか。",
+          "choices": ["{約|やく}3{年|ねん}ぶり", "{約|やく}8{年|ねん}ぶり", "{約|やく}20{年|ねん}ぶり"],
+          "answer": 1,
+          "explain": { "fr": "C'est le premier nouveau modèle depuis environ 8 ans.", "en": "It is the first new model in about 8 years." }
+        },
+        {
+          "question": "{新色|しんしょく}の{名前|なまえ}はどれか。",
+          "choices": ["NISHIKIGOI", "ICHIMATSU", "SUNANEKO"],
+          "answer": 2,
+          "explain": { "fr": "SUNANEKO est la nouvelle couleur ; les deux autres existent depuis le premier modèle.", "en": "SUNANEKO is the new color; the other two date back to the first model." }
+        }
+      ]
+    },
+    "N1": {
+      "title": "KDDI、ネット{非対応|ひたいおう}の「INFOBAR ZERO」{発表|はっぴょう}　{通話|つうわ}・SMSに{特化|とっか}、「{脱|だつ}ネット」{需要|じゅよう}に{照準|しょうじゅん}",
+      "paragraphs": [
+        "KDDIは18{日|にち}、ネット{接続|せつぞく}{機能|きのう}を{持|も}たない{携帯電話|けいたいでんわ}「INFOBAR ZERO（インフォバーゼロ）」を、au{公式|こうしき}のSIMフリーブランド「au Flex Style」から12{月|がつ}25{日|にち}に{発売|はつばい}すると{発表|はっぴょう}した。{音声|おんせい}{通話|つうわ}とSMSに{特化|とっか}し、ウェブ{閲覧|えつらん}やSNSの{利用|りよう}にはあえて{対応|たいおう}しない。{価格|かかく}は{税込|ぜいこ}み3{万|まん}2780{円|えん}。{同日|どうじつ}から{全国|ぜんこく}のauショップなどで{予約|よやく}を{受|う}け{付|つ}けている。",
+        "{搭載|とうさい}{機能|きのう}は{通話|つうわ}、SMS、{約|やく}200{万画素|まんがそ}のカメラ、{電話帳|でんわちょう}、カレンダー、アラーム、{音楽|おんがく}{再生|さいせい}、{電卓|でんたく}などに{限|かぎ}られる。{画面|がめん}は{約|やく}2.4インチと{小|こ}ぶりで、スマートフォンとの2{台持|だいも}ちや、{通話|つうわ}・SMS{専用|せんよう}の{番号|ばんごう}を{追加|ついか}できるサービスとの{併用|へいよう}も{想定|そうてい}している。",
+        "INFOBARは2003{年|ねん}の{初代|しょだい}{発売|はつばい}{以来|いらい}、{携帯電話|けいたいでんわ}にデザインの{文脈|ぶんみゃく}を{持|も}ち{込|こ}んだシリーズとして{知|し}られ、{初代|しょだい}はニューヨーク{近代美術館|きんだいびじゅつかん}（MoMA）の{永久|えいきゅう}{収蔵品|しゅうぞうひん}にもなっている。{新機種|しんきしゅ}は{約|やく}8{年|ねん}ぶりで、{歴代|れきだい}モデルを{手|て}がけてきた{深澤直人|ふかさわなおと}{氏|し}が{引|ひ}き{続|つづ}きデザインを{担|にな}った。",
+        "SNSやAIの{普及|ふきゅう}で{利便性|りべんせい}が{高|たか}まる{一方|いっぽう}、{絶|た}え{間|ま}ない{通知|つうち}から{距離|きょり}を{置|お}きたいという{需要|じゅよう}も{根強|ねづよ}い。{欧米|おうべい}を{中心|ちゅうしん}に{機能|きのう}を{絞|しぼ}った「ダムフォン」が{脚光|きゃっこう}を{浴|あ}びるなか、{最先端|さいせんたん}の{通信|つうしん}を{担|にな}う{大手|おおて}{通信|つうしん}{会社|がいしゃ}が「あえて、しない」という{選択肢|せんたくし}を{打|う}ち{出|だ}した{格好|かっこう}だ。"
+      ],
+      "vocab": [
+        { "word": "{特化|とっか}する", "meaning": { "fr": "se spécialiser", "en": "to specialize" } },
+        { "word": "{搭載|とうさい}", "meaning": { "fr": "fait d'être équipé de", "en": "being equipped with" } },
+        { "word": "{併用|へいよう}", "meaning": { "fr": "utilisation conjointe", "en": "combined use" } },
+        { "word": "{想定|そうてい}する", "meaning": { "fr": "envisager, prévoir", "en": "to assume, to envisage" } },
+        { "word": "{収蔵品|しゅうぞうひん}", "meaning": { "fr": "pièce de collection (musée)", "en": "collection item" } },
+        { "word": "{根強|ねづよ}い", "meaning": { "fr": "bien ancré, tenace", "en": "deep-rooted" } },
+        { "word": "{脚光|きゃっこう}を{浴|あ}びる", "meaning": { "fr": "être sous les projecteurs", "en": "to be in the spotlight" } },
+        { "word": "〜{格好|かっこう}だ", "meaning": { "fr": "cela revient à…, c'est comme si…", "en": "it amounts to…" } }
+      ],
+      "quiz": [
+        {
+          "question": "{本文|ほんぶん}によると、INFOBAR ZEROに{搭載|とうさい}されていない{機能|きのう}はどれか。",
+          "choices": ["{電卓|でんたく}", "ウェブ{閲覧|えつらん}", "{音楽|おんがく}{再生|さいせい}"],
+          "answer": 1,
+          "explain": { "fr": "La navigation web n'est volontairement pas prise en charge.", "en": "Web browsing is deliberately not supported." }
+        },
+        {
+          "question": "{初代|しょだい}INFOBARについて{正|ただ}しいものはどれか。",
+          "choices": ["MoMAの{永久|えいきゅう}{収蔵品|しゅうぞうひん}になっている", "2018{年|ねん}に{発売|はつばい}された", "{海外|かいがい}でしか{売|う}られなかった"],
+          "answer": 0,
+          "explain": { "fr": "Le premier INFOBAR fait partie de la collection permanente du MoMA de New York.", "en": "The first INFOBAR is in the permanent collection of MoMA in New York." }
+        },
+        {
+          "question": "{筆者|ひっしゃ}は{今回|こんかい}の{発表|はっぴょう}をどのように{位置|いち}づけているか。",
+          "choices": ["スマホ{事業|じぎょう}からの{撤退|てったい}", "「あえて、しない」{選択肢|せんたくし}の{提示|ていじ}", "{価格|かかく}{競争|きょうそう}への{参入|さんにゅう}"],
+          "answer": 1,
+          "explain": { "fr": "L'article y voit un grand opérateur qui propose de « choisir de ne pas » tout faire avec son téléphone.", "en": "The article sees it as a major carrier offering the option of deliberately doing less." }
+        }
+      ]
+    }
+  }
+}

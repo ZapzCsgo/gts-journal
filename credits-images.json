@@ -2,6 +2,18 @@
   "_note": "Registre des photos du Journal : une entrée par image non créée par nous (origine, auteur, licence). Le plus récent en premier. Ajouter en tête, ne jamais supprimer.",
   "images": [
     {
+      "date": "2026-11-19",
+      "file": "cover.webp",
+      "credit": "Photo : SuFlyer / CC0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:KDDI_au_INFOBAR_A5307ST_NISHIKIGOI.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/KDDI_au_INFOBAR_A5307ST_NISHIKIGOI.jpg",
+      "origin": "Wikimedia Commons",
+      "author": "SuFlyer",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
       "date": "2026-11-18",
       "file": "cover.webp",
       "credit": "Photo : Jakub Hałun / CC BY 4.0",
