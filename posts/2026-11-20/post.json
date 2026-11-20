@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-20",
+  "newsDate": "2026-11-19",
+  "category": "sport",
+  "title": "Tennis : Shingo Kunieda, premier Japonais au Panthéon du tennis !",
+  "summary": {
+    "fr": "Le Temple de la renommée international du tennis a annoncé que Shingo Kunieda, légende du tennis en fauteuil roulant, y entrera en 2027 : c'est le tout premier Japonais. Avec 4 médailles d'or paralympiques, 50 titres du Grand Chelem et 582 semaines au rang de numéro 1 mondial, il sera fêté en août prochain à Newport, aux États-Unis.",
+    "en": "The International Tennis Hall of Fame announced that wheelchair tennis legend Shingo Kunieda will be inducted in 2027, the first Japanese ever. With 4 Paralympic gold medals, 50 major titles and 582 weeks as world No. 1, he will be honored next August in Newport, in the United States."
+  },
+  "sources": [
+    {
+      "name": "International Tennis Hall of Fame, communiqué du 19 novembre 2026 via PR Newswire (anglais)",
+      "url": "https://prnewswire.com/news-releases/ash-barty-and-shingo-kunieda-to-be-inducted-into-the-international-tennis-hall-of-fame-in-2027-302944985.html"
+    },
+    {
+      "name": "nippon.com (dépêche Jiji), 19 novembre 2026 (japonais)",
+      "url": "https://www.nippon.com/ja/articles/-/57721"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "Shingo Kunieda en fauteuil roulant de sport sur un court de tennis bleu, en pleine action pendant un match de l'US Open 2011",
+      "caption": "Shingo Kunieda à l'US Open 2011, à New York.",
+      "credit": "Photo : robbiesaurus / CC BY-SA 2.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Shingo_Kunieda_(JPN).jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Shingo_Kunieda_%28JPN%29.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "robbiesaurus",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "{車|くるま}いすテニスの くにえださん、{日本人|にほんじん}で はじめて！",
+      "paragraphs": [
+        "くにえだ しんごさんは {日本|にほん}の テニスの せんしゅでした。",
+        "{車|くるま}いすで テニスを します。とても つよいです。",
+        "{大|おお}きい しあいで 50{回|かい} かちました。",
+        "アメリカの「テニスでんどう」が、くにえださんを えらびました。{日本人|にほんじん}は はじめてです。",
+        "{来年|らいねん}の 8{月|がつ}に、アメリカで おいわいを します。"
+      ],
+      "vocab": [
+        { "word": "{車|くるま}いす", "meaning": { "fr": "fauteuil roulant", "en": "wheelchair" } },
+        { "word": "せんしゅ", "meaning": { "fr": "joueur, athlète", "en": "player, athlete" } },
+        { "word": "つよい", "meaning": { "fr": "fort", "en": "strong" } },
+        { "word": "しあい", "meaning": { "fr": "match, compétition", "en": "match, game" } },
+        { "word": "かつ", "meaning": { "fr": "gagner", "en": "to win" } },
+        { "word": "えらぶ", "meaning": { "fr": "choisir", "en": "to choose" } },
+        { "word": "{来年|らいねん}", "meaning": { "fr": "l'année prochaine", "en": "next year" } }
+      ],
+      "quiz": [
+        {
+          "question": "くにえださんは なにで テニスを しますか。",
+          "choices": ["{車|くるま}いす", "じてんしゃ", "{車|くるま}"],
+          "answer": 0,
+          "explain": { "fr": "Il joue au tennis en fauteuil roulant.", "en": "He plays tennis in a wheelchair." }
+        },
+        {
+          "question": "{大|おお}きい しあいで なん{回|かい} かちましたか。",
+          "choices": ["5{回|かい}", "15{回|かい}", "50{回|かい}"],
+          "answer": 2,
+          "explain": { "fr": "Il a gagné 50 grands tournois.", "en": "He won 50 major tournaments." }
+        },
+        {
+          "question": "いつ アメリカで おいわいを しますか。",
+          "choices": ["{今年|ことし}の 11{月|がつ}", "{来年|らいねん}の 8{月|がつ}", "{来年|らいねん}の 1{月|がつ}"],
+          "answer": 1,
+          "explain": { "fr": "La fête aura lieu en août de l'année prochaine.", "en": "The celebration will be next August." }
+        }
+      ]
+    },
+    "N4": {
+      "title": "{国枝慎吾|くにえだしんご}さんが{日本人|にほんじん}で{初|はじ}めて「テニスの{殿堂|でんどう}」へ",
+      "paragraphs": [
+        "アメリカにある「{国際|こくさい}テニス{殿堂|でんどう}」が、{車|くるま}いすテニスの{国枝慎吾|くにえだしんご}さん（42{歳|さい}）を{選|えら}んだと{発表|はっぴょう}しました。",
+        "{殿堂|でんどう}に{入|はい}る{日本人|にほんじん}は、{国枝|くにえだ}さんが{初|はじ}めてです。",
+        "{国枝|くにえだ}さんは、パラリンピックで4つの{金|きん}メダルを{取|と}りました。",
+        "{大|おお}きな{大会|たいかい}では、ぜんぶで50{回|かい}も{優勝|ゆうしょう}しています。",
+        "{世界|せかい}1{位|い}だった{期間|きかん}は582{週|しゅう}で、11{年|ねん}{以上|いじょう}です。",
+        "{来年|らいねん}の8{月|がつ}に、アメリカのニューポートという{町|まち}で{式|しき}が{開|ひら}かれます。"
+      ],
+      "vocab": [
+        { "word": "{殿堂|でんどう}", "meaning": { "fr": "temple de la renommée, panthéon", "en": "hall of fame" } },
+        { "word": "{発表|はっぴょう}する", "meaning": { "fr": "annoncer", "en": "to announce" } },
+        { "word": "{初|はじ}めて", "meaning": { "fr": "pour la première fois", "en": "for the first time" } },
+        { "word": "{金|きん}メダル", "meaning": { "fr": "médaille d'or", "en": "gold medal" } },
+        { "word": "{優勝|ゆうしょう}する", "meaning": { "fr": "remporter le titre", "en": "to win the championship" } },
+        { "word": "{期間|きかん}", "meaning": { "fr": "période, durée", "en": "period" } },
+        { "word": "{式|しき}", "meaning": { "fr": "cérémonie", "en": "ceremony" } }
+      ],
+      "quiz": [
+        {
+          "question": "{国枝|くにえだ}さんはパラリンピックで{金|きん}メダルをいくつ{取|と}りましたか。",
+          "choices": ["2つ", "4つ", "28"],
+          "answer": 1,
+          "explain": { "fr": "Il a remporté 4 médailles d'or paralympiques.", "en": "He won 4 Paralympic gold medals." }
+        },
+        {
+          "question": "{世界|せかい}1{位|い}だった{期間|きかん}はどのぐらいですか。",
+          "choices": ["{約|やく}1{年|ねん}", "{約|やく}5{年|ねん}", "11{年|ねん}{以上|いじょう}"],
+          "answer": 2,
+          "explain": { "fr": "582 semaines, soit plus de 11 ans au rang de numéro 1 mondial.", "en": "582 weeks, more than 11 years as world No. 1." }
+        },
+        {
+          "question": "{式|しき}はどこで{開|ひら}かれますか。",
+          "choices": ["{東京|とうきょう}", "ニューポート", "パリ"],
+          "answer": 1,
+          "explain": { "fr": "La cérémonie aura lieu à Newport, aux États-Unis.", "en": "The ceremony will be held in Newport, in the US." }
+        }
+      ]
+    },
+    "N3": {
+      "title": "{国枝慎吾|くにえだしんご}さん、{日本人|にほんじん}{初|はつ}のテニス{殿堂入|でんどうい}り！",
+      "paragraphs": [
+        "{国際|こくさい}テニス{殿堂|でんどう}は、2027{年|ねん}に{殿堂入|でんどうい}りする{選手|せんしゅ}として、{車|くるま}いすテニスの{国枝慎吾|くにえだしんご}さん（42）を{選|えら}んだと{発表|はっぴょう}した。{日本人|にほんじん}が{選|えら}ばれるのは{初|はじ}めてだ。{国枝|くにえだ}さんはパラリンピックに5{大会|たいかい}{連続|れんぞく}で{出場|しゅつじょう}し、{金|きん}メダルを4つ{獲得|かくとく}した。{四大大会|よんだいたいかい}ではシングルスで28{回|かい}、ダブルスも{合|あ}わせると50{回|かい}も{優勝|ゆうしょう}している。",
+        "{車|くるま}いすテニスでは、ボールが2{回|かい}バウンドするまで{打|う}ち{返|かえ}してもいいというルールがある。しかし{国枝|くにえだ}さんは、ほとんどのボールを1{回|かい}のバウンドで{返|かえ}すほど{動|うご}きが{速|はや}かった。2023{年|ねん}に{引退|いんたい}し、{国民栄誉賞|こくみんえいよしょう}も{受|う}けている。{国枝|くにえだ}さんは「{車|くるま}いすテニスの{限界|げんかい}を{押|お}し{上|あ}げ、その{楽|たの}しさを{世界|せかい}に{伝|つた}えたかった」とコメントした。"
+      ],
+      "vocab": [
+        { "word": "{殿堂入|でんどうい}り", "meaning": { "fr": "entrée au panthéon (hall of fame)", "en": "induction into a hall of fame" } },
+        { "word": "{連続|れんぞく}", "meaning": { "fr": "consécutif, d'affilée", "en": "consecutive" } },
+        { "word": "{出場|しゅつじょう}する", "meaning": { "fr": "participer (à une compétition)", "en": "to take part in" } },
+        { "word": "{獲得|かくとく}する", "meaning": { "fr": "obtenir, remporter", "en": "to win, to obtain" } },
+        { "word": "{打|う}ち{返|かえ}す", "meaning": { "fr": "renvoyer (la balle)", "en": "to hit back" } },
+        { "word": "{引退|いんたい}する", "meaning": { "fr": "prendre sa retraite", "en": "to retire" } },
+        { "word": "{限界|げんかい}", "meaning": { "fr": "limite", "en": "limit" } }
+      ],
+      "quiz": [
+        {
+          "question": "{車|くるま}いすテニスのルールで、ボールは{何回|なんかい}までバウンドしてもいいか。",
+          "choices": ["1{回|かい}", "2{回|かい}", "3{回|かい}"],
+          "answer": 1,
+          "explain": { "fr": "En tennis fauteuil, la balle peut rebondir deux fois.", "en": "In wheelchair tennis, the ball may bounce twice." }
+        },
+        {
+          "question": "{国枝|くにえだ}さんはパラリンピックに{何大会|なんたいかい}{連続|れんぞく}で{出場|しゅつじょう}したか。",
+          "choices": ["3{大会|たいかい}", "4{大会|たいかい}", "5{大会|たいかい}"],
+          "answer": 2,
+          "explain": { "fr": "Il a participé à 5 Jeux paralympiques d'affilée.", "en": "He competed at 5 Paralympics in a row." }
+        },
+        {
+          "question": "{国枝|くにえだ}さんが{引退|いんたい}したのはいつか。",
+          "choices": ["2021{年|ねん}", "2023{年|ねん}", "2026{年|ねん}"],
+          "answer": 1,
+          "explain": { "fr": "Il a pris sa retraite en 2023.", "en": "He retired in 2023." }
+        }
+      ]
+    },
+    "N2": {
+      "title": "{国枝慎吾|くにえだしんご}{氏|し}、{日本勢|にほんぜい}{初|はつ}の{国際|こくさい}テニス{殿堂入|でんどうい}り　「この{上|うえ}ない{名誉|めいよ}」",
+      "paragraphs": [
+        "{国際|こくさい}テニス{殿堂|でんどう}は、2027{年|ねん}の{殿堂入|でんどうい}りメンバーを{発表|はっぴょう}し、{車|くるま}いす{部門|ぶもん}で{国枝慎吾|くにえだしんご}{氏|し}（42）を{選出|せんしゅつ}した。{日本勢|にほんぜい}の{殿堂入|でんどうい}りは{史上初|しじょうはつ}となる。{選手|せんしゅ}{部門|ぶもん}では、{元|もと}{世界|せかい}1{位|い}のアシュリー・バーティ（オーストラリア）も{選|えら}ばれた。{記念|きねん}の{式典|しきてん}は{来年|らいねん}8{月|がつ}、{米国|べいこく}ロードアイランド{州|しゅう}ニューポートで{行|おこな}われる。",
+        "{国枝|くにえだ}{氏|し}は2004{年|ねん}アテネ{大会|たいかい}から2021{年|ねん}{東京|とうきょう}{大会|たいかい}まで、パラリンピックに5{大会|たいかい}{連続|れんぞく}で{出場|しゅつじょう}し、シングルスで3{個|こ}、ダブルスで1{個|こ}の{金|きん}メダルを{手|て}にした。{四大大会|よんだいたいかい}のシングルスでは{通算|つうさん}28{度|ど}{優勝|ゆうしょう}し、{男子|だんし}の{車|くるま}いすテニスで{初|はじ}めて、{四大大会|よんだいたいかい}とパラリンピックをすべて{制|せい}する「{生涯|しょうがい}ゴールデンスラム」を{達成|たっせい}した。{世界|せかい}ランキング1{位|い}に{在位|ざいい}した582{週|しゅう}も{歴代|れきだい}{最長|さいちょう}だ。",
+        "2023{年|ねん}の{引退|いんたい}{後|ご}には、パラスポーツの{選手|せんしゅ}として{初|はじ}めて{国民栄誉賞|こくみんえいよしょう}を{受賞|じゅしょう}した。{国枝|くにえだ}{氏|し}は{殿堂|でんどう}を{通|つう}じて「この{上|うえ}ない{名誉|めいよ}。{支|ささ}えてくれた{家族|かぞく}やチーム、すべての{人|ひと}に{心|こころ}から{感謝|かんしゃ}している」とのコメントを{発表|はっぴょう}した。"
+      ],
+      "vocab": [
+        { "word": "{部門|ぶもん}", "meaning": { "fr": "catégorie, section", "en": "category, division" } },
+        { "word": "{選出|せんしゅつ}する", "meaning": { "fr": "élire, sélectionner", "en": "to select, to elect" } },
+        { "word": "{史上初|しじょうはつ}", "meaning": { "fr": "une première historique", "en": "first in history" } },
+        { "word": "{式典|しきてん}", "meaning": { "fr": "cérémonie officielle", "en": "ceremony" } },
+        { "word": "{通算|つうさん}", "meaning": { "fr": "au total (sur une carrière)", "en": "in total, career total" } },
+        { "word": "{制|せい}する", "meaning": { "fr": "remporter, dominer", "en": "to win, to conquer" } },
+        { "word": "{達成|たっせい}する", "meaning": { "fr": "accomplir, réaliser", "en": "to achieve" } },
+        { "word": "{名誉|めいよ}", "meaning": { "fr": "honneur", "en": "honor" } }
+      ],
+      "quiz": [
+        {
+          "question": "{選手|せんしゅ}{部門|ぶもん}で{一緒|いっしょ}に{選|えら}ばれたのはだれか。",
+          "choices": ["アシュリー・バーティ", "ロジャー・フェデラー", "{大坂|おおさか}なおみ"],
+          "answer": 0,
+          "explain": { "fr": "L'Australienne Ashleigh Barty, ancienne numéro 1 mondiale, entre aussi au panthéon.", "en": "Australian former world No. 1 Ashleigh Barty was also elected." }
+        },
+        {
+          "question": "「{生涯|しょうがい}ゴールデンスラム」とは{何|なに}か。",
+          "choices": ["1{年|ねん}で50{回|かい}{優勝|ゆうしょう}すること", "{四大大会|よんだいたいかい}とパラリンピックをすべて{制|せい}すること", "{世界|せかい}1{位|い}を10{年|ねん}{続|つづ}けること"],
+          "answer": 1,
+          "explain": { "fr": "C'est gagner, au cours de sa carrière, les 4 tournois du Grand Chelem et l'or paralympique.", "en": "Winning all four majors and Paralympic gold over a career." }
+        },
+        {
+          "question": "{国枝|くにえだ}{氏|し}がシングルスで{獲得|かくとく}したパラリンピックの{金|きん}メダルはいくつか。",
+          "choices": ["1{個|こ}", "3{個|こ}", "4{個|こ}"],
+          "answer": 1,
+          "explain": { "fr": "3 en simple, plus 1 en double, soit 4 au total.", "en": "3 in singles plus 1 in doubles, 4 in total." }
+        }
+      ]
+    },
+    "N1": {
+      "title": "{国枝慎吾|くにえだしんご}{氏|し}、{日本勢|にほんぜい}{初|はつ}の{国際|こくさい}テニス{殿堂入|でんどうい}り　{車|くるま}いす{部門|ぶもん}で「{生涯|しょうがい}ゴールデンスラム」の{偉業|いぎょう}{評価|ひょうか}",
+      "paragraphs": [
+        "{国際|こくさい}テニス{殿堂|でんどう}（{米|べい}ロードアイランド{州|しゅう}ニューポート）は{米国|べいこく}{時間|じかん}18{日|にち}、2027{年|ねん}の{殿堂入|でんどうい}りメンバーを{発表|はっぴょう}し、{車|くるま}いすテニス{部門|ぶもん}で{国枝慎吾|くにえだしんご}{氏|し}（42）を{選出|せんしゅつ}した。{日本勢|にほんぜい}の{殿堂入|でんどうい}りは{史上初|しじょうはつ}で、2010{年|ねん}に{創設|そうせつ}された{同|どう}{部門|ぶもん}では8{人目|にんめ}となる。{選手|せんしゅ}{部門|ぶもん}では{四大大会|よんだいたいかい}4{勝|しょう}の{元|もと}{世界|せかい}1{位|い}、アシュリー・バーティ{氏|し}も{名|な}を{連|つら}ねた。{両氏|りょうし}への{通知|つうち}は、{共同|きょうどう}{会長|かいちょう}を{務|つと}めるキム・クライシュテルス{氏|し}らによるサプライズのビデオ{通話|つうわ}で{行|おこな}われたという。",
+        "{国枝|くにえだ}{氏|し}は2004{年|ねん}アテネから2021{年|ねん}{東京|とうきょう}までパラリンピック5{大会|たいかい}に{連続|れんぞく}{出場|しゅつじょう}し、{単複|たんぷく}{計|けい}4{個|こ}の{金|きん}メダルを{獲得|かくとく}。{四大大会|よんだいたいかい}ではシングルス28{勝|しょう}を{含|ふく}む{通算|つうさん}50{勝|しょう}を{挙|あ}げ、2022{年|ねん}のウィンブルドン{制覇|せいは}により、{男子|だんし}{車|くるま}いすテニスで{初|はじ}めて「{生涯|しょうがい}ゴールデンスラム」を{成|な}し{遂|と}げた。{世界|せかい}ランキング1{位|い}の{在位|ざいい}582{週|しゅう}は{歴代|れきだい}{最長|さいちょう}で、2バウンドまで{認|みと}められる{競技|きょうぎ}で{大半|たいはん}の{打球|だきゅう}を1バウンドで{処理|しょり}する{卓越|たくえつ}したチェアワークは、{競技|きょうぎ}そのものの{水準|すいじゅん}を{塗|ぬ}り{替|か}えたと{評|ひょう}される。",
+        "2023{年|ねん}1{月|がつ}の{現役|げんえき}{引退|いんたい}{後|ご}には、パラスポーツ{選手|せんしゅ}として{初|はじ}めて{国民栄誉賞|こくみんえいよしょう}を{授与|じゅよ}された。{国枝|くにえだ}{氏|し}は{殿堂|でんどう}の{公式|こうしき}サイトで「この{上|うえ}ない{名誉|めいよ}だ。{私|わたし}の{目標|もくひょう}は{常|つね}に、{車|くるま}いすテニスの{限界|げんかい}を{押|お}し{上|あ}げ、その{興奮|こうふん}を{世界|せかい}と{分|わ}かち{合|あ}うことだった」とコメントしている。{殿堂入|でんどうい}りの{式典|しきてん}は{来年|らいねん}8{月|がつ}26{日|にち}から28{日|にち}にかけてニューポートで{開|ひら}かれる{予定|よてい}だ。"
+      ],
+      "vocab": [
+        { "word": "{偉業|いぎょう}", "meaning": { "fr": "exploit, prouesse", "en": "great achievement" } },
+        { "word": "{創設|そうせつ}する", "meaning": { "fr": "fonder, créer", "en": "to establish" } },
+        { "word": "{名|な}を{連|つら}ねる", "meaning": { "fr": "figurer sur la liste", "en": "to be listed among" } },
+        { "word": "{単複|たんぷく}", "meaning": { "fr": "simple et double", "en": "singles and doubles" } },
+        { "word": "{成|な}し{遂|と}げる", "meaning": { "fr": "accomplir, mener à bien", "en": "to accomplish" } },
+        { "word": "{卓越|たくえつ}した", "meaning": { "fr": "exceptionnel, hors pair", "en": "outstanding" } },
+        { "word": "{塗|ぬ}り{替|か}える", "meaning": { "fr": "redéfinir, réécrire (un record, une norme)", "en": "to redefine, to rewrite" } },
+        { "word": "{授与|じゅよ}する", "meaning": { "fr": "décerner", "en": "to award, to confer" } }
+      ],
+      "quiz": [
+        {
+          "question": "{車|くるま}いすテニス{部門|ぶもん}における{国枝|くにえだ}{氏|し}の{殿堂入|でんどうい}りは{何人目|なんにんめ}か。",
+          "choices": ["{初|はじ}めて", "4{人目|にんめ}", "8{人目|にんめ}"],
+          "answer": 2,
+          "explain": { "fr": "Il est le 8e joueur de tennis fauteuil intronisé depuis la création de la catégorie en 2010.", "en": "He is the 8th wheelchair tennis inductee since the category was created in 2010." }
+        },
+        {
+          "question": "「{生涯|しょうがい}ゴールデンスラム」の{達成|たっせい}を{決|き}めたのはどの{大会|たいかい}か。",
+          "choices": ["2021{年|ねん}{東京|とうきょう}パラリンピック", "2022{年|ねん}ウィンブルドン", "2023{年|ねん}{全豪|ぜんごう}オープン"],
+          "answer": 1,
+          "explain": { "fr": "Sa victoire à Wimbledon en 2022 a complété son Golden Slam en carrière.", "en": "His 2022 Wimbledon title completed his career Golden Slam." }
+        },
+        {
+          "question": "{本文|ほんぶん}で{国枝|くにえだ}{氏|し}のプレーの{特徴|とくちょう}とされているのはどれか。",
+          "choices": ["{強烈|きょうれつ}なサーブだけで{勝|か}つこと", "{大半|たいはん}の{打球|だきゅう}を1バウンドで{処理|しょり}すること", "{必|かなら}ず2バウンドを{待|ま}って{打|う}つこと"],
+          "answer": 1,
+          "explain": { "fr": "Sa mobilité exceptionnelle lui permettait de renvoyer presque toutes les balles après un seul rebond.", "en": "His exceptional chair work let him return most balls after a single bounce." }
+        }
+      ]
+    }
+  }
+}
