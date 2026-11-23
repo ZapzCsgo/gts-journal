@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "date": "2026-11-23",
+      "title": "À Okinawa, le palais de Shuri retrouve ses couleurs !",
+      "category": "culture",
+      "cover": "cover.webp"
+    },
+    {
       "date": "2026-11-20",
       "title": "Tennis : Shingo Kunieda, premier Japonais au Panthéon du tennis !",
       "category": "sport",

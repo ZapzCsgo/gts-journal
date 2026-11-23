@@ -1,0 +1,137 @@
+{
+  "date": "2026-11-23",
+  "newsDate": "2026-11-22",
+  "category": "culture",
+  "title": "À Okinawa, le palais de Shuri retrouve ses couleurs !",
+  "summary": {
+    "fr": "Le 22 novembre, une cérémonie a célébré l'achèvement de la reconstruction du bâtiment principal du château de Shuri, à Okinawa. Sa réouverture au public est prévue le 23 novembre à midi ; la photo montre la porte Shureimon, et non le bâtiment reconstruit.",
+    "en": "A ceremony on November 22 marked the completion of the reconstruction of Shuri Castle's main hall in Okinawa. It is scheduled to reopen to visitors at noon on November 23; the photo shows Shureimon Gate, not the rebuilt hall."
+  },
+  "sources": [
+    {"name": "Parc du château de Shuri, cérémonie du 22 novembre", "url": "https://oki-park.jp/shurijo/information/detail/11384"},
+    {"name": "Parc du château de Shuri, ouverture du 23 novembre", "url": "https://oki-park.jp/shurijo/information/detail/11539"}
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "La porte Shureimon, à l'entrée du château de Shuri à Okinawa, photographiée en 2023 ; ce n'est pas le bâtiment principal reconstruit",
+      "caption": "La porte Shureimon en 2023, à l'entrée du site ; le bâtiment principal reconstruit se trouve plus loin.",
+      "credit": "Photo : Renate Hano / CC BY-SA 4.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Shurei-mon_2023.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Shurei-mon_2023.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "Renate Hano",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "{沖縄|おきなわ}の お{城|しろ}が きれいに なりました",
+      "paragraphs": [
+        "{沖縄|おきなわ}に {大|おお}きい お{城|しろ}が あります。お{城|しろ}の {建物|たてもの}が きれいに なりました。",
+        "きのう、みんなで おいわいを しました。きょうから {見|み}る ことが できます。"
+      ],
+      "vocab": [
+        {"word": "{沖縄|おきなわ}", "meaning": {"fr": "Okinawa", "en": "Okinawa"}},
+        {"word": "お{城|しろ}", "meaning": {"fr": "château", "en": "castle"}},
+        {"word": "{建物|たてもの}", "meaning": {"fr": "bâtiment", "en": "building"}},
+        {"word": "きれい", "meaning": {"fr": "beau, propre", "en": "beautiful, clean"}},
+        {"word": "{見|み}る", "meaning": {"fr": "voir", "en": "to see"}}
+      ],
+      "quiz": [
+        {"question": "お{城|しろ}は どこに ありますか。", "choices": ["{沖縄|おきなわ}", "{東京|とうきょう}", "{大阪|おおさか}"], "answer": 0, "explain": {"fr": "Le château se trouve à Okinawa.", "en": "The castle is in Okinawa."}},
+        {"question": "{建物|たてもの}は どう なりましたか。", "choices": ["{小|ちい}さく なりました", "きれいに なりました", "なくなりました"], "answer": 1, "explain": {"fr": "Le bâtiment a retrouvé son éclat.", "en": "The building looks beautiful again."}},
+        {"question": "いつから {見|み}る ことが できますか。", "choices": ["あしたから", "らいねんから", "きょうから"], "answer": 2, "explain": {"fr": "L'ouverture est prévue aujourd'hui, le 23 novembre.", "en": "It is scheduled to open today, November 23."}}
+      ]
+    },
+    "N4": {
+      "title": "{首里城|しゅりじょう}の {建物|たてもの}、また {見|み}られるように",
+      "paragraphs": [
+        "{沖縄|おきなわ}にある {首里城|しゅりじょう}の {大切|たいせつ}な {建物|たてもの}が {新|あたら}しく なりました。",
+        "11{月|がつ}22{日|にち}には、{工事|こうじ}が {終|お}わったことを お{祝|いわ}いする {式|しき}が ありました。",
+        "この {建物|たてもの}は、{昔|むかし}の {沖縄|おきなわ}の {文化|ぶんか}を {伝|つた}えています。",
+        "23{日|にち}の {昼|ひる}から、{人|ひと}が {外|そと}から {建物|たてもの}を {見|み}られるようになります。",
+        "{中|なか}を {見|み}るには、{予約|よやく}が {必要|ひつよう}です。",
+        "{写真|しゃしん}は {入|い}り{口|ぐち}にある {門|もん}で、{新|あたら}しくなった {建物|たてもの}ではありません。"
+      ],
+      "vocab": [
+        {"word": "{首里城|しゅりじょう}", "meaning": {"fr": "château de Shuri", "en": "Shuri Castle"}},
+        {"word": "{工事|こうじ}", "meaning": {"fr": "travaux", "en": "construction work"}},
+        {"word": "お{祝|いわ}い", "meaning": {"fr": "célébration", "en": "celebration"}},
+        {"word": "{文化|ぶんか}", "meaning": {"fr": "culture", "en": "culture"}},
+        {"word": "{予約|よやく}", "meaning": {"fr": "réservation", "en": "reservation"}},
+        {"word": "{門|もん}", "meaning": {"fr": "porte monumentale", "en": "gate"}}
+      ],
+      "quiz": [
+        {"question": "お{祝|いわ}いの {式|しき}は いつ ありましたか。", "choices": ["11{月|がつ}22{日|にち}", "11{月|がつ}23{日|にち}", "12{月|がつ}22{日|にち}"], "answer": 0, "explain": {"fr": "La cérémonie a eu lieu le 22 novembre.", "en": "The ceremony was held on November 22."}},
+        {"question": "{建物|たてもの}の {中|なか}を {見|み}るには {何|なに}が {必要|ひつよう}ですか。", "choices": ["{自転車|じてんしゃ}", "{予約|よやく}", "{写真|しゃしん}"], "answer": 1, "explain": {"fr": "Une réservation est nécessaire pour visiter l'intérieur.", "en": "A reservation is needed to see the interior."}},
+        {"question": "{写真|しゃしん}に {写|うつ}っているのは {何|なん}ですか。", "choices": ["{新|あたら}しい {建物|たてもの}", "お{店|みせ}", "{入|い}り{口|ぐち}の {門|もん}"], "answer": 2, "explain": {"fr": "La photo représente la porte d'entrée Shureimon.", "en": "The photo shows the entrance gate, Shureimon."}}
+      ]
+    },
+    "N3": {
+      "title": "{沖縄|おきなわ}の{首里城|しゅりじょう}、{正殿|せいでん}の{復元|ふくげん}を{祝|いわ}う",
+      "paragraphs": [
+        "{沖縄県|おきなわけん}の{首里城|しゅりじょう}で11月22日、{正殿|せいでん}の{復元|ふくげん}が{終|お}わったことを{祝|いわ}う{式典|しきてん}が{開|ひら}かれました。{正殿|せいでん}は、かつてこの{地域|ちいき}を{治|おさ}めた{琉球王国|りゅうきゅうおうこく}の{歴史|れきし}を{伝|つた}える{建物|たてもの}です。2019年の{火災|かさい}で{失|うしな}われたあと、{多|おお}くの{人|ひと}が{再建|さいけん}に{関|かか}わりました。",
+        "{正殿|せいでん}の{一般公開|いっぱんこうかい}は23日の{正午|しょうご}から{始|はじ}まる{予定|よてい}です。{外側|そとがわ}は{見学|けんがく}できますが、{内部|ないぶ}を{見|み}るには{事前予約|じぜんよやく}が{必要|ひつよう}です。{写真|しゃしん}は{城|しろ}の{入口|いりぐち}にある{守礼門|しゅれいもん}で、{復元|ふくげん}された{正殿|せいでん}そのものではありません。"
+      ],
+      "vocab": [
+        {"word": "{正殿|せいでん}", "meaning": {"fr": "bâtiment principal d'un palais", "en": "main hall"}},
+        {"word": "{復元|ふくげん}", "meaning": {"fr": "reconstruction à l'identique", "en": "restoration"}},
+        {"word": "{式典|しきてん}", "meaning": {"fr": "cérémonie", "en": "ceremony"}},
+        {"word": "{琉球王国|りゅうきゅうおうこく}", "meaning": {"fr": "royaume des Ryukyu", "en": "Ryukyu Kingdom"}},
+        {"word": "{一般公開|いっぱんこうかい}", "meaning": {"fr": "ouverture au public", "en": "opening to the public"}},
+        {"word": "{事前予約|じぜんよやく}", "meaning": {"fr": "réservation préalable", "en": "advance reservation"}}
+      ],
+      "quiz": [
+        {"question": "22日の{式典|しきてん}では{何|なに}を{祝|いわ}いましたか。", "choices": ["{正殿|せいでん}の{復元|ふくげん}の{完成|かんせい}", "{駅|えき}の{完成|かんせい}", "{祭|まつ}りの{開始|かいし}"], "answer": 0, "explain": {"fr": "La cérémonie célébrait la fin de la reconstruction du bâtiment principal.", "en": "The ceremony celebrated completion of the main hall's reconstruction."}},
+        {"question": "{一般公開|いっぱんこうかい}はいつ{始|はじ}まる{予定|よてい}ですか。", "choices": ["22日の{朝|あさ}", "23日の{正午|しょうご}", "24日の{夜|よる}"], "answer": 1, "explain": {"fr": "L'ouverture est prévue le 23 novembre à midi.", "en": "Public access is scheduled to start at noon on November 23."}},
+        {"question": "{正殿|せいでん}の{内部|ないぶ}を{見|み}るには{何|なに}が{必要|ひつよう}ですか。", "choices": ["{車|くるま}", "{案内書|あんないしょ}", "{事前予約|じぜんよやく}"], "answer": 2, "explain": {"fr": "L'intérieur nécessite une réservation préalable.", "en": "An advance reservation is needed for the interior."}}
+      ]
+    },
+    "N2": {
+      "title": "{首里城|しゅりじょう}{正殿|せいでん}の{復元|ふくげん}{完成|かんせい}、22日に{記念式典|きねんしきてん}",
+      "paragraphs": [
+        "{沖縄県|おきなわけん}{那覇市|なはし}の{首里城|しゅりじょう}で11月22日、{正殿|せいでん}の{復元|ふくげん}{完成|かんせい}を{記念|きねん}する{式典|しきてん}が{行|おこな}われた。2019年の{火災|かさい}で{焼失|しょうしつ}した{正殿|せいでん}は、{琉球王国|りゅうきゅうおうこく}の{歴史|れきし}を{伝|つた}える{象徴的|しょうちょうてき}な{建物|たてもの}だ。",
+        "{首里城公園|しゅりじょうこうえん}によると、{正殿|せいでん}は23日の{正午|しょうご}に{一般公開|いっぱんこうかい}される。{有料区域|ゆうりょうくいき}に{入|はい}れば{外観|がいかん}を{見学|けんがく}できる{一方|いっぽう}、{内部|ないぶ}の{観覧|かんらん}には{事前予約|じぜんよやく}が{必要|ひつよう}で、23日{分|ぶん}の{予約|よやく}はすでに{受付|うけつけ}を{終了|しゅうりょう}している。",
+        "{掲載|けいさい}した{写真|しゃしん}は2023年に{撮影|さつえい}された{守礼門|しゅれいもん}。{正殿|せいでん}とは{別|べつ}の{建造物|けんぞうぶつ}であり、{今回|こんかい}の{完成式典|かんせいしきてん}の{様子|ようす}を{写|うつ}したものではない。"
+      ],
+      "vocab": [
+        {"word": "{焼失|しょうしつ}", "meaning": {"fr": "destruction par le feu", "en": "destruction by fire"}},
+        {"word": "{象徴的|しょうちょうてき}", "meaning": {"fr": "emblématique", "en": "symbolic"}},
+        {"word": "{一般公開|いっぱんこうかい}", "meaning": {"fr": "ouverture au public", "en": "public opening"}},
+        {"word": "{外観|がいかん}", "meaning": {"fr": "aspect extérieur", "en": "exterior"}},
+        {"word": "{観覧|かんらん}", "meaning": {"fr": "visite, observation", "en": "viewing"}},
+        {"word": "{守礼門|しゅれいもん}", "meaning": {"fr": "porte Shureimon", "en": "Shureimon Gate"}}
+      ],
+      "quiz": [
+        {"question": "22日の{式典|しきてん}は{何|なに}を{記念|きねん}したか。", "choices": ["{正殿|せいでん}の{復元|ふくげん}{完成|かんせい}", "{世界遺産|せかいいさん}の{登録|とうろく}", "{新駅|しんえき}の{開業|かいぎょう}"], "answer": 0, "explain": {"fr": "L'événement marquait la fin de la reconstruction du bâtiment principal.", "en": "It marked the completion of the main hall's reconstruction."}},
+        {"question": "23日に{正殿|せいでん}の{内部|ないぶ}を{見|み}るにはどうする{必要|ひつよう}があったか。", "choices": ["{当日|とうじつ}に{並|なら}ぶだけでよかった", "{事前予約|じぜんよやく}が{必要|ひつよう}だった", "{無料|むりょう}のバスに{乗|の}ればよかった"], "answer": 1, "explain": {"fr": "La visite de l'intérieur exigeait une réservation, déjà complète pour le 23.", "en": "Interior visits required reservations, already full for the 23rd."}},
+        {"question": "{写真|しゃしん}について{正|ただ}しいのはどれか。", "choices": ["{完成式典|かんせいしきてん}を{写|うつ}している", "{復元|ふくげん}した{正殿|せいでん}を{写|うつ}している", "2023年の{守礼門|しゅれいもん}を{写|うつ}している"], "answer": 2, "explain": {"fr": "L'image illustre le site par une photo de sa porte prise en 2023.", "en": "The image illustrates the site with a 2023 photo of its gate."}}
+      ]
+    },
+    "N1": {
+      "title": "{首里城|しゅりじょう}{正殿|せいでん}の{復元|ふくげん}{完了|かんりょう}、{公開|こうかい}を{前|まえ}に{完成式典|かんせいしきてん}",
+      "paragraphs": [
+        "{沖縄県|おきなわけん}{那覇市|なはし}の{首里城|しゅりじょう}で22日、{正殿|せいでん}の{復元|ふくげん}{完成式典|かんせいしきてん}が{催|もよお}された。{琉球王国|りゅうきゅうおうこく}の{歴史|れきし}を{今|いま}に{伝|つた}える{象徴|しょうちょう}の{再建|さいけん}は、2019年の{火災|かさい}から7年を{経|へ}て、{一般公開|いっぱんこうかい}を{迎|むか}える。",
+        "{管理者|かんりしゃ}の{発表|はっぴょう}によれば、{正殿|せいでん}の{一般公開|いっぱんこうかい}は23日{正午|しょうご}から。{有料区域|ゆうりょうくいき}への{入場|にゅうじょう}と{建物|たてもの}の{外観|がいかん}{見学|けんがく}は{可能|かのう}だが、{内部|ないぶ}の{観覧|かんらん}には{事前予約|じぜんよやく}を{要|よう}する。{初日|しょにち}{分|ぶん}の{予約枠|よやくわく}はすでに{埋|う}まっており、{来訪|らいほう}を{予定|よてい}する{人|ひと}は{見学可能|けんがくかのう}な{範囲|はんい}に{留意|りゅうい}したい。",
+        "{復元|ふくげん}の{節目|ふしめ}が{人々|ひとびと}の{関心|かんしん}を{集|あつ}める{一方|いっぽう}、{混雑|こんざつ}への{備|そな}えも{欠|か}かせない。{公園側|こうえんがわ}は23日に{駐車場|ちゅうしゃじょう}を{利用|りよう}できないとして、{公共交通機関|こうきょうこうつうきかん}の{使用|しよう}を{呼|よ}びかけている。{掲載写真|けいさいしゃしん}は2023年{撮影|さつえい}の{守礼門|しゅれいもん}で、{再建|さいけん}された{正殿|せいでん}や22日の{式典|しきてん}を{写|うつ}したものではない。"
+      ],
+      "vocab": [
+        {"word": "{催|もよお}される", "meaning": {"fr": "être organisé, se tenir", "en": "to be held"}},
+        {"word": "{経|へ}て", "meaning": {"fr": "après, au terme de", "en": "after, through"}},
+        {"word": "{予約枠|よやくわく}", "meaning": {"fr": "créneau de réservation", "en": "reservation slot"}},
+        {"word": "{留意|りゅうい}", "meaning": {"fr": "attention, vigilance", "en": "attention, caution"}},
+        {"word": "{節目|ふしめ}", "meaning": {"fr": "étape marquante", "en": "milestone"}},
+        {"word": "{公共交通機関|こうきょうこうつうきかん}", "meaning": {"fr": "transports en commun", "en": "public transport"}}
+      ],
+      "quiz": [
+        {"question": "22日の{式典|しきてん}と23日の{予定|よてい}の{関係|かんけい}はどれか。", "choices": ["{完成式典|かんせいしきてん}に{続|つづ}き{一般公開|いっぱんこうかい}が{始|はじ}まる", "{一般公開|いっぱんこうかい}の{後|あと}に{着工|ちゃっこう}する", "23日に{完成式典|かんせいしきてん}が{中止|ちゅうし}される"], "answer": 0, "explain": {"fr": "La cérémonie du 22 précède l'ouverture prévue le 23 à midi.", "en": "The ceremony on the 22nd precedes the opening scheduled for noon on the 23rd."}},
+        {"question": "{初日|しょにち}の{内部観覧|ないぶかんらん}について{正|ただ}しいのはどれか。", "choices": ["{予約|よやく}なしで{入|はい}れる", "{事前予約|じぜんよやく}が{必要|ひつよう}で{枠|わく}は{埋|う}まっている", "{外観|がいかん}{見学|けんがく}も{禁止|きんし}されている"], "answer": 1, "explain": {"fr": "L'intérieur exige une réservation ; les places du premier jour étaient déjà prises.", "en": "The interior requires a reservation; first-day slots were full."}},
+        {"question": "{公園側|こうえんがわ}が23日に{勧|すす}める{交通手段|こうつうしゅだん}はどれか。", "choices": ["{自家用車|じかようしゃ}", "{駐車場|ちゅうしゃじょう}の{利用|りよう}", "{公共交通機関|こうきょうこうつうきかん}"], "answer": 2, "explain": {"fr": "Le parc recommande les transports publics, le parking étant indisponible le 23.", "en": "The park recommends public transport, as parking is unavailable on the 23rd."}}
+      ]
+    }
+  }
+}
