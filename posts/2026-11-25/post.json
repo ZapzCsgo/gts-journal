@@ -1,0 +1,141 @@
+{
+  "date": "2026-11-25",
+  "newsDate": "2026-11-24",
+  "category": "societe",
+  "title": "Okayama : le tramway va enfin rouler jusqu'à la gare !",
+  "summary": {
+    "fr": "Le 24 novembre, le maire d'Okayama a annoncé qu'un tramway roulera pour la première fois jusque sur la place de la gare JR, lors d'un essai de nuit le 14 décembre. Les rails ont été prolongés d'environ 100 mètres et la nouvelle ligne doit ouvrir en mars 2027, une première extension du réseau depuis 1946.",
+    "en": "On November 24, Okayama's mayor announced that a tram will run onto the JR station square for the first time during a night test on December 14. The tracks have been extended by about 100 meters and the new section is due to open in March 2027, the network's first extension since 1946."
+  },
+  "sources": [
+    {"name": "KSB瀬戸内海放送", "url": "https://news.ksb.co.jp/article/17073663"},
+    {"name": "RNC西日本放送 (日テレNEWS)", "url": "https://news.ntv.co.jp/n/rnc/category/politics/rn6ae4d3bd38bb41fc889bc4354dd2dfcd"}
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "Un tramway moderne bas et arrondi de la compagnie Okaden (série 9200, surnommé MOMO) roulant dans une rue d'Okayama en direction de la gare, photographié en 2023",
+      "caption": "Un tramway MOMO d'Okaden en route vers la gare d'Okayama (photo de 2023).",
+      "credit": "Photo : MaedaAkihiko / CC BY-SA 4.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Okaden_Type9200-9201B.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Okaden_Type9200-9201B.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "MaedaAkihiko",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "{電車|でんしゃ}が {駅|えき}の {前|まえ}まで {来|き}ます",
+      "paragraphs": [
+        "{岡山|おかやま}の {町|まち}には {小|ちい}さい {電車|でんしゃ}が あります。{道|みち}の {上|うえ}を {走|はし}ります。",
+        "{来年|らいねん}の 3{月|がつ}から、この {電車|でんしゃ}が {大|おお}きい {駅|えき}の {前|まえ}まで {行|い}きます。12{月|がつ}14{日|にち}の {夜|よる}、はじめて {走|はし}って みます。"
+      ],
+      "vocab": [
+        {"word": "{電車|でんしゃ}", "meaning": {"fr": "train, tramway", "en": "train, tram"}},
+        {"word": "{駅|えき}", "meaning": {"fr": "gare", "en": "station"}},
+        {"word": "{道|みち}", "meaning": {"fr": "rue, route", "en": "road, street"}},
+        {"word": "{走|はし}る", "meaning": {"fr": "rouler, courir", "en": "to run"}},
+        {"word": "{夜|よる}", "meaning": {"fr": "nuit, soir", "en": "night"}},
+        {"word": "{来年|らいねん}", "meaning": {"fr": "l'année prochaine", "en": "next year"}}
+      ],
+      "quiz": [
+        {"question": "{電車|でんしゃ}は どこを {走|はし}りますか。", "choices": ["{道|みち}の {上|うえ}", "{山|やま}の {中|なか}", "{川|かわ}の {下|した}"], "answer": 0, "explain": {"fr": "C'est un tramway : il roule dans la rue.", "en": "It is a tram: it runs on the street."}},
+        {"question": "12{月|がつ}14{日|にち}の いつ {走|はし}って みますか。", "choices": ["{朝|あさ}", "{昼|ひる}", "{夜|よる}"], "answer": 2, "explain": {"fr": "L'essai a lieu le soir du 14 décembre.", "en": "The test takes place on the night of December 14."}},
+        {"question": "いつから {駅|えき}の {前|まえ}まで {行|い}きますか。", "choices": ["きょうから", "{来年|らいねん}の 3{月|がつ}から", "{来年|らいねん}の 12{月|がつ}から"], "answer": 1, "explain": {"fr": "Le service doit commencer en mars de l'année prochaine.", "en": "Service is due to start next March."}}
+      ]
+    },
+    "N4": {
+      "title": "{路面電車|ろめんでんしゃ}が {岡山駅|おかやまえき}の {広場|ひろば}に {入|はい}ります",
+      "paragraphs": [
+        "{岡山市|おかやまし}では、{道|みち}を {走|はし}る {路面電車|ろめんでんしゃ}が {人気|にんき}です。",
+        "{市|し}は {今|いま}、{電車|でんしゃ}の {線路|せんろ}を {約|やく}100メートル {延|の}ばしています。",
+        "そうすると、{電車|でんしゃ}が JR{岡山駅|おかやまえき}の {前|まえ}の {広場|ひろば}まで {入|はい}れるようになります。",
+        "11{月|がつ}24{日|にち}、{市長|しちょう}が「12{月|がつ}14{日|にち}に {試験|しけん}で {走|はし}らせます」と {話|はな}しました。",
+        "{最後|さいご}のバスが {出|で}た {後|あと}、{夜|よる}10{時|じ}40{分|ぷん}から {始|はじ}めるそうです。",
+        "{本当|ほんとう}に {乗|の}れるのは、{来年|らいねん}の 3{月|がつ}からです。"
+      ],
+      "vocab": [
+        {"word": "{路面電車|ろめんでんしゃ}", "meaning": {"fr": "tramway", "en": "streetcar, tram"}},
+        {"word": "{線路|せんろ}", "meaning": {"fr": "voie ferrée, rails", "en": "railway track"}},
+        {"word": "{延|の}ばす", "meaning": {"fr": "prolonger", "en": "to extend"}},
+        {"word": "{広場|ひろば}", "meaning": {"fr": "place, esplanade", "en": "square, plaza"}},
+        {"word": "{市長|しちょう}", "meaning": {"fr": "maire", "en": "mayor"}},
+        {"word": "{試験|しけん}", "meaning": {"fr": "essai, test", "en": "test"}}
+      ],
+      "quiz": [
+        {"question": "{線路|せんろ}を どのぐらい {延|の}ばしますか。", "choices": ["{約|やく}10メートル", "{約|やく}100メートル", "{約|やく}1キロ"], "answer": 1, "explain": {"fr": "Les rails sont prolongés d'environ 100 mètres.", "en": "The tracks are extended by about 100 meters."}},
+        {"question": "どうして {夜|よる}10{時|じ}40{分|ぷん}から {試験|しけん}をしますか。", "choices": ["{最後|さいご}のバスが {出|で}た {後|あと}だから", "{電車|でんしゃ}が {新|あたら}しいから", "{市長|しちょう}が {乗|の}りたいから"], "answer": 0, "explain": {"fr": "L'essai commence après le départ du dernier bus de la place.", "en": "The test starts after the last bus has left the square."}},
+        {"question": "みんなが {乗|の}れるのは いつからですか。", "choices": ["12{月|がつ}14{日|にち}から", "11{月|がつ}24{日|にち}から", "{来年|らいねん}の 3{月|がつ}から"], "answer": 2, "explain": {"fr": "L'ouverture au public est prévue en mars 2027.", "en": "Public service is planned for March 2027."}}
+      ]
+    },
+    "N3": {
+      "title": "{路面電車|ろめんでんしゃ}、ついにJR{岡山駅前|おかやまえきまえ}{広場|ひろば}へ　12{月|がつ}に{試験|しけん}{走行|そうこう}",
+      "paragraphs": [
+        "{岡山市|おかやまし}の{大森|おおもり}{雅夫|まさお}{市長|しちょう}は24{日|にち}の{会見|かいけん}で、{路面電車|ろめんでんしゃ}を12{月|がつ}14{日|にち}に{初|はじ}めてJR{岡山駅|おかやまえき}の{駅前|えきまえ}{広場|ひろば}まで{走|はし}らせると{発表|はっぴょう}した。{今|いま}の{電停|でんてい}から{線路|せんろ}を{約|やく}100メートル{延|の}ばし、{広場|ひろば}に{新|あたら}しい{停留所|ていりゅうじょ}を{作|つく}る{計画|けいかく}で、{線路|せんろ}を{敷|し}く{工事|こうじ}はすでに{終|お}わっている。",
+        "{試験|しけん}{走行|そうこう}は{最終|さいしゅう}バスが{出|で}た{後|あと}の{午後|ごご}10{時|じ}40{分|ぷん}から{行|おこな}われ、レールの{状態|じょうたい}や{電車|でんしゃ}が{止|と}まる{位置|いち}などを{確|たし}かめる。JRとの{乗|の}り{換|か}えを{便利|べんり}で{安全|あんぜん}にするのが{目的|もくてき}で、{開業|かいぎょう}は{来年|らいねん}3{月|がつ}の{予定|よてい}だ。"
+      ],
+      "vocab": [
+        {"word": "{会見|かいけん}", "meaning": {"fr": "conférence de presse", "en": "press conference"}},
+        {"word": "{発表|はっぴょう}する", "meaning": {"fr": "annoncer", "en": "to announce"}},
+        {"word": "{停留所|ていりゅうじょ}", "meaning": {"fr": "arrêt (de tram, de bus)", "en": "stop (tram, bus)"}},
+        {"word": "{走行|そうこう}", "meaning": {"fr": "circulation, marche", "en": "running, travel"}},
+        {"word": "{乗|の}り{換|か}え", "meaning": {"fr": "correspondance", "en": "transfer"}},
+        {"word": "{確|たし}かめる", "meaning": {"fr": "vérifier", "en": "to check"}},
+        {"word": "{開業|かいぎょう}", "meaning": {"fr": "mise en service", "en": "opening (of a line)"}}
+      ],
+      "quiz": [
+        {"question": "{試験|しけん}{走行|そうこう}で{確|たし}かめることは{何|なん}ですか。", "choices": ["{電車|でんしゃ}の{値段|ねだん}", "レールの{状態|じょうたい}や{止|と}まる{位置|いち}", "{駅|えき}の{店|みせ}の{数|かず}"], "answer": 1, "explain": {"fr": "On vérifie l'état des rails et la position d'arrêt des tramways.", "en": "They check the rails and where the trams stop."}},
+        {"question": "この{計画|けいかく}の{目的|もくてき}は{何|なん}ですか。", "choices": ["JRとの{乗|の}り{換|か}えを{便利|べんり}で{安全|あんぜん}にすること", "バスをなくすこと", "{新|あたら}しい{駅|えき}を{作|つく}ること"], "answer": 0, "explain": {"fr": "Le but est de rendre la correspondance avec la JR plus pratique et plus sûre.", "en": "The goal is a more convenient and safer transfer to JR trains."}},
+        {"question": "{線路|せんろ}を{敷|し}く{工事|こうじ}はどうなっていますか。", "choices": ["まだ{始|はじ}まっていない", "{来年|らいねん}{始|はじ}まる", "もう{終|お}わっている"], "answer": 2, "explain": {"fr": "La pose des rails est déjà terminée, d'où l'essai.", "en": "Track laying is already finished, hence the test."}}
+      ]
+    },
+    "N2": {
+      "title": "{岡山|おかやま}の{路面電車|ろめんでんしゃ}、{駅前|えきまえ}{広場|ひろば}{乗|の}り{入|い}れへ　{延伸|えんしん}は1946{年|ねん}{以来|いらい}",
+      "paragraphs": [
+        "{岡山市|おかやまし}は24{日|にち}、JR{岡山駅|おかやまえき}{前|まえ}{広場|ひろば}への{路面電車|ろめんでんしゃ}の{乗|の}り{入|い}れに{向|む}けて、12{月|がつ}14{日|にち}の{夜|よる}に{実際|じっさい}の{車両|しゃりょう}を{新|あら}たな{電停|でんてい}まで{走|はし}らせる{試験|しけん}{運転|うんてん}を{行|おこな}うと{発表|はっぴょう}した。{現在|げんざい}の「{岡山駅前|おかやまえきまえ}」{電停|でんてい}から{駅|えき}の{方向|ほうこう}へ{軌道|きどう}を{約|やく}100メートル{延|の}ばすもので、{路面電車|ろめんでんしゃ}の{延伸|えんしん}は1946{年|ねん}{以来|いらい}となる。",
+        "{大森|おおもり}{雅夫|まさお}{市長|しちょう}によると、{線路|せんろ}の{敷設|ふせつ}が{完了|かんりょう}したことを{受|う}けて{実施|じっし}するもので、{駅前|えきまえ}を{発着|はっちゃく}する{最終|さいしゅう}バスが{出発|しゅっぱつ}した{後|あと}の{午後|ごご}10{時|じ}40{分|ぷん}から、レールの{施工|せこう}{状況|じょうきょう}や{停車|ていしゃ}{位置|いち}などを{点検|てんけん}する。",
+        "{事業|じぎょう}の{目的|もくてき}は、JRとの{乗|の}り{継|つ}ぎの{利便性|りべんせい}と{安全性|あんぜんせい}を{高|たか}めることで、{総|そう}{事業費|じぎょうひ}はおよそ122{億|おく}{円|えん}に{上|のぼ}る。{来年|らいねん}3{月|がつ}の{開業|かいぎょう}が{実現|じつげん}すれば、{電車|でんしゃ}を{降|お}りてすぐ{駅|えき}に{入|はい}れるようになり、{観光客|かんこうきゃく}にとっても{便利|べんり}になりそうだ。"
+      ],
+      "vocab": [
+        {"word": "{乗|の}り{入|い}れ", "meaning": {"fr": "entrée d'une ligne dans une gare", "en": "running into (a station)"}},
+        {"word": "{延伸|えんしん}", "meaning": {"fr": "prolongement (d'une ligne)", "en": "extension (of a line)"}},
+        {"word": "{車両|しゃりょう}", "meaning": {"fr": "véhicule, rame", "en": "rolling stock, car"}},
+        {"word": "{軌道|きどう}", "meaning": {"fr": "voie (ferrée)", "en": "track"}},
+        {"word": "{敷設|ふせつ}", "meaning": {"fr": "pose (de rails)", "en": "laying (of tracks)"}},
+        {"word": "{利便性|りべんせい}", "meaning": {"fr": "commodité", "en": "convenience"}},
+        {"word": "{事業費|じぎょうひ}", "meaning": {"fr": "coût du projet", "en": "project cost"}}
+      ],
+      "quiz": [
+        {"question": "{路面電車|ろめんでんしゃ}の{延伸|えんしん}は、いつ{以来|いらい}ですか。", "choices": ["1946{年|ねん}", "1964{年|ねん}", "2006{年|ねん}"], "answer": 0, "explain": {"fr": "C'est le premier prolongement depuis 1946.", "en": "It is the first extension since 1946."}},
+        {"question": "{総|そう}{事業費|じぎょうひ}はおよそいくらですか。", "choices": ["12{億|おく}{円|えん}", "122{億|おく}{円|えん}", "1220{億|おく}{円|えん}"], "answer": 1, "explain": {"fr": "Le projet coûte environ 12,2 milliards de yens.", "en": "The project costs about 12.2 billion yen."}},
+        {"question": "{試験|しけん}{運転|うんてん}の{時間|じかん}について{正|ただ}しいものはどれですか。", "choices": ["{朝|あさ}の{始発|しはつ}バスの{前|まえ}に{行|おこな}う", "{昼間|ひるま}に{行|おこな}う", "{最終|さいしゅう}バスの{出発|しゅっぱつ}{後|ご}に{行|おこな}う"], "answer": 2, "explain": {"fr": "L'essai démarre à 22 h 40, après le dernier bus.", "en": "The test starts at 10:40 p.m., after the last bus."}}
+      ]
+    },
+    "N1": {
+      "title": "{岡山|おかやま}{路面電車|ろめんでんしゃ}、{悲願|ひがん}の{駅前|えきまえ}{広場|ひろば}{乗|の}り{入|い}れへ　12{月|がつ}14{日|にち}に{試運転|しうんてん}",
+      "paragraphs": [
+        "{岡山市|おかやまし}の{大森|おおもり}{雅夫|まさお}{市長|しちょう}は24{日|にち}の{定例|ていれい}{会見|かいけん}で、JR{岡山駅|おかやまえき}{東口|ひがしぐち}{駅前|えきまえ}{広場|ひろば}への{路面電車|ろめんでんしゃ}{乗|の}り{入|い}れ{事業|じぎょう}をめぐり、12{月|がつ}14{日|にち}{夜|よる}に{車両|しゃりょう}を{初|はじ}めて{広場|ひろば}{内|ない}の{新|しん}{電停|でんてい}まで{走行|そうこう}させる{試運転|しうんてん}を{実施|じっし}すると{明|あき}らかにした。{既存|きそん}の{岡山駅前|おかやまえきまえ}{電停|でんてい}から{軌道|きどう}を{約|やく}100メートル{延|の}ばす{計画|けいかく}で、{路面電車|ろめんでんしゃ}の{延伸|えんしん}は{戦後|せんご}{間|ま}もない1946{年|ねん}{以来|いらい}、{約|やく}80{年|ねん}ぶりとなる。",
+        "{試運転|しうんてん}は{軌道|きどう}の{敷設|ふせつ}{完了|かんりょう}を{受|う}けたもので、{駅前|えきまえ}を{発着|はっちゃく}する{路線|ろせん}バスの{最終|さいしゅう}{便|びん}が{出|で}た{後|あと}の{午後|ごご}10{時|じ}40{分|ぷん}から、レールの{施工|せこう}{状況|じょうきょう}や{停車|ていしゃ}{位置|いち}などを{入念|にゅうねん}に{確認|かくにん}する{段取|だんど}りだ。",
+        "{同|どう}{事業|じぎょう}は、JRと{路面電車|ろめんでんしゃ}を{乗|の}り{継|つ}ぐ{利用者|りようしゃ}の{利便性|りべんせい}と{安全性|あんぜんせい}の{向上|こうじょう}を{狙|ねら}ったもので、{総|そう}{事業費|じぎょうひ}は{約|やく}122{億|おく}{円|えん}。{来年|らいねん}3{月|がつ}の{開業|かいぎょう}に{向|む}け、{地方|ちほう}{都市|とし}の{公共|こうきょう}{交通|こうつう}{再生|さいせい}のモデルケースとしても{注目|ちゅうもく}を{集|あつ}めそうだ。"
+      ],
+      "vocab": [
+        {"word": "{悲願|ひがん}", "meaning": {"fr": "souhait de longue date", "en": "long-cherished wish"}},
+        {"word": "{定例|ていれい}{会見|かいけん}", "meaning": {"fr": "conférence de presse régulière", "en": "regular press conference"}},
+        {"word": "{試運転|しうんてん}", "meaning": {"fr": "marche d'essai", "en": "test run"}},
+        {"word": "{既存|きそん}", "meaning": {"fr": "existant", "en": "existing"}},
+        {"word": "{入念|にゅうねん}", "meaning": {"fr": "minutieux", "en": "careful, thorough"}},
+        {"word": "{段取|だんど}り", "meaning": {"fr": "organisation, programme", "en": "arrangements, plan"}},
+        {"word": "{再生|さいせい}", "meaning": {"fr": "renouveau, revitalisation", "en": "revitalization"}}
+      ],
+      "quiz": [
+        {"question": "この{発表|はっぴょう}はどのような{場|ば}で{行|おこな}われたか。", "choices": ["{市長|しちょう}の{定例|ていれい}{会見|かいけん}", "JRの{株主|かぶぬし}{総会|そうかい}", "{国会|こっかい}の{委員会|いいんかい}"], "answer": 0, "explain": {"fr": "Le maire l'a annoncé lors de sa conférence de presse régulière.", "en": "The mayor announced it at his regular press conference."}},
+        {"question": "{本文|ほんぶん}によると、{同|どう}{事業|じぎょう}が{狙|ねら}っているのは{何|なん}か。", "choices": ["{運賃|うんちん}の{値下|ねさ}げ", "{乗|の}り{継|つ}ぎの{利便性|りべんせい}と{安全性|あんぜんせい}の{向上|こうじょう}", "{電車|でんしゃ}の{本数|ほんすう}の{倍増|ばいぞう}"], "answer": 1, "explain": {"fr": "Le projet vise une correspondance plus pratique et plus sûre avec la JR.", "en": "The project aims at a more convenient and safer transfer with JR."}},
+        {"question": "「80{年|ねん}ぶり」が{指|さ}すものは{何|なん}か。", "choices": ["{新|あたら}しい{車両|しゃりょう}の{導入|どうにゅう}", "{岡山駅|おかやまえき}の{改築|かいちく}", "{路面電車|ろめんでんしゃ}の{延伸|えんしん}"], "answer": 2, "explain": {"fr": "C'est le premier prolongement du tramway depuis 1946, il y a environ 80 ans.", "en": "It is the tram's first extension since 1946, about 80 years ago."}}
+      ]
+    }
+  }
+}

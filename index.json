@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "date": "2026-11-25",
+      "title": "Okayama : le tramway va enfin rouler jusqu'à la gare !",
+      "category": "societe",
+      "cover": "cover.webp"
+    },
+    {
       "date": "2026-11-23",
       "title": "À Okinawa, le palais de Shuri retrouve ses couleurs !",
       "category": "culture",
