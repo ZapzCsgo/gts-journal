@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-26",
+  "newsDate": "2026-11-25",
+  "category": "sport",
+  "title": "Baseball : Sendai, première équipe du Tohoku championne universitaire du Japon !",
+  "summary": {
+    "fr": "Le 25 novembre à Tokyo, l'université de Sendai a battu l'université de commerce d'Osaka 7 à 1 en finale du tournoi de baseball Meiji Jingu. C'est la toute première fois qu'une équipe de la région du Tohoku remporte ce titre, grâce à un lanceur vedette qui a tenu bon malgré un doigt abîmé.",
+    "en": "On November 25 in Tokyo, Sendai University beat Osaka University of Commerce 7-1 in the final of the Meiji Jingu baseball tournament. It is the first time ever that a team from the Tohoku region has won this title, thanks to an ace pitcher who kept going despite a sore finger."
+  },
+  "sources": [
+    {"name": "日テレNEWS (ミヤギテレビ)", "url": "https://news.ntv.co.jp/category/sports/mmb22cb4c2373b452cba7c7d1cb3c5ac59"},
+    {"name": "時事ドットコム", "url": "https://jiji.com/jc/article?g=spo&k=2026112500937"},
+    {"name": "デイリースポーツ", "url": "https://daily.co.jp/baseball/2026/11/26/0021073653.shtml"}
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "Vue aérienne du stade de baseball Meiji Jingu à Tokyo, avec son terrain en forme d'éventail entouré de tribunes",
+      "caption": "Le stade Meiji Jingu à Tokyo, où s'est jouée la finale (vue aérienne).",
+      "credit": "Photo : Arne Müseler / CC BY-SA 3.0 de",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Meiji_Jingu_Stadium_aerial_view.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Meiji_Jingu_Stadium_aerial_view.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "Arne Müseler",
+        "license": "CC BY-SA 3.0 de",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "{仙台|せんだい}の {大学|だいがく}が {野球|やきゅう}で {一番|いちばん}に なりました",
+      "paragraphs": [
+        "きのう、{東京|とうきょう}で {大学|だいがく}の {野球|やきゅう}の しあいが ありました。",
+        "{仙台|せんだい}の {大学|だいがく}が 7{対|たい}1で {勝|か}ちました。はじめて {一番|いちばん}に なりました。",
+        "ピッチャーの おおしろさんは とても がんばりました。みんな とても うれしかったです。"
+      ],
+      "vocab": [
+        {"word": "{大学|だいがく}", "meaning": {"fr": "université", "en": "university"}},
+        {"word": "{野球|やきゅう}", "meaning": {"fr": "baseball", "en": "baseball"}},
+        {"word": "しあい", "meaning": {"fr": "match", "en": "match, game"}},
+        {"word": "{勝|か}つ", "meaning": {"fr": "gagner", "en": "to win"}},
+        {"word": "{一番|いちばん}", "meaning": {"fr": "le premier, numéro un", "en": "number one, first"}},
+        {"word": "うれしい", "meaning": {"fr": "content, heureux", "en": "happy, glad"}}
+      ],
+      "quiz": [
+        {"question": "どこで しあいが ありましたか。", "choices": ["{東京|とうきょう}", "{仙台|せんだい}", "おおさか"], "answer": 0, "explain": {"fr": "La finale a eu lieu à Tokyo.", "en": "The final was held in Tokyo."}},
+        {"question": "{仙台|せんだい}の {大学|だいがく}は いくつ たい いくつで {勝|か}ちましたか。", "choices": ["1{対|たい}7", "7{対|たい}1", "7{対|たい}0"], "answer": 1, "explain": {"fr": "Sendai a gagné 7 à 1.", "en": "Sendai won 7-1."}},
+        {"question": "{仙台|せんだい}の {大学|だいがく}は {前|まえ}にも {一番|いちばん}に なりましたか。", "choices": ["はい、なんかいも なりました", "いいえ、はじめてです", "はい、きょねん なりました"], "answer": 1, "explain": {"fr": "C'est leur toute première victoire.", "en": "It is their very first title."}}
+      ]
+    },
+    "N4": {
+      "title": "{仙台大|せんだいだい}が {初|はじ}めて {大学|だいがく}{野球|やきゅう}の {日本一|にっぽんいち}に！",
+      "paragraphs": [
+        "11{月|がつ}25{日|にち}、{東京|とうきょう}の {神宮球場|じんぐうきゅうじょう}で、{大学|だいがく}{野球|やきゅう}の {大会|たいかい}の {決勝|けっしょう}が ありました。",
+        "{宮城県|みやぎけん}の {仙台大学|せんだいだいがく}と {大阪|おおさか}の {大学|だいがく}が {試合|しあい}を しました。",
+        "{仙台大|せんだいだい}は 7{対|たい}1で {勝|か}って、{初|はじ}めて {優勝|ゆうしょう}しました。",
+        "{東北|とうほく}の チームが この {大会|たいかい}で {優勝|ゆうしょう}するのは、{初|はじ}めてだそうです。",
+        "エースの {大城|おおしろ}{投手|とうしゅ}は {指|ゆび}が {痛|いた}かったのに、145{球|きゅう}も {投|な}げました。",
+        "{試合|しあい}の {後|あと}、「{日本一|にっぽんいち}に なれて よかった」と {話|はな}しました。"
+      ],
+      "vocab": [
+        {"word": "{決勝|けっしょう}", "meaning": {"fr": "finale", "en": "final"}},
+        {"word": "{試合|しあい}", "meaning": {"fr": "match", "en": "match, game"}},
+        {"word": "{優勝|ゆうしょう}する", "meaning": {"fr": "remporter le titre", "en": "to win the championship"}},
+        {"word": "{初|はじ}めて", "meaning": {"fr": "pour la première fois", "en": "for the first time"}},
+        {"word": "{投|な}げる", "meaning": {"fr": "lancer", "en": "to throw, to pitch"}},
+        {"word": "{痛|いた}い", "meaning": {"fr": "avoir mal, douloureux", "en": "painful, sore"}},
+        {"word": "{日本一|にっぽんいち}", "meaning": {"fr": "le meilleur du Japon", "en": "best in Japan"}}
+      ],
+      "quiz": [
+        {"question": "{決勝|けっしょう}は どこで ありましたか。", "choices": ["{大阪|おおさか}の {球場|きゅうじょう}", "{東京|とうきょう}の {神宮球場|じんぐうきゅうじょう}", "{仙台|せんだい}の {球場|きゅうじょう}"], "answer": 1, "explain": {"fr": "La finale s'est jouée au stade Jingu, à Tokyo.", "en": "The final was played at Jingu Stadium in Tokyo."}},
+        {"question": "{東北|とうほく}の チームが この {大会|たいかい}で {優勝|ゆうしょう}したのは {何回目|なんかいめ}ですか。", "choices": ["{初|はじ}めて", "2{回目|かいめ}", "5{回目|かいめ}"], "answer": 0, "explain": {"fr": "C'est la première fois pour une équipe du Tohoku.", "en": "It is the first time for a Tohoku team."}},
+        {"question": "{大城|おおしろ}{投手|とうしゅ}は {何球|なんきゅう} {投|な}げましたか。", "choices": ["100{球|きゅう}", "125{球|きゅう}", "145{球|きゅう}"], "answer": 2, "explain": {"fr": "Il a lancé 145 fois malgré la douleur.", "en": "He threw 145 pitches despite the pain."}}
+      ]
+    },
+    "N3": {
+      "title": "{仙台大|せんだいだい}、{東北|とうほく}のチームとして{初|はじ}めての{日本一|にっぽんいち}",
+      "paragraphs": [
+        "{秋|あき}の{大学野球|だいがくやきゅう}で{日本一|にっぽんいち}を{決|き}める{明治神宮野球大会|めいじじんぐうやきゅうたいかい}の{決勝|けっしょう}が、25{日|にち}に{東京|とうきょう}の{神宮球場|じんぐうきゅうじょう}で{行|おこな}われました。{宮城県|みやぎけん}の{仙台大学|せんだいだいがく}は、ことしのドラフトで4{人|にん}がプロに{選|えら}ばれた{大阪商業大学|おおさかしょうぎょうだいがく}と{対戦|たいせん}し、7{対|たい}1で{勝|か}って{初|はじ}めて{優勝|ゆうしょう}しました。{東北|とうほく}のチームが{優勝|ゆうしょう}したのは、この{大会|たいかい}の{歴史|れきし}で{初|はじ}めてです。",
+        "{活躍|かつやく}したのは、3{年生|ねんせい}のエース、{大城海翔|おおしろかいと}{投手|とうしゅ}です。{準決勝|じゅんけっしょう}で{指|ゆび}のマメがつぶれてしまいましたが、9{回|かい}の{途中|とちゅう}まで{投|な}げて、{取|と}られた{点|てん}は1{点|てん}だけでした。{試合|しあい}の{後|あと}、チームのみんなに{胴上|どうあ}げされた{大城|おおしろ}{投手|とうしゅ}は、「{恥|は}ずかしかった」と{照|て}れていました。"
+      ],
+      "vocab": [
+        {"word": "{決|き}める", "meaning": {"fr": "décider, désigner", "en": "to decide"}},
+        {"word": "{対戦|たいせん}する", "meaning": {"fr": "affronter", "en": "to play against"}},
+        {"word": "{歴史|れきし}", "meaning": {"fr": "histoire", "en": "history"}},
+        {"word": "{活躍|かつやく}する", "meaning": {"fr": "briller, se distinguer", "en": "to play an active role"}},
+        {"word": "{途中|とちゅう}", "meaning": {"fr": "en cours de route, au milieu", "en": "midway"}},
+        {"word": "{胴上|どうあ}げ", "meaning": {"fr": "lancer quelqu'un en l'air pour fêter une victoire", "en": "tossing someone in the air to celebrate"}},
+        {"word": "{恥|は}ずかしい", "meaning": {"fr": "gêné, avoir honte", "en": "embarrassed"}}
+      ],
+      "quiz": [
+        {"question": "{大阪商業大学|おおさかしょうぎょうだいがく}はどんなチームですか。", "choices": ["{初|はじ}めて{大会|たいかい}に{出|で}たチーム", "ことしのドラフトで4{人|にん}がプロに{選|えら}ばれたチーム", "{東北|とうほく}のチーム"], "answer": 1, "explain": {"fr": "Quatre de ses joueurs ont été choisis à la draft professionnelle cette année.", "en": "Four of its players were picked in this year's pro draft."}},
+        {"question": "{大城|おおしろ}{投手|とうしゅ}は{準決勝|じゅんけっしょう}でどうなりましたか。", "choices": ["{指|ゆび}のマメがつぶれた", "{足|あし}をけがした", "{試合|しあい}に{出|で}なかった"], "answer": 0, "explain": {"fr": "Une ampoule à son doigt s'est percée en demi-finale.", "en": "A blister on his finger burst in the semifinal."}},
+        {"question": "{胴上|どうあ}げのあと、{大城|おおしろ}{投手|とうしゅ}は{何|なん}と{言|い}いましたか。", "choices": ["「つかれた」", "「もっと{投|な}げたい」", "「{恥|は}ずかしかった」"], "answer": 2, "explain": {"fr": "Timide, il a dit que c'était gênant.", "en": "Shy, he said it was embarrassing."}}
+      ]
+    },
+    "N2": {
+      "title": "{仙台大|せんだいだい}が{悲願|ひがん}の{初優勝|はつゆうしょう}　{東北勢|とうほくぜい}が{神宮|じんぐう}の{頂点|ちょうてん}に",
+      "paragraphs": [
+        "{第|だい}57{回|かい}{明治神宮野球大会|めいじじんぐうやきゅうたいかい}は25{日|にち}に{最終日|さいしゅうび}を{迎|むか}え、{大学|だいがく}の{部|ぶ}の{決勝|けっしょう}で{東北|とうほく}3{連盟|れんめい}{代表|だいひょう}の{仙台大|せんだいだい}が{関西|かんさい}5{連盟|れんめい}{代表|だいひょう}の{大阪商業大|おおさかしょうぎょうだい}を7{対|たい}1で{破|やぶ}り、{初優勝|はつゆうしょう}を{果|は}たした。4{年|ねん}ぶり3{回目|かいめ}の{出場|しゅつじょう}で、{初|はじ}めて{進|すす}んだ{決勝|けっしょう}だった。{東北勢|とうほくぜい}にとっては5{度目|どめ}の{決勝|けっしょう}で{手|て}にした{初|はじ}めての{栄冠|えいかん}となった。",
+        "{試合|しあい}は2{回|かい}、ライト{線|せん}ぎりぎりに{落|お}ちるタイムリー{三塁打|さんるいだ}とスクイズで2{点|てん}を{先制|せんせい}。8{回|かい}には{押|お}し{出|だ}しなどで4{点|てん}を{加|くわ}え、{相手|あいて}を{突|つ}き{放|はな}した。{先発|せんぱつ}の{大城海翔|おおしろかいと}{投手|とうしゅ}は、{準決勝|じゅんけっしょう}でつぶれたマメの{影響|えいきょう}が{残|のこ}る{中|なか}で145{球|きゅう}を{投|な}げ、9{回|かい}{途中|とちゅう}まで1{失点|しってん}、9{奪三振|だつさんしん}に{抑|おさ}えた。",
+        "{高校野球|こうこうやきゅう}では2022{年|ねん}{夏|なつ}に{仙台育英|せんだいいくえい}が{東北勢|とうほくぜい}として{初|はじ}めて{甲子園|こうしえん}で{優勝|ゆうしょう}しており、{大学野球|だいがくやきゅう}でも{東北|とうほく}のレベルは{着実|ちゃくじつ}に{上|あ}がっている。{大城|おおしろ}{投手|とうしゅ}は「{日本一|にっぽんいち}を{目指|めざ}してやってきたので、なれてよかった」と{喜|よろこ}びを{語|かた}った。"
+      ],
+      "vocab": [
+        {"word": "{悲願|ひがん}", "meaning": {"fr": "rêve longtemps attendu", "en": "long-cherished wish"}},
+        {"word": "{果|は}たす", "meaning": {"fr": "accomplir, réaliser", "en": "to accomplish"}},
+        {"word": "{出場|しゅつじょう}", "meaning": {"fr": "participation (à une compétition)", "en": "participation"}},
+        {"word": "{先制|せんせい}", "meaning": {"fr": "ouvrir le score", "en": "scoring first"}},
+        {"word": "{影響|えいきょう}", "meaning": {"fr": "effet, influence", "en": "effect, influence"}},
+        {"word": "{抑|おさ}える", "meaning": {"fr": "contenir, limiter", "en": "to hold down"}},
+        {"word": "{着実|ちゃくじつ}に", "meaning": {"fr": "régulièrement, sûrement", "en": "steadily"}},
+        {"word": "{目指|めざ}す", "meaning": {"fr": "viser", "en": "to aim for"}}
+      ],
+      "quiz": [
+        {"question": "{仙台大|せんだいだい}の{今回|こんかい}の{出場|しゅつじょう}について{正|ただ}しいのはどれか。", "choices": ["{初出場|はつしゅつじょう}だった", "4{年|ねん}ぶり3{回目|かいめ}の{出場|しゅつじょう}だった", "2{年連続|ねんれんぞく}の{出場|しゅつじょう}だった"], "answer": 1, "explain": {"fr": "C'était sa 3e participation, la première depuis 4 ans.", "en": "It was its 3rd appearance, the first in 4 years."}},
+        {"question": "{仙台大|せんだいだい}はどのように{先制|せんせい}したか。", "choices": ["ホームラン2{本|ほん}で", "タイムリー{三塁打|さんるいだ}とスクイズで", "{押|お}し{出|だ}しで"], "answer": 1, "explain": {"fr": "À la 2e manche, un triple puis un amorti-sacrifice (squeeze).", "en": "In the 2nd inning, an RBI triple then a squeeze play."}},
+        {"question": "2022{年|ねん}{夏|なつ}、{東北勢|とうほくぜい}として{初|はじ}めて{甲子園|こうしえん}で{優勝|ゆうしょう}したのはどこか。", "choices": ["{仙台大|せんだいだい}", "{大阪商業大|おおさかしょうぎょうだい}", "{仙台育英|せんだいいくえい}"], "answer": 2, "explain": {"fr": "Le lycée Sendai Ikuei a gagné le Koshien d'été 2022.", "en": "Sendai Ikuei High School won the summer Koshien in 2022."}}
+      ]
+    },
+    "N1": {
+      "title": "{仙台大|せんだいだい}、{東北勢初|とうほくぜいはつ}の{神宮制覇|じんぐうせいは}　{左腕|さわん}{大城|おおしろ}が145{球|きゅう}の{熱投|ねっとう}",
+      "paragraphs": [
+        "{秋|あき}の{大学日本一|だいがくにっぽんいち}を{争|あらそ}う{第|だい}57{回|かい}{明治神宮野球大会|めいじじんぐうやきゅうたいかい}は25{日|にち}、{東京|とうきょう}・{神宮球場|じんぐうきゅうじょう}で{最終日|さいしゅうび}を{迎|むか}えた。{大学|だいがく}の{部|ぶ}{決勝|けっしょう}は{仙台大|せんだいだい}（{東北|とうほく}3{連盟|れんめい}）が{大商大|だいしょうだい}（{関西|かんさい}5{連盟|れんめい}）を7{対|たい}1で{下|くだ}し、{初優勝|はつゆうしょう}を{飾|かざ}った。{東北勢|とうほくぜい}の{優勝|ゆうしょう}は{大会史上初|たいかいしじょうはつ}で、5{度目|どめ}の{決勝進出|けっしょうしんしゅつ}にしてようやく{悲願|ひがん}を{成就|じょうじゅ}させた{格好|かっこう}だ。",
+        "{原動力|げんどうりょく}となったのは、{来秋|らいしゅう}のドラフト1{位|い}{候補|こうほ}と{目|もく}される{最速|さいそく}152キロの{左腕|さわん}、{大城海翔|おおしろかいと}（3{年|ねん}）だ。{準決勝|じゅんけっしょう}でつぶれたマメが{癒|い}えきらない{状態|じょうたい}ながら145{球|きゅう}を{投|とう}じ、8{回|かい}3{分|ぶん}の1を4{安打|あんだ}1{失点|しってん}、9{奪三振|だつさんしん}。{今秋|こんしゅう}のドラフトで4{人|にん}が{指名|しめい}を{受|う}けた{大商大打線|だいしょうだいだせん}を{寄|よ}せ{付|つ}けなかった。{本人|ほんにん}は「{完全|かんぜん}に{治|なお}ってなかったけど、{気持|きも}ちで{投|な}げた」と{振|ふ}り{返|かえ}った。",
+        "{打線|だせん}は2{回|かい}に{適時三塁打|てきじさんるいだ}とスクイズで{主導権|しゅどうけん}を{握|にぎ}り、8{回|かい}にはDeNAからドラフト1{位|い}{指名|しめい}を{受|う}けた{相手|あいて}の{救援左腕|きゅうえんさわん}を{攻略|こうりゃく}して4{点|てん}を{奪|うば}い、{試合|しあい}を{決定付|けっていづ}けた。",
+        "2022{年|ねん}{夏|なつ}の{甲子園|こうしえん}における{仙台育英|せんだいいくえい}の{優勝|ゆうしょう}に{続|つづ}き、{大学球界|だいがくきゅうかい}でも{東北|とうほく}の{台頭|たいとう}は{顕著|けんちょ}だ。かつて「{白河|しらかわ}の{関|せき}を{越|こ}えられない」と{言|い}われた{東北|とうほく}の{野球|やきゅう}は、{大学|だいがく}の{舞台|ぶたい}でも{新|あら}たな{歴史|れきし}を{刻|きざ}んだ。"
+      ],
+      "vocab": [
+        {"word": "{制覇|せいは}", "meaning": {"fr": "conquête du titre", "en": "conquest, championship"}},
+        {"word": "{成就|じょうじゅ}", "meaning": {"fr": "réalisation (d'un vœu)", "en": "fulfillment"}},
+        {"word": "{原動力|げんどうりょく}", "meaning": {"fr": "moteur, force motrice", "en": "driving force"}},
+        {"word": "{癒|い}える", "meaning": {"fr": "guérir, cicatriser", "en": "to heal"}},
+        {"word": "{寄|よ}せ{付|つ}けない", "meaning": {"fr": "ne laisser aucune chance", "en": "to keep at bay"}},
+        {"word": "{攻略|こうりゃく}する", "meaning": {"fr": "venir à bout de", "en": "to crack, to conquer"}},
+        {"word": "{台頭|たいとう}", "meaning": {"fr": "montée en puissance", "en": "rise, emergence"}},
+        {"word": "{顕著|けんちょ}", "meaning": {"fr": "frappant, manifeste", "en": "remarkable, striking"}}
+      ],
+      "quiz": [
+        {"question": "{大城|おおしろ}{投手|とうしゅ}について{本文|ほんぶん}の{内容|ないよう}と{合|あ}うものはどれか。", "choices": ["{準決勝|じゅんけっしょう}のマメが{完治|かんち}した{状態|じょうたい}で{登板|とうばん}した", "マメが{癒|い}えきらないまま145{球|きゅう}を{投|とう}じた", "{完投|かんとう}して{無失点|むしってん}に{抑|おさ}えた"], "answer": 1, "explain": {"fr": "Son ampoule n'était pas guérie, il a quand même lancé 145 fois.", "en": "His blister had not healed, yet he threw 145 pitches."}},
+        {"question": "8{回|かい}に{仙台大打線|せんだいだいだせん}が{攻略|こうりゃく}したのは{誰|だれ}か。", "choices": ["{大商大|だいしょうだい}の{先発|せんぱつ}{右腕|うわん}", "DeNAからドラフト1{位|い}{指名|しめい}を{受|う}けた{救援左腕|きゅうえんさわん}", "{大商大|だいしょうだい}の4{番打者|ばんだしゃ}"], "answer": 1, "explain": {"fr": "Ils ont battu le lanceur de relève gaucher, 1er choix de la draft des DeNA.", "en": "They beat the left-handed reliever drafted 1st by DeNA."}},
+        {"question": "「{白河|しらかわ}の{関|せき}」の{一文|いちぶん}で{筆者|ひっしゃ}が{伝|つた}えたいことは{何|なに}か。", "choices": ["{東北|とうほく}の{野球|やきゅう}が{新|あら}たな{歴史|れきし}を{刻|きざ}んだこと", "{東北|とうほく}の{野球|やきゅう}の{実力|じつりょく}が{落|お}ちていること", "{大会|たいかい}が{白河|しらかわ}で{開|ひら}かれたこと"], "answer": 0, "explain": {"fr": "On disait que le baseball du Tohoku ne passait jamais la « barrière de Shirakawa » ; c'est fini.", "en": "Tohoku baseball was said never to cross the 'Shirakawa barrier'; that is now history."}}
+      ]
+    }
+  }
+}

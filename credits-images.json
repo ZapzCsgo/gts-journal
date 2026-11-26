@@ -2,6 +2,18 @@
   "_note": "Registre des photos du Journal : une entrée par image non créée par nous (origine, auteur, licence). Le plus récent en premier. Ajouter en tête, ne jamais supprimer.",
   "images": [
     {
+      "date": "2026-11-26",
+      "file": "cover.webp",
+      "credit": "Photo : Arne Müseler / CC BY-SA 3.0 de",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Meiji_Jingu_Stadium_aerial_view.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Meiji_Jingu_Stadium_aerial_view.jpg",
+      "origin": "Wikimedia Commons",
+      "author": "Arne Müseler",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
       "date": "2026-11-25",
       "file": "cover.webp",
       "credit": "Photo : MaedaAkihiko / CC BY-SA 4.0",

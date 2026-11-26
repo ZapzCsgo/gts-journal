@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "date": "2026-11-26",
+      "title": "Baseball : Sendai, première équipe du Tohoku championne universitaire du Japon !",
+      "category": "sport",
+      "cover": "cover.webp"
+    },
+    {
       "date": "2026-11-25",
       "title": "Okayama : le tramway va enfin rouler jusqu'à la gare !",
       "category": "societe",
