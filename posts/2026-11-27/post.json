@@ -1,0 +1,553 @@
+{
+  "date": "2026-11-27",
+  "newsDate": "2026-11-26",
+  "category": "culture",
+  "title": "« Jour du bon bain » : à Aomori, tout le monde au grand bain en tenue de bain !",
+  "summary": {
+    "fr": "Le 26 novembre, c'est le « jour du bon bain » au Japon, grâce à un jeu de mots sur les chiffres 11 et 26. Pour l'occasion, la célèbre source chaude de Sukayu, à Aomori, a prêté gratuitement des tenues de bain pour que chacun profite sans gêne de son immense bain mixte en bois, une tradition vieille de plus de 300 ans.",
+    "en": "November 26 is \"Good Bath Day\" in Japan, thanks to a pun on the numbers 11 and 26. For the occasion, the famous Sukayu hot spring in Aomori lent bathing clothes for free so everyone could comfortably enjoy its huge wooden mixed bath, a tradition more than 300 years old."
+  },
+  "sources": [
+    {
+      "name": "東奥日報 (Web東奥)",
+      "url": "https://www.toonippo.co.jp/articles/-/2411689"
+    },
+    {
+      "name": "nippon.com",
+      "url": "https://www.nippon.com/ja/articles/-/56882"
+    },
+    {
+      "name": "酸ヶ湯温泉旅館 (site officiel)",
+      "url": "https://sukayu.jp/"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "Les bâtiments en bois de la source chaude de Sukayu, à Aomori, sous une épaisse couche de neige en hiver",
+      "caption": "La source chaude de Sukayu, au pied des monts Hakkoda, sous la neige (décembre 2012).",
+      "credit": "Photo : Nogiuchi / CC BY-SA 3.0",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Sukayu_Onsen_Winter.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Sukayu_Onsen_Winter.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "Nogiuchi",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "11{月|がつ}26{日|にち}は 「いいふろの {日|ひ}」です",
+      "paragraphs": [
+        "11{月|がつ}26{日|にち}は 「いいふろの {日|ひ}」です。11、26は 「いい ふろ」と {読|よ}めます。",
+        "あおもりの {山|やま}に、とても {大|おお}きい おんせんが あります。{男|おとこ}の {人|ひと}も {女|おんな}の {人|ひと}も いっしょに {入|はい}ります。",
+        "この {日|ひ}、おんせんは ふろの ふくを ただで かしました。",
+        "{大阪|おおさか}の ちかくから {来|き}た ふうふは 「ふくが あって、あんしんでした。たのしかったです」と {言|い}いました。"
+      ],
+      "vocab": [
+        {
+          "word": "おんせん",
+          "meaning": {
+            "fr": "source chaude",
+            "en": "hot spring"
+          }
+        },
+        {
+          "word": "ふろ",
+          "meaning": {
+            "fr": "bain",
+            "en": "bath"
+          }
+        },
+        {
+          "word": "{山|やま}",
+          "meaning": {
+            "fr": "montagne",
+            "en": "mountain"
+          }
+        },
+        {
+          "word": "{大|おお}きい",
+          "meaning": {
+            "fr": "grand",
+            "en": "big"
+          }
+        },
+        {
+          "word": "いっしょに",
+          "meaning": {
+            "fr": "ensemble",
+            "en": "together"
+          }
+        },
+        {
+          "word": "ただ",
+          "meaning": {
+            "fr": "gratuit",
+            "en": "free (of charge)"
+          }
+        },
+        {
+          "word": "たのしい",
+          "meaning": {
+            "fr": "amusant, agréable",
+            "en": "fun, enjoyable"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "「いいふろの {日|ひ}」は なんがつ なんにちですか。",
+          "choices": [
+            "11{月|がつ}26{日|にち}",
+            "1{月|がつ}26{日|にち}",
+            "11{月|がつ}6{日|にち}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Le jour du bon bain, c'est le 26 novembre (11-26).",
+            "en": "Good Bath Day is November 26 (11-26)."
+          }
+        },
+        {
+          "question": "おんせんは どこに ありますか。",
+          "choices": [
+            "{海|うみ}の {近|ちか}く",
+            "あおもりの {山|やま}",
+            "とうきょうの {駅|えき}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La source chaude est dans les montagnes d'Aomori.",
+            "en": "The hot spring is in the mountains of Aomori."
+          }
+        },
+        {
+          "question": "この {日|ひ}、なにが ただでしたか。",
+          "choices": [
+            "ごはん",
+            "バス",
+            "ふろの ふく"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Les tenues de bain étaient prêtées gratuitement.",
+            "en": "The bathing clothes were lent for free."
+          }
+        }
+      ]
+    },
+    "N4": {
+      "title": "「いい{風呂|ふろ}の{日|ひ}」に {湯|ゆ}あみ{着|ぎ}を {無料|むりょう}で {貸|か}しました",
+      "paragraphs": [
+        "11{月|がつ}26{日|にち}は、11と26を「いい ふろ」と{読|よ}めるので、「いい{風呂|ふろ}の{日|ひ}」と{言|い}われています。",
+        "{青森市|あおもりし}の{酸ケ湯温泉|すかゆおんせん}には、{男性|だんせい}と{女性|じょせい}がいっしょに{入|はい}る{大|おお}きなお{風呂|ふろ}があります。",
+        "でも、ほかの{人|ひと}の{目|め}が{気|き}になって、{入|はい}りにくいと{思|おも}う{人|ひと}もいます。",
+        "そこで、この{日|ひ}は、お{風呂|ふろ}の{中|なか}で{着|き}る「{湯|ゆ}あみ{着|ぎ}」を{無料|むりょう}で{貸|か}しました。",
+        "{男性用|だんせいよう}は{短|みじか}いズボンで、{女性用|じょせいよう}はワンピースです。",
+        "はじめて{入|はい}った{夫婦|ふうふ}は「{湯|ゆ}あみ{着|ぎ}があったので、{安心|あんしん}できました。お{風呂|ふろ}で{話|はな}すのも{楽|たの}しかったです」と{話|はな}していました。"
+      ],
+      "vocab": [
+        {
+          "word": "{温泉|おんせん}",
+          "meaning": {
+            "fr": "source chaude",
+            "en": "hot spring"
+          }
+        },
+        {
+          "word": "{湯|ゆ}あみ{着|ぎ}",
+          "meaning": {
+            "fr": "tenue de bain (pour les sources chaudes)",
+            "en": "bathing garment"
+          }
+        },
+        {
+          "word": "{無料|むりょう}",
+          "meaning": {
+            "fr": "gratuit",
+            "en": "free of charge"
+          }
+        },
+        {
+          "word": "{貸|か}す",
+          "meaning": {
+            "fr": "prêter",
+            "en": "to lend"
+          }
+        },
+        {
+          "word": "{気|き}になる",
+          "meaning": {
+            "fr": "être gêné par, se soucier de",
+            "en": "to bother, to worry about"
+          }
+        },
+        {
+          "word": "{安心|あんしん}する",
+          "meaning": {
+            "fr": "être rassuré",
+            "en": "to feel at ease"
+          }
+        },
+        {
+          "word": "{夫婦|ふうふ}",
+          "meaning": {
+            "fr": "couple marié",
+            "en": "married couple"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "どうして11{月|がつ}26{日|にち}は「いい{風呂|ふろ}の{日|ひ}」ですか。",
+          "choices": [
+            "{温泉|おんせん}が{始|はじ}まった{日|ひ}だから",
+            "11と26を「いい ふろ」と{読|よ}めるから",
+            "{一番|いちばん}{寒|さむ}い{日|ひ}だから"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "C'est un jeu de mots : 1-1-2-6 peut se lire « ii-fu-ro », « bon bain ».",
+            "en": "It's a pun: 1-1-2-6 can be read \"ii-fu-ro\", \"good bath\"."
+          }
+        },
+        {
+          "question": "{女性用|じょせいよう}の{湯|ゆ}あみ{着|ぎ}は どんな{服|ふく}ですか。",
+          "choices": [
+            "ワンピース",
+            "{短|みじか}いズボン",
+            "{着物|きもの}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "La tenue des femmes est une robe d'une pièce, celle des hommes un short.",
+            "en": "The women's garment is a one-piece dress, the men's is shorts."
+          }
+        },
+        {
+          "question": "{夫婦|ふうふ}は どう{思|おも}いましたか。",
+          "choices": [
+            "お{湯|ゆ}が{熱|あつ}すぎた",
+            "{人|ひと}が{多|おお}すぎた",
+            "{安心|あんしん}できて、{楽|たの}しかった"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Le couple s'est senti rassuré et a aimé discuter dans le bain.",
+            "en": "The couple felt at ease and enjoyed chatting in the bath."
+          }
+        }
+      ]
+    },
+    "N3": {
+      "title": "{混浴|こんよく}の{文化|ぶんか}を{守|まも}れ！{酸ケ湯温泉|すかゆおんせん}で{湯|ゆ}あみ{着|ぎ}を{無料|むりょう}{貸|か}し{出|だ}し",
+      "paragraphs": [
+        "11{月|がつ}26{日|にち}は、{数字|すうじ}の{語呂|ごろ}{合|あ}わせで「いい{風呂|ふろ}の{日|ひ}」だ。この{日|ひ}、{青森市|あおもりし}の{山|やま}の{中|なか}にある{酸ケ湯温泉|すかゆおんせん}で、{入浴|にゅうよく}{用|よう}の{服|ふく}「{湯|ゆ}あみ{着|ぎ}」を{無料|むりょう}で{貸|か}し{出|だ}すイベントが{行|おこな}われた。{酸ケ湯|すかゆ}には300{年|ねん}{以上|いじょう}の{歴史|れきし}があり、{男女|だんじょ}がいっしょに{入|はい}る「{混浴|こんよく}」の{大|おお}きなお{風呂|ふろ}が{有名|ゆうめい}だ。",
+        "{混浴|こんよく}は{日本|にほん}の{古|ふる}い{文化|ぶんか}だが、{最近|さいきん}は{入|はい}りにくいと{感|かん}じる{人|ひと}が{増|ふ}え、{全国|ぜんこく}で{少|すく}なくなっている。そのため、{酸ケ湯|すかゆ}では2024{年|ねん}から{湯|ゆ}あみ{着|ぎ}のレンタルを{始|はじ}めた。{兵庫県|ひょうごけん}から{来|き}た{夫婦|ふうふ}は「{混浴|こんよく}は{初|はじ}めてだったが、{湯|ゆ}あみ{着|ぎ}があって{安心|あんしん}できた。そばで{話|はな}せて{楽|たの}しかった」と{笑顔|えがお}を{見|み}せた。"
+      ],
+      "vocab": [
+        {
+          "word": "{混浴|こんよく}",
+          "meaning": {
+            "fr": "bain mixte",
+            "en": "mixed bathing"
+          }
+        },
+        {
+          "word": "{語呂|ごろ}{合|あ}わせ",
+          "meaning": {
+            "fr": "jeu de mots sur les sons (souvent avec des chiffres)",
+            "en": "wordplay based on sounds"
+          }
+        },
+        {
+          "word": "{入浴|にゅうよく}",
+          "meaning": {
+            "fr": "bain, fait de se baigner",
+            "en": "bathing"
+          }
+        },
+        {
+          "word": "{貸|か}し{出|だ}す",
+          "meaning": {
+            "fr": "prêter, mettre à disposition",
+            "en": "to lend out"
+          }
+        },
+        {
+          "word": "{歴史|れきし}",
+          "meaning": {
+            "fr": "histoire",
+            "en": "history"
+          }
+        },
+        {
+          "word": "{増|ふ}える",
+          "meaning": {
+            "fr": "augmenter",
+            "en": "to increase"
+          }
+        },
+        {
+          "word": "{笑顔|えがお}",
+          "meaning": {
+            "fr": "sourire, visage souriant",
+            "en": "smiling face"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{酸ケ湯温泉|すかゆおんせん}の{歴史|れきし}は どのくらいですか。",
+          "choices": [
+            "30{年|ねん}{以上|いじょう}",
+            "100{年|ねん}ぐらい",
+            "300{年|ねん}{以上|いじょう}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Sukayu a plus de 300 ans d'histoire.",
+            "en": "Sukayu has more than 300 years of history."
+          }
+        },
+        {
+          "question": "{混浴|こんよく}が{少|すく}なくなっている{理由|りゆう}として、{正|ただ}しいのは どれですか。",
+          "choices": [
+            "{入|はい}りにくいと{感|かん}じる{人|ひと}が{増|ふ}えたから",
+            "お{湯|ゆ}が{出|で}なくなったから",
+            "{法律|ほうりつ}で{全部|ぜんぶ}{禁止|きんし}されたから"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "De plus en plus de gens trouvent les bains mixtes intimidants.",
+            "en": "More and more people feel uneasy about mixed baths."
+          }
+        },
+        {
+          "question": "{酸ケ湯|すかゆ}で{湯|ゆ}あみ{着|ぎ}のレンタルが{始|はじ}まったのは いつですか。",
+          "choices": [
+            "2014{年|ねん}",
+            "2024{年|ねん}",
+            "2026{年|ねん}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "La location de tenues de bain a commencé en 2024.",
+            "en": "Bathing garment rental started in 2024."
+          }
+        }
+      ]
+    },
+    "N2": {
+      "title": "「いい{風呂|ふろ}の{日|ひ}」、{酸ケ湯温泉|すかゆおんせん}が{湯|ゆ}あみ{着|ぎ}で{混浴|こんよく}{文化|ぶんか}をつなぐ",
+      "paragraphs": [
+        "{語呂|ごろ}{合|あ}わせで「いい{風呂|ふろ}の{日|ひ}」とされる11{月|がつ}26{日|にち}、{青森市|あおもりし}の{酸ケ湯温泉|すかゆおんせん}で、{入浴|にゅうよく}{専用|せんよう}の{衣服|いふく}「{湯|ゆ}あみ{着|ぎ}」を{無料|むりょう}で{貸|か}し{出|だ}すイベントが{開|ひら}かれた。{普段|ふだん}は{有料|ゆうりょう}のレンタルだが、この{日|ひ}は{誰|だれ}もが{気軽|きがる}に{試|ため}せるようにと{無料|むりょう}にした。{県内外|けんないがい}から{訪|おとず}れた{日帰|ひがえ}り{客|きゃく}らが、{周|まわ}りの{目|め}を{気|き}にせず{湯|ゆ}を{楽|たの}しんだ。",
+        "{八甲田山|はっこうださん}のふもとにある{酸ケ湯|すかゆ}は、{総|そう}ヒバ{造|づく}りで160{畳|じょう}もの{広|ひろ}さを{誇|ほこ}る{混浴|こんよく}の「ヒバ{千人風呂|せんにんぶろ}」で{知|し}られる。しかし、マナーの{問題|もんだい}などから{混浴|こんよく}を{避|さ}ける{人|ひと}が{増|ふ}え、{専門家|せんもんか}の{調査|ちょうさ}によると、{全国|ぜんこく}の{混浴|こんよく}は1993{年|ねん}の{約|やく}1200か{所|しょ}から2021{年|ねん}には{約|やく}500か{所|しょ}にまで{減|へ}ったという。",
+        "そこで{酸ケ湯|すかゆ}は{環境省|かんきょうしょう}と{実証|じっしょう}{実験|じっけん}を{重|かさ}ね、2024{年|ねん}から{湯|ゆ}あみ{着|ぎ}の{貸|か}し{出|だ}しを{本格的|ほんかくてき}に{始|はじ}めた。{今|いま}では{月|つき}に{約|やく}1600{着|ちゃく}が{利用|りよう}されている。{初|はじ}めて{混浴|こんよく}を{体験|たいけん}した{夫婦|ふうふ}は「{湯|ゆ}あみ{着|ぎ}のおかげで{安心|あんしん}でき、{会話|かいわ}も{楽|たの}しめた」と{話|はな}していた。"
+      ],
+      "vocab": [
+        {
+          "word": "{専用|せんよう}",
+          "meaning": {
+            "fr": "réservé à, spécial pour",
+            "en": "exclusive, dedicated"
+          }
+        },
+        {
+          "word": "{気軽|きがる}に",
+          "meaning": {
+            "fr": "sans façon, facilement",
+            "en": "casually, freely"
+          }
+        },
+        {
+          "word": "{日帰|ひがえ}り{客|きゃく}",
+          "meaning": {
+            "fr": "visiteur à la journée",
+            "en": "day visitor"
+          }
+        },
+        {
+          "word": "{誇|ほこ}る",
+          "meaning": {
+            "fr": "s'enorgueillir de, afficher fièrement",
+            "en": "to boast, to be proud of"
+          }
+        },
+        {
+          "word": "{避|さ}ける",
+          "meaning": {
+            "fr": "éviter",
+            "en": "to avoid"
+          }
+        },
+        {
+          "word": "{実証|じっしょう}{実験|じっけん}",
+          "meaning": {
+            "fr": "expérimentation grandeur nature",
+            "en": "field trial, pilot test"
+          }
+        },
+        {
+          "word": "{本格的|ほんかくてき}に",
+          "meaning": {
+            "fr": "pour de bon, à grande échelle",
+            "en": "in earnest, fully"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "ふだん、{湯|ゆ}あみ{着|ぎ}のレンタルは どうなっていますか。",
+          "choices": [
+            "{有料|ゆうりょう}である",
+            "{宿泊|しゅくはく}{客|きゃく}だけ{無料|むりょう}",
+            "{持|も}ち{込|こ}みしかできない"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "D'habitude, la location est payante ; le 26 novembre, elle était gratuite.",
+            "en": "Normally the rental costs money; on November 26 it was free."
+          }
+        },
+        {
+          "question": "{全国|ぜんこく}の{混浴|こんよく}は2021{年|ねん}に{約|やく}{何|なん}か{所|しょ}になりましたか。",
+          "choices": [
+            "{約|やく}1200か{所|しょ}",
+            "{約|やく}500か{所|しょ}",
+            "{約|やく}1600か{所|しょ}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "On est passé d'environ 1 200 bains mixtes en 1993 à environ 500 en 2021.",
+            "en": "The number fell from about 1,200 in 1993 to about 500 in 2021."
+          }
+        },
+        {
+          "question": "{酸ケ湯|すかゆ}は{誰|だれ}と{実証|じっしょう}{実験|じっけん}をしましたか。",
+          "choices": [
+            "{青森県|あおもりけん}の{学校|がっこう}",
+            "{観光|かんこう}{会社|がいしゃ}",
+            "{環境省|かんきょうしょう}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Sukayu a mené les essais avec le ministère de l'Environnement.",
+            "en": "Sukayu ran the trials with the Ministry of the Environment."
+          }
+        }
+      ]
+    },
+    "N1": {
+      "title": "「いい{風呂|ふろ}の{日|ひ}」に{湯|ゆ}あみ{着|ぎ}{無料|むりょう}{貸与|たいよ}　{酸ケ湯温泉|すかゆおんせん}、{混浴|こんよく}{文化|ぶんか}の{継承|けいしょう}へ{一石|いっせき}",
+      "paragraphs": [
+        "{語呂|ごろ}{合|あ}わせで「いい{風呂|ふろ}の{日|ひ}」にあたる26{日|にち}、{混浴|こんよく}の{伝統|でんとう}を{守|まも}り{続|つづ}ける{青森市|あおもりし}の{酸ケ湯温泉|すかゆおんせん}で、{入浴|にゅうよく}{専用|せんよう}の{湯|ゆ}あみ{着|ぎ}を{無料|むりょう}で{貸|か}し{出|だ}し、{入浴|にゅうよく}{客|きゃく}がそろって{着用|ちゃくよう}したうえで{混浴|こんよく}を{楽|たの}しむ{催|もよお}しが{開|ひら}かれた。{男性用|だんせいよう}はトランクス{型|がた}、{女性用|じょせいよう}はノースリーブのワンピース{型|がた}で、{県内外|けんないがい}からの{日帰|ひがえ}り{客|きゃく}らが{人目|ひとめ}を{気|き}にすることなく{湯|ゆ}につかった。",
+        "{八甲田|はっこうだ}{連峰|れんぽう}の{西麓|せいろく}、{標高|ひょうこう}{約|やく}900メートルに{位置|いち}する{酸ケ湯|すかゆ}は、{江戸|えど}{時代|じだい}から{続|つづ}く{湯治場|とうじば}で、1954{年|ねん}には「{国民|こくみん}{保養|ほよう}{温泉地|おんせんち}」の{第|だい}1{号|ごう}に{指定|してい}された。{名物|めいぶつ}の「ヒバ{千人風呂|せんにんぶろ}」は{総|そう}ヒバ{造|づく}り160{畳|じょう}の{混浴|こんよく}{大浴場|だいよくじょう}である。もっとも、{混浴|こんよく}は{入浴|にゅうよく}マナーをめぐる{問題|もんだい}などを{背景|はいけい}に{全国|ぜんこく}で{激減|げきげん}しており、{温泉|おんせん}{専門家|せんもんか}の{調査|ちょうさ}では1993{年|ねん}の{約|やく}1200か{所|しょ}から2021{年|ねん}には{半数|はんすう}{以下|いか}の{約|やく}500か{所|しょ}にまで{落|お}ち{込|こ}んだ。",
+        "こうした{状況|じょうきょう}を{受|う}け、{環境省|かんきょうしょう}は2021{年|ねん}、{性別|せいべつ}や{国籍|こくせき}を{問|と}わず{誰|だれ}もが{利用|りよう}しやすい{混浴|こんよく}を{目指|めざ}す「10{年|ねん}{後|ご}の{混浴|こんよく}プロジェクト」を{始動|しどう}。{酸ケ湯|すかゆ}はその{一環|いっかん}として{実証|じっしょう}{実験|じっけん}に{協力|きょうりょく}し、2024{年|ねん}5{月|がつ}から{湯|ゆ}あみ{着|ぎ}のレンタルを{本格|ほんかく}{導入|どうにゅう}した。{利用|りよう}は{現在|げんざい}{月|つき}{約|やく}1600{着|ちゃく}に{上|のぼ}るという。",
+        "{兵庫県|ひょうごけん}{芦屋市|あしやし}から{訪|おとず}れた{夫妻|ふさい}は「{混浴|こんよく}は{初|はじ}めてだったが、{湯|ゆ}あみ{着|ぎ}があって{安心|あんしん}できた。{互|たが}いにそばで{湯|ゆ}につかり、{会話|かいわ}できたのも{楽|たの}しかった」と{笑顔|えがお}を{見|み}せた。{伝統|でんとう}を{時代|じだい}に{合|あ}わせて{形|かたち}を{変|か}えながら{次|つぎ}の{世代|せだい}へ{受|う}け{継|つ}ぐ{試|こころ}みとして、{注目|ちゅうもく}を{集|あつ}めそうだ。"
+      ],
+      "vocab": [
+        {
+          "word": "{継承|けいしょう}",
+          "meaning": {
+            "fr": "transmission, succession (d'une tradition)",
+            "en": "inheritance, passing on"
+          }
+        },
+        {
+          "word": "{一石|いっせき}を{投|とう}じる",
+          "meaning": {
+            "fr": "lancer un pavé dans la mare, faire bouger les choses",
+            "en": "to make a stir, to raise an issue"
+          }
+        },
+        {
+          "word": "{湯治場|とうじば}",
+          "meaning": {
+            "fr": "station thermale de cure",
+            "en": "hot-spring health resort"
+          }
+        },
+        {
+          "word": "{激減|げきげん}",
+          "meaning": {
+            "fr": "chute brutale",
+            "en": "sharp decrease"
+          }
+        },
+        {
+          "word": "{問|と}わず",
+          "meaning": {
+            "fr": "sans distinction de",
+            "en": "regardless of"
+          }
+        },
+        {
+          "word": "{一環|いっかん}",
+          "meaning": {
+            "fr": "partie d'un ensemble, volet",
+            "en": "part (of a larger plan)"
+          }
+        },
+        {
+          "word": "{導入|どうにゅう}",
+          "meaning": {
+            "fr": "introduction, mise en place",
+            "en": "introduction, adoption"
+          }
+        },
+        {
+          "word": "{受|う}け{継|つ}ぐ",
+          "meaning": {
+            "fr": "hériter, transmettre",
+            "en": "to inherit, to carry on"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{酸ケ湯温泉|すかゆおんせん}が1954{年|ねん}に{指定|してい}されたものは{何|なん}か。",
+          "choices": [
+            "{世界|せかい}{遺産|いさん}",
+            "{国民|こくみん}{保養|ほよう}{温泉地|おんせんち}の{第|だい}1{号|ごう}",
+            "{国立|こくりつ}{公園|こうえん}の{入口|いりぐち}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "En 1954, Sukayu est devenu la toute première « station thermale nationale de repos ».",
+            "en": "In 1954 Sukayu became the very first \"national health resort hot spring\"."
+          }
+        },
+        {
+          "question": "「10{年|ねん}{後|ご}の{混浴|こんよく}プロジェクト」の{目的|もくてき}として{最|もっと}も{適切|てきせつ}なものはどれか。",
+          "choices": [
+            "{混浴|こんよく}を{全国|ぜんこく}で{廃止|はいし}すること",
+            "{外国人|がいこくじん}{専用|せんよう}の{温泉|おんせん}を{作|つく}ること",
+            "{性別|せいべつ}や{国籍|こくせき}を{問|と}わず{誰|だれ}もが{利用|りよう}しやすい{混浴|こんよく}にすること"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Le projet vise un bain mixte accessible à tous, quels que soient le sexe ou la nationalité.",
+            "en": "The project aims for mixed baths anyone can use, regardless of gender or nationality."
+          }
+        },
+        {
+          "question": "{記事|きじ}の{内容|ないよう}と{合|あ}っているものはどれか。",
+          "choices": [
+            "{湯|ゆ}あみ{着|ぎ}のレンタルは{現在|げんざい}{月|つき}{約|やく}1600{着|ちゃく}{利用|りよう}されている",
+            "{混浴|こんよく}は1993{年|ねん}から{倍増|ばいぞう}した",
+            "{湯|ゆ}あみ{着|ぎ}は{男女|だんじょ}{同|おな}じ{形|かたち}である"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Environ 1 600 tenues sont louées chaque mois ; les bains mixtes ont diminué de plus de moitié, et les modèles hommes et femmes sont différents.",
+            "en": "About 1,600 garments are rented each month; mixed baths have more than halved, and the men's and women's models differ."
+          }
+        }
+      ]
+    }
+  }
+}

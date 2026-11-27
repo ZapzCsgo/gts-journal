@@ -2,6 +2,18 @@
   "_note": "Registre des photos du Journal : une entrée par image non créée par nous (origine, auteur, licence). Le plus récent en premier. Ajouter en tête, ne jamais supprimer.",
   "images": [
     {
+      "date": "2026-11-27",
+      "file": "cover.webp",
+      "credit": "Photo : Nogiuchi / CC BY-SA 3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sukayu_Onsen_Winter.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Sukayu_Onsen_Winter.jpg",
+      "origin": "Wikimedia Commons",
+      "author": "Nogiuchi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
       "date": "2026-11-26",
       "file": "cover.webp",
       "credit": "Photo : Arne Müseler / CC BY-SA 3.0 de",
