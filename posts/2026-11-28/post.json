@@ -1,0 +1,560 @@
+{
+  "date": "2026-11-28",
+  "newsDate": "2026-11-27",
+  "category": "tech",
+  "title": "Devenir astronaute ? Le Japon recrute en 2027, et le diplôme n'est pas obligatoire !",
+  "summary": {
+    "fr": "Le 27 novembre, le ministère japonais des Sciences a annoncé que la JAXA recrutera de nouveaux astronautes à partir d'avril 2027, avec des résultats attendus à l'automne 2028. Comme la dernière fois, ni diplôme universitaire ni spécialité ne sont exigés : la Lune attend ses futurs explorateurs !",
+    "en": "On November 27, Japan's science ministry announced that JAXA will recruit new astronauts from around April 2027, with results expected in autumn 2028. As last time, no university degree or specific field is required: the Moon is waiting for its future explorers!"
+  },
+  "sources": [
+    {
+      "name": "文部科学省 (MEXT)",
+      "url": "https://www.mext.go.jp/b_menu/houdou/mext_01707.html"
+    },
+    {
+      "name": "NHK",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261127de82211"
+    }
+  ],
+  "images": [
+    {
+      "file": "cover.webp",
+      "alt": "Gros plan sur l'extérieur du module japonais Kibo de la Station spatiale internationale, avec ses panneaux et équipements, sur fond de ciel noir",
+      "caption": "Kibo, le laboratoire japonais de la Station spatiale internationale, photographié depuis la navette Endeavour en 2011.",
+      "credit": "Photo : NASA / domaine public",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:Japanese_Experiment_Module_exterior_-_cropped.jpg",
+        "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Japanese_Experiment_Module_exterior_-_cropped.jpg",
+        "origin": "Wikimedia Commons",
+        "author": "NASA",
+        "license": "Domaine public (NASA)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA"
+      }
+    }
+  ],
+  "levels": {
+    "N5": {
+      "title": "{日本|にほん}で あたらしい うちゅうひこうしを さがします",
+      "paragraphs": [
+        "{日本|にほん}の JAXAは、2027{年|ねん}の 4{月|がつ}ごろから あたらしい うちゅうひこうしを さがします。",
+        "{大学|だいがく}を でて いなくても だいじょうぶです。",
+        "まえの ときは 4127{人|にん}が しけんを うけました。うちゅうひこうしに なったのは 2{人|ふたり}です。",
+        "2030{年|ねん}ごろから、{月|つき}へ {行|い}く しごとも あります。"
+      ],
+      "vocab": [
+        {
+          "word": "うちゅうひこうし",
+          "meaning": {
+            "fr": "astronaute",
+            "en": "astronaut"
+          }
+        },
+        {
+          "word": "さがします",
+          "meaning": {
+            "fr": "chercher",
+            "en": "to look for"
+          }
+        },
+        {
+          "word": "あたらしい",
+          "meaning": {
+            "fr": "nouveau",
+            "en": "new"
+          }
+        },
+        {
+          "word": "{大学|だいがく}",
+          "meaning": {
+            "fr": "université",
+            "en": "university"
+          }
+        },
+        {
+          "word": "しけん",
+          "meaning": {
+            "fr": "examen",
+            "en": "exam"
+          }
+        },
+        {
+          "word": "{月|つき}",
+          "meaning": {
+            "fr": "la Lune",
+            "en": "the Moon"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "いつから うちゅうひこうしを さがしますか。",
+          "choices": [
+            "2027{年|ねん}4{月|がつ}ごろ",
+            "2030{年|ねん}",
+            "きょう"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Le recrutement commence vers avril 2027.",
+            "en": "Recruitment starts around April 2027."
+          }
+        },
+        {
+          "question": "{大学|だいがく}を でて いないと だめですか。",
+          "choices": [
+            "はい、だめです",
+            "いいえ、だいじょうぶです",
+            "わかりません"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Pas besoin d'être sorti de l'université.",
+            "en": "You do not need a university degree."
+          }
+        },
+        {
+          "question": "まえの とき、うちゅうひこうしに なったのは なん{人|にん}ですか。",
+          "choices": [
+            "4127{人|にん}",
+            "20{人|にん}",
+            "2{人|ふたり}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Sur 4127 candidats, seulement 2 sont devenus astronautes.",
+            "en": "Out of 4,127 applicants, only 2 became astronauts."
+          }
+        }
+      ]
+    },
+    "N4": {
+      "title": "{宇宙飛行士|うちゅうひこうし}を {新|あたら}しく {募集|ぼしゅう}します",
+      "paragraphs": [
+        "11{月|がつ}27{日|にち}、{文部科学省|もんぶかがくしょう}は、JAXAが 2027{年|ねん}4{月|がつ}ごろから {新|あたら}しい {宇宙飛行士|うちゅうひこうし}を {募集|ぼしゅう}すると {発表|はっぴょう}しました。",
+        "{大学|だいがく}を {卒業|そつぎょう}して いなくても、{何|なに}を {勉強|べんきょう}した {人|ひと}でも {申|もう}し{込|こ}むことが できます。{申|もう}し{込|こ}みは 6{月|がつ}ごろから 3か{月|げつ}ぐらいです。{試験|しけん}の {結果|けっか}は 2028{年|ねん}の {秋|あき}ごろに わかります。",
+        "{前|まえ}の {募集|ぼしゅう}では 4127{人|にん}が {申|もう}し{込|こ}みましたが、{選|えら}ばれたのは 2{人|ふたり}だけでした。これからは {月|つき}で {働|はたら}く {宇宙飛行士|うちゅうひこうし}も {必要|ひつよう}に なります。"
+      ],
+      "vocab": [
+        {
+          "word": "{宇宙飛行士|うちゅうひこうし}",
+          "meaning": {
+            "fr": "astronaute",
+            "en": "astronaut"
+          }
+        },
+        {
+          "word": "{募集|ぼしゅう}する",
+          "meaning": {
+            "fr": "recruter, lancer un appel",
+            "en": "to recruit"
+          }
+        },
+        {
+          "word": "{発表|はっぴょう}する",
+          "meaning": {
+            "fr": "annoncer",
+            "en": "to announce"
+          }
+        },
+        {
+          "word": "{卒業|そつぎょう}する",
+          "meaning": {
+            "fr": "obtenir son diplôme",
+            "en": "to graduate"
+          }
+        },
+        {
+          "word": "{申|もう}し{込|こ}む",
+          "meaning": {
+            "fr": "postuler, s'inscrire",
+            "en": "to apply"
+          }
+        },
+        {
+          "word": "{試験|しけん}",
+          "meaning": {
+            "fr": "examen",
+            "en": "exam"
+          }
+        },
+        {
+          "word": "{結果|けっか}",
+          "meaning": {
+            "fr": "résultat",
+            "en": "result"
+          }
+        },
+        {
+          "word": "{必要|ひつよう}",
+          "meaning": {
+            "fr": "nécessaire",
+            "en": "necessary"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{申|もう}し{込|こ}みは いつごろからですか。",
+          "choices": [
+            "4{月|がつ}ごろ",
+            "6{月|がつ}ごろ",
+            "{秋|あき}ごろ"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Les candidatures sont reçues à partir de juin environ, pendant 3 mois.",
+            "en": "Applications open around June, for about 3 months."
+          }
+        },
+        {
+          "question": "{前|まえ}の {募集|ぼしゅう}では、{何人|なんにん}が {申|もう}し{込|こ}みましたか。",
+          "choices": [
+            "2{人|ふたり}",
+            "963{人|にん}",
+            "4127{人|にん}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "4127 personnes avaient postulé la dernière fois.",
+            "en": "4,127 people applied last time."
+          }
+        },
+        {
+          "question": "これから {宇宙飛行士|うちゅうひこうし}は どこで {働|はたら}きますか。",
+          "choices": [
+            "{月|つき}",
+            "{海|うみ}の {中|なか}",
+            "{大学|だいがく}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Les futurs astronautes travailleront aussi sur la Lune.",
+            "en": "Future astronauts will also work on the Moon."
+          }
+        }
+      ]
+    },
+    "N3": {
+      "title": "JAXA、{来年|らいねん}4{月|がつ}ごろ {宇宙飛行士|うちゅうひこうし}を {募集|ぼしゅう}　{学歴|がくれき}は {問|と}わず",
+      "paragraphs": [
+        "{文部科学省|もんぶかがくしょう}は27{日|にち}、JAXA（{宇宙航空研究開発機構|うちゅうこうくうけんきゅうかいはつきこう}）が2027{年|ねん}4{月|がつ}ごろから{日本人|にほんじん}の{宇宙飛行士|うちゅうひこうし}を{新|あら}たに{募集|ぼしゅう}すると{発表|はっぴょう}しました。{採用|さいよう}されるのは{数人|すうにん}で、{書類|しょるい}の{受付|うけつけ}は6{月|がつ}ごろから3か{月|げつ}ほどです。{選抜試験|せんばつしけん}の{結果|けっか}は2028{年|ねん}の{秋|あき}ごろに{発表|はっぴょう}される{予定|よてい}です。",
+        "{前回|ぜんかい}と{同|おな}じように、{学歴|がくれき}や{専門|せんもん}の{分野|ぶんや}は{問|と}われません。ただし、{試験|しけん}では{大学|だいがく}を{卒業|そつぎょう}したのと{同|おな}じぐらいの{力|ちから}や、{科学|かがく}の{知識|ちしき}が{見|み}られます。{前回|ぜんかい}は4127{人|にん}が{応募|おうぼ}して、2{人|ふたり}が{選|えら}ばれました。アメリカなどが{進|すす}める「アルテミス{計画|けいかく}」で、2030{年代|ねんだい}には{月|つき}での{活動|かつどう}が{増|ふ}える{見込|みこ}みです。"
+      ],
+      "vocab": [
+        {
+          "word": "{募集|ぼしゅう}",
+          "meaning": {
+            "fr": "recrutement",
+            "en": "recruitment"
+          }
+        },
+        {
+          "word": "{学歴|がくれき}",
+          "meaning": {
+            "fr": "parcours scolaire, diplômes",
+            "en": "educational background"
+          }
+        },
+        {
+          "word": "{専門|せんもん}",
+          "meaning": {
+            "fr": "spécialité",
+            "en": "specialty"
+          }
+        },
+        {
+          "word": "{分野|ぶんや}",
+          "meaning": {
+            "fr": "domaine",
+            "en": "field"
+          }
+        },
+        {
+          "word": "{応募|おうぼ}する",
+          "meaning": {
+            "fr": "candidater",
+            "en": "to apply"
+          }
+        },
+        {
+          "word": "{選|えら}ぶ",
+          "meaning": {
+            "fr": "choisir, sélectionner",
+            "en": "to choose"
+          }
+        },
+        {
+          "word": "{知識|ちしき}",
+          "meaning": {
+            "fr": "connaissances",
+            "en": "knowledge"
+          }
+        },
+        {
+          "word": "{計画|けいかく}",
+          "meaning": {
+            "fr": "programme, projet",
+            "en": "plan, program"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{何人|なんにん}ぐらい {採用|さいよう}されますか。",
+          "choices": [
+            "{数人|すうにん}",
+            "{百人|ひゃくにん}ぐらい",
+            "4127{人|にん}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Seules quelques personnes seront retenues.",
+            "en": "Only a few people will be hired."
+          }
+        },
+        {
+          "question": "{試験|しけん}では {何|なに}が {見|み}られますか。",
+          "choices": [
+            "{英語|えいご}の{発音|はつおん}だけ",
+            "{大学|だいがく}{卒業|そつぎょう}と{同|おな}じぐらいの{力|ちから}や{科学|かがく}の{知識|ちしき}",
+            "{運転|うんてん}{免許|めんきょ}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le diplôme n'est pas exigé, mais l'examen vérifie un niveau équivalent à la licence et des bases scientifiques.",
+            "en": "No degree is required, but the exam checks a university-level ability and science knowledge."
+          }
+        },
+        {
+          "question": "「アルテミス{計画|けいかく}」で{活動|かつどう}が{増|ふ}えるのは どこですか。",
+          "choices": [
+            "{海|うみ}の{底|そこ}",
+            "{南極|なんきょく}",
+            "{月|つき}"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Avec le programme Artemis, les activités vont se multiplier sur la Lune.",
+            "en": "With the Artemis program, activities on the Moon will increase."
+          }
+        }
+      ]
+    },
+    "N2": {
+      "title": "{宇宙飛行士|うちゅうひこうし}、{約|やく}5{年半|ねんはん}ぶりに{募集|ぼしゅう}へ　{文系|ぶんけい}でも{応募|おうぼ}{可能|かのう}",
+      "paragraphs": [
+        "{文部科学省|もんぶかがくしょう}は11{月|がつ}27{日|にち}、JAXAが2027{年|ねん}4{月|がつ}をめどに{日本人|にほんじん}{宇宙飛行士|うちゅうひこうし}{候補者|こうほしゃ}の{募集|ぼしゅう}を{始|はじ}めると{発表|はっぴょう}した。{前回|ぜんかい}の{募集|ぼしゅう}は2021{年|ねん}12{月|がつ}から{翌年|よくねん}3{月|がつ}にかけて{行|おこな}われており、{約|やく}5{年半|ねんはん}ぶりとなる。{応募|おうぼ}を{考|かんが}えている{人|ひと}が{準備|じゅんび}の{時間|じかん}を{十分|じゅうぶん}に{取|と}れるよう、{早|はや}めに{予告|よこく}したという。",
+        "{採用|さいよう}は{若干名|じゃっかんめい}で、{書類|しょるい}の{受付|うけつけ}は6{月|がつ}ごろから{約|やく}3か{月|げつ}。{選抜|せんばつ}の{結果|けっか}は2028{年|ねん}{秋|あき}ごろに{発表|はっぴょう}される{見通|みとお}しだ。{応募|おうぼ}{資格|しかく}は{前回|ぜんかい}と{同様|どうよう}、{学歴|がくれき}も{専門分野|せんもんぶんや}も{問|と}わないため、{文系|ぶんけい}の{人|ひと}でも{挑戦|ちょうせん}できる。",
+        "2008{年|ねん}の{募集|ぼしゅう}では、4{年制|ねんせい}{大学|だいがく}を{卒業|そつぎょう}した{自然科学系|しぜんかがくけい}の{人|ひと}に{限|かぎ}られていた。{条件|じょうけん}が{緩|ゆる}められた{前回|ぜんかい}は、{応募者|おうぼしゃ}が963{人|にん}から4127{人|にん}へと{大幅|おおはば}に{増|ふ}え、{最終的|さいしゅうてき}に2{人|ふたり}が{選|えら}ばれた。{今回|こんかい}{選|えら}ばれる{人|ひと}は、2030{年代|ねんだい}の{月面探査|げつめんたんさ}などでの{活躍|かつやく}が{期待|きたい}されている。"
+      ],
+      "vocab": [
+        {
+          "word": "{候補者|こうほしゃ}",
+          "meaning": {
+            "fr": "candidat",
+            "en": "candidate"
+          }
+        },
+        {
+          "word": "{予告|よこく}する",
+          "meaning": {
+            "fr": "annoncer à l'avance",
+            "en": "to give advance notice"
+          }
+        },
+        {
+          "word": "{若干名|じゃっかんめい}",
+          "meaning": {
+            "fr": "quelques personnes",
+            "en": "a small number of people"
+          }
+        },
+        {
+          "word": "{資格|しかく}",
+          "meaning": {
+            "fr": "conditions requises",
+            "en": "qualification"
+          }
+        },
+        {
+          "word": "{同様|どうよう}",
+          "meaning": {
+            "fr": "de la même manière",
+            "en": "likewise"
+          }
+        },
+        {
+          "word": "{文系|ぶんけい}",
+          "meaning": {
+            "fr": "filière littéraire",
+            "en": "humanities track"
+          }
+        },
+        {
+          "word": "{挑戦|ちょうせん}する",
+          "meaning": {
+            "fr": "relever le défi, tenter",
+            "en": "to take on a challenge"
+          }
+        },
+        {
+          "word": "{緩|ゆる}める",
+          "meaning": {
+            "fr": "assouplir",
+            "en": "to relax, loosen"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{前回|ぜんかい}の{募集|ぼしゅう}から{何年|なんねん}ぶりですか。",
+          "choices": [
+            "{約|やく}2{年|ねん}",
+            "{約|やく}5{年半|ねんはん}",
+            "{約|やく}20{年|ねん}"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Le dernier recrutement date de 2021-2022, soit environ 5 ans et demi.",
+            "en": "The last recruitment was in 2021-2022, about five and a half years ago."
+          }
+        },
+        {
+          "question": "なぜ{早|はや}めに{予告|よこく}したのですか。",
+          "choices": [
+            "{応募者|おうぼしゃ}が{準備|じゅんび}の{時間|じかん}を{十分|じゅうぶん}に{取|と}れるように",
+            "{応募者|おうぼしゃ}を{減|へ}らすため",
+            "{試験|しけん}を{早|はや}く{終|お}わらせるため"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "L'annonce est faite tôt pour laisser aux candidats le temps de se préparer.",
+            "en": "It was announced early so applicants have enough time to prepare."
+          }
+        },
+        {
+          "question": "2008{年|ねん}の{募集|ぼしゅう}の{条件|じょうけん}はどうでしたか。",
+          "choices": [
+            "{誰|だれ}でも{応募|おうぼ}できた",
+            "{文系|ぶんけい}だけだった",
+            "{自然科学系|しぜんかがくけい}の{大学|だいがく}{卒業者|そつぎょうしゃ}に{限|かぎ}られていた"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "En 2008, il fallait un diplôme universitaire de 4 ans en sciences.",
+            "en": "In 2008, applicants needed a four-year science degree."
+          }
+        }
+      ]
+    },
+    "N1": {
+      "title": "{有人宇宙活動|ゆうじんうちゅうかつどう}の{舞台|ぶたい}は{月面|げつめん}へ　JAXA、{学歴不問|がくれきふもん}で{飛行士|ひこうし}{候補|こうほ}を{公募|こうぼ}",
+      "paragraphs": [
+        "{文部科学省|もんぶかがくしょう}は27{日|にち}、{宇宙航空研究開発機構|うちゅうこうくうけんきゅうかいはつきこう}（JAXA）が2027{年|ねん}4{月|がつ}をめどに{日本人|にほんじん}{宇宙飛行士|うちゅうひこうし}{候補者|こうほしゃ}の{募集|ぼしゅう}を{開始|かいし}すると{発表|はっぴょう}した。2021～22{年|ねん}に{実施|じっし}した{前回|ぜんかい}以来、{約|やく}5{年半|ねんはん}ぶりの{公募|こうぼ}となる。{応募者|おうぼしゃ}の{準備期間|じゅんびきかん}を{考慮|こうりょ}し、{募集|ぼしゅう}に{先立|さきだ}って{予告|よこく}に{踏|ふ}み{切|き}った{形|かたち}だ。",
+        "{採用人数|さいようにんずう}は{若干名|じゃっかんめい}。{募集要項|ぼしゅうようこう}の{公表|こうひょう}後、6{月|がつ}ごろから{約|やく}3か{月|げつ}にわたって{書類|しょるい}を{受|う}け{付|つ}け、{選抜試験|せんばつしけん}を{経|へ}て2028{年|ねん}{秋|あき}ごろに{結果|けっか}を{発表|はっぴょう}する。{応募資格|おうぼしかく}は{前回|ぜんかい}を{踏襲|とうしゅう}し、{学歴|がくれき}や{専門性|せんもんせい}は{不問|ふもん}とする{方針|ほうしん}だ。もっとも、{選抜|せんばつ}の{過程|かてい}では4{年制|ねんせい}{大学|だいがく}{卒業|そつぎょう}{相当|そうとう}の{能力|のうりょく}や{自然科学|しぜんかがく}の{素養|そよう}が{評価|ひょうか}される。{詳細|しょうさい}はJAXAが{今後|こんご}{詰|つ}める。",
+        "{門戸|もんこ}を{広|ひろ}げた{効果|こうか}は{数字|すうじ}にも{表|あらわ}れている。{自然科学系|しぜんかがくけい}の{大卒者|だいそつしゃ}に{限定|げんてい}していた2008{年|ねん}の{募集|ぼしゅう}には963{人|にん}が{応募|おうぼ}したのに{対|たい}し、{条件|じょうけん}を{緩和|かんわ}した{前回|ぜんかい}は4127{人|にん}が{名乗|なの}りを{上|あ}げ、{最終的|さいしゅうてき}に{諏訪理|すわまこと}さんと{米田|よねだ}あゆさんの2{人|ふたり}が{候補者|こうほしゃ}に{選|えら}ばれた。",
+        "{背景|はいけい}には、{米国|べいこく}{主導|しゅどう}の「アルテミス{計画|けいかく}」の{進展|しんてん}に{伴|ともな}い、{有人宇宙活動|ゆうじんうちゅうかつどう}の{舞台|ぶたい}が{国際宇宙|こくさいうちゅう}ステーションなどの{地球低軌道|ちきゅうていきどう}から{月面|げつめん}へと{広|ひろ}がりつつあることがある。{飛行士|ひこうし}の{育成|いくせい}には{相応|そうおう}の{年月|ねんげつ}を{要|よう}するため、{現役世代|げんえきせだい}から{技術|ぎじゅつ}や{知見|ちけん}を{受|う}け{継|つ}ぎつつ、2030{年代|ねんだい}の{月面探査|げつめんたんさ}を{担|にな}う{人材|じんざい}を{計画的|けいかくてき}に{育|そだ}てる{狙|ねら}いだ。"
+      ],
+      "vocab": [
+        {
+          "word": "{公募|こうぼ}",
+          "meaning": {
+            "fr": "appel public à candidatures",
+            "en": "open recruitment"
+          }
+        },
+        {
+          "word": "{踏襲|とうしゅう}する",
+          "meaning": {
+            "fr": "reprendre à l'identique",
+            "en": "to follow (a precedent)"
+          }
+        },
+        {
+          "word": "{不問|ふもん}",
+          "meaning": {
+            "fr": "non exigé, sans condition",
+            "en": "not required, regardless of"
+          }
+        },
+        {
+          "word": "{素養|そよう}",
+          "meaning": {
+            "fr": "bagage, bases solides",
+            "en": "grounding, background knowledge"
+          }
+        },
+        {
+          "word": "{門戸|もんこ}を{広|ひろ}げる",
+          "meaning": {
+            "fr": "ouvrir plus largement les portes",
+            "en": "to open the doors wider"
+          }
+        },
+        {
+          "word": "{緩和|かんわ}する",
+          "meaning": {
+            "fr": "assouplir",
+            "en": "to ease, relax"
+          }
+        },
+        {
+          "word": "{育成|いくせい}",
+          "meaning": {
+            "fr": "formation (de personnes)",
+            "en": "training, development"
+          }
+        },
+        {
+          "word": "{担|にな}う",
+          "meaning": {
+            "fr": "assumer, porter (une mission)",
+            "en": "to bear, take on"
+          }
+        }
+      ],
+      "quiz": [
+        {
+          "question": "{学歴不問|がくれきふもん}でも、{選抜|せんばつ}で{評価|ひょうか}されるのは{何|なに}か。",
+          "choices": [
+            "4{年制|ねんせい}{大学|だいがく}{卒業|そつぎょう}{相当|そうとう}の{能力|のうりょく}と{自然科学|しぜんかがく}の{素養|そよう}",
+            "{出身大学|しゅっしんだいがく}の{知名度|ちめいど}",
+            "{宇宙|うちゅう}での{勤務経験|きんむけいけん}"
+          ],
+          "answer": 0,
+          "explain": {
+            "fr": "Le diplôme n'est pas exigé, mais il faut prouver un niveau licence et des bases en sciences.",
+            "en": "No degree is required, but candidates must show university-level ability and a science grounding."
+          }
+        },
+        {
+          "question": "{応募資格|おうぼしかく}の{緩和|かんわ}で、{応募者数|おうぼしゃすう}はどう{変|か}わったか。",
+          "choices": [
+            "4127{人|にん}から963{人|にん}に{減|へ}った",
+            "963{人|にん}から4127{人|にん}に{増|ふ}えた",
+            "ほとんど{変|か}わらなかった"
+          ],
+          "answer": 1,
+          "explain": {
+            "fr": "Les candidatures sont passées de 963 (2008) à 4127 (2021-2022).",
+            "en": "Applications rose from 963 (2008) to 4,127 (2021-2022)."
+          }
+        },
+        {
+          "question": "{今回|こんかい}の{募集|ぼしゅう}の{背景|はいけい}として{挙|あ}げられているのは{何|なに}か。",
+          "choices": [
+            "{国際宇宙|こくさいうちゅう}ステーションの{運用終了|うんようしゅうりょう}が{決|き}まったこと",
+            "{飛行士|ひこうし}の{数|かず}が{多|おお}すぎること",
+            "{有人宇宙活動|ゆうじんうちゅうかつどう}の{舞台|ぶたい}が{月面|げつめん}へ{広|ひろ}がりつつあること"
+          ],
+          "answer": 2,
+          "explain": {
+            "fr": "Avec Artemis, les missions habitées s'étendent de l'orbite terrestre à la Lune.",
+            "en": "With Artemis, crewed missions are expanding from low Earth orbit to the Moon."
+          }
+        }
+      ]
+    }
+  }
+}

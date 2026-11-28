@@ -2,6 +2,18 @@
   "_note": "Registre des photos du Journal : une entrée par image non créée par nous (origine, auteur, licence). Le plus récent en premier. Ajouter en tête, ne jamais supprimer.",
   "images": [
     {
+      "date": "2026-11-28",
+      "file": "cover.webp",
+      "credit": "Photo : NASA / domaine public",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_Experiment_Module_exterior_-_cropped.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Japanese_Experiment_Module_exterior_-_cropped.jpg",
+      "origin": "Wikimedia Commons",
+      "author": "NASA",
+      "license": "Domaine public (NASA)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-USGov-NASA",
+      "modifications": "recadrage 16:9, redimensionnement, conversion WebP"
+    },
+    {
       "date": "2026-11-27",
       "file": "cover.webp",
       "credit": "Photo : Nogiuchi / CC BY-SA 3.0",

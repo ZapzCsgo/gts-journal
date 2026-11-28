@@ -1,6 +1,12 @@
 {
   "posts": [
     {
+      "date": "2026-11-28",
+      "title": "Devenir astronaute ? Le Japon recrute en 2027, et le diplôme n'est pas obligatoire !",
+      "category": "tech",
+      "cover": "cover.webp"
+    },
+    {
       "date": "2026-11-27",
       "title": "« Jour du bon bain » : à Aomori, tout le monde au grand bain en tenue de bain !",
       "category": "culture",
